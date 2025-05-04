@@ -1,0 +1,1928 @@
+{
+    "title": "Data Communication",
+    "questions": [
+        {
+            "id": "dc1",
+            "text": "What is the process of adding control information called as header information to user data?",
+            "options": [
+                {"id": "a", "text": "Data Encapsulation"},
+                {"id": "b", "text": "Data manipulation"},
+                {"id": "c", "text": "Data encryption"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc2",
+            "text": "What is used by devices to resolve/get the MAC address?",
+            "options": [
+                {"id": "a", "text": "Address Resolution Protocol"},
+                {"id": "b", "text": "Address resource protocol"},
+                {"id": "c", "text": "Application resolution protocol"},
+                {"id": "d", "text": "None of them"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc3",
+            "text": "What is used between end systems and the multicast router to establish multicast group memberships and allow network to direct multicast transmissions only to hosts that have requested them?",
+            "options": [
+                {"id": "a", "text": "Internet Group Management Protocol (IGMP)"},
+                {"id": "b", "text": "Internet Control Message Protocol (ICMP)"},
+                {"id": "c", "text": "Both of the above"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc4",
+            "text": "Which protocol is used to determine whether or not data is reaching its intended destination in a timely manner?",
+            "options": [
+                {"id": "a", "text": "Internet Group Management Protocol (IGMP)"},
+                {"id": "b", "text": "Internet Control Message Protocol (ICMP)"},
+                {"id": "c", "text": "Both of the above"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc5",
+            "text": "Secure Shell is a type of protocol that enables two computers to communicate and share data?",
+            "options": [
+                {"id": "a", "text": "Network communication protocol"},
+                {"id": "b", "text": "Network monitoring protocol"},
+                {"id": "c", "text": "Application protocol"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc6",
+            "text": "What are routing protocols listed below?",
+            "options": [
+                {"id": "a", "text": "RIP, OSPF, EIGRP, BGP"},
+                {"id": "b", "text": "HTTP, HTTPS"},
+                {"id": "c", "text": "TCP, UDP"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc7",
+            "text": "Which application protocol used on the Internet to establish a bidirectional interactive, text-oriented communication facility using a virtual terminal connection?",
+            "options": [
+                {"id": "a", "text": "Telnet"},
+                {"id": "b", "text": "Putty"},
+                {"id": "c", "text": "Remote terminal"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc8",
+            "text": "Examples of Data Link WAN specifications are:",
+            "options": [
+                {"id": "a", "text": "Frame Relay & PPP"},
+                {"id": "b", "text": "TokenRing"},
+                {"id": "c", "text": "Ethernet"},
+                {"id": "d", "text": "FDDI"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc9",
+            "text": "Data Link layer consists of two sub-layers, what are they?",
+            "options": [
+                {"id": "a", "text": "MAC & LLC"},
+                {"id": "b", "text": "MAC & LCC"},
+                {"id": "c", "text": "MAC & PPP"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc10",
+            "text": "Which layer in OSI reference model provides reliable connection oriented and unreliable connectionless services also maintains flow control of data and provides error checking and recovery of data?",
+            "options": [
+                {"id": "a", "text": "Datalink layer"},
+                {"id": "b", "text": "Session layer"},
+                {"id": "c", "text": "Transport layer"},
+                {"id": "d", "text": "Network layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc11",
+            "text": "IPv4 & IPv6 are examples of which protocols?",
+            "options": [
+                {"id": "a", "text": "Routed"},
+                {"id": "b", "text": "Routing"},
+                {"id": "c", "text": "BGP"},
+                {"id": "d", "text": "OSPF"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc12",
+            "text": "In HTTPS, the communication protocol is encrypted using?",
+            "options": [
+                {"id": "a", "text": "Transport layer security"},
+                {"id": "b", "text": "RS-232"},
+                {"id": "c", "text": "Secure hashing algorithm"},
+                {"id": "d", "text": "Advanced encryption service"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc13",
+            "text": "HTTP is a protocol?",
+            "options": [
+                {"id": "a", "text": "Pull"},
+                {"id": "b", "text": "Push"},
+                {"id": "c", "text": "Pop"},
+                {"id": "d", "text": "Swap"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc14",
+            "text": "Routed protocols are used to encapsulate data into?",
+            "options": [
+                {"id": "a", "text": "Packets"},
+                {"id": "b", "text": "Segments"},
+                {"id": "c", "text": "Frames"},
+                {"id": "d", "text": "Marc"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc15",
+            "text": "Gateways operate in which layer?",
+            "options": [
+                {"id": "a", "text": "Application"},
+                {"id": "b", "text": "Network"},
+                {"id": "c", "text": "Transport"},
+                {"id": "d", "text": "Data link layer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc16",
+            "text": "Segment is a protocol data unit of which layer?",
+            "options": [
+                {"id": "a", "text": "Transport"},
+                {"id": "b", "text": "Network"},
+                {"id": "c", "text": "Data link layer"},
+                {"id": "d", "text": "Session"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc17",
+            "text": "A layer in the OSI model communicates with how many other layers?",
+            "options": [
+                {"id": "a", "text": "Three"},
+                {"id": "b", "text": "Two"},
+                {"id": "c", "text": "Four"},
+                {"id": "d", "text": "One"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc18",
+            "text": "Flow control and windowing is done by which OSI layer?",
+            "options": [
+                {"id": "a", "text": "Transport"},
+                {"id": "b", "text": "Network"},
+                {"id": "c", "text": "Data link layer"},
+                {"id": "d", "text": "Presentation"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc19",
+            "text": "FTP is a layer protocol?",
+            "options": [
+                {"id": "a", "text": "Application"},
+                {"id": "b", "text": "Session"},
+                {"id": "c", "text": "Presentation"},
+                {"id": "d", "text": "Transport"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc20",
+            "text": "Routing and routed protocol reside on which layer?",
+            "options": [
+                {"id": "a", "text": "Network"},
+                {"id": "b", "text": "Transport"},
+                {"id": "c", "text": "Data link layer"},
+                {"id": "d", "text": "Session"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc21",
+            "text": "Which of the following is a WAN specification?",
+            "options": [
+                {"id": "a", "text": "Ethernet"},
+                {"id": "b", "text": "BRI"},
+                {"id": "c", "text": "FAST Ethernet"},
+                {"id": "d", "text": "FDDI"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc22",
+            "text": "Bridges and switches operate at which layer?",
+            "options": [
+                {"id": "a", "text": "Data link layer"},
+                {"id": "b", "text": "Physical layer"},
+                {"id": "c", "text": "Network layer"},
+                {"id": "d", "text": "Transport layer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc23",
+            "text": "What is the process of adding control information called as header information to user data?",
+            "options": [
+                {"id": "a", "text": "Data encryption"},
+                {"id": "b", "text": "Watermarking"},
+                {"id": "c", "text": "Data encapsulation"},
+                {"id": "d", "text": "Cryptography"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc24",
+            "text": "Routing process and logical addressing are handled at which layer?",
+            "options": [
+                {"id": "a", "text": "Transport layer"},
+                {"id": "b", "text": "Data link layer"},
+                {"id": "c", "text": "Network layer"},
+                {"id": "d", "text": "Session layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc25",
+            "text": "Which layer negotiates communication mode like simple/half duplex/full duplex?",
+            "options": [
+                {"id": "a", "text": "Presentation layer"},
+                {"id": "b", "text": "Application layer"},
+                {"id": "c", "text": "Session layer"},
+                {"id": "d", "text": "Transport layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc26",
+            "text": "SNMP is a layer protocol?",
+            "options": [
+                {"id": "a", "text": "Presentation layer"},
+                {"id": "b", "text": "Transport layer"},
+                {"id": "c", "text": "Application layer"},
+                {"id": "d", "text": "Network layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc27",
+            "text": "Example of a routing protocol is?",
+            "options": [
+                {"id": "a", "text": "ZIP"},
+                {"id": "b", "text": "Apple Talk"},
+                {"id": "c", "text": "BGP"},
+                {"id": "d", "text": "UDP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc28",
+            "text": "Example of a session layer protocol is?",
+            "options": [
+                {"id": "a", "text": "SCTP"},
+                {"id": "b", "text": "RSVP"},
+                {"id": "c", "text": "SQL"},
+                {"id": "d", "text": "TCP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc29",
+            "text": "Which layer provides error detection and recovery?",
+            "options": [
+                {"id": "a", "text": "Transport layer"},
+                {"id": "b", "text": "Network layer"},
+                {"id": "c", "text": "Datalink layer"},
+                {"id": "d", "text": "Session layer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc30",
+            "text": "Which layer converts frames to bits?",
+            "options": [
+                {"id": "a", "text": "Data link layer"},
+                {"id": "b", "text": "Physical layer"},
+                {"id": "c", "text": "Network layer"},
+                {"id": "d", "text": "Transport layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc31",
+            "text": "Transport layer converts?",
+            "options": [
+                {"id": "a", "text": "Data to segments"},
+                {"id": "b", "text": "Segments to packets"},
+                {"id": "c", "text": "Frames to data"},
+                {"id": "d", "text": "Packets to segments"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc32",
+            "text": "Which among is not a basic element involved in layer services?",
+            "options": [
+                {"id": "a", "text": "The service user"},
+                {"id": "b", "text": "The service provider"},
+                {"id": "c", "text": "The service access point"},
+                {"id": "d", "text": "The service software"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc33",
+            "text": "Which among is not a protocol present in application layer?",
+            "options": [
+                {"id": "a", "text": "SSH"},
+                {"id": "b", "text": "SMTP"},
+                {"id": "c", "text": "SNMP"},
+                {"id": "d", "text": "MPEG"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc34",
+            "text": "Which is not a WAN specification of physical layer?",
+            "options": [
+                {"id": "a", "text": "HSSI"},
+                {"id": "b", "text": "FDDI"},
+                {"id": "c", "text": "V.24"},
+                {"id": "d", "text": "BRI"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc35",
+            "text": "Data link layer converts?",
+            "options": [
+                {"id": "a", "text": "Packet to frames"},
+                {"id": "b", "text": "Bits to frames"},
+                {"id": "c", "text": "Packet to segments"},
+                {"id": "d", "text": "Bits to segments"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc36",
+            "text": "Physical layer converts?",
+            "options": [
+                {"id": "a", "text": "Frames to bits"},
+                {"id": "b", "text": "Frames to packets"},
+                {"id": "c", "text": "Data to segments"},
+                {"id": "d", "text": "Packets to segments"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc37",
+            "text": "ASCII belongs to which layer in OSI model?",
+            "options": [
+                {"id": "a", "text": "Application layer"},
+                {"id": "b", "text": "Presentation layer"},
+                {"id": "c", "text": "Datalink layer"},
+                {"id": "d", "text": "Network layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc38",
+            "text": "Which protocol belongs to session layer?",
+            "options": [
+                {"id": "a", "text": "Session Initiation Protocol"},
+                {"id": "b", "text": "SSH"},
+                {"id": "c", "text": "Zone Information Protocol"},
+                {"id": "d", "text": "SCTP"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc39",
+            "text": "Which is an example of network layer routed protocol?",
+            "options": [
+                {"id": "a", "text": "Apple Talk"},
+                {"id": "b", "text": "RIP"},
+                {"id": "c", "text": "SIP"},
+                {"id": "d", "text": "OSPF"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc40",
+            "text": "Network layer converts?",
+            "options": [
+                {"id": "a", "text": "Segments to packets"},
+                {"id": "b", "text": "Frames to bits"},
+                {"id": "c", "text": "Packets to frames"},
+                {"id": "d", "text": "Segments to data"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc41",
+            "text": "ISO stands for?",
+            "options": [
+                {"id": "a", "text": "Indian Standard Organization"},
+                {"id": "b", "text": "International Standard Organization"},
+                {"id": "c", "text": "Internet Service Organization"},
+                {"id": "d", "text": "International Organization for Standardization"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc42",
+            "text": "Which is the third layer in OSI reference model?",
+            "options": [
+                {"id": "a", "text": "Data Link Layer"},
+                {"id": "b", "text": "Session Layer"},
+                {"id": "c", "text": "Network Layer"},
+                {"id": "d", "text": "Transport Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc43",
+            "text": "During Data Encapsulation process, Data Link Layer's function is to convert?",
+            "options": [
+                {"id": "a", "text": "FRAMES to BITS"},
+                {"id": "b", "text": "SEGMENTS to PACKETS"},
+                {"id": "c", "text": "PACKETS to FRAMES"},
+                {"id": "d", "text": "DATA to SEGMENTS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc44",
+            "text": "Network layer protocols that are responsible for exchanging information between routers so that the routers can select the proper path for network traffic?",
+            "options": [
+                {"id": "a", "text": "Network Protocols"},
+                {"id": "b", "text": "Routed Protocols"},
+                {"id": "c", "text": "Routing Protocols"},
+                {"id": "d", "text": "LAN Protocols"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc45",
+            "text": "Which layer provides coding and conversion functions?",
+            "options": [
+                {"id": "a", "text": "Physical Layer"},
+                {"id": "b", "text": "Presentation Layer"},
+                {"id": "c", "text": "Transport Layer"},
+                {"id": "d", "text": "Network Layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc46",
+            "text": "Dialog Control between devices occurs on which layer?",
+            "options": [
+                {"id": "a", "text": "Presentation Layer"},
+                {"id": "b", "text": "Session Layer"},
+                {"id": "c", "text": "Data Link Layer"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc47",
+            "text": "Which layer provides error detection and recovery?",
+            "options": [
+                {"id": "a", "text": "Data Link Layer"},
+                {"id": "b", "text": "Session Layer"},
+                {"id": "c", "text": "Network Layer"},
+                {"id": "d", "text": "Transport Layer"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc48",
+            "text": "Which protocols are used to encapsulate data into packets?",
+            "options": [
+                {"id": "a", "text": "File Transfer Protocols"},
+                {"id": "b", "text": "Transport Layer"},
+                {"id": "c", "text": "Routing Protocols"},
+                {"id": "d", "text": "Routed Protocols"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc49",
+            "text": "Which one of these is not a Routing Protocol?",
+            "options": [
+                {"id": "a", "text": "OSPF"},
+                {"id": "b", "text": "EIGRP"},
+                {"id": "c", "text": "IP"},
+                {"id": "d", "text": "BGP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc50",
+            "text": "Which one of these is not a WAN specification?",
+            "options": [
+                {"id": "a", "text": "HSSI"},
+                {"id": "b", "text": "FDDI"},
+                {"id": "c", "text": "BRI"},
+                {"id": "d", "text": "SLIP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc51",
+            "text": "TCP/IP model was developed by?",
+            "options": [
+                {"id": "a", "text": "ARPANET"},
+                {"id": "b", "text": "ARPNET"},
+                {"id": "c", "text": "Bell Laboratories"},
+                {"id": "d", "text": "ARAPNET"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc52",
+            "text": "Which statement is correct about OSI and TCP/IP models?",
+            "options": [
+                {"id": "a", "text": "I is correct"},
+                {"id": "b", "text": "I and II are correct"},
+                {"id": "c", "text": "I, II, III are correct"},
+                {"id": "d", "text": "II and III are correct"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc53",
+            "text": "TCP/IP model consists of how many layers?",
+            "options": [
+                {"id": "a", "text": "3 layers"},
+                {"id": "b", "text": "3/4 layers"},
+                {"id": "c", "text": "4/5 layers"},
+                {"id": "d", "text": "5 layers"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc54",
+            "text": "Which statement is correct about TCP/IP and OSI models?",
+            "options": [
+                {"id": "a", "text": "All statements are correct"},
+                {"id": "b", "text": "All statements are wrong"},
+                {"id": "c", "text": "I and II are correct"},
+                {"id": "d", "text": "I and III are correct"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc55",
+            "text": "OSI model is protocol independent. Yes or No?",
+            "options": [
+                {"id": "a", "text": "Yes"},
+                {"id": "b", "text": "No"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc56",
+            "text": "Which statement is wrong about OSI and TCP/IP network layer services?",
+            "options": [
+                {"id": "a", "text": "All statements are correct"},
+                {"id": "b", "text": "All statements are wrong"},
+                {"id": "c", "text": "I is wrong and II is correct"},
+                {"id": "d", "text": "I is correct and II is wrong"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc57",
+            "text": "Bandwidth of Fast Ethernet is?",
+            "options": [
+                {"id": "a", "text": "100 Mbps"},
+                {"id": "b", "text": "1000 Mbps"},
+                {"id": "c", "text": "10 Mbps"},
+                {"id": "d", "text": "500 Mbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc58",
+            "text": "OSI model has been developed by?",
+            "options": [
+                {"id": "a", "text": "ISO"},
+                {"id": "b", "text": "ETU"},
+                {"id": "c", "text": "ISSO"},
+                {"id": "d", "text": "ITU"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc59",
+            "text": "UDP stands for?",
+            "options": [
+                {"id": "a", "text": "User Datagram Protocol"},
+                {"id": "b", "text": "User Diagram Protocol"},
+                {"id": "c", "text": "User Data Protocol"},
+                {"id": "d", "text": "User Defined Protocol"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc60",
+            "text": "TCP is a?",
+            "options": [
+                {"id": "a", "text": "Full-duplex"},
+                {"id": "b", "text": "Half-duplex"},
+                {"id": "c", "text": "Simplex"},
+                {"id": "d", "text": "Simple"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc61",
+            "text": "The process of adding control information called header information to user data is called?",
+            "options": [
+                {"id": "a", "text": "Data hiding"},
+                {"id": "b", "text": "Data encapsulation"},
+                {"id": "c", "text": "Data overloading"},
+                {"id": "d", "text": "Polymorphism"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc62",
+            "text": "The PDUs (Protocol Data Units) of Transport layer are?",
+            "options": [
+                {"id": "a", "text": "Frames"},
+                {"id": "b", "text": "Bits"},
+                {"id": "c", "text": "Packets"},
+                {"id": "d", "text": "Segments"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc63",
+            "text": "An example for application layer protocol?",
+            "options": [
+                {"id": "a", "text": "Resource Reservation Protocol"},
+                {"id": "b", "text": "Session Initiation Protocol"},
+                {"id": "c", "text": "Transmission Control Protocol"},
+                {"id": "d", "text": "Zone Information Protocol"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc64",
+            "text": "Which layer defines coding and conversion functions?",
+            "options": [
+                {"id": "a", "text": "Application layer"},
+                {"id": "b", "text": "Presentation layer"},
+                {"id": "c", "text": "Data Link Layer"},
+                {"id": "d", "text": "Session Layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc65",
+            "text": "Which of the following is not true?",
+            "options": [
+                {"id": "a", "text": "TCP/IP is an implemented model of an OSI model"},
+                {"id": "b", "text": "OSI model is highly used than TCP/IP model"},
+                {"id": "c", "text": "TCP/IP model is highly used model"},
+                {"id": "d", "text": "OSI model is based on a vertical approach"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc66",
+            "text": "Which protocol is used for one-to-many networking applications such as online streaming and video gaming?",
+            "options": [
+                {"id": "a", "text": "Telnet"},
+                {"id": "b", "text": "SNMP"},
+                {"id": "c", "text": "ICMP"},
+                {"id": "d", "text": "IGMP"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc67",
+            "text": "Which of the following is not a WAN specification?",
+            "options": [
+                {"id": "a", "text": "HSSI"},
+                {"id": "b", "text": "SLIP"},
+                {"id": "c", "text": "RS-232"},
+                {"id": "d", "text": "FDDI"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc68",
+            "text": "Routing process and logical addressing are handled by which layer?",
+            "options": [
+                {"id": "a", "text": "Transport layer"},
+                {"id": "b", "text": "Network layer"},
+                {"id": "c", "text": "Data Link layer"},
+                {"id": "d", "text": "Session layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc69",
+            "text": "Which is an example for network layer routed protocol?",
+            "options": [
+                {"id": "a", "text": "NFS"},
+                {"id": "b", "text": "AppleTalk"},
+                {"id": "c", "text": "RPC"},
+                {"id": "d", "text": "ZIP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc70",
+            "text": "What is the limitation of Telnet?",
+            "options": [
+                {"id": "a", "text": "Telnet is used for remote monitoring purpose"},
+                {"id": "b", "text": "Telnet is a bidirectional interactive protocol"},
+                {"id": "c", "text": "Telnet is a virtual terminal connection"},
+                {"id": "d", "text": "Telnet exchanges user data and credentials as plain text"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc71",
+            "text": "What is a numeric identifier assigned to each machine on an IP network?",
+            "options": [
+                {"id": "a", "text": "Network address"},
+                {"id": "b", "text": "Broadcast address"},
+                {"id": "c", "text": "IP address"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc72",
+            "text": "IPv4 is how many bits address?",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "64"},
+                {"id": "d", "text": "128"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc73",
+            "text": "APIPA stands for?",
+            "options": [
+                {"id": "a", "text": "Automatic Private IP Addressing"},
+                {"id": "b", "text": "Automatic public IP addressing"},
+                {"id": "c", "text": "Automatic provider IP addressing"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc74",
+            "text": "The host bits of network address contains all?",
+            "options": [
+                {"id": "a", "text": "1's"},
+                {"id": "b", "text": "0's"},
+                {"id": "c", "text": "a and b"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc75",
+            "text": "IP address range reserved for loop back is?",
+            "options": [
+                {"id": "a", "text": "126.0.0.0-126.255.255.255"},
+                {"id": "b", "text": "127.0.0.0-127.255.255.255"},
+                {"id": "c", "text": "192.0.0.0-192.255.255.255"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc76",
+            "text": "Class A networks provide only how many bits for the network address field?",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "24"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc77",
+            "text": "In which of the following subnetting, all subnets have equal number of host address and use same subnet mask?",
+            "options": [
+                {"id": "a", "text": "VLSM"},
+                {"id": "b", "text": "FLSM"},
+                {"id": "c", "text": "CIDR"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc78",
+            "text": "CIDR stands for?",
+            "options": [
+                {"id": "a", "text": "Class full inter-Domain Routing"},
+                {"id": "b", "text": "Class less inter-Domain Routing"},
+                {"id": "c", "text": "Class full intra-Domain Routing"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc79",
+            "text": "Total number of networks in class A address?",
+            "options": [
+                {"id": "a", "text": "127"},
+                {"id": "b", "text": "128"},
+                {"id": "c", "text": "126"},
+                {"id": "d", "text": "192"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc80",
+            "text": "VLSM stands for?",
+            "options": [
+                {"id": "a", "text": "Very large subnet masking"},
+                {"id": "b", "text": "Valuable length subnet masking"},
+                {"id": "c", "text": "Variable length subnet masking"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc81",
+            "text": "IP provides error reporting and fragmentation and reassembly of information units called what for transmission over networks?",
+            "options": [
+                {"id": "a", "text": "Frames"},
+                {"id": "b", "text": "Packets"},
+                {"id": "c", "text": "Datagram"},
+                {"id": "d", "text": "Blocks"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc82",
+            "text": "IP is the primary protocol in the Internet suite at which layer?",
+            "options": [
+                {"id": "a", "text": "Primary layer 1"},
+                {"id": "b", "text": "Primary layer 2"},
+                {"id": "c", "text": "Primary layer 3"},
+                {"id": "d", "text": "Primary layer 4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc83",
+            "text": "Identify the fields given in the IP address from left to right?",
+            "options": [
+                {"id": "a", "text": "Network bits, Subnet bits, Host bits"},
+                {"id": "b", "text": "Subnet bits, Network bits, Host bits"},
+                {"id": "c", "text": "Host bits, Network bits, Subnet bits"},
+                {"id": "d", "text": "Host bits, Subnet bits, Network bits"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc84",
+            "text": "Total number of IPv4 available?",
+            "options": [
+                {"id": "a", "text": "4194304"},
+                {"id": "b", "text": "4,294,967,296"},
+                {"id": "c", "text": "1073741824"},
+                {"id": "d", "text": "268435456"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc85",
+            "text": "What refers to a special address that is used to target all systems on a specific subnet/network instead of single hosts?",
+            "options": [
+                {"id": "a", "text": "Network Address"},
+                {"id": "b", "text": "Broadcast Address"},
+                {"id": "c", "text": "Loop back IP Address"},
+                {"id": "d", "text": "Pinging address"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc86",
+            "text": "Number of Netid bits for Class A, Class B & Class C IP address are?",
+            "options": [
+                {"id": "a", "text": "24, 16, 8"},
+                {"id": "b", "text": "16, 24, 8"},
+                {"id": "c", "text": "24, 8, 16"},
+                {"id": "d", "text": "8, 16, 24"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc87",
+            "text": "Which class of IP addresses are also called as '/16s' IP addresses?",
+            "options": [
+                {"id": "a", "text": "Class A"},
+                {"id": "b", "text": "Class B"},
+                {"id": "c", "text": "Class C"},
+                {"id": "d", "text": "Class D"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc88",
+            "text": "Which class of IP addresses have start IP 192.0.0.0 and end IP 223.255.255.255?",
+            "options": [
+                {"id": "a", "text": "Class A"},
+                {"id": "b", "text": "Class B"},
+                {"id": "c", "text": "Class C"},
+                {"id": "d", "text": "Class D"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc89",
+            "text": "CIDR stands for?",
+            "options": [
+                {"id": "a", "text": "Class Inter-Domain Routing"},
+                {"id": "b", "text": "Classless Inter-Domain Routing"},
+                {"id": "c", "text": "Class Intra-Domain Routing"},
+                {"id": "d", "text": "Classless Intrar-Domain Routing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc90",
+            "text": "VLSM stands for?",
+            "options": [
+                {"id": "a", "text": "Versatile-length subnet masking"},
+                {"id": "b", "text": "Vagary length subnet masking"},
+                {"id": "c", "text": "Visual-length subnet masking"},
+                {"id": "d", "text": "Variable-length subnet masking"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc91",
+            "text": "IPv4 consists of how many bits?",
+            "options": [
+                {"id": "a", "text": "48"},
+                {"id": "b", "text": "24"},
+                {"id": "c", "text": "32"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc92",
+            "text": "Special address that is used to target all systems on a specific subnet is?",
+            "options": [
+                {"id": "a", "text": "Loop back IP"},
+                {"id": "b", "text": "Broadcast IP"},
+                {"id": "c", "text": "System IP"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc93",
+            "text": "APIPA stands for?",
+            "options": [
+                {"id": "a", "text": "Automatic public IP Addressing"},
+                {"id": "b", "text": "Automatic private IP Addressing"},
+                {"id": "c", "text": "Advanced program IP Address"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc94",
+            "text": "In which class of IP the number of bits for Network and Host are 16 bit and 16 bit respectively?",
+            "options": [
+                {"id": "a", "text": "Class A"},
+                {"id": "b", "text": "Class B"},
+                {"id": "c", "text": "Class 16"},
+                {"id": "d", "text": "Class C"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc95",
+            "text": "The process of dividing a large IP network into smaller IP networks is called?",
+            "options": [
+                {"id": "a", "text": "IP Division"},
+                {"id": "b", "text": "IP Subnetting"},
+                {"id": "c", "text": "IP Segmentation"},
+                {"id": "d", "text": "IP split"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc96",
+            "text": "Which one is wrong about Fixed Length Subnet Masking?",
+            "options": [
+                {"id": "a", "text": "Divides network into smaller subnets of equal size"},
+                {"id": "b", "text": "All subnets can accommodate equal number of hosts"},
+                {"id": "c", "text": "All subnets use the same subnet"},
+                {"id": "d", "text": "All statements are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc97",
+            "text": "IP range reserved for loopback is?",
+            "options": [
+                {"id": "a", "text": "127.0.0.0 to 127.255.255.255"},
+                {"id": "b", "text": "169.0.0.0 to 169.255.255.255"},
+                {"id": "c", "text": "192.0.0.0 to 192.168.1.1"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc98",
+            "text": "Class D addresses are used for?",
+            "options": [
+                {"id": "a", "text": "Research purpose"},
+                {"id": "b", "text": "Very large networks"},
+                {"id": "c", "text": "Multicast purpose"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc99",
+            "text": "Class C subnet mask is?",
+            "options": [
+                {"id": "a", "text": "255.0.0.0"},
+                {"id": "b", "text": "255.255.0.0"},
+                {"id": "c", "text": "255.255.255.0"},
+                {"id": "d", "text": "255.255.255.248"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc100",
+            "text": "The number of IPs available in IPv4 is?",
+            "options": [
+                {"id": "a", "text": "32"},
+                {"id": "b", "text": "1024"},
+                {"id": "c", "text": "2^42"},
+                {"id": "d", "text": "2^32"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc101",
+            "text": "IP is the primary layer protocol in the internet suite?",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2"},
+                {"id": "c", "text": "3"},
+                {"id": "d", "text": "4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc102",
+            "text": "IP addresses are globally unique, how many bit numbers?",
+            "options": [
+                {"id": "a", "text": "24"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "64"},
+                {"id": "d", "text": "16"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc103",
+            "text": "First part of the IP address designates?",
+            "options": [
+                {"id": "a", "text": "Subnet address"},
+                {"id": "b", "text": "Host address"},
+                {"id": "c", "text": "Network address"},
+                {"id": "d", "text": "Supernet address"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc104",
+            "text": "APIPA stands for?",
+            "options": [
+                {"id": "a", "text": "Automatic private IP addressing"},
+                {"id": "b", "text": "Automatic procedure for internet protocol addressing"},
+                {"id": "c", "text": "Automatic procedure for IP accessing"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc105",
+            "text": "Range of IP address reserved for loopback?",
+            "options": [
+                {"id": "a", "text": "127.0.0.0 to 127.0.255.255"},
+                {"id": "b", "text": "127.0.0.0 to 127.255.255.255"},
+                {"id": "c", "text": "127.0.0.0 to 127.0.0.255"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc106",
+            "text": "IP address range for APIPA is?",
+            "options": [
+                {"id": "a", "text": "169.254.0.1 to 169.254.255.254"},
+                {"id": "b", "text": "192.168.1.1 to 192.168.1.100"},
+                {"id": "c", "text": "127.254.0.1 to 127.254.255.254"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc107",
+            "text": "IP address refers to current network?",
+            "options": [
+                {"id": "a", "text": "0.0.0.0/8"},
+                {"id": "b", "text": "0.0.0.0/0"},
+                {"id": "c", "text": "8.8.8.8/8"},
+                {"id": "d", "text": "1.1.1.1/8"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc108",
+            "text": "Class C networks allocate how many bits for the network address field?",
+            "options": [
+                {"id": "a", "text": "8"},
+                {"id": "b", "text": "16"},
+                {"id": "c", "text": "24"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc109",
+            "text": "All subnets have equal number of host addresses and use same subnet mask is called which type of subnetting?",
+            "options": [
+                {"id": "a", "text": "VLSM"},
+                {"id": "b", "text": "FLSM"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc110",
+            "text": "What reduces route flapping and eases the local administrative burden of updating external routing information?",
+            "options": [
+                {"id": "a", "text": "Subnetting"},
+                {"id": "b", "text": "Supernetting"},
+                {"id": "c", "text": "Domain routing"},
+                {"id": "d", "text": "Subnet masking"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc111",
+            "text": "The number of IPs available in IPv4 is?",
+            "options": [
+                {"id": "a", "text": "32"},
+                {"id": "b", "text": "1024"},
+                {"id": "c", "text": "2^32"},
+                {"id": "d", "text": "2^64"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc112",
+            "text": "APIPA stands for?",
+            "options": [
+                {"id": "a", "text": "Autonomous Private IP Addressing"},
+                {"id": "b", "text": "Automatic public IP Addressing"},
+                {"id": "c", "text": "Automatic Private IP Addressing"},
+                {"id": "d", "text": "Autonomous Public IP Addressing"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc113",
+            "text": "Class A networks provide how many bits for the network address field?",
+            "options": [
+                {"id": "a", "text": "32"},
+                {"id": "b", "text": "64"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "128"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc114",
+            "text": "Class B networks provide how many bits for the network address field?",
+            "options": [
+                {"id": "a", "text": "32"},
+                {"id": "b", "text": "24"},
+                {"id": "c", "text": "16"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc115",
+            "text": "Class C networks provide how many bits for the network address field?",
+            "options": [
+                {"id": "a", "text": "8"},
+                {"id": "b", "text": "16"},
+                {"id": "c", "text": "24"},
+                {"id": "d", "text": "128"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc116",
+            "text": "Class D addresses are used for?",
+            "options": [
+                {"id": "a", "text": "Research purpose"},
+                {"id": "b", "text": "Very large networks"},
+                {"id": "c", "text": "Multicast purpose"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc117",
+            "text": "Class E addresses are used for?",
+            "options": [
+                {"id": "a", "text": "Multicast purpose"},
+                {"id": "b", "text": "Very large networks"},
+                {"id": "c", "text": "Research purpose"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc118",
+            "text": "Class A subnet mask is?",
+            "options": [
+                {"id": "a", "text": "255.255.255.0"},
+                {"id": "b", "text": "255.255.0.0"},
+                {"id": "c", "text": "255.0.0.0"},
+                {"id": "d", "text": "255.255.255.248"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc119",
+            "text": "Class B subnet mask is?",
+            "options": [
+                {"id": "a", "text": "255.255.255.0"},
+                {"id": "b", "text": "255.0.0.0"},
+                {"id": "c", "text": "255.255.0.0"},
+                {"id": "d", "text": "255.255.255.248"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc120",
+            "text": "Class C subnet mask is?",
+            "options": [
+                {"id": "a", "text": "255.0.0.0"},
+                {"id": "b", "text": "255.255.0.0"},
+                {"id": "c", "text": "255.255.255.0"},
+                {"id": "d", "text": "255.255.255.248"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc121",
+            "text": "Which one of these is not a class of IP addresses?",
+            "options": [
+                {"id": "a", "text": "Class A"},
+                {"id": "b", "text": "Class B"},
+                {"id": "c", "text": "Class E"},
+                {"id": "d", "text": "Class F"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc122",
+            "text": "What is the purpose of IP Addresses?",
+            "options": [
+                {"id": "a", "text": "A unique identifier for a computer"},
+                {"id": "b", "text": "A unique location identifier"},
+                {"id": "c", "text": "A network location identifier"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc123",
+            "text": "The addresses of Class A, Class B, Class C are?",
+            "options": [
+                {"id": "a", "text": "Reserved"},
+                {"id": "b", "text": "Multicast"},
+                {"id": "c", "text": "Unicast"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc124",
+            "text": "How many bits are in version 6 IP address?",
+            "options": [
+                {"id": "a", "text": "64"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "128"},
+                {"id": "d", "text": "66"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc125",
+            "text": "How many versions of IP addresses are there?",
+            "options": [
+                {"id": "a", "text": "3 versions"},
+                {"id": "b", "text": "2 versions"},
+                {"id": "c", "text": "1 version"},
+                {"id": "d", "text": "4 versions"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc126",
+            "text": "What is the usable size of network bits in Class B IP Addresses?",
+            "options": [
+                {"id": "a", "text": "12"},
+                {"id": "b", "text": "13"},
+                {"id": "c", "text": "14"},
+                {"id": "d", "text": "16"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc127",
+            "text": "Select the bits from where Class D addressing starts?",
+            "options": [
+                {"id": "a", "text": "0"},
+                {"id": "b", "text": "10"},
+                {"id": "c", "text": "110"},
+                {"id": "d", "text": "1110"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc128",
+            "text": "Which of the following represents the last address of IP address?",
+            "options": [
+                {"id": "a", "text": "Unicast address"},
+                {"id": "b", "text": "Broadcast address"},
+                {"id": "c", "text": "Network Address"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc129",
+            "text": "What is the name of notation used in IP Addressing?",
+            "options": [
+                {"id": "a", "text": "Dot"},
+                {"id": "b", "text": "Decimal"},
+                {"id": "c", "text": "Dotted decimal"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc130",
+            "text": "The full form of IP in IP Address is?",
+            "options": [
+                {"id": "a", "text": "Internet provider address"},
+                {"id": "b", "text": "Internet protocol address"},
+                {"id": "c", "text": "Internet processing address"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc131",
+            "text": "Number of bits in IPv4 is?",
+            "options": [
+                {"id": "a", "text": "32"},
+                {"id": "b", "text": "42"},
+                {"id": "c", "text": "128"},
+                {"id": "d", "text": "16"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc132",
+            "text": "An IP address is divided into how many parts?",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "4"},
+                {"id": "d", "text": "1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc133",
+            "text": "Hardware address is encoded in which card?",
+            "options": [
+                {"id": "a", "text": "PIC"},
+                {"id": "b", "text": "NIC"},
+                {"id": "c", "text": "CPU"},
+                {"id": "d", "text": "KEYBOARD"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc134",
+            "text": "Broadcast address contains all what in the host bits?",
+            "options": [
+                {"id": "a", "text": "0"},
+                {"id": "b", "text": "2"},
+                {"id": "c", "text": "1"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc135",
+            "text": "The host bits of network address contains all?",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "0"},
+                {"id": "c", "text": "2"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc136",
+            "text": "The IP address range reserved for loopback is?",
+            "options": [
+                {"id": "a", "text": "127.0.0.0-127.255.255.255"},
+                {"id": "b", "text": "169.254.0.1-169.0.255.254"},
+                {"id": "c", "text": "192.168.0.0-192.168.255.255"},
+                {"id": "d", "text": "10.0.0.0-10.255.255.255"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc137",
+            "text": "APIPA stands for?",
+            "options": [
+                {"id": "a", "text": "Automatic private IP addressing"},
+                {"id": "b", "text": "Automatic public IP addressing"},
+                {"id": "c", "text": "Auto partial in IP assigning"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc138",
+            "text": "What is reserved for limited broadcast destination address?",
+            "options": [
+                {"id": "a", "text": "0.0.0.0"},
+                {"id": "b", "text": "255.255.255.0"},
+                {"id": "c", "text": "255.255.255.255"},
+                {"id": "d", "text": "0.0.0.1"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc139",
+            "text": "IP address range of APIPA is?",
+            "options": [
+                {"id": "a", "text": "169.254.0.1-169.254.255.254"},
+                {"id": "b", "text": "172.0.0.0-172.255.255.255"},
+                {"id": "c", "text": "127.0.0.0-127.255.255.255"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc140",
+            "text": "Class D and Class E IP addresses are used for what?",
+            "options": [
+                {"id": "a", "text": "Multicast, research"},
+                {"id": "b", "text": "Loopback, private allocation"},
+                {"id": "c", "text": "Scientific, broadcast"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc141",
+            "text": "IP address 127.0.0.1 is used for?",
+            "options": [
+                {"id": "a", "text": "Loopback address"},
+                {"id": "b", "text": "Broadcast address"},
+                {"id": "c", "text": "Multicast address"},
+                {"id": "d", "text": "APIPA"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc142",
+            "text": "Total bytes for IPv4 header?",
+            "options": [
+                {"id": "a", "text": "40"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "20"},
+                {"id": "d", "text": "24"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc143",
+            "text": "Broadcast address of network 117.231.49.32/29?",
+            "options": [
+                {"id": "a", "text": "117.231.49.39"},
+                {"id": "b", "text": "117.231.49.255"},
+                {"id": "c", "text": "255.255.255.255"},
+                {"id": "d", "text": "117.231.49.33"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc144",
+            "text": "A feature in operating systems which enables devices to self-configure an IP address and subnet mask automatically when their DHCP server isn't reachable?",
+            "options": [
+                {"id": "a", "text": "Loopback"},
+                {"id": "b", "text": "Stateless DHCP"},
+                {"id": "c", "text": "Stateful DHCP"},
+                {"id": "d", "text": "APIPA"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc145",
+            "text": "Total number of networks in Classful Class A?",
+            "options": [
+                {"id": "a", "text": "128"},
+                {"id": "b", "text": "127"},
+                {"id": "c", "text": "126"},
+                {"id": "d", "text": "125"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc146",
+            "text": "Subnetting divides a network into smaller subnets of equal size?",
+            "options": [
+                {"id": "a", "text": "VLSM"},
+                {"id": "b", "text": "BLSM"},
+                {"id": "c", "text": "FLSM"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc147",
+            "text": "Which of the following IP address is private IP?",
+            "options": [
+                {"id": "a", "text": "192.161.0.1"},
+                {"id": "b", "text": "100.23.100.2"},
+                {"id": "c", "text": "172.12.13.24"},
+                {"id": "d", "text": "172.24.13.12"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc148",
+            "text": "IP address 169.254.0.1 is?",
+            "options": [
+                {"id": "a", "text": "Loopback address"},
+                {"id": "b", "text": "APIPA"},
+                {"id": "c", "text": "Multicast address"},
+                {"id": "d", "text": "APRIC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc149",
+            "text": "IP address 224.0.0.5 is?",
+            "options": [
+                {"id": "a", "text": "Multicast address"},
+                {"id": "b", "text": "Broadcast address"},
+                {"id": "c", "text": "Loopback address"},
+                {"id": "d", "text": "APIPA"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc150",
+            "text": "After supernetting the routes 10.10.73.0/24 and 10.10.23.0/21 advertised as?",
+            "options": [
+                {"id": "a", "text": "10.10.22.0/21"},
+                {"id": "b", "text": "10.10.0.0/16"},
+                {"id": "c", "text": "10.0.0.0/24"},
+                {"id": "d", "text": "10.10.0.0/21"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc151",
+            "text": "Length of IPv6 address?",
+            "options": [
+                {"id": "a", "text": "32 bit"},
+                {"id": "b", "text": "64 bit"},
+                {"id": "c", "text": "128 bit"},
+                {"id": "d", "text": "256 bit"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc152",
+            "text": "IPv6 header is as large as the IPv4 header?",
+            "options": [
+                {"id": "a", "text": "Twice"},
+                {"id": "b", "text": "Same"},
+                {"id": "c", "text": "Thrice"},
+                {"id": "d", "text": "Quadruple"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc153",
+            "text": "Neighbor Discovery protocol for IPv6 is?",
+            "options": [
+                {"id": "a", "text": "ICMP v4"},
+                {"id": "b", "text": "ARP"},
+                {"id": "c", "text": "RARP"},
+                {"id": "d", "text": "ICMP v6"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc154",
+            "text": "Which of the following is false regarding IPv6?",
+            "options": [
+                {"id": "a", "text": "IPsec support is required"},
+                {"id": "b", "text": "Fragmentation is not done by routers, only by the sending host"},
+                {"id": "c", "text": "Broadcast addresses are used to send traffic to all nodes on a subnet"},
+                {"id": "d", "text": "Does not require manual configuration or DHCP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc155",
+            "text": "IPv6 header size is?",
+            "options": [
+                {"id": "a", "text": "20 bytes"},
+                {"id": "b", "text": "40 bytes"},
+                {"id": "c", "text": "60 bytes"},
+                {"id": "d", "text": "80 bytes"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc156",
+            "text": "IPv6 loopback address is?",
+            "options": [
+                {"id": "a", "text": "127::1"},
+                {"id": "b", "text": "::1"},
+                {"id": "c", "text": "FFFF::1"},
+                {"id": "d", "text": "128::1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc157",
+            "text": "Maximum size of IPv6 extension header?",
+            "options": [
+                {"id": "a", "text": "20 bytes"},
+                {"id": "b", "text": "40 bytes"},
+                {"id": "c", "text": "60 bytes"},
+                {"id": "d", "text": "No maximum size"}
+            ],
+            "correctAnswer": "d
+        },
+        {
+            "id": "dc158",
+            "text": "Which protocol replaces ARP in IPv6?",
+            "options": [
+                {"id": "a", "text": "ICMPv6"},
+                {"id": "b", "text": "RARP"},
+                {"id": "c", "text": "DHCPv6"},
+                {"id": "d", "text": "IGMP"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc159",
+            "text": "IPv6 addresses are represented in which notation?",
+            "options": [
+                {"id": "a", "text": "Dotted decimal"},
+                {"id": "b", "text": "Hexadecimal"},
+                {"id": "c", "text": "Binary"},
+                {"id": "d", "text": "Octal"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc160",
+            "text": "What is the purpose of the IPv6 link-local address?",
+            "options": [
+                {"id": "a", "text": "Global communication"},
+                {"id": "b", "text": "Communication within a single network segment"},
+                {"id": "c", "text": "Multicast routing"},
+                {"id": "d", "text": "Loopback testing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc161",
+            "text": "The IPv6 address prefix for link-local addresses is?",
+            "options": [
+                {"id": "a", "text": "FE80::/10"},
+                {"id": "b", "text": "2000::/3"},
+                {"id": "c", "text": "FF00::/8"},
+                {"id": "d", "text": "::/128"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc162",
+            "text": "Which of the following is a valid IPv6 address?",
+            "options": [
+                {"id": "a", "text": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"},
+                {"id": "b", "text": "192.168.1.1"},
+                {"id": "c", "text": "2001:0db8:85a3::8a2e:0370:7334:12345"},
+                {"id": "d", "text": "2001:0db8:85a3:0000:0000:8a2e:0370"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc163",
+            "text": "IPv6 supports which type of autoconfiguration?",
+            "options": [
+                {"id": "a", "text": "Stateful only"},
+                {"id": "b", "text": "Stateless only"},
+                {"id": "c", "text": "Both stateful and stateless"},
+                {"id": "d", "text": "Neither stateful nor stateless"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc164",
+            "text": "Which IPv6 address type is used for one-to-nearest communication?",
+            "options": [
+                {"id": "a", "text": "Unicast"},
+                {"id": "b", "text": "Multicast"},
+                {"id": "c", "text": "Anycast"},
+                {"id": "d", "text": "Broadcast"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc165",
+            "text": "What is the scope of an IPv6 global unicast address?",
+            "options": [
+                {"id": "a", "text": "Single network segment"},
+                {"id": "b", "text": "Local site only"},
+                {"id": "c", "text": "Worldwide"},
+                {"id": "d", "text": "Single device"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc166",
+            "text": "Which protocol is used for IPv6 neighbor discovery?",
+            "options": [
+                {"id": "a", "text": "ARP"},
+                {"id": "b", "text": "ICMPv6"},
+                {"id": "c", "text": "IGMP"},
+                {"id": "d", "text": "RARP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc167",
+            "text": "The IPv6 address ::/0 represents?",
+            "options": [
+                {"id": "a", "text": "Default route"},
+                {"id": "b", "text": "Loopback address"},
+                {"id": "c", "text": "Multicast address"},
+                {"id": "d", "text": "Link-local address"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc168",
+            "text": "Which of the following is NOT a feature of IPv6?",
+            "options": [
+                {"id": "a", "text": "Larger address space"},
+                {"id": "b", "text": "Simplified header format"},
+                {"id": "c", "text": "Mandatory IPsec support"},
+                {"id": "d", "text": "Use of broadcast addresses"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc169",
+            "text": "IPv6 multicast addresses start with which prefix?",
+            "options": [
+                {"id": "a", "text": "FE80::/10"},
+                {"id": "b", "text": "FF00::/8"},
+                {"id": "c", "text": "2000::/3"},
+                {"id": "d", "text": "::/128"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc170",
+            "text": "Which mechanism in IPv6 eliminates the need for NAT?",
+            "options": [
+                {"id": "a", "text": "Smaller address space"},
+                {"id": "b", "text": "Larger address space"},
+                {"id": "c", "text": "Use of broadcast"},
+                {"id": "d", "text": "Simplified routing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc171",
+            "text": "What is the minimum length of an IPv6 header?",
+            "options": [
+                {"id": "a", "text": "20 bytes"},
+                {"id": "b", "text": "40 bytes"},
+                {"id": "c", "text": "60 bytes"},
+                {"id": "d", "text": "80 bytes"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc172",
+            "text": "Which IPv6 address type is equivalent to an IPv4 private address?",
+            "options": [
+                {"id": "a", "text": "Global unicast"},
+                {"id": "b", "text": "Link-local"},
+                {"id": "c", "text": "Unique local"},
+                {"id": "d", "text": "Multicast"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc173",
+            "text": "The prefix for IPv6 unique local addresses is?",
+            "options": [
+                {"id": "a", "text": "FC00::/7"},
+                {"id": "b", "text": "FE80::/10"},
+                {"id": "c", "text": "FF00::/8"},
+                {"id": "d", "text": "2000::/3"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc174",
+            "text": "Which IPv6 feature improves routing efficiency?",
+            "options": [
+                {"id": "a", "text": "Use of broadcast"},
+                {"id": "b", "text": "Simplified header"},
+                {"id": "c", "text": "Smaller address space"},
+                {"id": "d", "text": "Fragmentation by routers"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc175",
+            "text": "Which protocol is used for dynamic address allocation in IPv6?",
+            "options": [
+                {"id": "a", "text": "ARP"},
+                {"id": "b", "text": "DHCPv6"},
+                {"id": "c", "text": "RARP"},
+                {"id": "d", "text": "ICMPv6"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
