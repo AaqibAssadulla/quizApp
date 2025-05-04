@@ -1,0 +1,1103 @@
+{
+    "title": "JTO Phase I Induction Training Data Communication II Questions",
+    "questions": [
+        {
+            "id": "dc1",
+            "text": "Which was the System Integrator for ERP Implementation in BSNL?",
+            "options": [
+                {"id": "a", "text": "M/s HCL"},
+                {"id": "b", "text": "M/s SAP"},
+                {"id": "c", "text": "M/s E & Y"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc2",
+            "text": "Which was the Software Solution Provider for ERP Implementation in BSNL?",
+            "options": [
+                {"id": "a", "text": "M/s HCL"},
+                {"id": "b", "text": "M/s SAP"},
+                {"id": "c", "text": "M/s E & Y"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc3",
+            "text": "Which was the BPR consultant for ERP Implementation in BSNL?",
+            "options": [
+                {"id": "a", "text": "M/s HCL"},
+                {"id": "b", "text": "M/s SAP"},
+                {"id": "c", "text": "M/s E & Y"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc4",
+            "text": "Which SAP Modules is used for Execution & Monitoring of Capital Project works of various business lines?",
+            "options": [
+                {"id": "a", "text": "PM Module"},
+                {"id": "b", "text": "PS Module"},
+                {"id": "c", "text": "MM Module"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc5",
+            "text": "Which SAP Modules is used for Planned & Unplanned Maintenance of various technical objects?",
+            "options": [
+                {"id": "a", "text": "PM Module"},
+                {"id": "b", "text": "PS Module"},
+                {"id": "c", "text": "MM Module"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc6",
+            "text": "Which SAP Modules is used for Real Estate and Telecom Infrastructure management?",
+            "options": [
+                {"id": "a", "text": "PM Module"},
+                {"id": "b", "text": "PS Module"},
+                {"id": "c", "text": "REM Module"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc7",
+            "text": "Where is the Primary Data Centre of ERP Located?",
+            "options": [
+                {"id": "a", "text": "Kolkata"},
+                {"id": "b", "text": "Hyderabad"},
+                {"id": "c", "text": "Chandigarh"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc8",
+            "text": "Which is a valid option for executing Transaction Code in SAP?",
+            "options": [
+                {"id": "a", "text": "Position the cursor on the required transaction in the tree structure and press enter"},
+                {"id": "b", "text": "Double-click on the required transaction in the tree structure"},
+                {"id": "c", "text": "Expand the command field and enter the transaction code"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc9",
+            "text": "What will happen if a transaction code is preceded with /O?",
+            "options": [
+                {"id": "a", "text": "The next transaction screen opened in the current session"},
+                {"id": "b", "text": "An additional session is opened for the transaction"},
+                {"id": "c", "text": "No Change"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc10",
+            "text": "What is the full form of T-Code?",
+            "options": [
+                {"id": "a", "text": "Transaction Code"},
+                {"id": "b", "text": "Translation Code"},
+                {"id": "c", "text": "Transition Code"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc11",
+            "text": "ESS portal is a part of",
+            "options": [
+                {"id": "a", "text": "ERP"},
+                {"id": "b", "text": "CRM"},
+                {"id": "c", "text": "Management Information System"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc12",
+            "text": "Employee Self Service is used to provide a single integrated platform and real-time access for employees to",
+            "options": [
+                {"id": "a", "text": "Access Personal & Pay Data information"},
+                {"id": "b", "text": "View Salary Statement, Salary Summary, GPF/EPF Ledger, Form-16"},
+                {"id": "c", "text": "Submit Leave Application / Leave Cancellation Request & Joining Reports"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc13",
+            "text": "ESS portal can be accessible from",
+            "options": [
+                {"id": "a", "text": "Intranet"},
+                {"id": "b", "text": "Internet"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "Only from a secure network"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc14",
+            "text": "Universal Work-list in the ESS Portal is used to",
+            "options": [
+                {"id": "a", "text": "Apply personal claim"},
+                {"id": "b", "text": "Approve/Reject personal claim"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc15",
+            "text": "ESS portal user ID is digit long",
+            "options": [
+                {"id": "a", "text": "7"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "9"},
+                {"id": "d", "text": "10"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc16",
+            "text": "Which of the following can be modified through ESS portal?",
+            "options": [
+                {"id": "a", "text": "Personal data"},
+                {"id": "b", "text": "Payment related data"},
+                {"id": "c", "text": "Appointment related data"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc17",
+            "text": "Address, Email-id and Mobile number can be modified through ESS portal.",
+            "options": [
+                {"id": "a", "text": "True"},
+                {"id": "b", "text": "False"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc18",
+            "text": "A user can cancel his / her unapproved leaves him/her self.",
+            "options": [
+                {"id": "a", "text": "Prior to commencement of leaves"},
+                {"id": "b", "text": "After avail of the leave"},
+                {"id": "c", "text": "Any time"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc19",
+            "text": "Which of the following type of leave can not be applied through ESS portal?",
+            "options": [
+                {"id": "a", "text": "Maternity / Paternity"},
+                {"id": "b", "text": "Special Casual"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc20",
+            "text": "Manager Self Service is used to manage",
+            "options": [
+                {"id": "a", "text": "Looking after arrangement"},
+                {"id": "b", "text": "Maintenance of Issuance & surrender of Service connection"},
+                {"id": "c", "text": "View the leave details of sub-ordinates"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc21",
+            "text": "Which of the following represents Functional Units of BSNL in SAP HCM Module?",
+            "options": [
+                {"id": "a", "text": "Organisational Unit"},
+                {"id": "b", "text": "Position"},
+                {"id": "c", "text": "Work Centre"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc22",
+            "text": "Which is used to Specify individual placements or assignments within an organizational unit?",
+            "options": [
+                {"id": "a", "text": "Organisational Unit"},
+                {"id": "b", "text": "Position"},
+                {"id": "c", "text": "Work Centre"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc23",
+            "text": "Which is a part of HCM Module?",
+            "options": [
+                {"id": "a", "text": "OM"},
+                {"id": "b", "text": "PA"},
+                {"id": "c", "text": "TA"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc24",
+            "text": "Which T-Code is used to maintain HR data of existing employees?",
+            "options": [
+                {"id": "a", "text": "PA20"},
+                {"id": "b", "text": "PA30"},
+                {"id": "c", "text": "PA40"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc25",
+            "text": "Which T-Code is used to create HR data of new employees?",
+            "options": [
+                {"id": "a", "text": "PA20"},
+                {"id": "b", "text": "PA30"},
+                {"id": "c", "text": "PA40"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc26",
+            "text": "Which T-Code is used to view Organizational Hierarchy in HCM?",
+            "options": [
+                {"id": "a", "text": "POSE"},
+                {"id": "b", "text": "PA30"},
+                {"id": "c", "text": "PPOSE"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc27",
+            "text": "Which T-Code is used to Maintain Organizational unit in HCM?",
+            "options": [
+                {"id": "a", "text": "PO10"},
+                {"id": "b", "text": "P013"},
+                {"id": "c", "text": "PA30"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc28",
+            "text": "Which T-Code is used to Maintain Position in HCM?",
+            "options": [
+                {"id": "a", "text": "PO10"},
+                {"id": "b", "text": "P013"},
+                {"id": "c", "text": "PA30"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc29",
+            "text": "Organisational Assignment of an employee can be viewed under which Info Type in PA30?",
+            "options": [
+                {"id": "a", "text": "IT001"},
+                {"id": "b", "text": "IT005"},
+                {"id": "c", "text": "IT004"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc30",
+            "text": "Which infotype to be maintained in PO13 for lookafter arrangement?",
+            "options": [
+                {"id": "a", "text": "Relationship"},
+                {"id": "b", "text": "Object"},
+                {"id": "c", "text": "Description"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc31",
+            "text": "What is the t-code for creating notification?",
+            "options": [
+                {"id": "a", "text": "IH01"},
+                {"id": "b", "text": "IH32"},
+                {"id": "c", "text": "IW21"},
+                {"id": "d", "text": "IW22"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc32",
+            "text": "What is the t-code for changing notification?",
+            "options": [
+                {"id": "a", "text": "IH01"},
+                {"id": "b", "text": "IH32"},
+                {"id": "c", "text": "IW31"},
+                {"id": "d", "text": "IW22"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc33",
+            "text": "What is the t-code for creating Maintenance Order?",
+            "options": [
+                {"id": "a", "text": "IH01"},
+                {"id": "b", "text": "IH32"},
+                {"id": "c", "text": "IW31"},
+                {"id": "d", "text": "IW22"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc34",
+            "text": "What is the t-code for changing Maintenance Order?",
+            "options": [
+                {"id": "a", "text": "IH01"},
+                {"id": "b", "text": "IW32"},
+                {"id": "c", "text": "IW31"},
+                {"id": "d", "text": "IW22"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc35",
+            "text": "To close a notification one must the notification..",
+            "options": [
+                {"id": "a", "text": "VEND"},
+                {"id": "b", "text": "ASGD"},
+                {"id": "c", "text": "AKGD"},
+                {"id": "d", "text": "CNFR"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc36",
+            "text": "In catalog data tab under notification process one must enter value of before closing of Breakdown notification.",
+            "options": [
+                {"id": "a", "text": "Object tab"},
+                {"id": "b", "text": "Cause tab"},
+                {"id": "c", "text": "Activities tab"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc37",
+            "text": "For external service mtce order one should select control key code in operation tab",
+            "options": [
+                {"id": "a", "text": "PM01"},
+                {"id": "b", "text": "PM02"},
+                {"id": "c", "text": "PM03"},
+                {"id": "d", "text": "PM04"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc38",
+            "text": "For breakdown notification the code is",
+            "options": [
+                {"id": "a", "text": "B1"},
+                {"id": "b", "text": "B2"},
+                {"id": "c", "text": "B3"},
+                {"id": "d", "text": "B4"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc39",
+            "text": "For Priority 'MAJOR', such jobs can be attended within",
+            "options": [
+                {"id": "a", "text": "4 hrs"},
+                {"id": "b", "text": "6 hrs"},
+                {"id": "c", "text": "24 hrs"},
+                {"id": "d", "text": "12 hrs"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc40",
+            "text": "User Status 'Assigned' is set by",
+            "options": [
+                {"id": "a", "text": "Initiator"},
+                {"id": "b", "text": "Person responsible"},
+                {"id": "c", "text": "vendor"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc41",
+            "text": "Which is a model of the project that organizes Project tasks into a hierarchy?",
+            "options": [
+                {"id": "a", "text": "PD"},
+                {"id": "b", "text": "WBS"},
+                {"id": "c", "text": "Network"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc42",
+            "text": "What is the full form of WBS?",
+            "options": [
+                {"id": "a", "text": "Work breakdown System"},
+                {"id": "b", "text": "Work Breakdown structure"},
+                {"id": "c", "text": "Work Based System"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc43",
+            "text": "Which T-Code is used to create PD in PS Module of SAP?",
+            "options": [
+                {"id": "a", "text": "CV01N"},
+                {"id": "b", "text": "CJ02"},
+                {"id": "c", "text": "CJ01"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc44",
+            "text": "Which T-Code is used to create WBS in PS Module of SAP?",
+            "options": [
+                {"id": "a", "text": "CV01N"},
+                {"id": "b", "text": "CJ02"},
+                {"id": "c", "text": "CJ01"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc45",
+            "text": "Which T-Code is used to create and assign survey document of Project?",
+            "options": [
+                {"id": "a", "text": "CV01N"},
+                {"id": "b", "text": "CJ02"},
+                {"id": "c", "text": "CJ01"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc46",
+            "text": "Which of the following represents the flow of Activities or Tasks in a Project?",
+            "options": [
+                {"id": "a", "text": "PD"},
+                {"id": "b", "text": "WBS"},
+                {"id": "c", "text": "Network"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc47",
+            "text": "Which T-Code is used to create Network in PS Module?",
+            "options": [
+                {"id": "a", "text": "CN21"},
+                {"id": "b", "text": "CJ02"},
+                {"id": "c", "text": "CN22"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc48",
+            "text": "Which T-Code is used to assign activity to Network?",
+            "options": [
+                {"id": "a", "text": "CN21"},
+                {"id": "b", "text": "CJ02"},
+                {"id": "c", "text": "CN22"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc49",
+            "text": "Service Cost to be assigned against which activity in Network?",
+            "options": [
+                {"id": "a", "text": "Internal"},
+                {"id": "b", "text": "External"},
+                {"id": "c", "text": "General"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc50",
+            "text": "What is the T-Code to review project estimate?",
+            "options": [
+                {"id": "a", "text": "CJ02"},
+                {"id": "b", "text": "CN22"},
+                {"id": "c", "text": "CN41"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc51",
+            "text": "A purchase order can be created by",
+            "options": [
+                {"id": "a", "text": "Manually if vendor is known"},
+                {"id": "b", "text": "Quotation"},
+                {"id": "c", "text": "Purchase requisition"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc52",
+            "text": "allow companies to enter requirements for various types of items.",
+            "options": [
+                {"id": "a", "text": "Purchase order"},
+                {"id": "b", "text": "Purchase requisitions"},
+                {"id": "c", "text": "Invoice"},
+                {"id": "d", "text": "General ledger"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc53",
+            "text": "Which of the following module is a part of Logistics area and helps to manage the procurement activity of an organization from procurement?",
+            "options": [
+                {"id": "a", "text": "SAP Project System"},
+                {"id": "b", "text": "SAP Quality Management"},
+                {"id": "c", "text": "SAP Material Management"},
+                {"id": "d", "text": "SAP Supply Chain Management"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc54",
+            "text": "A GR can be posted without which of the following",
+            "options": [
+                {"id": "a", "text": "Account determination rules"},
+                {"id": "b", "text": "Storage location"},
+                {"id": "c", "text": "Reason for movement"},
+                {"id": "d", "text": "Vendor address"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc55",
+            "text": "Withdrawing of material for sampling or returning the goods back to vendor is called",
+            "options": [
+                {"id": "a", "text": "Goods Receipt"},
+                {"id": "b", "text": "Goods Issue"},
+                {"id": "c", "text": "Goods Reversal"},
+                {"id": "d", "text": "None of these above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc56",
+            "text": "The is a commitment to a vendor for a given material, in a specified quantity at a predetermined price and delivery date.",
+            "options": [
+                {"id": "a", "text": "PR"},
+                {"id": "b", "text": "PO"},
+                {"id": "c", "text": "SES"},
+                {"id": "d", "text": "all of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc57",
+            "text": "Transaction Code used to display PO is",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "ME22N"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "ME53N"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc58",
+            "text": "Which of these is/are mandatory while creating a purchase order?",
+            "options": [
+                {"id": "a", "text": "Vendor"},
+                {"id": "b", "text": "Plant"},
+                {"id": "c", "text": "Purchasing Group"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc59",
+            "text": "In SAP, is created for recording services performed by service provider.",
+            "options": [
+                {"id": "a", "text": "PR"},
+                {"id": "b", "text": "PO"},
+                {"id": "c", "text": "SES"},
+                {"id": "d", "text": "all of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc60",
+            "text": "State true/false (i) Quotation is a reply by a vendor in response to request for quotation. (ii) You can make changes to Purchase Order once it is released.",
+            "options": [
+                {"id": "a", "text": "(i) T, (ii) T"},
+                {"id": "b", "text": "(i) T, (ii) F"},
+                {"id": "c", "text": "(i) F, (ii) T"},
+                {"id": "d", "text": "(i) F, (ii) F"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc61",
+            "text": "Transaction Code used for Goods Receipt is",
+            "options": [
+                {"id": "a", "text": "MBIA"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MB21"},
+                {"id": "d", "text": "ZMMF_RES"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc62",
+            "text": "Transaction Code used for change of Reservation is",
+            "options": [
+                {"id": "a", "text": "MB21"},
+                {"id": "b", "text": "MB22"},
+                {"id": "c", "text": "MB23"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc63",
+            "text": "Any consumption of stock material will be subsequent by means of a",
+            "options": [
+                {"id": "a", "text": "Reservation"},
+                {"id": "b", "text": "GR"},
+                {"id": "c", "text": "GI"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc64",
+            "text": "To view the work flow status. T code is",
+            "options": [
+                {"id": "a", "text": "MMBE"},
+                {"id": "b", "text": "ZMMF_REL"},
+                {"id": "c", "text": "MB52"},
+                {"id": "d", "text": "VF01"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc65",
+            "text": "Both must be completed at the same time.",
+            "options": [
+                {"id": "a", "text": "Transfer Posting and Goods Issue"},
+                {"id": "b", "text": "Transfer Posting and Goods Receipt"},
+                {"id": "c", "text": "Reservation and Goods Issue"},
+                {"id": "d", "text": "Reservation and Goods Receipt"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc66",
+            "text": "Which of the following BSNL services is not covered in SD MODULE:",
+            "options": [
+                {"id": "a", "text": "Point of Interconnection(POI) Service"},
+                {"id": "b", "text": "Consumer Mobility /CFA products covered in CDR"},
+                {"id": "c", "text": "Training Services"},
+                {"id": "d", "text": "Scrap"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc67",
+            "text": "DSA Sales is part of:",
+            "options": [
+                {"id": "a", "text": "Direct Sales"},
+                {"id": "b", "text": "Channel Sales"},
+                {"id": "c", "text": "Enterprise Business"},
+                {"id": "d", "text": "External projects"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc68",
+            "text": "Choose the wrong option:",
+            "options": [
+                {"id": "a", "text": "Each Circle will be considered as Sales Organization"},
+                {"id": "b", "text": "Each BA will be considered as Sales Office"},
+                {"id": "c", "text": "Each Division will be considered as Sales Office"},
+                {"id": "d", "text": "Each CSC will be considered as Storage Location"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc69",
+            "text": "Which is not a Division?",
+            "options": [
+                {"id": "a", "text": "Consumer Fixed Access"},
+                {"id": "b", "text": "Scrap"},
+                {"id": "c", "text": "POI"},
+                {"id": "d", "text": "CSC"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc70",
+            "text": "S&D module consists of business processes required for:",
+            "options": [
+                {"id": "a", "text": "Selling"},
+                {"id": "b", "text": "Delivering"},
+                {"id": "c", "text": "Billing"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc71",
+            "text": "Material master sales data is not maintained for:",
+            "options": [
+                {"id": "a", "text": "Sales Unit"},
+                {"id": "b", "text": "Delivering Plant"},
+                {"id": "c", "text": "Pricing Groups"},
+                {"id": "d", "text": "Shipping"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc72",
+            "text": "The customer master data does not include:",
+            "options": [
+                {"id": "a", "text": "Deliveries"},
+                {"id": "b", "text": "Invoices"},
+                {"id": "c", "text": "surcharges"},
+                {"id": "d", "text": "customer payments"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc73",
+            "text": "Which of the following is treated as a storage location (SLOC):",
+            "options": [
+                {"id": "a", "text": "Circle CMTS store"},
+                {"id": "b", "text": "SSA CMTS store"},
+                {"id": "c", "text": "Each CSC"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc74",
+            "text": "Sales to the Channel partner (Franchisee/ DSA/ Post office) will be done through:",
+            "options": [
+                {"id": "a", "text": "SAP"},
+                {"id": "b", "text": "SancharSoft"},
+                {"id": "c", "text": "Pyro"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc75",
+            "text": "For C-TOPUP ALLOCATION TO CSCS FOR SALE TO RETAIL CUSTOMER:",
+            "options": [
+                {"id": "a", "text": "From SAP ERP Sale Order will be entered by AO and credit will be passed on to the CSCs incharge through the outbound interface between SAP & Pyro"},
+                {"id": "b", "text": "Invoice for day to day sale will be generated in SAP through inbound interface between Pyro & SAP ERP"},
+                {"id": "c", "text": "Both of the above are false"},
+                {"id": "d", "text": "Both of the above are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc76",
+            "text": "Which is the address of ERP Help Desk Portal?",
+            "options": [
+                {"id": "a", "text": "http://10.197.216.213"},
+                {"id": "b", "text": "http://10.203.208.15"},
+                {"id": "c", "text": "http://10.152.203.213"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc77",
+            "text": "What is the T-Code to check user details in SAP?",
+            "options": [
+                {"id": "a", "text": "SU01D"},
+                {"id": "b", "text": "SU"},
+                {"id": "c", "text": "SUDO"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc78",
+            "text": "ERP help Desk Portal is accessible through which network?",
+            "options": [
+                {"id": "a", "text": "Internet"},
+                {"id": "b", "text": "CDR/ERP Network"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc79",
+            "text": "SAP R 3 is accessible through which network?",
+            "options": [
+                {"id": "a", "text": "Internet"},
+                {"id": "b", "text": "CDR/ERP Network"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc80",
+            "text": "Which type of user to be created to access SAP R3?",
+            "options": [
+                {"id": "a", "text": "Communication user"},
+                {"id": "b", "text": "Dialogue User"},
+                {"id": "c", "text": "System User"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc81",
+            "text": "Which of the following real estate assets are managed through REM Module?",
+            "options": [
+                {"id": "a", "text": "Land"},
+                {"id": "b", "text": "Building"},
+                {"id": "c", "text": "Towers"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc82",
+            "text": "Which is the highest level in the hierarchy of real estate objects?",
+            "options": [
+                {"id": "a", "text": "Business Entity"},
+                {"id": "b", "text": "Building"},
+                {"id": "c", "text": "Rental Unit"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc83",
+            "text": "Which can be a Business Partner in REM contract?",
+            "options": [
+                {"id": "a", "text": "Landlords"},
+                {"id": "b", "text": "Tenants"},
+                {"id": "c", "text": "Employees"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc84",
+            "text": "Tenant is belongs to which type of Business Partner?",
+            "options": [
+                {"id": "a", "text": "Vendor"},
+                {"id": "b", "text": "Customer"},
+                {"id": "c", "text": "both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc85",
+            "text": "What is the T-Code to Process Land in REM module?",
+            "options": [
+                {"id": "a", "text": "REBDBE"},
+                {"id": "b", "text": "REBDPR"},
+                {"id": "c", "text": "REBDBU"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc86",
+            "text": "What is the T-Code to process Building in REM module?",
+            "options": [
+                {"id": "a", "text": "REBDBE"},
+                {"id": "b", "text": "REBDPR"},
+                {"id": "c", "text": "REBDBU"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc87",
+            "text": "What is the T-Code for periodic posting of Contract in REM module?",
+            "options": [
+                {"id": "a", "text": "RECN"},
+                {"id": "b", "text": "RERAPP"},
+                {"id": "c", "text": "RERAIV"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc88",
+            "text": "What is the T-Code to create invoice against contract in REM module?",
+            "options": [
+                {"id": "a", "text": "RECN"},
+                {"id": "b", "text": "RERAPP"},
+                {"id": "c", "text": "RERAIV"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc89",
+            "text": "What is the T-Code to process contract in REM module?",
+            "options": [
+                {"id": "a", "text": "RECN"},
+                {"id": "b", "text": "RERAPP"},
+                {"id": "c", "text": "RERAIV"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc90",
+            "text": "What is the T-Code to create Rental Unit in REM module?",
+            "options": [
+                {"id": "a", "text": "REBDBE"},
+                {"id": "b", "text": "REBDRO"},
+                {"id": "c", "text": "REBDBU"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc91",
+            "text": "FICO stands for",
+            "options": [
+                {"id": "a", "text": "Financial Accounting and Controlling"},
+                {"id": "b", "text": "Finance Accounting and Control"},
+                {"id": "c", "text": "Financial Accounts and Controls"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc92",
+            "text": "Transaction code used for uploading the bank statement in the system is",
+            "options": [
+                {"id": "a", "text": "ZFI057"},
+                {"id": "b", "text": "ZBANK_BRS"},
+                {"id": "c", "text": "ZFI069_2_1"},
+                {"id": "d", "text": "SM35"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc93",
+            "text": "Transaction code used to run batch processing in the system is",
+            "options": [
+                {"id": "a", "text": "ZFI057"},
+                {"id": "b", "text": "ZBANK_BRS"},
+                {"id": "c", "text": "ZFI069_2_1"},
+                {"id": "d", "text": "SM35"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc94",
+            "text": "Transaction code used for viewing the accounting document posted during Bank Reconciliation in the system is",
+            "options": [
+                {"id": "a", "text": "ZFI057"},
+                {"id": "b", "text": "ZBANK_BRS"},
+                {"id": "c", "text": "ZFI069_2_1"},
+                {"id": "d", "text": "FB03"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc95",
+            "text": "Transaction code used for Bank Reconciliation Statement in the system is",
+            "options": [
+                {"id": "a", "text": "ZFI057"},
+                {"id": "b", "text": "ZBANK_BRS"},
+                {"id": "c", "text": "ZFI069_2_1"},
+                {"id": "d", "text": "FB03"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc96",
+            "text": "Company Code used in Transaction code ZBANK_BRS is",
+            "options": [
+                {"id": "a", "text": "1001"},
+                {"id": "b", "text": "1100"},
+                {"id": "c", "text": "1101"},
+                {"id": "d", "text": "1111"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc97",
+            "text": "Transaction code used to create temporary advance request in the system is",
+            "options": [
+                {"id": "a", "text": "ZFI057"},
+                {"id": "b", "text": "ZBANK_BRS"},
+                {"id": "c", "text": "ZFI069_2_1"},
+                {"id": "d", "text": "FB03"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc98",
+            "text": "Who can make changes in the temporary advance amount claimed, if he desires.",
+            "options": [
+                {"id": "a", "text": "SDE"},
+                {"id": "b", "text": "DE"},
+                {"id": "c", "text": "IFA"},
+                {"id": "d", "text": "DGM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc99",
+            "text": "Final Level of Approval for temporary advance request is",
+            "options": [
+                {"id": "a", "text": "DE"},
+                {"id": "b", "text": "GM"},
+                {"id": "c", "text": "IFA"},
+                {"id": "d", "text": "DGM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc100",
+            "text": "Transaction code used for Invoice Verification against Purchase Order in the system is",
+            "options": [
+                {"id": "a", "text": "MIGO"},
+                {"id": "b", "text": "MIRO"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "ML81N"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
