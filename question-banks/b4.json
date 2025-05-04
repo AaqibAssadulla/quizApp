@@ -1,0 +1,831 @@
+{
+    "title": "JTO Phase I Mobile Communication Practice Test Questions",
+    "questions": [
+        {
+            "id": "mc1",
+            "text": "Electromagnetic waves in frequency from around 3 kHz to 300 GHz range, called",
+            "options": [
+                {"id": "a", "text": "radio waves"},
+                {"id": "b", "text": "High transmission Wave"},
+                {"id": "c", "text": "Dielectric wave"},
+                {"id": "d", "text": "Microwave"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc2",
+            "text": "Antennas transform waves into waves",
+            "options": [
+                {"id": "a", "text": "wire-propagated, space-propagated"},
+                {"id": "b", "text": "space-propagated, Transmission Signal"},
+                {"id": "c", "text": "Can't Say"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc3",
+            "text": "The ratio of the power flux density produced by the antenna to that produced by an isotropic radiator at the same distance is called",
+            "options": [
+                {"id": "a", "text": "Effective isotropic radiated power"},
+                {"id": "b", "text": "Effective Radiated Power"},
+                {"id": "c", "text": "EIRP"},
+                {"id": "d", "text": "all of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc4",
+            "text": "The radiated power in a particular direction is equal to",
+            "options": [
+                {"id": "a", "text": "actual transmitter power time's antenna gain in that direction"},
+                {"id": "b", "text": "Input power x Antenna gain"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc5",
+            "text": "The impedance of the antenna is simply equal to the voltage applied to its input terminals divided by the current flow. Input impedance of the antenna and transmission impedance of the feeder cable should be equal. It is",
+            "options": [
+                {"id": "a", "text": "50 ohm"},
+                {"id": "b", "text": "5 ohm"},
+                {"id": "c", "text": "25 ohm"},
+                {"id": "d", "text": "100 ohm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc6",
+            "text": "The minimum VSWR is",
+            "options": [
+                {"id": "a", "text": "0"},
+                {"id": "b", "text": "1"},
+                {"id": "c", "text": "1.5"},
+                {"id": "d", "text": "1.3"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc7",
+            "text": "In general, the maximum permissible value of the VSWR is",
+            "options": [
+                {"id": "a", "text": "0"},
+                {"id": "b", "text": "1"},
+                {"id": "c", "text": "1.5"},
+                {"id": "d", "text": "1.3"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc8",
+            "text": "For Omni Directional Antennas: The horizontal radiation pattern covers and vertical half power beam width is",
+            "options": [
+                {"id": "a", "text": "360 degrees, 78 degrees"},
+                {"id": "b", "text": "78 degrees, 360 degrees"},
+                {"id": "c", "text": "360 degrees, 360 degrees"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc9",
+            "text": "is used to increase the signal level from the mobile to the base station",
+            "options": [
+                {"id": "a", "text": "Diversity"},
+                {"id": "b", "text": "Feeder System"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc10",
+            "text": "Match the following: Cell is the basic geographic unit of cellular system.",
+            "options": [],
+            "correctAnswer": "Cell"
+        },
+        {
+            "id": "mc11",
+            "text": "Match the following: Group of cells in which no frequencies are reused is termed as a",
+            "options": [],
+            "correctAnswer": "Cluster"
+        },
+        {
+            "id": "mc12",
+            "text": "Match the following: Cells using the same channel set are called",
+            "options": [],
+            "correctAnswer": "Co-channel cells"
+        },
+        {
+            "id": "mc13",
+            "text": "Match the following: The number of channel sets is represented by",
+            "options": [],
+            "correctAnswer": "k"
+        },
+        {
+            "id": "mc14",
+            "text": "Match the following: K is also called the",
+            "options": [],
+            "correctAnswer": "reuse factor"
+        },
+        {
+            "id": "mc15",
+            "text": "GSM operates on the mobile communication bands in most parts of the world.",
+            "options": [
+                {"id": "a", "text": "900 MHz and 1800 MHz"},
+                {"id": "b", "text": "800 MHz and 850 MHz"},
+                {"id": "c", "text": "1850 MHz and 1950 MHz"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc16",
+            "text": "In GSM Specification: Uplink (Mobile transmit, Base Station receive)",
+            "options": [],
+            "correctAnswer": "890-915 MHz"
+        },
+        {
+            "id": "mc17",
+            "text": "In GSM Specification: Downlink (Base Station transmit, Mobile receive)",
+            "options": [],
+            "correctAnswer": "935-960 MHz"
+        },
+        {
+            "id": "mc18",
+            "text": "In GSM Specification: Bandwidth for GSM 900 band is",
+            "options": [],
+            "correctAnswer": "25 MHz"
+        },
+        {
+            "id": "mc19",
+            "text": "In GSM Specification: Bandwidth for GSM 1800 band is",
+            "options": [],
+            "correctAnswer": "75 MHz"
+        },
+        {
+            "id": "mc20",
+            "text": "In GSM Specification: separation between Uplink and Downlink frequency for GSM 900 band is",
+            "options": [],
+            "correctAnswer": "45 MHz"
+        },
+        {
+            "id": "mc21",
+            "text": "In GSM Specification: separation between Uplink and Downlink frequency for GSM 1800 band is",
+            "options": [],
+            "correctAnswer": "95 MHz"
+        },
+        {
+            "id": "mc22",
+            "text": "In GSM Specification: Modulation for GSM 900 Band",
+            "options": [],
+            "correctAnswer": "GMSK"
+        },
+        {
+            "id": "mc23",
+            "text": "In GSM Specification: The band has been allocated for the uplink direction",
+            "options": [],
+            "correctAnswer": "1710 to 1785 MHz"
+        },
+        {
+            "id": "mc24",
+            "text": "Types of Logical Channels:",
+            "options": [
+                {"id": "a", "text": "Traffic channel"},
+                {"id": "b", "text": "Broadcast channels"},
+                {"id": "c", "text": "Common control channels"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc25",
+            "text": "The TCH/F carries information at a gross bit rate of (after channel coding)",
+            "options": [
+                {"id": "a", "text": "22.8 kbit/s"},
+                {"id": "b", "text": "13 kbit/s"},
+                {"id": "c", "text": "3.6 kbit/s"},
+                {"id": "d", "text": "3 kbit/s"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc26",
+            "text": "The BCCH is also known as",
+            "options": [
+                {"id": "a", "text": "beacon"},
+                {"id": "b", "text": "Broadcast Control Channel"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc27",
+            "text": "The is used in the downlink direction for paging the mobile stations.",
+            "options": [
+                {"id": "a", "text": "PCH"},
+                {"id": "b", "text": "RACH"},
+                {"id": "c", "text": "AGCH"},
+                {"id": "d", "text": "SACCH"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc28",
+            "text": "The channel combinations are",
+            "options": [
+                {"id": "a", "text": "TCH/F + FACCH/F + SACCH/F"},
+                {"id": "b", "text": "FCCH + SCH + CCCH + BCCH"},
+                {"id": "c", "text": "FCCH + SCH + CCCH + BCCH + SDCCH/4 + SACCH/4"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc29",
+            "text": "A is a MSC-VLR specific alias that is designed to maintain user confidentiality.",
+            "options": [
+                {"id": "a", "text": "TMSI"},
+                {"id": "b", "text": "MSRN"},
+                {"id": "c", "text": "IMEI"},
+                {"id": "d", "text": "IMSI"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc30",
+            "text": "An important component of the BSS that is considered in the GSM architecture as a part of the BTS is the",
+            "options": [
+                {"id": "a", "text": "Transcoder/Rate Adapter Unit (TRAU)"},
+                {"id": "b", "text": "BSS Node"},
+                {"id": "c", "text": "A-bis"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc31",
+            "text": "The HLR is a database that stores data related to a given set of subscriber",
+            "options": [
+                {"id": "a", "text": "permanently"},
+                {"id": "b", "text": "Temporarily"},
+                {"id": "c", "text": "As per Demand"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc32",
+            "text": "is a database that stores the IMEI numbers for all registered ME units.",
+            "options": [
+                {"id": "a", "text": "EIR"},
+                {"id": "b", "text": "HLR"},
+                {"id": "c", "text": "VLR"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc33",
+            "text": "The EIR keeps track of all ME units in the PLMN. White List contains those IMEIs that are known to have been assigned to valid MS's. This is the category of genuine equipment.",
+            "options": [],
+            "correctAnswer": "White List"
+        },
+        {
+            "id": "mc34",
+            "text": "The EIR keeps track of all ME units in the PLMN. Black List contains IMEIs of mobiles that have been reported stolen",
+            "options": [],
+            "correctAnswer": "Black List"
+        },
+        {
+            "id": "mc35",
+            "text": "The EIR keeps track of all ME units in the PLMN. Gray List contains IMEIs of mobiles that have problems (for example, faulty software and wrong make of the equipment). This list contains all MEs with faults not important enough for barring.",
+            "options": [],
+            "correctAnswer": "Gray List"
+        },
+        {
+            "id": "mc36",
+            "text": "EC is used on the PSTN side of the MSC for all",
+            "options": [
+                {"id": "a", "text": "voice circuits"},
+                {"id": "b", "text": "Data circuits"},
+                {"id": "c", "text": "Both Voice & Data Circuits"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc37",
+            "text": "GSM signalling protocol's third layer is divided into sublayers i.e.",
+            "options": [
+                {"id": "a", "text": "RR"},
+                {"id": "b", "text": "MM"},
+                {"id": "c", "text": "CM"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc38",
+            "text": "The RR layer is the lower layer that manages a link",
+            "options": [],
+            "correctAnswer": "RR"
+        },
+        {
+            "id": "mc39",
+            "text": "The MM layer is the session layer stacked above RR layer",
+            "options": [],
+            "correctAnswer": "MM"
+        },
+        {
+            "id": "mc40",
+            "text": "The CM layer is the topmost layer of the GSM protocol stack",
+            "options": [],
+            "correctAnswer": "CM"
+        },
+        {
+            "id": "mc41",
+            "text": "The responsibility of the RR layer is to manage the , the time when a mobile is in a dedicated mode",
+            "options": [],
+            "correctAnswer": "radio resources"
+        },
+        {
+            "id": "mc42",
+            "text": "The MM layer handles the functions that arise from the mobility of the subscriber, as well as the authentication and security aspects.",
+            "options": [],
+            "correctAnswer": "MM"
+        },
+        {
+            "id": "mc43",
+            "text": "The CM layer is responsible for Call Control, Supplementary Service Management, and Short Message Service Management.",
+            "options": [],
+            "correctAnswer": "CM"
+        },
+        {
+            "id": "mc44",
+            "text": "responsible for transferring messages between network elements within same network",
+            "options": [
+                {"id": "a", "text": "MTP is Message Transfer Part"},
+                {"id": "b", "text": "TUP"},
+                {"id": "c", "text": "SCCP"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc45",
+            "text": "is the user part for messages transferred by MTP.",
+            "options": [
+                {"id": "a", "text": "TUP"},
+                {"id": "b", "text": "SCCP"},
+                {"id": "c", "text": "BSSAP"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc46",
+            "text": "allows us to send SS7 messages over IP networks.",
+            "options": [
+                {"id": "a", "text": "SIGTRAN"},
+                {"id": "b", "text": "MTP"},
+                {"id": "c", "text": "SSTP"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc47",
+            "text": "The physical part of a communications network between the central backbone and the individual local networks is known as",
+            "options": [
+                {"id": "a", "text": "backhaul"},
+                {"id": "b", "text": "macro cell"},
+                {"id": "c", "text": "RAN"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc48",
+            "text": "Mobile backhaul is the transport network that connects the core network and the",
+            "options": [
+                {"id": "a", "text": "RAN/Cell Site"},
+                {"id": "b", "text": "SSSS"},
+                {"id": "c", "text": "SSTP"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc49",
+            "text": "At the heart of copper-based backhaul is the T1/E1 protocol, which supported",
+            "options": [
+                {"id": "a", "text": "1.5 Mbps to 2 Mbps"},
+                {"id": "b", "text": "<622.08 Mbit/s"},
+                {"id": "c", "text": "<2588.32 Mbit/s"},
+                {"id": "d", "text": "<9953.28 Mbit/s"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc50",
+            "text": "'C' Stand for in CDWM",
+            "options": [
+                {"id": "a", "text": "Code"},
+                {"id": "b", "text": "Coarse"},
+                {"id": "c", "text": "Core"},
+                {"id": "d", "text": "Communication"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc51",
+            "text": "backhaul is much more 'plug and play' and so take less time with less skilled labour to set up",
+            "options": [
+                {"id": "a", "text": "NLOS"},
+                {"id": "b", "text": "LOS"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc52",
+            "text": "Free Space Optics (FSO) is a newer low-latency technology that offers speeds comparable to fibre optics that transmit voice, video and data with up to",
+            "options": [
+                {"id": "a", "text": "1.5Gbps"},
+                {"id": "b", "text": "1.5Tbps"},
+                {"id": "c", "text": "15Gbps"},
+                {"id": "d", "text": "15Tbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc53",
+            "text": "Technical innovations occurring on LTE, which is known as , which enable enhancements such as improved peak bandwidth and greater energy efficiency for IoT connections.",
+            "options": [
+                {"id": "a", "text": "LTE-Advanced Pro"},
+                {"id": "b", "text": "4.5G"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc54",
+            "text": "A remote radio head (RRH), also called a in wireless networks, is a remote radio transceiver that connects to radio base station unit via electrical or wireless interface.",
+            "options": [
+                {"id": "a", "text": "remote Logical unit (RLU)"},
+                {"id": "b", "text": "remote radio unit (RRU)"},
+                {"id": "c", "text": "response remote unit (RRU)"},
+                {"id": "d", "text": "response Logical unit (RLU)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc55",
+            "text": "MPLS-TP provides of MPLS-TP transport paths via a control plane",
+            "options": [
+                {"id": "a", "text": "dynamic provisioning"},
+                {"id": "b", "text": "static provisioning"},
+                {"id": "c", "text": "dynamic propagation"},
+                {"id": "d", "text": "Static propagation"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc56",
+            "text": "The is the directory number allocated to the mobile subscriber",
+            "options": [
+                {"id": "a", "text": "Mobile Station ISDN Number(MSISDN)"},
+                {"id": "b", "text": "Mobile Subscriber Roaming Number(MSRN)"},
+                {"id": "c", "text": "International Mobile Subscriber Identity(IMSI)"},
+                {"id": "d", "text": "Temporary Mobile Subscriber Identity(TMSI)"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc57",
+            "text": "Correct sequence of Phases of a location update is/are",
+            "options": [
+                {"id": "a", "text": "1. Request for service ----> 2. Authentication ........>3. Ciphering ........> 4. Update HLR/VLR -.....> 5. TMSI re-allocation"},
+                {"id": "b", "text": "1. Request for service ----> 2. Authentication ........>3. Update HLR/VLR--> 4. Ciphering ----> 5. TMSI re-allocation"},
+                {"id": "c", "text": "1. Request for service ----> 2. Authentication ........>3. TMSI re-allocation ----> 4. Update HLR/VLR 5. Ciphering"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc58",
+            "text": "Identity of MS is given by",
+            "options": [
+                {"id": "a", "text": "IMSI"},
+                {"id": "b", "text": "TMSI"},
+                {"id": "c", "text": "IMEI"},
+                {"id": "d", "text": "None of thes"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc59",
+            "text": "Transcoder is placed in between",
+            "options": [
+                {"id": "a", "text": "BTS and BSC"},
+                {"id": "b", "text": "BSC and MSC"},
+                {"id": "c", "text": "MSC and HLR"},
+                {"id": "d", "text": "None of thease"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc60",
+            "text": "LAI is stored in",
+            "options": [
+                {"id": "a", "text": "HLR"},
+                {"id": "b", "text": "MSC/VLR"},
+                {"id": "c", "text": "EIR"},
+                {"id": "d", "text": "AUC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc61",
+            "text": "MSRN stands for",
+            "options": [
+                {"id": "a", "text": "Mobile send Roaming Number"},
+                {"id": "b", "text": "Mobile Subscriber Routing Number"},
+                {"id": "c", "text": "Mobile Subscriber Roaming Number"},
+                {"id": "d", "text": "Mobile send Routing Information"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc62",
+            "text": "In WCDMA System Chip rate used is Mcps",
+            "options": [
+                {"id": "a", "text": "1.22"},
+                {"id": "b", "text": "2.11"},
+                {"id": "c", "text": "3.84"},
+                {"id": "d", "text": "4.34"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc63",
+            "text": "WCDMA has a fast power control that updates power levels times per second.",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "800"},
+                {"id": "c", "text": "2"},
+                {"id": "d", "text": "1500"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc64",
+            "text": "WDCDA uses a wide radio signal.",
+            "options": [
+                {"id": "a", "text": "200 KHz"},
+                {"id": "b", "text": "1.25 MHz"},
+                {"id": "c", "text": "3.75 MHz"},
+                {"id": "d", "text": "5 MHz"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc65",
+            "text": "The LI is used to differentiate between the three SUs. If LI value is 2 than the SU is.",
+            "options": [
+                {"id": "a", "text": "FISU"},
+                {"id": "b", "text": "LISU"},
+                {"id": "c", "text": "MSU"},
+                {"id": "d", "text": "None of thease"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc66",
+            "text": "is not the part of triplet.",
+            "options": [
+                {"id": "a", "text": "RAND"},
+                {"id": "b", "text": "Kc"},
+                {"id": "c", "text": "Ki"},
+                {"id": "d", "text": "SRES"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc67",
+            "text": "Send Routing Information (SRI) is an",
+            "options": [
+                {"id": "a", "text": "INAP message"},
+                {"id": "b", "text": "MAP message"},
+                {"id": "c", "text": "BSSAP message"},
+                {"id": "d", "text": "None of thease"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc68",
+            "text": "The correct MSRN format is.",
+            "options": [
+                {"id": "a", "text": "CC + NDC + SN"},
+                {"id": "b", "text": "MCC + MNC + SN"},
+                {"id": "c", "text": "MCC + SPC + SN"},
+                {"id": "d", "text": "NONE OF THEASE"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc69",
+            "text": "Call and Mobility functionality is defined in-",
+            "options": [
+                {"id": "a", "text": "MS only"},
+                {"id": "b", "text": "MSC only"},
+                {"id": "c", "text": "BTS and BSC"},
+                {"id": "d", "text": "MS and MSC"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc70",
+            "text": "In case of MO call CM Service Request Message is generated by -",
+            "options": [
+                {"id": "a", "text": "Call Control (CC) entity in CM sub-layer in MS"},
+                {"id": "b", "text": "CC entity in CM sub-layer in MSC"},
+                {"id": "c", "text": "CC entity in MM sub-layer in MS"},
+                {"id": "d", "text": "CC entity in MM sub-layer in MSC"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc71",
+            "text": "the most important RF signalling channel which carries Call Set-up message is -",
+            "options": [
+                {"id": "a", "text": "RACH"},
+                {"id": "b", "text": "SDCCH"},
+                {"id": "c", "text": "AGCH"},
+                {"id": "d", "text": "SACCH"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc72",
+            "text": "SMS to called party mobile, in dedicated mode, is delivered by-",
+            "options": [
+                {"id": "a", "text": "SACCH"},
+                {"id": "b", "text": "SDCCH"},
+                {"id": "c", "text": "FACCH"},
+                {"id": "d", "text": "PCH"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc73",
+            "text": "one of the PE in Physical Plane",
+            "options": [
+                {"id": "a", "text": "SSF"},
+                {"id": "b", "text": "SCP"},
+                {"id": "c", "text": "CCF"},
+                {"id": "d", "text": "SRF"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc74",
+            "text": "Play Announcement is a function of",
+            "options": [
+                {"id": "a", "text": "SSF"},
+                {"id": "b", "text": "SCF"},
+                {"id": "c", "text": "CCF"},
+                {"id": "d", "text": "SRF"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc75",
+            "text": "In 900 MHz GSM system Blocking Rate maintain less than",
+            "options": [
+                {"id": "a", "text": "1%"},
+                {"id": "b", "text": "2%"},
+                {"id": "c", "text": "3%"},
+                {"id": "d", "text": "4%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc76",
+            "text": "The Signalling connection control part (SCCP) and message transfer part (MTP) together are referred to as-",
+            "options": [
+                {"id": "a", "text": "Signal Switching Points (SSPs)"},
+                {"id": "b", "text": "Signal Transfer Points (STPs)"},
+                {"id": "c", "text": "Signal Control Points (SCPs)"},
+                {"id": "d", "text": "Network service part (NSP)"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc77",
+            "text": "Features of Digital Cellular Systems:",
+            "options": [
+                {"id": "a", "text": "Small cells"},
+                {"id": "b", "text": "Frequency reuse"},
+                {"id": "c", "text": "Small, battery-powered handsets"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc78",
+            "text": "Which one of the following is not a valid value of Frequency reuse factor K:",
+            "options": [
+                {"id": "a", "text": "3"},
+                {"id": "b", "text": "4"},
+                {"id": "c", "text": "5"},
+                {"id": "d", "text": "7"},
+                {"id": "e", "text": "8"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc79",
+            "text": "In GSM, using a FDMA scheme, into 124 carrier frequencies spaced one from each other by a frequency band.",
+            "options": [
+                {"id": "a", "text": "200 MHz"},
+                {"id": "b", "text": "200 KHz"},
+                {"id": "c", "text": "25 Khz"},
+                {"id": "d", "text": "25 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "mc80",
+            "text": "The 5G System (SGS) includes the",
+            "options": [
+                {"id": "a", "text": "5G Core Network (CN)"},
+                {"id": "b", "text": "The 5G Access Network (AN)"},
+                {"id": "c", "text": "the User Equipment (UE)"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "mc81",
+            "text": "has specified both 'Reference Point' and 'Service based' architectures for the 5G System (SGS)",
+            "options": [
+                {"id": "a", "text": "3GPP"},
+                {"id": "b", "text": "4GPP"},
+                {"id": "c", "text": "5GPP"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc82",
+            "text": "5G NR gNodeB is split into Part:",
+            "options": [
+                {"id": "a", "text": "gNB-Cu central unit"},
+                {"id": "b", "text": "gNB-DU (Distributed unit)"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "mc83",
+            "text": "is a web application created for the management of SIM, Recharge Coupons & Top up Cards of Mobile Services of BSNL.",
+            "options": [
+                {"id": "a", "text": "Sancharsoft"},
+                {"id": "b", "text": "PMS"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc84",
+            "text": "B&CCS takes care of activation, deactivation, suspension and change in the subscriber services. There are billing centres catering to North zone, South zone, East zone and West Zone.",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "12"},
+                {"id": "d", "text": "1"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "mc85",
+            "text": "B&CCS Centre for South zone is",
+            "options": [
+                {"id": "a", "text": "Chandigarh"},
+                {"id": "b", "text": "Trichy"},
+                {"id": "c", "text": "Calcutta"},
+                {"id": "d", "text": "West Pune"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
