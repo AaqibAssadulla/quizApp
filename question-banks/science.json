@@ -1,0 +1,27 @@
+{
+    "title": "Science",
+    "questions": [
+        {
+            "id": "sci1",
+            "text": "What is the chemical symbol for water?",
+            "options": [
+                {"id": "a", "text": "H2O"},
+                {"id": "b", "text": "CO2"},
+                {"id": "c", "text": "NaCl"},
+                {"id": "d", "text": "O2"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "sci2",
+            "text": "Which gas do plants absorb from the atmosphere?",
+            "options": [
+                {"id": "a", "text": "Oxygen"},
+                {"id": "b", "text": "Carbon Dioxide"},
+                {"id": "c", "text": "Nitrogen"},
+                {"id": "d", "text": "Hydrogen"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Bank MCQ Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Multi-Bank MCQ Quiz</h1>
+        
+        <div class="bank-selector">
+            <h2>Select Question Bank:</h2>
+            <div class="bank-buttons">
+                <button onclick="loadBank('general-knowledge')">General Knowledge</button>
+                <button onclick="loadBank('science')">Science</button>
+                <button onclick="loadBank('history')">History</button>
+            </div>
+        </div>
+        
+        <div class="quiz-info">
+            <div class="score-display">Score: <span id="score">0</span>/<span id="total-questions">0</span></div>
+            <div id="current-bank" class="current-bank">No bank selected</div>
+        </div>
+        
+        <div id="quiz-container" class="quiz-container">
+            <div class="welcome-message">
+                <p>Please select a question bank to begin the quiz.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Track user answers and score
+        const userAnswers = {};
+        let score = 0;
+        let currentBank = null;
+        let quizData = null;
+
+        // Available question banks
+        const questionBanks = {
+            'general-knowledge': 'question-banks/general-knowledge.json',
+            'science': 'question-banks/science.json',
+            'history': 'question-banks/history.json'
+        };
+
+        // Load selected question bank
+        async function loadBank(bankName) {
+            try {
+                currentBank = bankName;
+                document.getElementById('current-bank').textContent = `Current Bank: ${formatBankName(bankName)}`;
+                document.getElementById('quiz-container').innerHTML = '<div class="loading">Loading questions...</div>';
+                
+                const response = await fetch(questionBanks[bankName]);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                quizData = await response.json();
+                renderQuiz();
+                document.getElementById('total-questions').textContent = quizData.questions.length;
+                score = 0;
+                document.getElementById('score').textContent = score;
+                userAnswers = {};
+                
+            } catch (error) {
+                console.error('Error loading question bank:', error);
+                document.getElementById('quiz-container').innerHTML = 
+                    `<div class="error">Failed to load ${formatBankName(bankName)} questions. Please try again.</div>`;
+            }
+        }
+
+        // Format bank name for display
+        function formatBankName(bankName) {
+            return bankName.split('-').map(word => 
+                word.charAt(0).toUpperCase() + word.slice(1)
+            ).join(' ');
+        }
+
+        // Render the quiz questions
+        function renderQuiz() {
+            const quizContainer = document.getElementById('quiz-container');
+            quizContainer.innerHTML = '';
+            
+            quizData.questions.forEach((question, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+                questionDiv.id = question.id;
+                
+                // Add copy button
+                const copyBtn = document.createElement('button');
+                copyBtn.className = 'copy-btn';
+                copyBtn.textContent = 'Copy';
+                copyBtn.onclick = () => copyQuestion(question.id);
+                
+                // Add question text
+                const questionText = document.createElement('div');
+                questionText.className = 'question-text';
+                questionText.textContent = `${index + 1}. ${question.text}`;
+                
+                // Add options container
+                const optionsDiv = document.createElement('div');
+                optionsDiv.className = 'options';
+                
+                // Add each option
+                question.options.forEach(option => {
+                    const optionDiv = document.createElement('div');
+                    optionDiv.className = 'option';
+                    optionDiv.textContent = `${option.id.toUpperCase()}. ${option.text}`;
+                    optionDiv.onclick = () => checkAnswer(question.id, option.id);
+                    optionsDiv.appendChild(optionDiv);
+                });
+                
+                // Assemble the question
+                questionDiv.appendChild(copyBtn);
+                questionDiv.appendChild(questionText);
+                questionDiv.appendChild(optionsDiv);
+                
+                quizContainer.appendChild(questionDiv);
+            });
+        }
+
+        // Function to check the selected answer
+        function checkAnswer(questionId, selectedOption) {
+            const question = quizData.questions.find(q => q.id === questionId);
+            const questionDiv = document.getElementById(questionId);
+            const options = questionDiv.querySelectorAll('.option');
+            
+            // Reset all options
+            options.forEach(option => {
+                option.classList.remove('correct', 'incorrect');
+            });
+            
+            // Highlight the selected option
+            const selectedElement = Array.from(options).find(opt => 
+                opt.textContent.startsWith(selectedOption.toUpperCase())
+            );
+            selectedElement.classList.add('incorrect');
+            
+            // Highlight the correct answer
+            const correctElement = Array.from(options).find(opt => 
+                opt.textContent.startsWith(question.correctAnswer.toUpperCase())
+            );
+            correctElement.classList.add('correct');
+            
+            // If the selected answer is correct, change its class
+            if (selectedOption === question.correctAnswer) {
+                selectedElement.classList.remove('incorrect');
+                selectedElement.classList.add('correct');
+                
+                // Update score if this is the first correct answer
+                if (!userAnswers[questionId] || userAnswers[questionId] !== question.correctAnswer) {
+                    score++;
+                    document.getElementById('score').textContent = score;
+                }
+            } else {
+                // Deduct score if previously correct
+                if (userAnswers[questionId] === question.correctAnswer) {
+                    score--;
+                    document.getElementById('score').textContent = score;
+                }
+            }
+            
+            // Store the user's answer
+            userAnswers[questionId] = selectedOption;
+        }
+
+        // Function to copy question text to clipboard
+        function copyQuestion(questionId) {
+            const question = quizData.questions.find(q => q.id === questionId);
+            const questionText = `${question.text}`;
+            
+            navigator.clipboard.writeText(questionText)
+                .then(() => {
+                    const btn = document.getElementById(questionId).querySelector('.copy-btn');
+                    btn.textContent = 'Copied!';
+                    setTimeout(() => {
+                        btn.textContent = 'Copy';
+                    }, 2000);
+                })
+                .catch(err => {
+                    console.error('Failed to copy text: ', err);
+                });
+        }
+    </script>
+</body>
+</html>

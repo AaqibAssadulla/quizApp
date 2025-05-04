@@ -1,0 +1,27 @@
+{
+    "title": "General Knowledge",
+    "questions": [
+        {
+            "id": "gk1",
+            "text": "What is the capital of France?",
+            "options": [
+                {"id": "a", "text": "London"},
+                {"id": "b", "text": "Paris"},
+                {"id": "c", "text": "Berlin"},
+                {"id": "d", "text": "Madrid"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "gk2",
+            "text": "Which planet is known as the Red Planet?",
+            "options": [
+                {"id": "a", "text": "Venus"},
+                {"id": "b", "text": "Mars"},
+                {"id": "c", "text": "Jupiter"},
+                {"id": "d", "text": "Saturn"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
