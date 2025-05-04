@@ -1724,7 +1724,7 @@
                 {"id": "c", "text": "60 bytes"},
                 {"id": "d", "text": "No maximum size"}
             ],
-            "correctAnswer": "d
+            "correctAnswer": "d"
         },
         {
             "id": "dc158",
