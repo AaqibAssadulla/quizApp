@@ -1720,11 +1720,11 @@
             "text": "Maximum size of IPv6 extension header?",
             "options": [
                 {"id": "a", "text": "20 bytes"},
-                {"id": "b", "text": "40 bytes"},
+                {"id": "d", "text": "40 bytes"},
                 {"id": "c", "text": "60 bytes"},
-                {"id": "d", "text": "No maximum size"}
+                {"id": "b", "text": "No maximum size"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "dc158",
