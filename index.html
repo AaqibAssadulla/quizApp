@@ -181,21 +181,57 @@
 
         // Function to copy question text to clipboard
         function copyQuestion(questionId) {
-            const question = quizData.questions.find(q => q.id === questionId);
-            const questionText = `${question.text}`;
-            
-            navigator.clipboard.writeText(questionText)
-                .then(() => {
-                    const btn = document.getElementById(questionId).querySelector('.copy-btn');
-                    btn.textContent = 'Copied!';
-                    setTimeout(() => {
-                        btn.textContent = 'Copy';
-                    }, 2000);
-                })
-                .catch(err => {
-                    console.error('Failed to copy text: ', err);
-                });
-        }
-    </script>
+			const question = quizData.questions.find(q => q.id === questionId);
+			if (!question) return;
+
+			// Format the question and options
+			let textToCopy = `Question: ${question.text}\n\nOptions:\n`;
+			
+			question.options.forEach(option => {
+				textToCopy += `${option.id.toUpperCase()}. ${option.text}\n`;
+			});
+
+			// Add correct answer (optional)
+			textToCopy += `\nCorrect Answer: ${question.correctAnswer.toUpperCase()}`;
+
+			// Copy to clipboard
+			navigator.clipboard.writeText(textToCopy)
+				.then(() => {
+					const btn = document.getElementById(questionId).querySelector('.copy-btn');
+					btn.textContent = 'Copied!';
+					setTimeout(() => {
+						btn.textContent = 'Copy';
+					}, 2000);
+				})
+				.catch(err => {
+					console.error('Failed to copy text: ', err);
+					// Fallback for browsers that don't support clipboard API
+					fallbackCopyTextToClipboard(textToCopy, questionId);
+				});
+		}
+
+		// Fallback method for older browsers
+		function fallbackCopyTextToClipboard(text, questionId) {
+			const textArea = document.createElement('textarea');
+			textArea.value = text;
+			document.body.appendChild(textArea);
+			textArea.select();
+			
+			try {
+				document.execCommand('copy');
+				const btn = document.getElementById(questionId).querySelector('.copy-btn');
+				btn.textContent = 'Copied!';
+				setTimeout(() => {
+					btn.textContent = 'Copy';
+				}, 2000);
+			} catch (err) {
+				console.error('Fallback copy failed: ', err);
+				alert('Failed to copy question. Please try again or copy manually.');
+			}
+			
+			document.body.removeChild(textArea);
+		}    
+			
+	</script>
 </body>
 </html>
