@@ -12,18 +12,51 @@
         
         <div class="bank-selector">
             <h2>Select Question Bank:</h2>
-            <div class="bank-buttons">
-                <button onclick="loadBank('general-knowledge')">General Knowledge</button>
-                <button onclick="loadBank('science')">Science</button>
-                <button onclick="loadBank('b1')">Bank 1</button>
-                <button onclick="loadBank('b2')">Bank 2</button>
-                <button onclick="loadBank('b3')">Bank 3</button>
-                <button onclick="loadBank('b4')">Bank 4</button>
-                <button onclick="loadBank('b5')">Bank 5</button>
-                <button onclick="loadBank('dcit')">DC IT</button>
-                <button onclick="loadBank('history')">History</button>
-            </div>
-        </div>
+			<div class="bank-buttons" id="bankButtonsContainer">
+				<!-- Buttons will be generated here by JavaScript -->
+			</div>
+
+			<script>
+				const questionBanks = {
+					'general-knowledge': 'question-banks/general-knowledge.json',
+					'science': 'question-banks/science.json',
+					'history': 'question-banks/history.json',
+					'b1':'question-banks/b1.json',
+					'b2':'question-banks/b2.json',
+					'b3':'question-banks/b3.json',
+					'b4':'question-banks/b4.json',
+					'b5':'question-banks/b5.json',
+					'dcit':'question-banks/dcit.json'
+				};
+
+				// Function to generate the bank buttons
+				function generateBankButtons() {
+					const container = document.getElementById('bankButtonsContainer');
+					
+					// Clear any existing content
+					container.innerHTML = '';
+					
+					// Create buttons for each bank
+					for (const [bankId, bankPath] of Object.entries(questionBanks)) {
+						// Format the display name (replace hyphens with spaces and capitalize)
+						const displayName = bankId.replace(/-/g, ' ')
+											.replace(/\b\w/g, l => l.toUpperCase());
+						
+						// Create the button element
+						const button = document.createElement('button');
+						button.textContent = displayName;
+						button.onclick = function() { loadBank(bankId); };
+						
+						// Add the button to the container
+						container.appendChild(button);
+					}
+				}
+
+				// Call the function when the page loads
+				window.onload = generateBankButtons;
+			</script>
+		
+		</div>
         
         <div class="quiz-info">
             <div class="score-display">Score: <span id="score">0</span>/<span id="total-questions">0</span></div>
