@@ -1,27 +1,225 @@
 {
-    "title": "Science",
+    "title": "Data Communication Chapters 7-17",
     "questions": [
         {
-            "id": "sci1",
-            "text": "What is the chemical symbol for water?",
+            "id": "dc7_1",
+            "text": "Which type of proxy collects requests from users on a local network and, on their behalf, goes on the internet to request the web page?",
             "options": [
-                {"id": "a", "text": "H2O"},
-                {"id": "b", "text": "CO2"},
-                {"id": "c", "text": "NaCl"},
-                {"id": "d", "text": "O2"}
+                {"id": "a", "text": "Reverse proxy"},
+                {"id": "b", "text": "Forward proxy"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc7_2",
+            "text": "Proxy server can be used for",
+            "options": [
+                {"id": "a", "text": "Improve network speed"},
+                {"id": "b", "text": "Privacy"},
+                {"id": "c", "text": "Either a or b"},
+                {"id": "d", "text": "Both a and b"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc7_3",
+            "text": "Which of the following Proxy server passes a false client IP?",
+            "options": [
+                {"id": "a", "text": "Anonymous"},
+                {"id": "b", "text": "Distortion"},
+                {"id": "c", "text": "SSL"},
+                {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "a"
         },
         {
-            "id": "sci2",
-            "text": "Which gas do plants absorb from the atmosphere?",
+            "id": "dc8_1",
+            "text": "Which is the function of DNS?",
             "options": [
-                {"id": "a", "text": "Oxygen"},
-                {"id": "b", "text": "Carbon Dioxide"},
-                {"id": "c", "text": "Nitrogen"},
-                {"id": "d", "text": "Hydrogen"}
+                {"id": "a", "text": "Translate Domain Name to IP Address"},
+                {"id": "b", "text": "Translate IP Address to Domain Name"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc8_2",
+            "text": "Which is the record type for IPv6 Address of a Domain?",
+            "options": [
+                {"id": "a", "text": "A"},
+                {"id": "b", "text": "AAA"},
+                {"id": "c", "text": "AAAA"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc9_1",
+            "text": "What is the system designed to prevent unauthorized access to or from a private network is known as?",
+            "options": [
+                {"id": "a", "text": "Computer scan"},
+                {"id": "b", "text": "Biotech"},
+                {"id": "c", "text": "Firewall"},
+                {"id": "d", "text": "Network Monitoring"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc9_2",
+            "text": "A proxy firewall filters at",
+            "options": [
+                {"id": "a", "text": "Physical layer"},
+                {"id": "b", "text": "Data link layer"},
+                {"id": "c", "text": "Network layer"},
+                {"id": "d", "text": "Application layer"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc10_1",
+            "text": "Which is an access network element?",
+            "options": [
+                {"id": "a", "text": "Modem"},
+                {"id": "b", "text": "OCLAN"},
+                {"id": "c", "text": "RPR"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc11_1",
+            "text": "Maximum Downstream rate of ADSL2+ family",
+            "options": [
+                {"id": "a", "text": "2 Mbps"},
+                {"id": "b", "text": "8 Mbps"},
+                {"id": "c", "text": "12 Mbps"},
+                {"id": "d", "text": "24 Mbps"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc11_2",
+            "text": "In which of the following xDSL technologies the upstream and down stream BW remains the same?",
+            "options": [
+                {"id": "a", "text": "HDSL"},
+                {"id": "b", "text": "SDSL"},
+                {"id": "c", "text": "ADSL"},
+                {"id": "d", "text": "Both a) & b)"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc12_1",
+            "text": "Packets of different services between DSL modem and DSLAM are separated using technology",
+            "options": [
+                {"id": "a", "text": "ATM"},
+                {"id": "b", "text": "FR"},
+                {"id": "c", "text": "QinQ"},
+                {"id": "d", "text": "Port No."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc13_1",
+            "text": "If DSL lamp not permanently glowing, you must check",
+            "options": [
+                {"id": "a", "text": "RJ-45 LAN cable physical connectivity"},
+                {"id": "b", "text": "LAN driver"},
+                {"id": "c", "text": "RJ-11 cable physical connectivity"},
+                {"id": "d", "text": "LAN status"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc14_1",
+            "text": "How many bits are there in an MPLS label?",
+            "options": [
+                {"id": "a", "text": "32"},
+                {"id": "b", "text": "10"},
+                {"id": "c", "text": "20"},
+                {"id": "d", "text": "16"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "dc14_2",
+            "text": "Which device adds or strips label from data entering or leaving MPLS domain?",
+            "options": [
+                {"id": "a", "text": "LSR"},
+                {"id": "b", "text": "LER"},
+                {"id": "c", "text": "Core Router"},
+                {"id": "d", "text": "BNG"}
             ],
             "correctAnswer": "b"
+        },
+        {
+            "id": "dc15_1",
+            "text": "Which is the key concept associated with Big Data?",
+            "options": [
+                {"id": "a", "text": "Volume"},
+                {"id": "b", "text": "Variety"},
+                {"id": "c", "text": "Velocity"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc15_2",
+            "text": "Which is a Cloud Computing Service?",
+            "options": [
+                {"id": "a", "text": "SaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "IaaS"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "dc16_1",
+            "text": "Which language is used to style a webpage?",
+            "options": [
+                {"id": "a", "text": "CSS"},
+                {"id": "b", "text": "Python"},
+                {"id": "c", "text": "MySQL"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc16_2",
+            "text": "Which is a Object Oriented programming Language?",
+            "options": [
+                {"id": "a", "text": "HTML"},
+                {"id": "b", "text": "Python"},
+                {"id": "c", "text": "CSS"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "dc17_1",
+            "text": "What is the EIGRP?",
+            "options": [
+                {"id": "a", "text": "Enhanced Interior Gateway Routing Protocol"},
+                {"id": "b", "text": "Exterior Interior Gateway Routing Protocol"},
+                {"id": "c", "text": "Enhanced International Gateway Routing Protocol"},
+                {"id": "d", "text": "Enhanced Interior Graphical Routing Protocol"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "dc17_2",
+            "text": "Characteristics of EIGRP",
+            "options": [
+                {"id": "a", "text": "EIGRP uses DUAL (Diffusion Update Algorithm) to find unavailable paths."},
+                {"id": "b", "text": "EIGRP supports VLSM and automatic network summarization"},
+                {"id": "c", "text": "EIGRP uses sophisticated composite metric."},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
         }
     ]
 }
