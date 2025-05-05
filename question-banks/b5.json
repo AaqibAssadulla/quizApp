@@ -1,0 +1,1647 @@
+{
+    "title": "JTO Phase I Fundamentals of Transmission Practice Test Questions",
+    "questions": [
+        {
+            "id": "ft1",
+            "text": "What are the advantage of Optical fibre communication",
+            "options": [
+                {"id": "a", "text": "Dielectric Material"},
+                {"id": "b", "text": "Wider Bandwidth"},
+                {"id": "c", "text": "Easy to Handle"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft2",
+            "text": "The inner part of the Fibre is known as:",
+            "options": [
+                {"id": "a", "text": "Core"},
+                {"id": "b", "text": "Cladding"},
+                {"id": "c", "text": "Jacket"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft3",
+            "text": "For Core diameter of 62.5 um what is the Diameter of Cladding:",
+            "options": [
+                {"id": "a", "text": "100 um"},
+                {"id": "b", "text": "125 um"},
+                {"id": "c", "text": "140 um"},
+                {"id": "d", "text": "both a and b"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft4",
+            "text": "L Band is used for:",
+            "options": [
+                {"id": "a", "text": "PON Downstream"},
+                {"id": "b", "text": "Water Peak band"},
+                {"id": "c", "text": "Expanded DWDM Band"},
+                {"id": "d", "text": "PON upstream"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft5",
+            "text": "S Band is used for:",
+            "options": [
+                {"id": "a", "text": "PON Downstream"},
+                {"id": "b", "text": "Water Peak band"},
+                {"id": "c", "text": "Expanded DWDM Band"},
+                {"id": "d", "text": "PON upstream"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft6",
+            "text": "Operational Wavelength For 3rd window is:",
+            "options": [
+                {"id": "a", "text": "850"},
+                {"id": "b", "text": "1310"},
+                {"id": "c", "text": "1550"},
+                {"id": "d", "text": "1620"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft7",
+            "text": "Bending is type of Loss",
+            "options": [
+                {"id": "a", "text": "Intrinsic Loss"},
+                {"id": "b", "text": "Extrinsic Loss"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "Splicing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft8",
+            "text": "Dispersion refers to :",
+            "options": [
+                {"id": "a", "text": "Spreading of Signal"},
+                {"id": "b", "text": "Scattering Of signal"},
+                {"id": "c", "text": "absorption of Signal"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft9",
+            "text": "Chromatic Dispersion is categorized into/average sum of",
+            "options": [
+                {"id": "a", "text": "Material and polar dispersion"},
+                {"id": "b", "text": "Waveguide and polar dispersion"},
+                {"id": "c", "text": "Material and Waveguide dispersion"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft10",
+            "text": "The most common form of scattering, is caused by small variations in the density of glass as it cools.",
+            "options": [
+                {"id": "a", "text": "Rayleigh Scattering"},
+                {"id": "b", "text": "Fresnel Scattering"},
+                {"id": "c", "text": "Modal Scattering"},
+                {"id": "d", "text": "Chromatic Scattering"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft11",
+            "text": "In step index fiber The RI is",
+            "options": [
+                {"id": "a", "text": "Uniform to core and cladding"},
+                {"id": "b", "text": "Uniform only cladding"},
+                {"id": "c", "text": "Uniform to only core"},
+                {"id": "d", "text": "Un-uniform to core and cladding"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft12",
+            "text": "Patch Cord is a type of",
+            "options": [
+                {"id": "a", "text": "Tight Buffer"},
+                {"id": "b", "text": "Loose Buffer"},
+                {"id": "c", "text": "Dummy Buffer"},
+                {"id": "d", "text": "Both a and b"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft13",
+            "text": "Armid yarn is found in",
+            "options": [
+                {"id": "a", "text": "Tight Buffer"},
+                {"id": "b", "text": "Loose Buffer"},
+                {"id": "c", "text": "Dummy Buffer"},
+                {"id": "d", "text": "Both a and b"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft14",
+            "text": "G.651 multimode fibers are used mainly in",
+            "options": [
+                {"id": "a", "text": "Local Area Networks"},
+                {"id": "b", "text": "Wide Area Network"},
+                {"id": "c", "text": "Long distance Networks"},
+                {"id": "d", "text": "Expanded DWDM Band"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft15",
+            "text": "ITU-T G.653 complaint",
+            "options": [
+                {"id": "a", "text": "Non-Zero Dispersion shifted fiber"},
+                {"id": "b", "text": "Dispersion shifted fiber"},
+                {"id": "c", "text": "CUT-OFF shifted fiber"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft16",
+            "text": "ITU-T G.657 Complaint",
+            "options": [
+                {"id": "a", "text": "Non-Zero Dispersion shifted fiber"},
+                {"id": "b", "text": "Dispersion shifted fiber"},
+                {"id": "c", "text": "CUT-OFF shifted fiber"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft17",
+            "text": "ITU-T G.654 complaint:",
+            "options": [
+                {"id": "a", "text": "Non-Zero Dispersion shifted fiber"},
+                {"id": "b", "text": "Dispersion shifted fiber"},
+                {"id": "c", "text": "CUT-OFF shifted fiber"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft18",
+            "text": "ITU-T G.655 complaint:",
+            "options": [
+                {"id": "a", "text": "Non-Zero Dispersion shifted fiber"},
+                {"id": "b", "text": "Dispersion shifted fiber"},
+                {"id": "c", "text": "CUT-OFF shifted fiber"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft19",
+            "text": "NZDSF was introduced in the mid 1990s for",
+            "options": [
+                {"id": "a", "text": "LAN"},
+                {"id": "b", "text": "WDM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft20",
+            "text": "Why the RIP Cord is used:",
+            "options": [
+                {"id": "a", "text": "To Cut the Buffer"},
+                {"id": "b", "text": "To Cut the outer and inner Jacket"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft21",
+            "text": "Which process is the temporary Splicing Process",
+            "options": [
+                {"id": "a", "text": "Fusion"},
+                {"id": "b", "text": "Mechanical"},
+                {"id": "c", "text": "Adhesive"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft22",
+            "text": "Which process use ARC to fuse Fibre",
+            "options": [
+                {"id": "a", "text": "Fusion"},
+                {"id": "b", "text": "Mechanical"},
+                {"id": "c", "text": "Adhesive"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft23",
+            "text": "For which splicing technique You will get worse insertion loss and back reflection",
+            "options": [
+                {"id": "a", "text": "Fusion"},
+                {"id": "b", "text": "Mechanical"},
+                {"id": "c", "text": "Adhesive"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft24",
+            "text": "Which is not a Extrinsic Joint Splice Loss Factor:",
+            "options": [
+                {"id": "a", "text": "Transverse Off-Set"},
+                {"id": "b", "text": "Axial Tilt"},
+                {"id": "c", "text": "Freshnel Reflection"},
+                {"id": "d", "text": "NA Mismatch"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft25",
+            "text": "Which is not a Intrinsic Joint Splice Loss Factor:",
+            "options": [
+                {"id": "a", "text": "RI Profile Mismatch"},
+                {"id": "b", "text": "MFD Mismatch"},
+                {"id": "c", "text": "Fiber Diameter Variation"},
+                {"id": "d", "text": "Freshnel Reflection"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft26",
+            "text": "Full form of MFD",
+            "options": [
+                {"id": "a", "text": "Middle Field Diameter"},
+                {"id": "b", "text": "Mode Field Diameter"},
+                {"id": "c", "text": "Mode File Diameter"},
+                {"id": "d", "text": "Mode Field Dimension"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft27",
+            "text": "The main functions of the Splicing machine are:",
+            "options": [
+                {"id": "a", "text": "Auto Arc Fusion"},
+                {"id": "b", "text": "Auto Alignment"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "only a"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft28",
+            "text": "For mechanical protection of Fusion Splicing part in Fibre we use",
+            "options": [
+                {"id": "a", "text": "Thermo Shrink sleeve"},
+                {"id": "b", "text": "Jacket"},
+                {"id": "c", "text": "Buffer"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft29",
+            "text": "Freon gas is use to:",
+            "options": [
+                {"id": "a", "text": "jelly cleaning"},
+                {"id": "b", "text": "to remove primary coating"},
+                {"id": "c", "text": "to clean the bits of scrapper or stripper"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft30",
+            "text": "Full Form of SJC is:",
+            "options": [
+                {"id": "a", "text": "Straight Joint Closure"},
+                {"id": "b", "text": "Step Joint Closure"},
+                {"id": "c", "text": "Sharp Joint Closure"},
+                {"id": "d", "text": "Straight Joint Closet"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft31",
+            "text": "Full Form of OTDR",
+            "options": [
+                {"id": "a", "text": "Optical Text Domain Reflectometer"},
+                {"id": "b", "text": "Optical Time Domain Refractometer"},
+                {"id": "c", "text": "Optical Time Doing Reflectometer"},
+                {"id": "d", "text": "Optical Time Domain Reflectometer"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft32",
+            "text": "occur when the light traveling down the fiber encounters abrupt changes in material density",
+            "options": [
+                {"id": "a", "text": "Rayleigh"},
+                {"id": "b", "text": "Fresnel"},
+                {"id": "c", "text": "MI"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft33",
+            "text": "If for a 1.5 RI Core fibre, the OTDR measures a time delay of 1.5 us, then the distance travelled by the light is:",
+            "options": [
+                {"id": "a", "text": "100 meter"},
+                {"id": "b", "text": "200 meter"},
+                {"id": "c", "text": "280 meter"},
+                {"id": "d", "text": "300 meter"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft34",
+            "text": "In OTDR Horizontal Scale represents:",
+            "options": [
+                {"id": "a", "text": "distance"},
+                {"id": "b", "text": "Attenuation"},
+                {"id": "c", "text": "power"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft35",
+            "text": "The power level shown on the vertical scale is about -10.8 dB, and at the end of the 300 m run, the power has fallen to about -11.3 dB. A reduction in power level of 0.5 dB in 300 meters indicates a fiber attenuation of:",
+            "options": [
+                {"id": "a", "text": "1.65 db/km"},
+                {"id": "b", "text": "1.66 db/km"},
+                {"id": "c", "text": "1.67 db/km"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft36",
+            "text": "Range discrimination is higher for",
+            "options": [
+                {"id": "a", "text": "Shorter Pulse width"},
+                {"id": "b", "text": "Longer Pulse width"},
+                {"id": "c", "text": "Average Pulse width"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft37",
+            "text": "By OTDR we can Measure",
+            "options": [
+                {"id": "a", "text": "Bend loss"},
+                {"id": "b", "text": "Connector loss"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "only a"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft38",
+            "text": "The maximum amplitude of the Fresnel reflection is of the incoming signal",
+            "options": [
+                {"id": "a", "text": "4%"},
+                {"id": "b", "text": "10%"},
+                {"id": "c", "text": "2%"},
+                {"id": "d", "text": "1%"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft39",
+            "text": "For Averaging methods is used:",
+            "options": [
+                {"id": "a", "text": "least squares averaging"},
+                {"id": "b", "text": "last squares averaging"},
+                {"id": "c", "text": "least set averaging"},
+                {"id": "d", "text": "least shorter averaging"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft40",
+            "text": "Typical backscatter coefficients at 1 ns and 1550 nm wavelength for single-mode fiber of OTDR are",
+            "options": [
+                {"id": "a", "text": "79 dB"},
+                {"id": "b", "text": "81 dB"},
+                {"id": "c", "text": "82 dB"},
+                {"id": "d", "text": "83 dB"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft41",
+            "text": "The terrain which consists of hard rocks or boulders where blasting chiseling is required is known as:",
+            "options": [
+                {"id": "a", "text": "Non-Rocky Soil"},
+                {"id": "b", "text": "Rocky soil"},
+                {"id": "c", "text": "Normal soil"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft42",
+            "text": "Excavation of trench up to a nominal depth of in non-Rocky soil",
+            "options": [
+                {"id": "a", "text": "175 cms"},
+                {"id": "b", "text": "165 cms"},
+                {"id": "c", "text": "185 cms"},
+                {"id": "d", "text": "195 cms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft43",
+            "text": "Normally, For Culverts and Bridge pipes shall be used and use of pipes shall be avoided.",
+            "options": [
+                {"id": "a", "text": "DWC, GI"},
+                {"id": "b", "text": "GI, DWC"},
+                {"id": "c", "text": "RCC, DWC"},
+                {"id": "d", "text": "DWC, OFC"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft44",
+            "text": "Full form of RCC Pipe :",
+            "options": [
+                {"id": "a", "text": "Reinforced concrete cement pipes"},
+                {"id": "b", "text": "Real cement concrete pipes"},
+                {"id": "c", "text": "Reinforced cement concrete pipes"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft45",
+            "text": "Once the alignment is marked, no deviation from the alignment is permissible except with the approval of",
+            "options": [
+                {"id": "a", "text": "Contractor"},
+                {"id": "b", "text": "Manager-in-charge"},
+                {"id": "c", "text": "Labour-in-charge"},
+                {"id": "d", "text": "Engineer-in-charge"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft46",
+            "text": "The slope of the trench shall not be less than with the horizontal surface",
+            "options": [
+                {"id": "a", "text": "15 degrees"},
+                {"id": "b", "text": "25 degrees"},
+                {"id": "c", "text": "35 degrees"},
+                {"id": "d", "text": "45 degrees"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft47",
+            "text": "The contractor shall obtain license from the competent authority for undertaking blasting work as well as for obtaining and storing the explosive as per the",
+            "options": [
+                {"id": "a", "text": "Explosive Act, 1882"},
+                {"id": "b", "text": "Explosive Act, 1883"},
+                {"id": "c", "text": "Explosive Act, 1884"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft48",
+            "text": "A layer of soft soil/or sand (in case the excavated material contains sharp pieces of rock/stones) of not less than is required for leveling the trench to ensure that the cable when laid will follow a straight alignment.",
+            "options": [
+                {"id": "a", "text": "5 cms"},
+                {"id": "b", "text": "15 cms"},
+                {"id": "c", "text": ".5 cms"},
+                {"id": "d", "text": ".05 cms"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft49",
+            "text": "Full form of HDD is:",
+            "options": [
+                {"id": "a", "text": "HDPE directional drilling"},
+                {"id": "b", "text": "Horizontal directional drilling"},
+                {"id": "c", "text": "Horizontal derived drilling"},
+                {"id": "d", "text": "Horizontal directional draining"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft50",
+            "text": "Rubber Bush is used in",
+            "options": [
+                {"id": "a", "text": "DWC Pipe"},
+                {"id": "b", "text": "PLB HDPE Pipe"},
+                {"id": "c", "text": "RCC Pipe"},
+                {"id": "d", "text": "GI Pipe"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft51",
+            "text": "Figure of 8 system of storage cable is known as",
+            "options": [
+                {"id": "a", "text": "Dynamic"},
+                {"id": "b", "text": "Permanent"},
+                {"id": "c", "text": "Static"},
+                {"id": "d", "text": "Hold"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft52",
+            "text": "are frequently used to provide access to cable splices and slack storage coils.",
+            "options": [
+                {"id": "a", "text": "Storage Box"},
+                {"id": "b", "text": "Handholes"},
+                {"id": "c", "text": "Cable drum"},
+                {"id": "d", "text": "Trench"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft53",
+            "text": "For manual pulling, the rope may be attached to a diameter and then to the which is fixed to the cable end by supplier.",
+            "options": [
+                {"id": "a", "text": "Pulling hook"},
+                {"id": "b", "text": "Pulling coil"},
+                {"id": "c", "text": "pulling eye"},
+                {"id": "d", "text": "Pulling clip"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft54",
+            "text": "load sharing is more complicated and requires more equipment and setting up",
+            "options": [
+                {"id": "a", "text": "Dynamic"},
+                {"id": "b", "text": "Permanent"},
+                {"id": "c", "text": "Static"},
+                {"id": "d", "text": "Hold"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft55",
+            "text": "cable pulls, or those involving many bends, may also use center-pull and back feeding techniques.",
+            "options": [
+                {"id": "a", "text": "Longer"},
+                {"id": "b", "text": "shorter"},
+                {"id": "c", "text": "Averagic"},
+                {"id": "d", "text": "More than Pipe"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft56",
+            "text": "Cable blowing systems use high-velocity airflow combined with a pushing force to install the cable.",
+            "options": [
+                {"id": "a", "text": "Low-pressure"},
+                {"id": "b", "text": "Medium-pressure"},
+                {"id": "c", "text": "Average-pressure"},
+                {"id": "d", "text": "high-pressure"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft57",
+            "text": "Factors Influencing the Blow able Length:",
+            "options": [
+                {"id": "a", "text": "Cable weight"},
+                {"id": "b", "text": "Cable stiffness"},
+                {"id": "c", "text": "Outside cable diameter"},
+                {"id": "d", "text": "all"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft58",
+            "text": "The size of the Blowing Chamber is (length x width x depth)",
+            "options": [
+                {"id": "a", "text": "3 m x 1 m x 1.5 m"},
+                {"id": "b", "text": "1.5 m x 1 m x 1.65 m"},
+                {"id": "c", "text": "3 m x 1.5 m x 1.65 m"},
+                {"id": "d", "text": "3 m x 1.65 m x 1.5 m"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft59",
+            "text": "For Outer Diameter of OF cable of 16.5-20 mm we need mm of inner diameter of HDPE Pipe",
+            "options": [
+                {"id": "a", "text": "26 mm"},
+                {"id": "b", "text": "50 mm"},
+                {"id": "c", "text": "32 mm"},
+                {"id": "d", "text": "42 mm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft60",
+            "text": "When using state-of-the art HDPE Telecom Duct and Cable jet blowing machines, it is possible to safely install fibre optic cable around bends without any additional lubricant.",
+            "options": [
+                {"id": "a", "text": "30° to 90°"},
+                {"id": "b", "text": "30° to 120°"},
+                {"id": "c", "text": "0° to 90°"},
+                {"id": "d", "text": "30° to 180°"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft61",
+            "text": "A geostationary satellite revolves above the equator round the earth at a height of km.",
+            "options": [
+                {"id": "a", "text": "35,690 km"},
+                {"id": "b", "text": "35,790 km"},
+                {"id": "c", "text": "35,890 km"},
+                {"id": "d", "text": "35,990 km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft62",
+            "text": "Advantage of Satellite communication are:",
+            "options": [
+                {"id": "a", "text": "High Quality"},
+                {"id": "b", "text": "High Capacity"},
+                {"id": "c", "text": "High Reliability"},
+                {"id": "d", "text": "all"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft63",
+            "text": "Full form of FSS satellite is:",
+            "options": [
+                {"id": "a", "text": "Free Service Satellite"},
+                {"id": "b", "text": "Free Setting Satellite"},
+                {"id": "c", "text": "Fixed Service Satellite"},
+                {"id": "d", "text": "False Service Satellite"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft64",
+            "text": "Echo suppressors is incorporated in the to counteract the echo.",
+            "options": [
+                {"id": "a", "text": "Satellite Payload"},
+                {"id": "b", "text": "Earth station"},
+                {"id": "c", "text": "Satellite Overhead"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft65",
+            "text": "Propagation Delay From earth station to satellite is:",
+            "options": [
+                {"id": "a", "text": "540 ms"},
+                {"id": "b", "text": "120 ms"},
+                {"id": "c", "text": "230 ms"},
+                {"id": "d", "text": "240 ms"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft66",
+            "text": "The \"very small\" component of the VSAT acronym refers to the size of the VSAT antenna Or dish - typically about",
+            "options": [
+                {"id": "a", "text": "2 to 5 feet"},
+                {"id": "b", "text": "2 to 2.5 feet"},
+                {"id": "c", "text": "2 to 5.5 feet"},
+                {"id": "d", "text": "2 to 3 feet"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft67",
+            "text": "BUC in VSAT Outdoor unit Converts signal to signal",
+            "options": [
+                {"id": "a", "text": "RF to IF"},
+                {"id": "b", "text": "IF to Baseband"},
+                {"id": "c", "text": "IF to RF"},
+                {"id": "d", "text": "RF to Baseband"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft68",
+            "text": "LNB in VSAT Outdoor unit Converts signal to signal",
+            "options": [
+                {"id": "a", "text": "R.F. to L.F."},
+                {"id": "b", "text": "I.F. to Baseband"},
+                {"id": "c", "text": "L.F. to R.F."},
+                {"id": "d", "text": "R.F. to Baseband"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft69",
+            "text": "I.F. in VSAT is generally in",
+            "options": [
+                {"id": "a", "text": "Ku Band"},
+                {"id": "b", "text": "L Band"},
+                {"id": "c", "text": "C Band"},
+                {"id": "d", "text": "Ka Band"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft70",
+            "text": "For BSNL VSAT network the Hub shall be located at",
+            "options": [
+                {"id": "a", "text": "Sikanderabad"},
+                {"id": "b", "text": "Kolkata"},
+                {"id": "c", "text": "Bangalore"},
+                {"id": "d", "text": "Pune"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft71",
+            "text": "Full Form of DXC:",
+            "options": [
+                {"id": "a", "text": "Digital Clock Connect"},
+                {"id": "b", "text": "Dual Cross Connect"},
+                {"id": "c", "text": "Digital Cross Connect"},
+                {"id": "d", "text": "Double Cross Connect"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft72",
+            "text": "Full form of NMS is:",
+            "options": [
+                {"id": "a", "text": "Network Management System"},
+                {"id": "b", "text": "New Management System"},
+                {"id": "c", "text": "Network Manager System"},
+                {"id": "d", "text": "Network Management Server"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft73",
+            "text": "DXC available with",
+            "options": [
+                {"id": "a", "text": "96 port"},
+                {"id": "b", "text": "94 port"},
+                {"id": "c", "text": "90 port"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft74",
+            "text": "Driving Distance for HDSL in MLLN",
+            "options": [
+                {"id": "a", "text": "4.2 km at 2 Mbps"},
+                {"id": "b", "text": "3.5 km at 2 Mbps"},
+                {"id": "c", "text": "7 km at 2 Mbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft75",
+            "text": "is built in Master-slave architecture",
+            "options": [
+                {"id": "a", "text": "Basic Node"},
+                {"id": "b", "text": "Midi Node"},
+                {"id": "c", "text": "Cluster Node"},
+                {"id": "d", "text": "Micro Node"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft76",
+            "text": "Maximum Cross Connect capacity is Available in",
+            "options": [
+                {"id": "a", "text": "Basic Node"},
+                {"id": "b", "text": "Midi Node"},
+                {"id": "c", "text": "Cluster Node"},
+                {"id": "d", "text": "Micro Node"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft77",
+            "text": "Maximum Cross Connect capacity of Basic Node is",
+            "options": [
+                {"id": "a", "text": "64 * 8 Mbps"},
+                {"id": "b", "text": "64 Kbps"},
+                {"id": "c", "text": "64 Mbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft78",
+            "text": "XCG card is generally used in",
+            "options": [
+                {"id": "a", "text": "Cluster Node"},
+                {"id": "b", "text": "Basic Node"},
+                {"id": "c", "text": "Accelerator Node"},
+                {"id": "d", "text": "Midi Node"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft79",
+            "text": "Single rack Basic Node has",
+            "options": [
+                {"id": "a", "text": "16 slot"},
+                {"id": "b", "text": "32 slot"},
+                {"id": "c", "text": "8 slot"},
+                {"id": "d", "text": "12 slot"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft80",
+            "text": "VMUX Type III supports no of 64 Kbps port",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "12"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft81",
+            "text": "Full Form of FSO:",
+            "options": [
+                {"id": "a", "text": "Free Service Optics"},
+                {"id": "b", "text": "Full Space Optics"},
+                {"id": "b", "text": "Free Space Optics"},
+                {"id": "d", "text": "Free Software Optics"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft82",
+            "text": "Free Space Optics (FSO) is protocol",
+            "options": [
+                {"id": "a", "text": "Dependent"},
+                {"id": "b", "text": "Independent"},
+                {"id": "c", "text": "Partially dependent"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft83",
+            "text": "FSO Can transmit at distances around",
+            "options": [
+                {"id": "a", "text": "4 km"},
+                {"id": "b", "text": "5 km"},
+                {"id": "c", "text": "6 km"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft84",
+            "text": "FSO technology can be used for",
+            "options": [
+                {"id": "a", "text": "Fiber backup"},
+                {"id": "b", "text": "Metro network extension"},
+                {"id": "c", "text": "Enterprise connectivity"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft85",
+            "text": "Data rates comparable to optical fiber transmission can be carried by Free Space Optics (FSO) Systems with error rates",
+            "options": [
+                {"id": "a", "text": "Very low"},
+                {"id": "b", "text": "Very High"},
+                {"id": "c", "text": "Higher"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft86",
+            "text": "FSO Supports",
+            "options": [
+                {"id": "a", "text": "Voice"},
+                {"id": "b", "text": "Data"},
+                {"id": "c", "text": "Video"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft87",
+            "text": "FSO can transmit Higher-layer protocol including",
+            "options": [
+                {"id": "a", "text": "SDH"},
+                {"id": "b", "text": "PDH"},
+                {"id": "c", "text": "HTTP"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft88",
+            "text": "The buildings served by the high-speed FSO links may be",
+            "options": [
+                {"id": "a", "text": "single user"},
+                {"id": "b", "text": "multi-user"},
+                {"id": "c", "text": "mixed use in nature"},
+                {"id": "d", "text": "ALL"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft89",
+            "text": "FSO networks are based on wavelength systems",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1620 nm"},
+                {"id": "d", "text": "2100 nm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft90",
+            "text": "What are the limitations for FSO:",
+            "options": [
+                {"id": "a", "text": "Heavy rain"},
+                {"id": "b", "text": "Fog"},
+                {"id": "c", "text": "Beam Wander"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft91",
+            "text": "Frame duration of STM-16 is",
+            "options": [
+                {"id": "a", "text": "125 microsecond"},
+                {"id": "b", "text": "250 microsecond"},
+                {"id": "c", "text": "2000 microsecond"},
+                {"id": "d", "text": "3.9 microsecond"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft92",
+            "text": "Which of the following PDH signal process a variation of +30 ppm",
+            "options": [
+                {"id": "a", "text": "2 Mbps"},
+                {"id": "b", "text": "8 Mbps"},
+                {"id": "c", "text": "34 Mbps"},
+                {"id": "d", "text": "140 Mbps"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft93",
+            "text": "The PDH signals 2.048 carries how much voice channels",
+            "options": [
+                {"id": "a", "text": "30"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "120"},
+                {"id": "d", "text": "122"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft94",
+            "text": "Number of rows in STM-4 frame is",
+            "options": [
+                {"id": "a", "text": "9"},
+                {"id": "b", "text": "270"},
+                {"id": "c", "text": "261"},
+                {"id": "d", "text": "5"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft95",
+            "text": "The VC-11/12 POH is used for",
+            "options": [
+                {"id": "a", "text": "Lower order path overhead"},
+                {"id": "b", "text": "Higher order path overhead"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft96",
+            "text": "Function of S1 in SOH of a STM Frame",
+            "options": [
+                {"id": "a", "text": "Frame alignment"},
+                {"id": "b", "text": "Voice connection"},
+                {"id": "c", "text": "Clock quality indicators"},
+                {"id": "d", "text": "Error detector"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft97",
+            "text": "VC-12 supports",
+            "options": [
+                {"id": "a", "text": "2 Mbps"},
+                {"id": "b", "text": "8 Mbps"},
+                {"id": "c", "text": "34 Mbps"},
+                {"id": "d", "text": "140 Mbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft98",
+            "text": "E1 Byte in SOH is used for",
+            "options": [
+                {"id": "a", "text": "STM identifier"},
+                {"id": "b", "text": "Voice connection"},
+                {"id": "c", "text": "Error detection"},
+                {"id": "d", "text": "Automatic protection switching"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft99",
+            "text": "Newer services are mapped to existing transmission network by which protocol of NGSDH",
+            "options": [
+                {"id": "a", "text": "GFP"},
+                {"id": "b", "text": "VCAT"},
+                {"id": "c", "text": "LCAS"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft100",
+            "text": "Granularity in NGSDH is done through",
+            "options": [
+                {"id": "a", "text": "GFP"},
+                {"id": "b", "text": "VCAT"},
+                {"id": "c", "text": "LCAS"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft101",
+            "text": "DWDM stands for",
+            "options": [
+                {"id": "a", "text": "Dense Wave Dividing Multiple"},
+                {"id": "b", "text": "Density Wave Dividing Multiple"},
+                {"id": "c", "text": "Density Waveform Dividing Multiplexing"},
+                {"id": "d", "text": "Dense Wavelength Division Multiplexing"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft102",
+            "text": "The input to the DWDM system may be",
+            "options": [
+                {"id": "a", "text": "TDM signal"},
+                {"id": "b", "text": "ATM signal"},
+                {"id": "c", "text": "Ethernet signal"},
+                {"id": "d", "text": "Any of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft103",
+            "text": "Most commonly used amplifier in DWDM transport network is",
+            "options": [
+                {"id": "a", "text": "Raman"},
+                {"id": "b", "text": "Low band"},
+                {"id": "c", "text": "EDFA"},
+                {"id": "d", "text": "Laser"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft104",
+            "text": "CWDM typically uses spacing (Between two adjacent Channel) of",
+            "options": [
+                {"id": "a", "text": "2000 GHZ"},
+                {"id": "b", "text": "3000 GHZ"},
+                {"id": "c", "text": "4000 GHZ"},
+                {"id": "d", "text": "5000 GHZ"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft105",
+            "text": "The convensional band used in DWDM is",
+            "options": [
+                {"id": "a", "text": "850-1310 nm"},
+                {"id": "b", "text": "1310-1550 nm"},
+                {"id": "c", "text": "1530-1565 nm"},
+                {"id": "d", "text": "1565-1625 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft106",
+            "text": "The long band used in DWDM is",
+            "options": [
+                {"id": "a", "text": "850-1310 nm"},
+                {"id": "b", "text": "1310-1550 nm"},
+                {"id": "c", "text": "1530-1565 nm"},
+                {"id": "d", "text": "1565-1625 nm"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft107",
+            "text": "Common spacing (Between two adjacent Channel) of Dense WDM may be",
+            "options": [
+                {"id": "a", "text": "100 GHZ"},
+                {"id": "b", "text": "200 GHZ"},
+                {"id": "c", "text": "150 GHZ"},
+                {"id": "d", "text": "250 GHZ"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft108",
+            "text": "Post-Amplifier in DWDM transport is used at",
+            "options": [
+                {"id": "a", "text": "Transmit side"},
+                {"id": "b", "text": "Receive side"},
+                {"id": "c", "text": "Both A B"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft109",
+            "text": "Pre-Amplifier in DWDM transport is used at",
+            "options": [
+                {"id": "a", "text": "Transmit side"},
+                {"id": "b", "text": "Receive side"},
+                {"id": "c", "text": "Both A & B"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft110",
+            "text": "which one is the advantage of DWDM technology",
+            "options": [
+                {"id": "a", "text": "High bandwidth"},
+                {"id": "b", "text": "Bit rate & protocol independent technology"},
+                {"id": "c", "text": "Use of embedded fiber"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft111",
+            "text": "Highest Data rate available in PDH is",
+            "options": [
+                {"id": "a", "text": "140 Mbps"},
+                {"id": "b", "text": "144 Mbps"},
+                {"id": "c", "text": "8 Mbps"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft112",
+            "text": "Which is the correct sequence of Evolution of Transport Technology?",
+            "options": [
+                {"id": "a", "text": "SDH - PDH - NGSDH - Carrier Ethernet"},
+                {"id": "b", "text": "SDH - PDH - Carrier Ethernet - NGSDH"},
+                {"id": "c", "text": "PDH - SDH - NGSDH - Carrier Ethernet"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft113",
+            "text": "Which is the drawback of SDH/SONET?",
+            "options": [
+                {"id": "a", "text": "Lack of dynamic functionality and rapid scalability"},
+                {"id": "b", "text": "Ports of SDH/SONET network elements are not programmable"},
+                {"id": "c", "text": "Customer cannot avail the flexible data rates"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft114",
+            "text": "Which is the advantage of MSPP?",
+            "options": [
+                {"id": "a", "text": "Rapid end-to-end service provisioning and efficient OAM functions"},
+                {"id": "b", "text": "Cost-effective as a single box can take care of the TDM, packet as well as wavelength services"},
+                {"id": "c", "text": "Legacy TDM and optical network support for all restoration techniques, topologies, and transmission criteria"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft115",
+            "text": "Which is a Metro Ethernet Service delivery Technology?",
+            "options": [
+                {"id": "a", "text": "Ethernet over Fibre"},
+                {"id": "b", "text": "Ethernet over SDH"},
+                {"id": "c", "text": "Ethernet over RPR"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft116",
+            "text": "Which is not a Point to Point Ethernet Transport Technology?",
+            "options": [
+                {"id": "a", "text": "EOS"},
+                {"id": "b", "text": "EOWDM"},
+                {"id": "c", "text": "EOF"},
+                {"id": "d", "text": "EORPR"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft117",
+            "text": "What is the full form of ROADM?",
+            "options": [
+                {"id": "a", "text": "Regenerating Add/Drop Multiplexing"},
+                {"id": "b", "text": "Reconfigurable Add/Drop Multiplexers"},
+                {"id": "c", "text": "Reconfigurable Add/Drop Multiplexing"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft118",
+            "text": "What is the full form of CPAN?",
+            "options": [
+                {"id": "a", "text": "Comprehensive Perl Archive Network"},
+                {"id": "b", "text": "Converged Packet Aggregation Network"},
+                {"id": "c", "text": "Converged Packet Access Network"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft119",
+            "text": "CPAN is based on which Technology?",
+            "options": [
+                {"id": "a", "text": "MPLS"},
+                {"id": "b", "text": "MPLS TP"},
+                {"id": "c", "text": "G-MPLS"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft120",
+            "text": "Which is the feature of AON?",
+            "options": [
+                {"id": "a", "text": "All network-to network interfaces are based on optical transmission"},
+                {"id": "b", "text": "All user-to-network interfaces use optical transmission"},
+                {"id": "c", "text": "All switching and routing within AON network nodes is performed optically"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft121",
+            "text": "Which one of the following is NOT true about FTTH?",
+            "options": [
+                {"id": "a", "text": "It supports various traffic types"},
+                {"id": "b", "text": "Can be deployed in large scale"},
+                {"id": "c", "text": "Support legacy TDM services such as leased lines and traditional POTS"},
+                {"id": "d", "text": "Voice call set up is through PSIN switches"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft122",
+            "text": "Which one of the following is NOT true about FTTH?",
+            "options": [
+                {"id": "a", "text": "Provides analog / digital CATV services"},
+                {"id": "b", "text": "Supports 60 KM theoretical distance"},
+                {"id": "c", "text": "Supports HDTV services"},
+                {"id": "d", "text": "All components in the network require power supply to work"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft123",
+            "text": "Which of the following wavelengths is used in TV broadcast in FTTH?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1490 nm"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft124",
+            "text": "Which of the following equipments is passive in FTTH?",
+            "options": [
+                {"id": "a", "text": "Optical Splutter"},
+                {"id": "b", "text": "OLT"},
+                {"id": "c", "text": "ONU"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft125",
+            "text": "What is true if one optical fiber input is cut in a 2:4 splitter?",
+            "options": [
+                {"id": "a", "text": "All the customers will get internet"},
+                {"id": "b", "text": "Few customer service is totally stopped"},
+                {"id": "c", "text": "All customers will have either uplink or downlink channel working"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft126",
+            "text": "The current class of LASER generally used in FTTH is",
+            "options": [
+                {"id": "a", "text": "Class A"},
+                {"id": "b", "text": "Class B"},
+                {"id": "c", "text": "Class B+"},
+                {"id": "d", "text": "Class C"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft127",
+            "text": "The current version of LASER has a power budget of",
+            "options": [
+                {"id": "a", "text": "10-25 dBm"},
+                {"id": "b", "text": "13-28 dBm"},
+                {"id": "c", "text": "15-30 dBm"},
+                {"id": "d", "text": "5-20 dBm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft128",
+            "text": "FTTH is a leading technology that provides long reach and high speed using",
+            "options": [
+                {"id": "a", "text": "Single fiber"},
+                {"id": "b", "text": "Two fiber"},
+                {"id": "c", "text": "Three fiber"},
+                {"id": "d", "text": "Four fiber"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft129",
+            "text": "What is the maximum distance from OLT to ONU?",
+            "options": [
+                {"id": "a", "text": "20 KM"},
+                {"id": "b", "text": "15 KM"},
+                {"id": "c", "text": "60 KM"},
+                {"id": "d", "text": "50 KM"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft130",
+            "text": "Which technology is used to decouple uplink and downlink data paths in GPON?",
+            "options": [
+                {"id": "a", "text": "PCM"},
+                {"id": "b", "text": "WDM"},
+                {"id": "c", "text": "RPR"},
+                {"id": "d", "text": "PAN"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft131",
+            "text": "The full form of MPLS-TP is",
+            "options": [
+                {"id": "a", "text": "Multi Protocol Label Switching-Transport Profile"},
+                {"id": "b", "text": "Multi protocol Level Switching-Transport Profile"},
+                {"id": "c", "text": "Multi Protocol Label Switching-Transmission Protocol"},
+                {"id": "d", "text": "Multi Protocol Label Switching-Transmission Profile"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft132",
+            "text": "The full form of LSP is",
+            "options": [
+                {"id": "a", "text": "Label Switching Protocol"},
+                {"id": "b", "text": "Label Switched Path"},
+                {"id": "c", "text": "Level Switching Profile"},
+                {"id": "d", "text": "Label Switched Protocol"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft133",
+            "text": "What is NOT true about LSP?",
+            "options": [
+                {"id": "a", "text": "It is unidirectional"},
+                {"id": "b", "text": "It is bidirectional"},
+                {"id": "c", "text": "LSP is created before data transmission"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft134",
+            "text": "In MPLS-TP, the protection switching time is",
+            "options": [
+                {"id": "a", "text": "≤ 50 ms"},
+                {"id": "b", "text": "< 50 ns"},
+                {"id": "c", "text": "< 100 ms"},
+                {"id": "d", "text": "< 50 μs"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft135",
+            "text": "CPAN equipments can be connected in",
+            "options": [
+                {"id": "a", "text": "Only linear topology"},
+                {"id": "b", "text": "Only ring topology"},
+                {"id": "c", "text": "Full mesh topology"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft136",
+            "text": "CPAN equipments support...",
+            "options": [
+                {"id": "a", "text": "Ethernet traffic only"},
+                {"id": "b", "text": "E1 traffic only"},
+                {"id": "c", "text": "STM traffic only"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft137",
+            "text": "What is NOT true about the following?",
+            "options": [
+                {"id": "a", "text": "In SDH technology only 50% of bandwidth can be used"},
+                {"id": "b", "text": "In CPAN technology, almost all bandwidth can be used"},
+                {"id": "c", "text": "MPLS-TP protection mechanism is not as strong as SDH technology"},
+                {"id": "d", "text": "MPLS-TP has a strong OAM function"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft138",
+            "text": "Which of the following features is NOT there in MPLS-TP?",
+            "options": [
+                {"id": "a", "text": "PHP"},
+                {"id": "b", "text": "ECMP"},
+                {"id": "c", "text": "LSP merge"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft139",
+            "text": "With respect to MPLS-TP, what is NOT true?",
+            "options": [
+                {"id": "a", "text": "Tx and Rx follow the same path"},
+                {"id": "b", "text": "Tx and Rx follow different path"},
+                {"id": "c", "text": "Jitter performance is improved"},
+                {"id": "d", "text": "Improved OAM functionalities"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft140",
+            "text": "Which of the following is NOT true about CPAN?",
+            "options": [
+                {"id": "a", "text": "It is connection oriented"},
+                {"id": "b", "text": "It supports voice, video and data"},
+                {"id": "c", "text": "It supports IP packets only"},
+                {"id": "d", "text": "Can be used in point-to-point or point-to-multipoint network"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "ft141",
+            "text": "Consider the following statements i) SONET/SDH is designed to support efficient transport of circuit switched traffic ii) OTN is designed to support efficient transport of packet data iii) OTN is able to support the multiplexing of many different protocols including SONET/SDH, video, and storage protocols such as Fiber Channel. Which one of the above is/are TRUE?",
+            "options": [
+                {"id": "a", "text": "Only (i) and (ii) are true"},
+                {"id": "b", "text": "Only (i) and (iii) are true"},
+                {"id": "c", "text": "Only (ii) and (iii) are true"},
+                {"id": "d", "text": "All are true"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "ft142",
+            "text": "The FEC in OTN can improve Signal-to-noise ratio (SNR) by approximately",
+            "options": [
+                {"id": "a", "text": "6.2 dB"},
+                {"id": "b", "text": "4.2 dB"},
+                {"id": "c", "text": "11 dB"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft143",
+            "text": "What is NOT true about OTN?",
+            "options": [
+                {"id": "a", "text": "In OTN, Timing distribution is required"},
+                {"id": "b", "text": "OTN Performs single stage multiplexing"},
+                {"id": "c", "text": "OTN is designed to operate on multiple wavelengths (DWDM)"},
+                {"id": "d", "text": "OTN scales 100 Gbps and beyond"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft144",
+            "text": "What is NOT true?",
+            "options": [
+                {"id": "a", "text": "OTN uses a fixed frame size and increases frame rate to match the client rate"},
+                {"id": "b", "text": "SDH uses a fixed frame rate for a given line rate and increases frame size (or uses concatenation of multiple frames) as client size increases"},
+                {"id": "c", "text": "In OTN, FEC sized for error correction to correct 16 blocks per frame"},
+                {"id": "d", "text": "SDH Scales to a maximum of 60 Ghis"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft145",
+            "text": "OTN standard is",
+            "options": [
+                {"id": "a", "text": "G.709"},
+                {"id": "b", "text": "G.907"},
+                {"id": "c", "text": "G.708"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft146",
+            "text": "OTN frame has overhead areas",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "2"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft147",
+            "text": "OTN terminal equipments are used in.",
+            "options": [
+                {"id": "a", "text": "Point-to-point connection through DWDM equipments"},
+                {"id": "b", "text": "Point-to-multi point connection"},
+                {"id": "c", "text": "Ring topology"},
+                {"id": "d", "text": "may be P2P, P2MP or Ring"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "ft148",
+            "text": "Which fiber type to be used for planning of long distance optical link?",
+            "options": [
+                {"id": "a", "text": "G.652 fiber"},
+                {"id": "b", "text": "G.655"},
+                {"id": "c", "text": "G.653"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft149",
+            "text": "Which laser to be planned for short distance optical link?",
+            "options": [
+                {"id": "a", "text": "1310 mm shut"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1510 nm"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "ft150",
+            "text": "Which is the correct formula to measure Power Margin?",
+            "options": [
+                {"id": "a", "text": "Power Budget + Link Loss"},
+                {"id": "b", "text": "Power Budget - Link Loss"},
+                {"id": "c", "text": "Power Budget - Receiver Sensitivity"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}

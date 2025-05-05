@@ -87,6 +87,8 @@ h1 {
     background-color: #f8f9fa;
     position: relative;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+	padding-right: 80px; /* Add right padding for button space */
+
 }
 
 .question-text {
