@@ -1,0 +1,280 @@
+{
+    "title": "Networking",
+    "questions": [
+        {
+            "id": "net1",
+            "text": "What is the process of adding control information as header to user data called?",
+            "options": [
+                {"id": "a", "text": "Data Encapsulation"},
+                {"id": "b", "text": "Data Manipulation"},
+                {"id": "c", "text": "Data Encryption"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net2",
+            "text": "Which protocol is used by devices to resolve/get the MAC address?",
+            "options": [
+                {"id": "a", "text": "Address Resolution Protocol"},
+                {"id": "b", "text": "Address Resource Protocol"},
+                {"id": "c", "text": "Application Resolution Protocol"},
+                {"id": "d", "text": "None of them"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net3",
+            "text": "Which protocol is used between end systems and the multicast router to establish multicast group memberships?",
+            "options": [
+                {"id": "a", "text": "Internet Group Management Protocol (IGMP)"},
+                {"id": "b", "text": "Internet Control Message Protocol (ICMP)"},
+                {"id": "c", "text": "Both of the above"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net4",
+            "text": "Which protocol determines whether data reaches its destination in a timely manner?",
+            "options": [
+                {"id": "a", "text": "Internet Group Management Protocol (IGMP)"},
+                {"id": "b", "text": "Internet Control Message Protocol (ICMP)"},
+                {"id": "c", "text": "Both of the above"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "net5",
+            "text": "What type of protocol is Secure Shell (SSH)?",
+            "options": [
+                {"id": "a", "text": "Network Communication Protocol"},
+                {"id": "b", "text": "Network Monitoring Protocol"},
+                {"id": "c", "text": "Application Protocol"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net6",
+            "text": "Which of the following are routing protocols?",
+            "options": [
+                {"id": "a", "text": "RIP, OSPF, EIGRP, BGP"},
+                {"id": "b", "text": "HTTP, HTTPS"},
+                {"id": "c", "text": "TCP, UDP"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net7",
+            "text": "Which application protocol establishes a bidirectional, text-oriented communication using a virtual terminal connection?",
+            "options": [
+                {"id": "a", "text": "Telnet"},
+                {"id": "b", "text": "Putty"},
+                {"id": "c", "text": "Remote Terminal"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net8",
+            "text": "Which are examples of Data Link WAN specifications?",
+            "options": [
+                {"id": "a", "text": "Frame Relay & PPP"},
+                {"id": "b", "text": "Token Ring"},
+                {"id": "c", "text": "Ethernet"},
+                {"id": "d", "text": "FDDI"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net9",
+            "text": "What are the two sub-layers of the Data Link layer?",
+            "options": [
+                {"id": "a", "text": "MAC & LLC"},
+                {"id": "b", "text": "MAC & LCC"},
+                {"id": "c", "text": "MAC & PPP"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net10",
+            "text": "Which OSI layer provides reliable connection-oriented and unreliable connectionless services, maintains flow control, and provides error checking and recovery?",
+            "options": [
+                {"id": "a", "text": "Data Link Layer"},
+                {"id": "b", "text": "Session Layer"},
+                {"id": "c", "text": "Transport Layer"},
+                {"id": "d", "text": "Network Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "net11",
+            "text": "IPv4 and IPv6 are examples of which type of protocols?",
+            "options": [
+                {"id": "a", "text": "Routed"},
+                {"id": "b", "text": "Routing"},
+                {"id": "c", "text": "BGP"},
+                {"id": "d", "text": "OSPF"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net12",
+            "text": "In HTTPS, the communication protocol is encrypted using?",
+            "options": [
+                {"id": "a", "text": "Transport Layer Security"},
+                {"id": "b", "text": "RS-232"},
+                {"id": "c", "text": "Secure Hashing Algorithm"},
+                {"id": "d", "text": "Advanced Encryption Service"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net13",
+            "text": "HTTP is which type of protocol?",
+            "options": [
+                {"id": "a", "text": "Pull"},
+                {"id": "b", "text": "Push"},
+                {"id": "c", "text": "Pop"},
+                {"id": "d", "text": "Swap"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net14",
+            "text": "Routed protocols encapsulate data into?",
+            "options": [
+                {"id": "a", "text": "Packets"},
+                {"id": "b", "text": "Segments"},
+                {"id": "c", "text": "Frames"},
+                {"id": "d", "text": "MARC"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net15",
+            "text": "Gateways operate in which OSI layer?",
+            "options": [
+                {"id": "a", "text": "Application"},
+                {"id": "b", "text": "Network"},
+                {"id": "c", "text": "Transport"},
+                {"id": "d", "text": "Data Link Layer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net16",
+            "text": "A segment is a protocol data unit of which layer?",
+            "options": [
+                {"id": "a", "text": "Transport"},
+                {"id": "b", "text": "Network"},
+                {"id": "c", "text": "Data Link Layer"},
+                {"id": "d", "text": "Session"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net17",
+            "text": "How many layers does a layer in the OSI model communicate with?",
+            "options": [
+                {"id": "a", "text": "Three"},
+                {"id": "b", "text": "Two"},
+                {"id": "c", "text": "Four"},
+                {"id": "d", "text": "One"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net18",
+            "text": "Which OSI layer handles flow control and windowing?",
+            "options": [
+                {"id": "a", "text": "Transport"},
+                {"id": "b", "text": "Network"},
+                {"id": "c", "text": "Data Link Layer"},
+                {"id": "d", "text": "Presentation"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net19",
+            "text": "FTP is a protocol of which layer?",
+            "options": [
+                {"id": "a", "text": "Application"},
+                {"id": "b", "text": "Session"},
+                {"id": "c", "text": "Presentation"},
+                {"id": "d", "text": "Transport"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net20",
+            "text": "Routing and routed protocols reside on which layer?",
+            "options": [
+                {"id": "a", "text": "Network"},
+                {"id": "b", "text": "Transport"},
+                {"id": "c", "text": "Data Link Layer"},
+                {"id": "d", "text": "Session"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net21",
+            "text": "Which is a WAN specification?",
+            "options": [
+                {"id": "a", "text": "Ethernet"},
+                {"id": "b", "text": "BRI"},
+                {"id": "c", "text": "Fast Ethernet"},
+                {"id": "d", "text": "FDDI"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "net22",
+            "text": "Bridges and switches operate at which layer?",
+            "options": [
+                {"id": "a", "text": "Data Link Layer"},
+                {"id": "b", "text": "Physical Layer"},
+                {"id": "c", "text": "Network Layer"},
+                {"id": "d", "text": "Transport Layer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "net23",
+            "text": "Which layer negotiates communication modes like simplex, half-duplex, or full-duplex?",
+            "options": [
+                {"id": "a", "text": "Presentation Layer"},
+                {"id": "b", "text": "Application Layer"},
+                {"id": "c", "text": "Session Layer"},
+                {"id": "d", "text": "Transport Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "net24",
+            "text": "SNMP is a protocol of which layer?",
+            "options": [
+                {"id": "a", "text": "Presentation Layer"},
+                {"id": "b", "text": "Transport Layer"},
+                {"id": "c", "text": "Application Layer"},
+                {"id": "d", "text": "Network Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "net25",
+            "text": "Which is an example of a session layer protocol?",
+            "options": [
+                {"id": "a", "text": "SCTP"},
+                {"id": "b", "text": "RSVP"},
+                {"id": "c", "text": "SQL"},
+                {"id": "d", "text": "TCP"}
+            ],
+            "correctAnswer": "c"
+        }
+    ]
+}
