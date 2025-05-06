@@ -1,0 +1,555 @@
+{
+    "title": "ERP Notes for JTO Phase-I",
+    "questions": [
+        {
+            "id": "erp_1",
+            "text": "Which is not a key partner in BSNL’s ERP project?",
+            "options": [
+                {"id": "a", "text": "HCL Infosystems"},
+                {"id": "b", "text": "SAP"},
+                {"id": "c", "text": "E&Y"},
+                {"id": "d", "text": "Oracle"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "erp_2",
+            "text": "What is the primary site for BSNL’s ERP system?",
+            "options": [
+                {"id": "a", "text": "Kolkata"},
+                {"id": "b", "text": "Hyderabad"},
+                {"id": "c", "text": "Ghaziabad"},
+                {"id": "d", "text": "Mumbai"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_3",
+            "text": "Which is not an ERP module at BSNL?",
+            "options": [
+                {"id": "a", "text": "FICO"},
+                {"id": "b", "text": "HCM"},
+                {"id": "c", "text": "CRM"},
+                {"id": "d", "text": "REM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_4",
+            "text": "What is the client server code for the actual production server?",
+            "options": [
+                {"id": "a", "text": "300"},
+                {"id": "b", "text": "400"},
+                {"id": "c", "text": "500"},
+                {"id": "d", "text": "600"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_5",
+            "text": "Which shortcut key executes an action in ERP?",
+            "options": [
+                {"id": "a", "text": "F1"},
+                {"id": "b", "text": "F2"},
+                {"id": "c", "text": "F3"},
+                {"id": "d", "text": "F4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_6",
+            "text": "Which message type indicates an error in ERP?",
+            "options": [
+                {"id": "a", "text": "W"},
+                {"id": "b", "text": "E"},
+                {"id": "c", "text": "I"},
+                {"id": "d", "text": "S"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_7",
+            "text": "Which is not a leave type applied via ERP?",
+            "options": [
+                {"id": "a", "text": "Casual Leave"},
+                {"id": "b", "text": "Earned Leave"},
+                {"id": "c", "text": "Maternity Leave"},
+                {"id": "d", "text": "Child Care Leave"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_8",
+            "text": "Which is not an ESS option in ERP?",
+            "options": [
+                {"id": "a", "text": "Leave"},
+                {"id": "b", "text": "Employee Claim"},
+                {"id": "c", "text": "Inventory Management"},
+                {"id": "d", "text": "Pay Information"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_9",
+            "text": "Which general claim is not supported by ESS?",
+            "options": [
+                {"id": "a", "text": "Broadband Bill"},
+                {"id": "b", "text": "Newspaper"},
+                {"id": "c", "text": "Medical Treatment"},
+                {"id": "d", "text": "Towel"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_10",
+            "text": "Who can apply for general LTC (anywhere in India)?",
+            "options": [
+                {"id": "a", "text": "Employees ≥55 years"},
+                {"id": "b", "text": "Employees ≥59 years"},
+                {"id": "c", "text": "All employees"},
+                {"id": "d", "text": "Retired employees"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_11",
+            "text": "Which is not part of HCM’s Enterprise Structure?",
+            "options": [
+                {"id": "a", "text": "Client"},
+                {"id": "b", "text": "Personal Area/Circle"},
+                {"id": "c", "text": "Work Centre"},
+                {"id": "d", "text": "Personnel Subarea/SSA"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_12",
+            "text": "Which Organizational Structure object represents physical locations?",
+            "options": [
+                {"id": "a", "text": "Organizational Units"},
+                {"id": "b", "text": "Work Centre"},
+                {"id": "c", "text": "Jobs"},
+                {"id": "d", "text": "Positions"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_13",
+            "text": "Which is not an Employee Subgroup in HCM?",
+            "options": [
+                {"id": "a", "text": "Group A"},
+                {"id": "b", "text": "Group B"},
+                {"id": "c", "text": "Group E"},
+                {"id": "d", "text": "Industrial Workers"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_14",
+            "text": "What is the T-Code to maintain HR master data?",
+            "options": [
+                {"id": "a", "text": "PA30"},
+                {"id": "b", "text": "PA40"},
+                {"id": "c", "text": "PPOSE"},
+                {"id": "d", "text": "PPOME"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_15",
+            "text": "Which Infotype is used for Personal IDs?",
+            "options": [
+                {"id": "a", "text": "0002"},
+                {"id": "b", "text": "0006"},
+                {"id": "c", "text": "0185"},
+                {"id": "d", "text": "2001"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_16",
+            "text": "Which is not a function of MSS in HCM?",
+            "options": [
+                {"id": "a", "text": "Look-after arrangements"},
+                {"id": "b", "text": "View subordinate leave details"},
+                {"id": "c", "text": "Procurement requests"},
+                {"id": "d", "text": "Service connection issuance"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_17",
+            "text": "Which is not a process in the MM module?",
+            "options": [
+                {"id": "a", "text": "Goods receipt"},
+                {"id": "b", "text": "Inventory analysis"},
+                {"id": "c", "text": "Payroll processing"},
+                {"id": "d", "text": "Stock transfer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_18",
+            "text": "What is the T-Code for goods receipt in MM?",
+            "options": [
+                {"id": "a", "text": "ME54N"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "ME29N"},
+                {"id": "d", "text": "ML81N"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_19",
+            "text": "Which account assignment is used for cost centres in MM?",
+            "options": [
+                {"id": "a", "text": "K"},
+                {"id": "b", "text": "I"},
+                {"id": "c", "text": "A"},
+                {"id": "d", "text": "P"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_20",
+            "text": "Which tax code represents zero tax in MM?",
+            "options": [
+                {"id": "a", "text": "10"},
+                {"id": "b", "text": "20"},
+                {"id": "c", "text": "30"},
+                {"id": "d", "text": "40"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_21",
+            "text": "Which is not a release type for APO in MM?",
+            "options": [
+                {"id": "a", "text": "R1"},
+                {"id": "b", "text": "R2"},
+                {"id": "c", "text": "P1"},
+                {"id": "d", "text": "S1"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "erp_22",
+            "text": "What is the T-Code to amend a PO after R2 release in MM?",
+            "options": [
+                {"id": "a", "text": "ZMMP_INI_AMEND"},
+                {"id": "b", "text": "ME35K"},
+                {"id": "c", "text": "ME54N"},
+                {"id": "d", "text": "ML81N"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_23",
+            "text": "Which is not a component of the PS module?",
+            "options": [
+                {"id": "a", "text": "Work Breakdown Structure"},
+                {"id": "b", "text": "Project Definition"},
+                {"id": "c", "text": "Lease Management"},
+                {"id": "d", "text": "Statistical Key Figure"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_24",
+            "text": "What is the T-Code to create a project in PS?",
+            "options": [
+                {"id": "a", "text": "CJ01"},
+                {"id": "b", "text": "CJ02"},
+                {"id": "c", "text": "CJ03"},
+                {"id": "d", "text": "CN21"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_25",
+            "text": "Which T-Code is used to monitor project milestones in PS?",
+            "options": [
+                {"id": "a", "text": "CN41"},
+                {"id": "b", "text": "CN53"},
+                {"id": "c", "text": "CJ13"},
+                {"id": "d", "text": "CJS2"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_26",
+            "text": "What does TECO stand for in PS?",
+            "options": [
+                {"id": "a", "text": "Technical Completion"},
+                {"id": "b", "text": "Temporary Costing"},
+                {"id": "c", "text": "Task Execution"},
+                {"id": "d", "text": "Total Estimate"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_27",
+            "text": "Which is not a sub-module of FI in FICO?",
+            "options": [
+                {"id": "a", "text": "General Ledger"},
+                {"id": "b", "text": "Accounts Receivable"},
+                {"id": "c", "text": "Cost Centers"},
+                {"id": "d", "text": "Asset Accounting"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_28",
+            "text": "What is the T-Code for invoice verification in FICO?",
+            "options": [
+                {"id": "a", "text": "MIRO"},
+                {"id": "b", "text": "MIR4"},
+                {"id": "c", "text": "FB03"},
+                {"id": "d", "text": "ZF1057"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_29",
+            "text": "Which document type denotes a vendor document in FICO?",
+            "options": [
+                {"id": "a", "text": "SA"},
+                {"id": "b", "text": "KA"},
+                {"id": "c", "text": "DA"},
+                {"id": "d", "text": "ZA"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_30",
+            "text": "How many special posting periods are defined in FICO?",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "4"},
+                {"id": "d", "text": "5"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_31",
+            "text": "Which is not part of the FICO organization structure?",
+            "options": [
+                {"id": "a", "text": "Company"},
+                {"id": "b", "text": "Company Code"},
+                {"id": "c", "text": "Business Area"},
+                {"id": "d", "text": "Work Centre"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "erp_32",
+            "text": "What does ZBOP stand for in FICO?",
+            "options": [
+                {"id": "a", "text": "Auto Swipe"},
+                {"id": "b", "text": "Outgoing Payments"},
+                {"id": "c", "text": "Incoming Payments"},
+                {"id": "d", "text": "Unidentified Transaction"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "erp_33",
+            "text": "Which is not a service covered by the S&D module?",
+            "options": [
+                {"id": "a", "text": "Consumer Mobility"},
+                {"id": "b", "text": "POI"},
+                {"id": "c", "text": "Payroll Processing"},
+                {"id": "d", "text": "Scrap"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_34",
+            "text": "What is the distribution channel code for Direct Sales in S&D?",
+            "options": [
+                {"id": "a", "text": "01"},
+                {"id": "b", "text": "02"},
+                {"id": "c", "text": "03"},
+                {"id": "d", "text": "04"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_35",
+            "text": "Which is not a document created in the S&D module?",
+            "options": [
+                {"id": "a", "text": "Sale Order"},
+                {"id": "b", "text": "Invoice"},
+                {"id": "c", "text": "Purchase Order"},
+                {"id": "d", "text": "Credit Memo"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_36",
+            "text": "What is the process called for issuing inventory to Post Office in S&D?",
+            "options": [
+                {"id": "a", "text": "Consignment Fill-Up"},
+                {"id": "b", "text": "Consignment Pickup"},
+                {"id": "c", "text": "Post Goods Issue"},
+                {"id": "d", "text": "Stock Transfer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_37",
+            "text": "Which is not a significance of the S&D module?",
+            "options": [
+                {"id": "a", "text": "Centralized customer database"},
+                {"id": "b", "text": "Inventory tracking"},
+                {"id": "c", "text": "Employee payroll"},
+                {"id": "d", "text": "Sales-revenue reconciliation"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_38",
+            "text": "Which is not managed by the REM module?",
+            "options": [
+                {"id": "a", "text": "Land"},
+                {"id": "b", "text": "Buildings"},
+                {"id": "c", "text": "Towers"},
+                {"id": "d", "text": "Payroll"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "erp_39",
+            "text": "What is the contract code for land lease-out in REM?",
+            "options": [
+                {"id": "a", "text": "2001"},
+                {"id": "b", "text": "2002"},
+                {"id": "c", "text": "2051"},
+                {"id": "d", "text": "2061"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_40",
+            "text": "Which code is used for staff quarter allotment to BSNL employees in REM?",
+            "options": [
+                {"id": "a", "text": "2800"},
+                {"id": "b", "text": "2820"},
+                {"id": "c", "text": "2830"},
+                {"id": "d", "text": "2840"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_41",
+            "text": "Which is not a type of data in the REM module?",
+            "options": [
+                {"id": "a", "text": "Master Data"},
+                {"id": "b", "text": "Transactional Data"},
+                {"id": "c", "text": "Roles/Authorization Data"},
+                {"id": "d", "text": "Payroll Data"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "erp_42",
+            "text": "What is the T-Code to create a breakdown notification in PM?",
+            "options": [
+                {"id": "a", "text": "IW21"},
+                {"id": "b", "text": "IW22"},
+                {"id": "c", "text": "PA30"},
+                {"id": "d", "text": "CJ01"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_43",
+            "text": "Which priority in PM must be attended within 4 hours?",
+            "options": [
+                {"id": "a", "text": "Major"},
+                {"id": "b", "text": "Minor"},
+                {"id": "c", "text": "Critical"},
+                {"id": "d", "text": "Routine"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_44",
+            "text": "What does NOCO stand for in PM?",
+            "options": [
+                {"id": "a", "text": "Notification Completion"},
+                {"id": "b", "text": "New Order Creation"},
+                {"id": "c", "text": "Network Optimization"},
+                {"id": "d", "text": "Normal Costing"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_45",
+            "text": "Which is not a step in the PM breakdown maintenance process?",
+            "options": [
+                {"id": "a", "text": "Raise Notification"},
+                {"id": "b", "text": "Assign Person"},
+                {"id": "c", "text": "Lease Property"},
+                {"id": "d", "text": "Technical Completion"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_46",
+            "text": "Which module uses the MANTIS helpdesk?",
+            "options": [
+                {"id": "a", "text": "FICO"},
+                {"id": "b", "text": "HCM"},
+                {"id": "c", "text": "ERP General"},
+                {"id": "d", "text": "REM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_47",
+            "text": "Which is not a responsibility of module teams in ERP implementation?",
+            "options": [
+                {"id": "a", "text": "Finalize SRS"},
+                {"id": "b", "text": "Conduct BPR"},
+                {"id": "c", "text": "Manage data centers"},
+                {"id": "d", "text": "Configure system"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "erp_48",
+            "text": "What is the PERNER series for new employees in HCM?",
+            "options": [
+                {"id": "a", "text": "60XX0001–60XX9999"},
+                {"id": "b", "text": "80XX0001–80XX9999"},
+                {"id": "c", "text": "50XX0001–50XX9999"},
+                {"id": "d", "text": "70XX0001–70XX9999"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "erp_49",
+            "text": "Which is not a delivery plant in the S&D module?",
+            "options": [
+                {"id": "a", "text": "Telecom Circles"},
+                {"id": "b", "text": "Telecom Factories"},
+                {"id": "c", "text": "Corporate Office"},
+                {"id": "d", "text": "Employee Quarters"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "erp_50",
+            "text": "Which T-Code is shared by FICO and MM for displaying goods receipt?",
+            "options": [
+                {"id": "a", "text": "MIRO"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MIR4"},
+                {"id": "d", "text": "FB03"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
