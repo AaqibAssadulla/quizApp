@@ -170,7 +170,10 @@
             "id": "q16",
             "text": "Which of the following is a function of Class-4 Soft switch",
             "options": [
-                {"id": "a", "text": "Provides interconnectivity between different carriers"}
+                {"id": "a", "text": "Provides interconnectivity between different carriers"},
+                {"id": "b", "text": "Handles subscriber call features like call waiting"},
+                {"id": "c", "text": "Manages local subscriber lines"},
+                {"id": "d", "text": "Stores subscriber data"}
             ],
             "correctAnswer": "a"
         },
