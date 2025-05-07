@@ -39,7 +39,7 @@
             "text": "IMS control elements are",
             "options": [
                 {"id": "a", "text": "(1) and (2) only"},
-                {"id": "b", W "text": "(2) and (3) only"},
+                {"id": "b", "text": "(2) and (3) only"},
                 {"id": "c", "text": "(1) and (3) only"},
                 {"id": "d", "text": "(1), (2) and (3)"}
             ],
