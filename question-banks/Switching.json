@@ -1,0 +1,530 @@
+{
+    "title": "Switching",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The real-time transport protocol (RTP) is used to",
+            "options": [
+                {"id": "a", "text": "to carry data that has real-time properties"},
+                {"id": "b", "text": "to monitor the quality of service"},
+                {"id": "c", "text": "to convey information about the participants in an on-going session"},
+                {"id": "d", "text": "None of above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "In IMS to PSTN call flow query DNS to look for Home Network of called party",
+            "options": [
+                {"id": "a", "text": "P-CSCF"},
+                {"id": "b", "text": "S-CSCF"},
+                {"id": "c", "text": "I-CSCF"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3",
+            "text": "____ is the entry point for the core in NGN",
+            "options": [
+                {"id": "a", "text": "SBC"},
+                {"id": "b", "text": "Rater"},
+                {"id": "c", "text": "SG Server"},
+                {"id": "d", "text": "EMS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q4",
+            "text": "IMS control elements are",
+            "options": [
+                {"id": "a", "text": "(1) and (2) only"},
+                {"id": "b", W "text": "(2) and (3) only"},
+                {"id": "c", "text": "(1) and (3) only"},
+                {"id": "d", "text": "(1), (2) and (3)"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q5",
+            "text": "2 SLM cards require IP addresses in CACU frame",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "4"},
+                {"id": "d", "text": "6"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q6",
+            "text": "The function of voice processing module in LMG is",
+            "options": [
+                {"id": "a", "text": "Collects external alarms"},
+                {"id": "b", "text": "Voice Codec En-Coding & De-Coding"},
+                {"id": "c", "text": "BORSCHT function"},
+                {"id": "d", "text": "VoIP protocols processing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q7",
+            "text": "SSTP capacity for GTT (Global Title Translation) throughput is ____ MSU/sec",
+            "options": [
+                {"id": "a", "text": "500000"},
+                {"id": "b", "text": "200000"},
+                {"id": "c", "text": "20000"},
+                {"id": "d", "text": "400000"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8",
+            "text": "IMS from End user perspective gives",
+            "options": [
+                {"id": "a", "text": "Service Integration"},
+                {"id": "b", "text": "Quality Of Service"},
+                {"id": "c", "text": "Ease of use & Security"},
+                {"id": "d", "text": "Controlling CAPEX and OPEX"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q9",
+            "text": "The protocols used between Softswitch and media gateway is",
+            "options": [
+                {"id": "a", "text": "RTP/RTCP"},
+                {"id": "b", "text": "SIP, parley"},
+                {"id": "c", "text": "SIP(T) or BICC"},
+                {"id": "d", "text": "H.248/MGCP"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q10",
+            "text": "The Trunking Gateways provide connectivity to the Local Switches through standard",
+            "options": [
+                {"id": "a", "text": "SDH interfaces"},
+                {"id": "b", "text": "Copper wire"},
+                {"id": "c", "text": "Coaxial cable"},
+                {"id": "d", "text": "Feeder cable"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11",
+            "text": "Both HSS & SLF communicate through protocol",
+            "options": [
+                {"id": "a", "text": "SIP-T"},
+                {"id": "b", "text": "SIGTRAN"},
+                {"id": "c", "text": "RTP"},
+                {"id": "d", "text": "Diameter"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q12",
+            "text": "Which of the following is not a function of Class-5 Soft switch",
+            "options": [
+                {"id": "a", "text": "Basic call control and call session functionality"},
+                {"id": "b", "text": "Intra and inter network call routing functionality"},
+                {"id": "c", "text": "It provides SIP to ISUP interworking"},
+                {"id": "d", "text": "Subscriber data base related functionalities"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q13",
+            "text": "The Main Site and Disaster Recovery site for core of CDOT Max NG for east zone are located at",
+            "options": [
+                {"id": "a", "text": "Kolkata - Chandigarh"},
+                {"id": "b", "text": "Kolkata - Bhopal"},
+                {"id": "c", "text": "Kolkata - Cuttack"},
+                {"id": "d", "text": "Cuttack - Chandigarh"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q14",
+            "text": "In BORSCHT function 'S' stands for",
+            "options": [
+                {"id": "a", "text": "Supplementary"},
+                {"id": "b", "text": "Subscriber"},
+                {"id": "c", "text": "Service"},
+                {"id": "d", "text": "Supervision"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q15",
+            "text": "The IMS client attempts to register by sending a request to the P-CSCF",
+            "options": [
+                {"id": "a", "text": "REGISTER"},
+                {"id": "b", "text": "INVITE"},
+                {"id": "c", "text": "FORWARD"},
+                {"id": "d", "text": "ACKNOWLEDGE"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16",
+            "text": "Which of the following is a function of Class-4 Soft switch",
+            "options": [
+                {"id": "a", "text": "Switch of the following is a function of Class-4 Soft switch"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q17",
+            "text": "Each core site in CDOT MAX NG is provided with __Terabytes of data storage, expandable up to __ Terabytes per site",
+            "options": [
+                {"id": "a", "text": "48,64"},
+                {"id": "b", "text": "16,32"},
+                {"id": "c", "text": "64,128"},
+                {"id": "d", "text": "24,48"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q18",
+            "text": "IMS concept is based on which of the following 3GPP release",
+            "options": [
+                {"id": "a", "text": "Rel 3"},
+                {"id": "b", "text": "Rel 4"},
+                {"id": "c", "text": "Rel 5"},
+                {"id": "d", "text": "Rel 99"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "In NGN local exchanges are",
+            "options": [
+                {"id": "a", "text": "Class-1 Softswitchs"},
+                {"id": "b", "text": "Class-2 Softswitchs"},
+                {"id": "c", "text": "Class-4 Softswitchs"},
+                {"id": "d", "text": "Class-5 Softswitchs"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q20",
+            "text": "When the subscriber is idle, the line impedance is",
+            "options": [
+                {"id": "a", "text": "High"},
+                {"id": "b", "text": "low"},
+                {"id": "c", "text": "Moderate"},
+                {"id": "d", "text": "none of above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q21",
+            "text": "LMG performs the functions of",
+            "options": [
+                {"id": "a", "text": "DLC"},
+                {"id": "b", "text": "DSLAM"},
+                {"id": "c", "text": "Media gateway"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q22",
+            "text": "What is the Full form of MSAN in LMG",
+            "options": [
+                {"id": "a", "text": "Multi-Subscriber Awarness Node"},
+                {"id": "b", "text": "Multi Service Access Node"},
+                {"id": "c", "text": "Multi-Subscriber Access Node"},
+                {"id": "d", "text": "Multi Service Awarness Node"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q23",
+            "text": "Select the feature of NGN",
+            "options": [
+                {"id": "a", "text": "Slow to develop new features and capabilities"},
+                {"id": "b", "text": "Large power and cooling requirements"},
+                {"id": "c", "text": "Model obsolescence"},
+                {"id": "d", "text": "Support of multiple last mile technologies"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q24",
+            "text": "2 NGTJ cards require IP addresses in CACU frame",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "12"},
+                {"id": "c", "text": "4"},
+                {"id": "d", "text": "64"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q25",
+            "text": "In SIP the command INFO means",
+            "options": [
+                {"id": "a", "text": "Registers a user's current location"},
+                {"id": "b", "text": "Used for mid-session signalling"},
+                {"id": "c", "text": "Terminates a connection between users"},
+                {"id": "d", "text": "Invites a user to a call"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q26",
+            "text": "Session Initiation Protocol (SIP) is an application-layer control (signaling) protocol for",
+            "options": [
+                {"id": "a", "text": "Session description"},
+                {"id": "b", "text": "Conference control"},
+                {"id": "c", "text": "Creating, modifying, and terminating sessions"},
+                {"id": "d", "text": "Resource reservation"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q27",
+            "text": "The Signaling adapting layer provides",
+            "options": [
+                {"id": "a", "text": "The standard primary language interface with SCN Signaling"},
+                {"id": "b", "text": "The real-time reliable transmission service required by SCN Signaling"},
+                {"id": "c", "text": "Standard IP protocol"},
+                {"id": "d", "text": "None of above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "For fully equipped duplex mode LAGU requires TIC cards",
+            "options": [
+                {"id": "a", "text": "8"},
+                {"id": "b", "text": "16"},
+                {"id": "c", "text": "32"},
+                {"id": "d", "text": "24"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "In IMS full form of BGCF",
+            "options": [
+                {"id": "a", "text": "Border Gateway Control Function"},
+                {"id": "b", "text": "Breakout Gateway Control Function"},
+                {"id": "c", "text": "Border Gateway Coordination Function"},
+                {"id": "d", "text": "Border Gateway Control Fraction"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30",
+            "text": "Select application of SSTP network",
+            "options": [
+                {"id": "a", "text": "Metallic line testing"},
+                {"id": "b", "text": "CLI and Telnet Management"},
+                {"id": "c", "text": "Loop test for voice-band and broadband"},
+                {"id": "d", "text": "Lawful Intercept of SMS"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q31",
+            "text": "Soft switch performs the following function",
+            "options": [
+                {"id": "a", "text": "Provides interworking function between SS7 network and IP network"},
+                {"id": "b", "text": "Call control, signaling and interworking"},
+                {"id": "c", "text": "Packetisation of voice channels"},
+                {"id": "d", "text": "Line Access Gateways provide the interface to a single subscriber line"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "All software installed at the Core Network Sites in NGN executes on standard off-the-shelf server platforms running operating system",
+            "options": [
+                {"id": "a", "text": "UNIX"},
+                {"id": "b", "text": "LINUX"},
+                {"id": "c", "text": "MS-Windows"},
+                {"id": "d", "text": "Solaris"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q33",
+            "text": "In IMS to IMS call flow the UAC initiates SIP Invite request",
+            "options": [
+                {"id": "a", "text": "SUCCESS"},
+                {"id": "b", "text": "ACKNOWLEDGE"},
+                {"id": "c", "text": "SIP Invite"},
+                {"id": "d", "text": "REGISTER"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q34",
+            "text": "Select correct Interface available with NGTJ",
+            "options": [
+                {"id": "a", "text": "Ethernet"},
+                {"id": "b", "text": "H.248"},
+                {"id": "c", "text": "X.25"},
+                {"id": "d", "text": "Wifi"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q35",
+            "text": "The SSTPs at shall be with International Signaling Gateway functionality",
+            "options": [
+                {"id": "a", "text": "Delhi, Chennai, Pune, & Ernakulum"},
+                {"id": "b", "text": "Lakhnow, Hydrabad, Nagpur, & Gawahati"},
+                {"id": "c", "text": "Chandighar, Bangalore, Bhopal, & Kolkata"},
+                {"id": "d", "text": "Jaipur, Chennai, Ahmedbad, & Patna"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q36",
+            "text": "____ gateway is responsible for TDM switching and to convert Time Division Multiplexed (TDM) voice samples to IP packets",
+            "options": [
+                {"id": "a", "text": "PRI Access Gateway (PRIGW)"},
+                {"id": "b", "text": "Line Access Gateway (LAG)"},
+                {"id": "c", "text": "V5 Access Gateway (V5AG)"},
+                {"id": "d", "text": "Signaling Gateway (SG)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "The first element/component of IMS to receive a call request from PSTN is",
+            "options": [
+                {"id": "a", "text": "BGCF"},
+                {"id": "b", "text": "MGCF"},
+                {"id": "c", "text": "HSS"},
+                {"id": "d", "text": "P-CSCF"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q38",
+            "text": "The UTStarcom SSTP comes with the product name of",
+            "options": [
+                {"id": "a", "text": "ISG6400"},
+                {"id": "b", "text": "ISG4600"},
+                {"id": "c", "text": "ISG8000"},
+                {"id": "d", "text": "ISG6000"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "Function of I-CSCF is",
+            "options": [
+                {"id": "a", "text": "to provides session control services for a user"},
+                {"id": "b", "text": "a mobile's first contact point inside a local IMS"},
+                {"id": "c", "text": "used to hide an operator networks"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "In CCS#7 ____ contains the actual user message",
+            "options": [
+                {"id": "a", "text": "Service Information Octet (SIO)"},
+                {"id": "b", "text": "Signalling Information Fields (SIF)"},
+                {"id": "c", "text": "Status Field (SF)"},
+                {"id": "d", "text": "routing label"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q41",
+            "text": "The ____ is used to differentiate between the three SUs",
+            "options": [
+                {"id": "a", "text": "Flag(F)"},
+                {"id": "b", "text": "Forward Sequence Number (FSN)"},
+                {"id": "c", "text": "Length Indicator (LI)"},
+                {"id": "d", "text": "Backward Sequence Number (BSN)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q42",
+            "text": "The MTP and the SCCP together is also referred to as",
+            "options": [
+                {"id": "a", "text": "Network Service Part (NSP)"},
+                {"id": "b", "text": "User part"},
+                {"id": "c", "text": "Transaction Capabilities Application Part (TCAP)"},
+                {"id": "d", "text": "Integrated Services Digital Network User Part"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q43",
+            "text": "Select correct Full form of LIS in CDOT Max NG",
+            "options": [
+                {"id": "a", "text": "Lawful Interception System"},
+                {"id": "b", "text": "Library Information System"},
+                {"id": "c", "text": "Location Information Server"},
+                {"id": "d", "text": "Logical Ip (internet Protocol) Subnet"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q44",
+            "text": "There are ____ commands defined in H.248",
+            "options": [
+                {"id": "a", "text": "six"},
+                {"id": "b", "text": "seven"},
+                {"id": "c", "text": "eight"},
+                {"id": "d", "text": "nine"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q45",
+            "text": "In CCS#7 level 1 defines",
+            "options": [
+                {"id": "a", "text": "The physical, electrical and functional characteristics of a signalling data link"},
+                {"id": "b", "text": "The functions and procedures for a correct exchange of user messages"},
+                {"id": "c", "text": "The inter-working of the individual signalling links"},
+                {"id": "d", "text": "The user part"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q46",
+            "text": "The power supply module in LMG, converts -48V DC",
+            "options": [
+                {"id": "a", "text": "To +3.3V DC"},
+                {"id": "b", "text": "To -3.3V DC"},
+                {"id": "c", "text": "to +7.3V DC"},
+                {"id": "d", "text": "to +9.0V DC"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q47",
+            "text": "The protocols used between Softswitch and Signaling gateway is",
+            "options": [
+                {"id": "a", "text": "RTP/RTCP"},
+                {"id": "b", "text": "Sigtran"},
+                {"id": "c", "text": "SIP(T) or BICC"},
+                {"id": "d", "text": "H.248/MGCP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q48",
+            "text": "SSTP NOC/ DR NOC are at",
+            "options": [
+                {"id": "a", "text": "Hydrabad & Pune"},
+                {"id": "b", "text": "Delhi & Chennai"},
+                {"id": "c", "text": "Nagpur & Gawahati"},
+                {"id": "d", "text": "Bangalore and Mumbai"}
+            ],
+            "correctAnswer": "d"
+        }
+    ]
+}
