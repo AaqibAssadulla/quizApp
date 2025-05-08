@@ -150,9 +150,7 @@
             "options": [
                 {"id": "a", "text": "To book the Profit"},
                 {"id": "b", "text": "To book the Expenditure"},
-                {"id": "c", "text": "
-
-Both a & b are correct"},
+                {"id": "c", "text": "Both a & b are correct"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
