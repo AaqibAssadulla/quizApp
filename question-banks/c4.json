@@ -1,0 +1,819 @@
+{
+  "Indian Telegraph Act 1885": [
+    {
+      "question": "When did the Indian Telegraph Act come into force?",
+      "options": {
+        "A": "1st October 2000",
+        "B": "1st October 1885",
+        "C": "1st October 1995",
+        "D": "1st October 1990"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Who has the exclusive privilege of establishing, maintaining, and working telegraphs in India?",
+      "options": {
+        "A": "State Government",
+        "B": "DoT",
+        "C": "TRAI",
+        "D": "Central Government"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What is the penalty for a Railway Company refusing to comply with Section 6?",
+      "options": {
+        "A": "2000",
+        "B": "3000",
+        "C": "1500",
+        "D": "None of the above"
+      },
+      "answer": "D",
+      "note": "Correct penalty is Rs. 1000 per day, as per Page 6"
+    },
+    {
+      "question": "Which section of the Telegraph Act is known as the wire tapping clause?",
+      "options": {
+        "A": "Section 6",
+        "B": "Section 5",
+        "C": "Section 10",
+        "D": "Section 22"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Penalty for breaching a telegraph license under Section 4?",
+      "options": {
+        "A": "Rs.1000 + Rs.200/day",
+        "B": "Rs.2000 + Rs.200/day",
+        "C": "Rs.500 + Rs.100/day",
+        "D": "Rs.1000 + Rs.100/day"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Punishment for intentionally tampering or damaging a telegraph?",
+      "options": {
+        "A": "2 Years",
+        "B": "3 Years",
+        "C": "4 Years",
+        "D": "1 Year"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Punishment for fraudulently retaining a message?",
+      "options": {
+        "A": "2 Years",
+        "B": "1 Year",
+        "C": "3 Years",
+        "D": "4 Years"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Punishment for a telegraph officer fraudulently sending messages without payment?",
+      "options": {
+        "A": "2 Years",
+        "B": "1 Year",
+        "C": "3 Years",
+        "D": "4 Years"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Punishment for unlawfully attempting to learn the contents of messages under Section 23?",
+      "options": {
+        "A": "2 Years",
+        "B": "1 Year",
+        "C": "3 Years",
+        "D": "4 Years"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Fine for intrusion into a signal room or trespass in a telegraph office?",
+      "options": {
+        "A": "Rs. 500",
+        "B": "Rs. 100",
+        "C": "Rs. 50",
+        "D": "Rs. 1000"
+      },
+      "answer": "A"
+    }
+  ],
+  "BSNL Organizational Structure": [
+    {
+      "question": "Minimum strength of BSNL board members?",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "6",
+        "D": "2"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Maximum strength of BSNL board members?",
+      "options": {
+        "A": "3, 12",
+        "B": "5, 15",
+        "C": "3, 15",
+        "D": "5, 12"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "What is NOFN?",
+      "options": {
+        "A": "National Optical Fiber Network",
+        "B": "National Online Fiber Network",
+        "C": "National Optical Frequency",
+        "D": "National Open Fiber Network"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Who has the power to appoint or remove a Director in BSNL?",
+      "options": {
+        "A": "President of India",
+        "B": "CMD",
+        "C": "CVC",
+        "D": "PM"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Number of whole-time directors in BSNL?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "6",
+        "D": "5"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Number of non-official part-time directors in BSNL?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "5"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "BSNL’s layered structure to manage activities?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "5"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Head of Category-I BA?",
+      "options": {
+        "A": "GM",
+        "B": "PGM",
+        "C": "DGM",
+        "D": "Sr.GM"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Number of Category-I BAs?",
+      "options": {
+        "A": "3",
+        "B": "10",
+        "C": "5",
+        "D": "6"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Revenue range for Category-2 BA?",
+      "options": {
+        "A": "250-350 Cr",
+        "B": "125-250 Cr",
+        "C": "50-125 Cr",
+        "D": "30-50 Cr"
+      },
+      "answer": "B"
+    }
+  ],
+  "Telecom Regulatory Framework": [
+    {
+      "question": "TRAI stands for?",
+      "options": {
+        "A": "Telecom Regulatory Authority of India",
+        "B": "Telecom Regulatory Act of India",
+        "C": "Telecom Revenue Authority of India",
+        "D": "None of the above"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which is not a mandatory function of TRAI?",
+      "options": {
+        "A": "Tariff policies",
+        "B": "Quality of service",
+        "C": "New license policies",
+        "D": "Interconnection policies"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "TDSAT stands for?",
+      "options": {
+        "A": "Telecom Disputes Settlement Authorising Tribunal",
+        "B": "Telecom Discount Settlement Authorising Tribunal",
+        "C": "Telecom Discount Settlement Appellate Tribunal",
+        "D": "Telecom Disputes Settlement Appellate Tribunal"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "TRAI consists of how many members?",
+      "options": {
+        "A": "3, 2",
+        "B": "2, 2",
+        "C": "2, 3",
+        "D": "3, 3"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "WPC stands for?",
+      "options": {
+        "A": "Wireless Planning & Coordination Wing",
+        "B": "Wireless Planning Committee",
+        "C": "Wired Planning & Coordination Wing",
+        "D": "None of the above"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "When was WPC formed?",
+      "options": {
+        "A": "1955",
+        "B": "1952",
+        "C": "1960",
+        "D": "1958"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "USO stands for?",
+      "options": {
+        "A": "Universal Service Obligation",
+        "B": "Universal Subscriber Obligation",
+        "C": "Uninterrupted Service Obligation",
+        "D": "None of the above"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Disputes between a telecom licensor and licensee are adjudicated by?",
+      "options": {
+        "A": "TRAI",
+        "B": "DoT",
+        "C": "TDSAT",
+        "D": "WPC"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Fee for appeal to TDSAT?",
+      "options": {
+        "A": "Thousand",
+        "B": "Five thousand",
+        "C": "Ten thousand",
+        "D": "Fifteen thousand"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which is not a statutory body under DoT?",
+      "options": {
+        "A": "TDSAT",
+        "B": "TRAI",
+        "C": "C-DOT",
+        "D": "None of the above"
+      },
+      "answer": "C"
+    }
+  ],
+  "BSNL CDA Rules": [
+    {
+      "question": "When did BSNL CDA Rules come into force?",
+      "options": {
+        "A": "10th October 2006",
+        "B": "10th October 2016",
+        "C": "1st October 2006",
+        "D": "1st October 2016"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Rule for seeking confirmation of oral directions?",
+      "options": {
+        "A": "Rule 4 (2) (a)",
+        "B": "Rule 4 (2) (b)",
+        "C": "Rule 4 (2) (c)",
+        "D": "Rule 4 (2) (d)"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Willful insubordination or disobedience is under which rule?",
+      "options": {
+        "A": "Rule 5 (2)",
+        "B": "Rule 5 (3)",
+        "C": "Rule 5 (4)",
+        "D": "Rule 5 (5)"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Sleeping while on duty is under which rule?",
+      "options": {
+        "A": "Rule 5 (12)",
+        "B": "Rule 5 (14)",
+        "C": "Rule 5 (16)",
+        "D": "Rule 5 (18)"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Value of gifts that Group B and above employees must report?",
+      "options": {
+        "A": "Rs.5,000/-",
+        "B": "Rs.10,000/-",
+        "C": "Rs.15,000/-",
+        "D": "Rs.20,000/-"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Rule prohibiting subletting company accommodation?",
+      "options": {
+        "A": "Rule 17-A",
+        "B": "Rule 21-A",
+        "C": "Rule 21-B",
+        "D": "Rule 55 (A)"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Value of movable property transactions to be reported?",
+      "options": {
+        "A": "Rs.100,000/-",
+        "B": "Rs.200,000/-",
+        "C": "Rs.300,000/-",
+        "D": "Rs.400,000/-"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Time to report share transactions worth Rs.20,000 or more?",
+      "options": {
+        "A": "21 days",
+        "B": "7 days",
+        "C": "4 days",
+        "D": "15 days"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Example of a minor penalty?",
+      "options": {
+        "A": "Compulsory retirement",
+        "B": "Withholding of promotion",
+        "C": "Removal from service",
+        "D": "Dismissal from service"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Authority for interpreting BSNL CDA rules?",
+      "options": {
+        "A": "BSNL Board",
+        "B": "DPE",
+        "C": "DoT",
+        "D": "Supreme Court"
+      },
+      "answer": "A"
+    }
+  ],
+  "RTI Act 2005": [
+    {
+      "question": "In which year did the RTI Act come into force?",
+      "options": {
+        "A": "2005",
+        "B": "2004",
+        "C": "2003",
+        "D": "2006"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Time period for RTI Appellate Authority to decide a case?",
+      "options": {
+        "A": "25-30 days",
+        "B": "30-45 days",
+        "C": "30-35 days",
+        "D": "30-40 days"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Who handles second-level grievances in RTI?",
+      "options": {
+        "A": "Appellate Authority",
+        "B": "Information Commission",
+        "C": "Intelligence Bureau",
+        "D": "Public Information Officer"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Time for APIO to forward requests and PIO to process applications?",
+      "options": {
+        "A": "10, 25",
+        "B": "30, 5",
+        "C": "5, 30",
+        "D": "5, 35"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Who has the power to impose penalties for RTI delays?",
+      "options": {
+        "A": "Information Commission",
+        "B": "Public Information Officer",
+        "C": "Assistant Public Information Officer",
+        "D": "Appellate Authority"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Maximum penalty amount for delaying RTI?",
+      "options": {
+        "A": "250",
+        "B": "2500",
+        "C": "25000",
+        "D": "250000"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Which offices are excluded from RTI?",
+      "options": {
+        "A": "Intelligence Bureau",
+        "B": "CRPF",
+        "C": "Directorate of Enforcement",
+        "D": "All of the above"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "RTI application fee for people below the poverty line?",
+      "options": {
+        "A": "10 rupees",
+        "B": "5 rupees",
+        "C": "1 rupee",
+        "D": "No fees"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Time for filing first appeal to senior PIO?",
+      "options": {
+        "A": "30 days",
+        "B": "15 days",
+        "C": "20 days",
+        "D": "5 days"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Reply time for RTI concerning life and liberty of a person?",
+      "options": {
+        "A": "30 days",
+        "B": "5 days",
+        "C": "48 hours",
+        "D": "24 hours"
+      },
+      "answer": "C"
+    }
+  ],
+  "Project Management": [
+    {
+      "question": "Shortest time to complete an activity is called?",
+      "options": {
+        "A": "Minimum Time",
+        "B": "Optimistic Time",
+        "C": "Mean Time",
+        "D": "Most Likely Time"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Which is a project management software?",
+      "options": {
+        "A": "Primavera",
+        "B": "Microsoft Prime",
+        "C": "MS Outlook",
+        "D": "PowerPoint"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "PERT stands for?",
+      "options": {
+        "A": "Program Evaluation and Review Technique",
+        "B": "Project Evaluation and Review Tool",
+        "C": "Program Execution and Review Technology",
+        "D": "Project Execution and Review Technique"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Longest time an activity may require is called?",
+      "options": {
+        "A": "Optimistic Time",
+        "B": "Mean Time",
+        "C": "Most Likely Time",
+        "D": "Pessimistic Time"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Time a non-critical path activity can be delayed without delaying the project?",
+      "options": {
+        "A": "Slack Time",
+        "B": "Free Time",
+        "C": "Cool Off Time",
+        "D": "Extra Time"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Formula for expected time in PERT?",
+      "options": {
+        "A": "(OT + 2 × MT + PT) / 4",
+        "B": "(MT + 4 × OT + PT) / 6",
+        "C": "(OT + 4 × MT + PT) / 6",
+        "D": "(OT + 4 × PT + MT) / 6"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Skills needed by a project manager?",
+      "options": {
+        "A": "Individual Skill",
+        "B": "Technical Skill",
+        "C": "Team Skill",
+        "D": "All of the above"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Which is not a job of a project manager?",
+      "options": {
+        "A": "Gaining approval for project aim",
+        "B": "Selecting and leading the team",
+        "C": "Ensuring a feasibility study is complete",
+        "D": "None of these"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "What is concerned with overall planning and coordination of a project?",
+      "options": {
+        "A": "Project Management",
+        "B": "Time Management",
+        "C": "Team Management",
+        "D": "None of these"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Most important phase in project management?",
+      "options": {
+        "A": "Execution",
+        "B": "Planning",
+        "C": "Controlling",
+        "D": "None of these"
+      },
+      "answer": "B"
+    }
+  ],
+  "File Keeping, Note Sheet Writing, and Office Procedure": [
+    {
+      "question": "A letter received in a section is first noted in?",
+      "options": {
+        "A": "File",
+        "B": "Assistant Diary",
+        "C": "File System",
+        "D": "Note Sheet"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Indexing of incoming letters is made in which ink?",
+      "options": {
+        "A": "Blue",
+        "B": "Black",
+        "C": "Red",
+        "D": "Any of these"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "A file opened under the conventional method includes?",
+      "options": {
+        "A": "Standard Head",
+        "B": "Year in which file is opened",
+        "C": "Abbreviated symbol identifying the section",
+        "D": "All of these"
+      },
+      "answer": "D"
+    },
+    {
+      "question": "Which filing system is used for library borrowing?",
+      "options": {
+        "A": "Chronological Filing System",
+        "B": "Numerical Filing System",
+        "C": "Filing by Subject",
+        "D": "Filing by Name"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Which filing system provides unlimited expansion?",
+      "options": {
+        "A": "Chronological Filing System",
+        "B": "Numerical Filing System",
+        "C": "Filing by Subject",
+        "D": "Filing by Name"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Used for matters warranting urgent attention?",
+      "options": {
+        "A": "Letter",
+        "B": "Order",
+        "C": "Express Letter",
+        "D": "None of these"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "Used for issuing instructions meant for internal administration?",
+      "options": {
+        "A": "Office Order",
+        "B": "Notification",
+        "C": "Resolution",
+        "D": "Letter"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Sometimes called date filing?",
+      "options": {
+        "A": "Chronological Filing System",
+        "B": "Numerical Filing System",
+        "C": "Filing by Subject",
+        "D": "Filing by Name"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Form of communication written in a personal and friendly tone?",
+      "options": {
+        "A": "Letter",
+        "B": "Demi-Official Letter",
+        "C": "Office Order",
+        "D": "Resolution"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Essentials of a letter?",
+      "options": {
+        "A": "Promptness",
+        "B": "Courtesy",
+        "C": "Appropriateness",
+        "D": "All of the above"
+      },
+      "answer": "D"
+    }
+  ],
+  "e-Office System": [
+    {
+      "question": "e-Office is pioneered by?",
+      "options": {
+        "A": "NOC",
+        "B": "NIC",
+        "C": "ITPC",
+        "D": "SAP"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Integral part of e-Office?",
+      "options": {
+        "A": "File",
+        "B": "Draft",
+        "C": "E-File",
+        "D": "Receipt"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "FMS in e-Office stands for?",
+      "options": {
+        "A": "Fault Management System",
+        "B": "File Management System",
+        "C": "File Monitoring System",
+        "D": "Fault Monitoring System"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "A diarized letter with a unique receipt number is called?",
+      "options": {
+        "A": "Receipt",
+        "B": "Draft",
+        "C": "File",
+        "D": "Note"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "Maximum file size that can be uploaded in e-Office?",
+      "options": {
+        "A": "10 MB",
+        "B": "20 MB",
+        "C": "2 MB",
+        "D": "5 MB"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Right side part when opening a file in e-Office?",
+      "options": {
+        "A": "Note Sheet",
+        "B": "Correspondence",
+        "C": "Report",
+        "D": "Draft"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Application integrated for real-time monitoring in e-Office?",
+      "options": {
+        "A": "EMD",
+        "B": "MIS-Report",
+        "C": "FMS",
+        "D": "FRS"
+      },
+      "answer": "B"
+    },
+    {
+      "question": "Application that builds organization structure and employee data in e-Office?",
+      "options": {
+        "A": "MIS",
+        "B": "FMS",
+        "C": "EMD",
+        "D": "E-File"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "EMD in e-Office stands for?",
+      "options": {
+        "A": "Employee Master Data",
+        "B": "Earnest Money Deposit",
+        "C": "Employee Master Details",
+        "D": "None of the above"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "e-Office can be accessed via?",
+      "options": {
+        "A": "https://eoffice.bsnl.co.in/",
+        "B": "https://parichay.nic.in/Accounts/Services?service=eOfficeBSNL",
+        "C": "Both A and B",
+        "D": "Neither A nor B"
+      },
+      "answer": "C"
+    }
+  ]
+}

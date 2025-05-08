@@ -1,0 +1,1105 @@
+{
+    "title": "Fundamentals of Switching",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The function of is to transfer and deliver signalling network.",
+            "options": [
+                {"id": "a", "text": "MTP"},
+                {"id": "b", "text": "CCS"},
+                {"id": "c", "text": "ARDIS"},
+                {"id": "d", "text": "CDPD"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "provide procedures that transfer messages between signalling nodes.",
+            "options": [
+                {"id": "a", "text": "MTP level 1"},
+                {"id": "b", "text": "MTP level 2"},
+                {"id": "c", "text": "MTP level 3"},
+                {"id": "d", "text": "TCAP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "SS7 was first developed by",
+            "options": [
+                {"id": "a", "text": "ITU"},
+                {"id": "b", "text": "Ericsson"},
+                {"id": "c", "text": "CCIT"},
+                {"id": "d", "text": "Motorola"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q4",
+            "text": "Which of the following does not include in SS7 user part?",
+            "options": [
+                {"id": "a", "text": "MTP"},
+                {"id": "b", "text": "ISUP"},
+                {"id": "c", "text": "TCAP"},
+                {"id": "d", "text": "OMAP"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q5",
+            "text": "A SU is formed by the functions of",
+            "options": [
+                {"id": "a", "text": "level 1"},
+                {"id": "b", "text": "level 2"},
+                {"id": "c", "text": "level 3"},
+                {"id": "d", "text": "level 4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6",
+            "text": "are used to maintain the acknowledgement cycle when no user messages are to be sent in one of the two directions of the signalling link.",
+            "options": [
+                {"id": "a", "text": "MSU"},
+                {"id": "b", "text": "LSSU"},
+                {"id": "c", "text": "FISU"},
+                {"id": "d", "text": "MTP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "The bit pattern of a flag of protocol information bits is",
+            "options": [
+                {"id": "a", "text": "01100110"},
+                {"id": "b", "text": "10000001"},
+                {"id": "c", "text": "10101010"},
+                {"id": "d", "text": "01111110"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q8",
+            "text": "indicates whether a SU is being sent for the first time or whether it is being retransmitted.",
+            "options": [
+                {"id": "a", "text": "BSN"},
+                {"id": "b", "text": "BIB"},
+                {"id": "c", "text": "FSN"},
+                {"id": "d", "text": "FIB"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q9",
+            "text": "provides enhanced addressing capability to MTP to enable it to address messages with Global Title (GT).",
+            "options": [
+                {"id": "a", "text": "TCAP"},
+                {"id": "b", "text": "SCCP"},
+                {"id": "c", "text": "ISUP"},
+                {"id": "d", "text": "MTP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q10",
+            "text": "forms the interface between UPS and MTP.",
+            "options": [
+                {"id": "a", "text": "TCAP"},
+                {"id": "b", "text": "SCCP"},
+                {"id": "c", "text": "ISUP"},
+                {"id": "d", "text": "MTP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "A Next Generation Network (NGN) is a",
+            "options": [
+                {"id": "a", "text": "packet-based"},
+                {"id": "b", "text": "circuit-based"},
+                {"id": "c", "text": "ATM based"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q12",
+            "text": "Which server maintains the bindings with URL and physical location of registered devices?",
+            "options": [
+                {"id": "a", "text": "SIP"},
+                {"id": "b", "text": "SDP"},
+                {"id": "c", "text": "HSS"},
+                {"id": "d", "text": "Registrar"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q13",
+            "text": "NGN is capable of processing traffic originated from",
+            "options": [
+                {"id": "a", "text": "PSTN"},
+                {"id": "b", "text": "GSM"},
+                {"id": "c", "text": "ADSL"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q14",
+            "text": "MG stands for",
+            "options": [
+                {"id": "a", "text": "Mega Gateway"},
+                {"id": "b", "text": "Mother Gateway"},
+                {"id": "c", "text": "Media Gateway"},
+                {"id": "d", "text": "Medium Gateway"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q15",
+            "text": "Migration from PSTN to NGN involves:",
+            "options": [
+                {"id": "a", "text": "Replacement of TDM network elements in a phased manner"},
+                {"id": "b", "text": "Maximum reuse of existing resources"},
+                {"id": "c", "text": "Use of open and mature standards"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q16",
+            "text": "Media Gateway Controller is also known as",
+            "options": [
+                {"id": "a", "text": "Digital switch"},
+                {"id": "b", "text": "Soft Switch"},
+                {"id": "c", "text": "Analog switch"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "In IMS based approach, BSNL has given tender to",
+            "options": [
+                {"id": "a", "text": "M/s CDOT"},
+                {"id": "b", "text": "M/s Huawei"},
+                {"id": "c", "text": "M/s UTSTARCOM"},
+                {"id": "d", "text": "Both b) & c)"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q18",
+            "text": "The softswitch interacts with SCP through, using Intelligent Network Application Protocol (INAP).",
+            "options": [
+                {"id": "a", "text": "Signalling Gateways"},
+                {"id": "b", "text": "Media Gateways"},
+                {"id": "c", "text": "Internet Gateways"},
+                {"id": "d", "text": "Access Gateways"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q19",
+            "text": "Existing circuit switched network migration to NGN has following problems,",
+            "options": [
+                {"id": "a", "text": "slow to develop new features and capabilities"},
+                {"id": "b", "text": "expensive upgrade and operating costs"},
+                {"id": "c", "text": "proprietary vendor troubles"},
+                {"id": "d", "text": "all the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q20",
+            "text": "The Next Generation Network is --which one is true?",
+            "options": [
+                {"id": "a", "text": "non-packet based network"},
+                {"id": "b", "text": "service related functions are independent of underlying transport related technologies"},
+                {"id": "c", "text": "does not support generalized mobility"},
+                {"id": "d", "text": "specified interfaces compliant"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q21",
+            "text": "European Telecommunication Standardization Institute (ETSI) defines the NGN as",
+            "options": [
+                {"id": "a", "text": "offers operators manage innovative services using open interfaces"},
+                {"id": "b", "text": "formal union of different layers into one layer"},
+                {"id": "c", "text": "based on switching platform"},
+                {"id": "d", "text": "based on ATM technology"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q22",
+            "text": "In NGN the call control functionalities are related by a component which is called",
+            "options": [
+                {"id": "a", "text": "call server"},
+                {"id": "b", "text": "soft-switch"},
+                {"id": "c", "text": "media gateway controller"},
+                {"id": "d", "text": "all the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q23",
+            "text": "In NGN, for the switching and transport of the packets, backbone used is",
+            "options": [
+                {"id": "a", "text": "ATM network"},
+                {"id": "b", "text": "PSTN network"},
+                {"id": "c", "text": "IP / MPLS network"},
+                {"id": "d", "text": "Mobile network"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q24",
+            "text": "Which layer is responsible for call setup, routing and charging policies and other controls in NGN environment?",
+            "options": [
+                {"id": "a", "text": "Access Layer"},
+                {"id": "b", "text": "Transport Layer"},
+                {"id": "c", "text": "Control Layer"},
+                {"id": "d", "text": "Application Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q25",
+            "text": "As per the Solution provided by ZTE, IP TAX Project includes",
+            "options": [
+                {"id": "a", "text": "Primary NOC Site"},
+                {"id": "b", "text": "Primary Site"},
+                {"id": "c", "text": "Secondary Site"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q26",
+            "text": "A maximum of E1 links are supported by CACU.",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "48"},
+                {"id": "d", "text": "64"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q27",
+            "text": "Each CACU supports traffic of E during a busy hour.",
+            "options": [
+                {"id": "a", "text": "512"},
+                {"id": "b", "text": "1024"},
+                {"id": "c", "text": "1920"},
+                {"id": "d", "text": "2560"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q28",
+            "text": "Which gateway is responsible for TDM switching and to convert Time Division Multiplexed (TDM) voice samples to IP packets?",
+            "options": [
+                {"id": "a", "text": "LAG"},
+                {"id": "b", "text": "MG"},
+                {"id": "c", "text": "SG"},
+                {"id": "d", "text": "V5AG"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "Which card is capable of converting time division multiplexed (TDM) voice circuits to IP packets and vice versa?",
+            "options": [
+                {"id": "a", "text": "TSI"},
+                {"id": "b", "text": "NGTJ"},
+                {"id": "c", "text": "MLS"},
+                {"id": "d", "text": "EBM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30",
+            "text": "How many subscribers can a LAO support in 4:1 concentration?",
+            "options": [
+                {"id": "a", "text": "512"},
+                {"id": "b", "text": "1024"},
+                {"id": "c", "text": "2048"},
+                {"id": "d", "text": "4096"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q31",
+            "text": "The collocated BMs in the main exchange site will have the LAGs uplinked via in CACU Chassis,",
+            "options": [
+                {"id": "a", "text": "TSI"},
+                {"id": "b", "text": "NGTJ"},
+                {"id": "c", "text": "MLS"},
+                {"id": "d", "text": "EBM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "In CACU module, there are",
+            "options": [
+                {"id": "a", "text": "one NGTJ, one EBM and one MLS cards"},
+                {"id": "b", "text": "two NGTJ, two EBM and one MLS cards"},
+                {"id": "c", "text": "two NGTJ, one EBM and two MLS cards"},
+                {"id": "d", "text": "two NGTJ, two EBM and two MLS cards"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q33",
+            "text": "Which card monitors the status of the CACU Chassis cards and other health parameters of the Chassis like temperature and fan status?",
+            "options": [
+                {"id": "a", "text": "SLM"},
+                {"id": "b", "text": "NGTJ"},
+                {"id": "c", "text": "MLS"},
+                {"id": "d", "text": "EBM"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q34",
+            "text": "Which card aggregates all the traffic of CACU from all cards & connected LAGUs to CACU & forwards this traffic to MPLS network via 1 GB optical uplink?",
+            "options": [
+                {"id": "a", "text": "SLM"},
+                {"id": "b", "text": "NGTJ"},
+                {"id": "c", "text": "MLS"},
+                {"id": "d", "text": "EBM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q35",
+            "text": "Total IP addresses required per CACU is",
+            "options": [
+                {"id": "a", "text": "6"},
+                {"id": "b", "text": "1"},
+                {"id": "c", "text": "18"},
+                {"id": "d", "text": "24"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q36",
+            "text": "What is required at each end of the E1 link to utilize the link for carrying IP traffic instead of PSTN circuits?",
+            "options": [
+                {"id": "a", "text": "SLM"},
+                {"id": "b", "text": "EEB"},
+                {"id": "c", "text": "MLS"},
+                {"id": "d", "text": "EBM"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q37",
+            "text": "temperature sensor chips on the TSN card provide the digital temperature at each of the CACU cards slot.",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "4"},
+                {"id": "c", "text": "6"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q38",
+            "text": "The B1205 supports technology.",
+            "options": [
+                {"id": "a", "text": "ADSL2+"},
+                {"id": "b", "text": "VDSL2"},
+                {"id": "c", "text": "SHDSL"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q39",
+            "text": "B1205E is",
+            "options": [
+                {"id": "a", "text": "Low Density Chassis"},
+                {"id": "b", "text": "Medium Density Chassis"},
+                {"id": "c", "text": "High Density Chassis"},
+                {"id": "d", "text": "Ultra High Density Chassis"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "How many universal slots are there for different line modules in IAN B1205?",
+            "options": [
+                {"id": "a", "text": "5"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "10"},
+                {"id": "d", "text": "12"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q41",
+            "text": "Which Standard Depth Chassis are there in IAN B1205 & B1205E?",
+            "options": [
+                {"id": "a", "text": "ITU-T"},
+                {"id": "b", "text": "ETSI"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q42",
+            "text": "The ADSL user module provides 64 ADSL user connections.",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "64"},
+                {"id": "d", "text": "96"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43",
+            "text": "The system control module controls the whole system operation which supports",
+            "options": [
+                {"id": "a", "text": "VoIP/AG services"},
+                {"id": "b", "text": "AN services"},
+                {"id": "c", "text": "DSLAM services"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q44",
+            "text": "Which module provides the external signals access for the IAN B1205 system?",
+            "options": [
+                {"id": "a", "text": "CSMIA"},
+                {"id": "b", "text": "POWIA"},
+                {"id": "c", "text": "VPMIA"},
+                {"id": "d", "text": "PCUIA"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q45",
+            "text": "Which one of the following is not a POTS user interface module?",
+            "options": [
+                {"id": "a", "text": "PCULA"},
+                {"id": "b", "text": "EXSIA"},
+                {"id": "c", "text": "ASLIA"},
+                {"id": "d", "text": "Both b & c"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q46",
+            "text": "uplink interfaces are there with configurable SFP in front panel.",
+            "options": [
+                {"id": "a", "text": "1xGE"},
+                {"id": "b", "text": "2xGE"},
+                {"id": "c", "text": "4xGE"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q47",
+            "text": "CSMLA does the function(s) on DSLAM service processing",
+            "options": [
+                {"id": "a", "text": "Download system and module firmware"},
+                {"id": "b", "text": "Stores system and module configuration data"},
+                {"id": "c", "text": "Detects, initialize and configure modules"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q48",
+            "text": "In BORSCHT, C stand for",
+            "options": [
+                {"id": "a", "text": "Control"},
+                {"id": "b", "text": "Codec"},
+                {"id": "c", "text": "Complete"},
+                {"id": "d", "text": "Complement"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q49",
+            "text": "Foreign Exchange Subscriber Module provides balanced ringing signal for maximum REN per port.",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2"},
+                {"id": "c", "text": "5"},
+                {"id": "d", "text": "10"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q50",
+            "text": "ADSL Subscriber Line Module supports Qaeries in DSL port.",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "5"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "10"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q51",
+            "text": "To save the configuration in node management, command used is",
+            "options": [
+                {"id": "a", "text": "save"},
+                {"id": "b", "text": "config save"},
+                {"id": "c", "text": "ctries"},
+                {"id": "d", "text": "config bin"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q52",
+            "text": "Uplink capacity of LAN B1205E LMG is",
+            "options": [
+                {"id": "a", "text": "1GE"},
+                {"id": "b", "text": "2GE"},
+                {"id": "c", "text": "4GE"},
+                {"id": "d", "text": "8GE"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q53",
+            "text": "All the communication between MGC and MG is in",
+            "options": [
+                {"id": "a", "text": "H.248 protocol"},
+                {"id": "b", "text": "HDLC protocol"},
+                {"id": "c", "text": "HDB3 protocol"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q54",
+            "text": "SIP stands for",
+            "options": [
+                {"id": "a", "text": "Session Initiation Protocol"},
+                {"id": "b", "text": "Session Intermittent Protocol"},
+                {"id": "c", "text": "Session Interval Protocol"},
+                {"id": "d", "text": "Session Introduction Protocol"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q55",
+            "text": "One event interworking can be identified by a",
+            "options": [
+                {"id": "a", "text": "Transaction ID"},
+                {"id": "b", "text": "Context ID"},
+                {"id": "c", "text": "Event ID"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q56",
+            "text": "The protocols used in NGN between soft-switch and media gateway are",
+            "options": [
+                {"id": "a", "text": "(i), (ii) and (iii) only"},
+                {"id": "b", "text": "(i), (ii) and (vi) only"},
+                {"id": "c", "text": "(v) and (vi) only"},
+                {"id": "d", "text": "(iv) and (v) only"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q57",
+            "text": "Signaling gateway terminates the Signaling in the circuit switching network, and then transmits the Signaling content to the Media Gateway Controller (MGC) for processing through",
+            "options": [
+                {"id": "a", "text": "H.248"},
+                {"id": "b", "text": "SIP"},
+                {"id": "c", "text": "SIGTRAN"},
+                {"id": "d", "text": "RTCP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q58",
+            "text": "Which layer of SIGTRAN protocol provides the real-time reliable transmission service required by SCN Signaling?",
+            "options": [
+                {"id": "a", "text": "Signaling application layer"},
+                {"id": "b", "text": "Signaling adaptation layer"},
+                {"id": "c", "text": "Signaling transmission layer"},
+                {"id": "d", "text": "IP protocol layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q59",
+            "text": "is used to initiate a call and the is used to answer a call.",
+            "options": [
+                {"id": "a", "text": "UAS, UAC"},
+                {"id": "b", "text": "UAC, UAS"},
+                {"id": "c", "text": "UAC, UAC"},
+                {"id": "d", "text": "UAS, UAS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q60",
+            "text": "Which servers make subsequent attempts on behalf of the user, rather than sending new contact information to the user?",
+            "options": [
+                {"id": "a", "text": "Proxy"},
+                {"id": "b", "text": "Redirect"},
+                {"id": "c", "text": "Registrar"},
+                {"id": "d", "text": "Location"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q61",
+            "text": "Which protocol is used for loose session control, QoS reporting, and media synchronization?",
+            "options": [
+                {"id": "a", "text": "H.248"},
+                {"id": "b", "text": "SIP"},
+                {"id": "c", "text": "RTP"},
+                {"id": "d", "text": "RTCP"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q62",
+            "text": "The main function(s) of SIP is/are",
+            "options": [
+                {"id": "a", "text": "Session establishment"},
+                {"id": "b", "text": "Modification"},
+                {"id": "c", "text": "Termination"},
+                {"id": "d", "text": "all"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q63",
+            "text": "IMS provides",
+            "options": [
+                {"id": "a", "text": "real-time multimedia sessions"},
+                {"id": "b", "text": "non real-time multimedia sessions"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q64",
+            "text": "IMS uses to support signaling and session control for real-time services.",
+            "options": [
+                {"id": "a", "text": "SIP"},
+                {"id": "b", "text": "UDP"},
+                {"id": "c", "text": "TCP"},
+                {"id": "d", "text": "SDP"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q65",
+            "text": "Which can perform SIP session control functions for a registered user",
+            "options": [
+                {"id": "a", "text": "I-CSCF"},
+                {"id": "b", "text": "P-CSCF"},
+                {"id": "c", "text": "S-CSCF"},
+                {"id": "d", "text": "BGCF"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q66",
+            "text": "Which database is mandatory in IMS architecture",
+            "options": [
+                {"id": "a", "text": "HSS"},
+                {"id": "b", "text": "SLF"},
+                {"id": "c", "text": "VLR"},
+                {"id": "d", "text": "AUC"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q67",
+            "text": "The core of IMS is the combination of",
+            "options": [
+                {"id": "a", "text": "Datacom and CDMA"},
+                {"id": "b", "text": "CDMA and PSTN"},
+                {"id": "c", "text": "GSM and CDMA"},
+                {"id": "d", "text": "Datacom and Telecom"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q68",
+            "text": "Which is a mobile's first contact point inside a local (or visited) IMS?",
+            "options": [
+                {"id": "a", "text": "S-CSCF"},
+                {"id": "b", "text": "P-CSCF"},
+                {"id": "c", "text": "I-CSCF"},
+                {"id": "d", "text": "MGCF"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q69",
+            "text": "The main functional entity in an IMS is",
+            "options": [
+                {"id": "a", "text": "Breakout Gateway Control Function"},
+                {"id": "b", "text": "Multimedia Resource Function Processor"},
+                {"id": "c", "text": "Media Gateway Control Function"},
+                {"id": "d", "text": "Call State Control Function"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q70",
+            "text": "Which logical entity is responsible for interfacing with internal and external service platforms",
+            "options": [
+                {"id": "a", "text": "S-CSCF"},
+                {"id": "b", "text": "I-CSCF"},
+                {"id": "c", "text": "P-CSCF"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q71",
+            "text": "Which is the main application server of the operator.",
+            "options": [
+                {"id": "a", "text": "IM-SSF"},
+                {"id": "b", "text": "SIP-AS"},
+                {"id": "c", "text": "OSA-SCS"},
+                {"id": "d", "text": "CAMEL"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q72",
+            "text": "To interface with all service platforms S-CSCF uses the interface,",
+            "options": [
+                {"id": "a", "text": "IMS Service Control (ISC)"},
+                {"id": "b", "text": "OSA API (Application Programming Interface)"},
+                {"id": "c", "text": "CAP (CAMEL Application Part)"},
+                {"id": "d", "text": "MAP"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q73",
+            "text": "Which entity selects to which PSTN network a session should be forwarded",
+            "options": [
+                {"id": "a", "text": "MRFP"},
+                {"id": "b", "text": "MGCF"},
+                {"id": "c", "text": "BGCF"},
+                {"id": "d", "text": "MRFC"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q74",
+            "text": "Followings are all real-time multimedia sessions except",
+            "options": [
+                {"id": "a", "text": "Voice session"},
+                {"id": "b", "text": "Video session"},
+                {"id": "c", "text": "Conference session"},
+                {"id": "d", "text": "Instant messaging"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q75",
+            "text": "IMS provides easy integration of newer application servers to cater to the demands of the subscriber through",
+            "options": [
+                {"id": "a", "text": "ISC"},
+                {"id": "b", "text": "API"},
+                {"id": "c", "text": "MAP"},
+                {"id": "d", "text": "HSS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q76",
+            "text": "In IMS to IMS call flow, S-CSCF query to apply service logic for caller.",
+            "options": [
+                {"id": "a", "text": "AS"},
+                {"id": "b", "text": "HSS"},
+                {"id": "c", "text": "SLF"},
+                {"id": "d", "text": "HLR"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q77",
+            "text": "The S-CSCF retrieve and select authentication vectors from",
+            "options": [
+                {"id": "a", "text": "AS"},
+                {"id": "b", "text": "HSS"},
+                {"id": "c", "text": "BGCF"},
+                {"id": "d", "text": "HLR"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q78",
+            "text": "If the called party belongs to PSTN network, from IMS to PSTN call, S-CSCF forwards the INVITE request to",
+            "options": [
+                {"id": "a", "text": "MRFC"},
+                {"id": "b", "text": "MG"},
+                {"id": "c", "text": "SIP-AS"},
+                {"id": "d", "text": "BGCF"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q79",
+            "text": "For IMS to PSTN call flow, interacts with BGCF for SDP negotiation and resource reservation control",
+            "options": [
+                {"id": "a", "text": "MRFC"},
+                {"id": "b", "text": "MG"},
+                {"id": "c", "text": "SIP-AS"},
+                {"id": "d", "text": "MGCF"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q80",
+            "text": "The traffic/load handling capacity of C-DOT DSS MAX is maximum up to BHCA.",
+            "options": [
+                {"id": "a", "text": "800000"},
+                {"id": "b", "text": "60000"},
+                {"id": "c", "text": "400000"},
+                {"id": "d", "text": "200000"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q81",
+            "text": "The terminal capacity of C-DOT DSS MAX is maximum up to lines.",
+            "options": [
+                {"id": "a", "text": "80000"},
+                {"id": "b", "text": "60000"},
+                {"id": "c", "text": "40000"},
+                {"id": "d", "text": "20000"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q82",
+            "text": "The capacity of C-DOT DSS MAX Trunk Automatic Exchange is maximum up to Trunks.",
+            "options": [
+                {"id": "a", "text": "5000"},
+                {"id": "b", "text": "10000"},
+                {"id": "c", "text": "15000"},
+                {"id": "d", "text": "20000"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q83",
+            "text": "C-DOT DSS MAX exchanges consist of the following modules.",
+            "options": [
+                {"id": "a", "text": "Base Module"},
+                {"id": "b", "text": "Central Module"},
+                {"id": "c", "text": "I/O and Administrative Module"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q84",
+            "text": "In C-DOT DSS MAX exchange, space switching is done in Unit.",
+            "options": [
+                {"id": "a", "text": "Base Module"},
+                {"id": "b", "text": "Central Module"},
+                {"id": "c", "text": "I/O Module"},
+                {"id": "d", "text": "Administrative Module"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q85",
+            "text": "In C-DOT DSS MAX exchange, call processing is mainly done in Unit.",
+            "options": [
+                {"id": "a", "text": "Base Module"},
+                {"id": "b", "text": "Central Module"},
+                {"id": "c", "text": "I/O Module"},
+                {"id": "d", "text": "Administrative Module"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q86",
+            "text": "In C-DOT DSS MAX exchange, IOPs are interconnected via Link.",
+            "options": [
+                {"id": "a", "text": "ATM"},
+                {"id": "b", "text": "Ethernet"},
+                {"id": "c", "text": "MPLS"},
+                {"id": "d", "text": "HDLC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q87",
+            "text": "A maximum number of PCMs can be provided between a RSU & Main exchange in CDOT DSS MAX architecture.",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "16"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q88",
+            "text": "Rural Automatic Exchange (RAX) is expandable up to lines capacity.",
+            "options": [
+                {"id": "a", "text": "1200"},
+                {"id": "b", "text": "1600"},
+                {"id": "c", "text": "2000"},
+                {"id": "d", "text": "2400"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q89",
+            "text": "MAX-NG features are",
+            "options": [
+                {"id": "a", "text": "Distributed architecture & Centralized Control"},
+                {"id": "b", "text": "More calls with less bandwidth and lower costs per call, especially for long-distance calls"},
+                {"id": "c", "text": "Involves more of software, simplified hardware infrastructure and changing upgrade economics, hence ease in upgradation"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q90",
+            "text": "DSS MAX upgrade requires the following.",
+            "options": [
+                {"id": "a", "text": "Retain and convert line termination units to VoIP Access Gateways (LAG)"},
+                {"id": "b", "text": "Convert trunk interfaces to VoIP Trunk Media Gateways (MG)"},
+                {"id": "c", "text": "Convert the SS7 unit to a Signalling Gateway with STP functionality (SG)"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q91",
+            "text": "Operations Support Network consisting of",
+            "options": [
+                {"id": "a", "text": "MAX-NG Billing System Interface"},
+                {"id": "b", "text": "MAX-NG Service Provisioning Interface"},
+                {"id": "c", "text": "MAX-NG Network Management"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q92",
+            "text": "Core Components of MAX-NG includes..",
+            "options": [
+                {"id": "a", "text": "C5 Softswitch & C4 Softswitch"},
+                {"id": "b", "text": "Session Border Controller (SBC) & Rating Engine"},
+                {"id": "c", "text": "SG Server & EMS Server"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q93",
+            "text": "The Rating engine is a system used to determine the customer chargeable units based on..",
+            "options": [
+                {"id": "a", "text": "Type of the day"},
+                {"id": "b", "text": "Time of day"},
+                {"id": "c", "text": "Call duration"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q94",
+            "text": "It is responsible for translating signaling messages between one medium (usually IP) and another (PSTN).",
+            "options": [
+                {"id": "a", "text": "SBC"},
+                {"id": "b", "text": "SG"},
+                {"id": "c", "text": "EMS server"},
+                {"id": "d", "text": "C5 Soft Switch"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q95",
+            "text": "SSTP is ..",
+            "options": [
+                {"id": "a", "text": "Standalone Signal Transfer Point"},
+                {"id": "b", "text": "Standalone Signal Transfer Part"},
+                {"id": "c", "text": "Standing Signal Transfer Part"},
+                {"id": "d", "text": "Standing Signal Transfer Point"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q96",
+            "text": "Routing decision is taken based on the following..",
+            "options": [
+                {"id": "a", "text": "Destination point codes (DPC)"},
+                {"id": "b", "text": "Global title translation (GTT)"},
+                {"id": "c", "text": "Routing keys"},
+                {"id": "d", "text": "All the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q97",
+            "text": "BSNL the then existing SSTP network comprising of number of SSTP nodes installed in mated pair configuration.",
+            "options": [
+                {"id": "a", "text": "10"},
+                {"id": "b", "text": "16"},
+                {"id": "c", "text": "24"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q98",
+            "text": "Kolkata SSTP is mated pair of",
+            "options": [
+                {"id": "a", "text": "Guwahati"},
+                {"id": "b", "text": "Lucknow"},
+                {"id": "c", "text": "Cuttack"},
+                {"id": "d", "text": "Patna"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q99",
+            "text": "In the iSG6400 SSTP, the following modules are there,",
+            "options": [
+                {"id": "a", "text": "MPU1A"},
+                {"id": "b", "text": "PEM-S8"},
+                {"id": "c", "text": "SPU"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q100",
+            "text": "Signalling is processed at iSG6400 SSTP is done by module.",
+            "options": [
+                {"id": "a", "text": "MPU1A"},
+                {"id": "b", "text": "PEM-S8"},
+                {"id": "c", "text": "SPU"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "c"
+        }
+    ]
+}
