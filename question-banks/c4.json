@@ -2,7 +2,7 @@
     "title": "BSNL Quiz",
     "questions": [
         {
-            "id": "tel1",
+            "id": "q1",
             "text": "When did the Indian Telegraph Act come into force?",
             "options": [
                 {"id": "a", "text": "1st October 2000"},
@@ -13,7 +13,7 @@
             "correctAnswer": "b"
         },
         {
-            "id": "tel2",
+            "id": "q2",
             "text": "Who has the exclusive privilege of establishing, maintaining, and working telegraphs in India?",
             "options": [
                 {"id": "a", "text": "State Government"},
@@ -24,7 +24,7 @@
             "correctAnswer": "d"
         },
         {
-            "id": "tel3",
+            "id": "q3",
             "text": "What is the penalty for a Railway Company refusing to comply with Section 6?",
             "options": [
                 {"id": "a", "text": "2000"},
@@ -36,7 +36,7 @@
             "note": "Correct penalty is Rs. 1000 per day, as per Page 6"
         },
         {
-            "id": "tel4",
+            "id": "q4",
             "text": "Which section of the Telegraph Act is known as the wire tapping clause?",
             "options": [
                 {"id": "a", "text": "Section 6"},
@@ -47,7 +47,7 @@
             "correctAnswer": "b"
         },
         {
-            "id": "tel5",
+            "id": "q5",
             "text": "Penalty for breaching a telegraph license under Section 4?",
             "options": [
                 {"id": "a", "text": "Rs.1000 + Rs.200/day"},
