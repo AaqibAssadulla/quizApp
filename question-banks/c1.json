@@ -2,39 +2,6 @@
     "title": "ERP",
     "questions": [
         {
-            "id": "erp1",
-            "text": "HCM includes",
-            "options": [
-                {"id": "a", "text": "Management of Contracts"},
-                {"id": "b", "text": "Budget Allotment"},
-                {"id": "c", "text": "Inventory Management"},
-                {"id": "d", "text": "Personal Actions"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp2",
-            "text": "ESS stands for",
-            "options": [
-                {"id": "a", "text": "Employee support system"},
-                {"id": "b", "text": "Employee self service"},
-                {"id": "c", "text": "Employee self system"},
-                {"id": "d", "text": "Employee support service"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp3",
-            "text": "T code - REISRO is used for",
-            "options": [
-                {"id": "a", "text": "Information System - Rental Object"},
-                {"id": "b", "text": "Information System - Contract"},
-                {"id": "c", "text": "Information System - Term of Contract"},
-                {"id": "d", "text": "Information System - Cash Flow"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
             "id": "erp4",
             "text": "For Creation of SES (Service Entry sheet) after PO is approved, T-code",
             "options": [
@@ -42,39 +9,6 @@
                 {"id": "b", "text": "ME81N"},
                 {"id": "c", "text": "ML83"},
                 {"id": "d", "text": "M852"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp5",
-            "text": "Leave has to be applied offline as in legacy.",
-            "options": [
-                {"id": "a", "text": "Restricted Holiday"},
-                {"id": "b", "text": "Half pay"},
-                {"id": "c", "text": "Study"},
-                {"id": "d", "text": "Commuted"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp6",
-            "text": "Choose the false statement.",
-            "options": [
-                {"id": "a", "text": "Better and Timely inputs of better decision making"},
-                {"id": "b", "text": "Inaccurate and non-real-time information availability"},
-                {"id": "c", "text": "Visibility on product and service costs"},
-                {"id": "d", "text": "Overall improvement in the performance of the organization"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp7",
-            "text": "The password for ERP login should be minimum __ characters.",
-            "options": [
-                {"id": "a", "text": "6"},
-                {"id": "b", "text": "7"},
-                {"id": "c", "text": "8"},
-                {"id": "d", "text": "9"}
             ],
             "correctAnswer": "c"
         },
@@ -101,28 +35,6 @@
             "correctAnswer": "b"
         },
         {
-            "id": "erp10",
-            "text": "Once the invoice received from Vendor about the Goods/Services Received, the T-code used",
-            "options": [
-                {"id": "a", "text": "ME21N"},
-                {"id": "b", "text": "ME23N"},
-                {"id": "c", "text": "MES1N"},
-                {"id": "d", "text": "MGO/MLBIN/MIRO"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp11",
-            "text": "In FICO, the word FI is Finance Accounting whereas word CO stands as",
-            "options": [
-                {"id": "a", "text": "Company"},
-                {"id": "b", "text": "Customer"},
-                {"id": "c", "text": "Controlling"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
             "id": "erp12",
             "text": "A ___ is known as entity which is required to process an order in a company in SD Module.",
             "options": [
@@ -132,50 +44,6 @@
                 {"id": "d", "text": "Shipping point"}
             ],
             "correctAnswer": "a"
-        },
-        {
-            "id": "erp13",
-            "text": "___ is Business Process Re-engineering in ERP",
-            "options": [
-                {"id": "a", "text": "M/s SAP"},
-                {"id": "b", "text": "M/s E&Y"},
-                {"id": "c", "text": "M/s HCL Info system Ltd."},
-                {"id": "d", "text": "M/s TCS"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp14",
-            "text": "HCM stands for",
-            "options": [
-                {"id": "a", "text": "Human Capital Management"},
-                {"id": "b", "text": "Human Capital material"},
-                {"id": "c", "text": "Human Civil Management"},
-                {"id": "d", "text": "Human Cacle Management"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp15",
-            "text": "In FICO SAP, the Posting Key for Debit - GL is",
-            "options": [
-                {"id": "a", "text": "50"},
-                {"id": "b", "text": "60"},
-                {"id": "c", "text": "70"},
-                {"id": "d", "text": "40"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp16",
-            "text": "Execution and monitoring of capital projects works on various business lines is done using ___ module.",
-            "options": [
-                {"id": "a", "text": "FICO"},
-                {"id": "b", "text": "SSD"},
-                {"id": "c", "text": "PS"},
-                {"id": "d", "text": "PM"}
-            ],
-            "correctAnswer": "c"
         },
         {
             "id": "erp17",
@@ -200,17 +68,6 @@
             "correctAnswer": "a"
         },
         {
-            "id": "erp19",
-            "text": "PS module dealt with",
-            "options": [
-                {"id": "a", "text": "Capex"},
-                {"id": "b", "text": "Opex"},
-                {"id": "c", "text": "General expenditure"},
-                {"id": "d", "text": "All"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
             "id": "erp20",
             "text": "To Monitor Project Milestones",
             "options": [
@@ -220,39 +77,6 @@
                 {"id": "d", "text": "CN21N"}
             ],
             "correctAnswer": "a"
-        },
-        {
-            "id": "erp21",
-            "text": "Purchase order for POC (ERP) completion was placed on to",
-            "options": [
-                {"id": "a", "text": "M/s SAP"},
-                {"id": "b", "text": "M/s E&Y"},
-                {"id": "c", "text": "M/s HCL Info system Ltd."},
-                {"id": "d", "text": "M/s TCS"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp22",
-            "text": "Personnel Structure in HCM consists of",
-            "options": [
-                {"id": "a", "text": "Employee Group"},
-                {"id": "b", "text": "Organizational Units"},
-                {"id": "c", "text": "WORK CENTRE"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp23",
-            "text": "Following claim does not include under General claim category",
-            "options": [
-                {"id": "a", "text": "Towel"},
-                {"id": "b", "text": "Brief case"},
-                {"id": "c", "text": "News paper"},
-                {"id": "d", "text": "Medical"}
-            ],
-            "correctAnswer": "d"
         },
         {
             "id": "erp24",
@@ -266,28 +90,6 @@
             "correctAnswer": "c"
         },
         {
-            "id": "erp25",
-            "text": "Manager Self Service (MSS) is used for",
-            "options": [
-                {"id": "a", "text": "Looking after arrangement"},
-                {"id": "b", "text": "Maintenance of Issuance & surrender of Service connection"},
-                {"id": "c", "text": "Maintenance of IT, Admin, Tools related items"},
-                {"id": "d", "text": "All of above"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp26",
-            "text": "Full form of SCM in ERP",
-            "options": [
-                {"id": "a", "text": "Software Configuration Management"},
-                {"id": "b", "text": "Supply Chain Management"},
-                {"id": "c", "text": "System Capital Management"},
-                {"id": "d", "text": "None of These"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
             "id": "erp27",
             "text": "In ERP to start a transaction there are _ options",
             "options": [
@@ -299,17 +101,6 @@
             "correctAnswer": "b"
         },
         {
-            "id": "erp28",
-            "text": "ESS empowers employee to their own HR data",
-            "options": [
-                {"id": "a", "text": "view, create and maintain"},
-                {"id": "b", "text": "view and create only"},
-                {"id": "c", "text": "view and maintain only"},
-                {"id": "d", "text": "view only"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
             "id": "erp29",
             "text": "Medical claim in ESS does not include",
             "options": [
@@ -319,28 +110,6 @@
                 {"id": "d", "text": "Outdoor medical Advance"}
             ],
             "correctAnswer": "b"
-        },
-        {
-            "id": "erp30",
-            "text": "T code to see project overview is",
-            "options": [
-                {"id": "a", "text": "CN21N"},
-                {"id": "b", "text": "CN21"},
-                {"id": "c", "text": "CN41"},
-                {"id": "d", "text": "CN41N"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp31",
-            "text": "T code for creation of project is",
-            "options": [
-                {"id": "a", "text": "CN21N"},
-                {"id": "b", "text": "CN21"},
-                {"id": "c", "text": "CN41"},
-                {"id": "d", "text": "CJ01"}
-            ],
-            "correctAnswer": "d"
         },
         {
             "id": "erp32",
@@ -365,83 +134,6 @@
             "correctAnswer": "c"
         },
         {
-            "id": "erp34",
-            "text": "Group 'A', 'B', 'C', Group 'D' & Industrial Workers are division of",
-            "options": [
-                {"id": "a", "text": "Employee Sub Group"},
-                {"id": "b", "text": "Employee Group"},
-                {"id": "c", "text": "Pay Roll Area"},
-                {"id": "d", "text": "None of Above"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp35",
-            "text": "Tcode for invoice verification/ Vendor Payment for PO to be accomplished",
-            "options": [
-                {"id": "a", "text": "ME21N"},
-                {"id": "b", "text": "ME23N"},
-                {"id": "c", "text": "F110"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp36",
-            "text": "Distinct HCM Structures are",
-            "options": [
-                {"id": "a", "text": "Enterprise Structure"},
-                {"id": "b", "text": "Organizational Structure"},
-                {"id": "c", "text": "Personnel Structure"},
-                {"id": "d", "text": "All of above"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp37",
-            "text": "The SLOC of Material Management means",
-            "options": [
-                {"id": "a", "text": "System Location"},
-                {"id": "b", "text": "Storage/Store Location"},
-                {"id": "c", "text": "Simple Location"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp38",
-            "text": "Choose Correct Statement: Procurement Process (Service/material) are",
-            "options": [
-                {"id": "a", "text": "Only Centralised Process"},
-                {"id": "b", "text": "Only Decentralized Process"},
-                {"id": "c", "text": "Both Centralised & Decentralised"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp39",
-            "text": "In one Circle there is ___ payroll Area.",
-            "options": [
-                {"id": "a", "text": "One"},
-                {"id": "b", "text": "Two"},
-                {"id": "c", "text": "No. of Business Area (BA)"},
-                {"id": "d", "text": "None of above"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp40",
-            "text": "REM module does not include",
-            "options": [
-                {"id": "a", "text": "Land"},
-                {"id": "b", "text": "Equipment"},
-                {"id": "c", "text": "Building"},
-                {"id": "d", "text": "Towers"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
             "id": "erp41",
             "text": "Key board shortcut shift + F3 is used for",
             "options": [
@@ -458,32 +150,12 @@
             "options": [
                 {"id": "a", "text": "To book the Profit"},
                 {"id": "b", "text": "To book the Expenditure"},
-                {"id": "c", "text": "Both a & b are correct"},
+                {"id": "c", "text": "
+
+Both a & b are correct"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
-        },
-        {
-            "id": "erp43",
-            "text": "T-Code MIGO is used when",
-            "options": [
-                {"id": "a", "text": "To make the payment to vendor"},
-                {"id": "b", "text": "To transfer stock to other location"},
-                {"id": "c", "text": "To Receive the Goods/Materials in Storage Location/Inventory against PO"},
-                {"id": "d", "text": "To print material documents"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp44",
-            "text": "How many number of Level WBS, we can create",
-            "options": [
-                {"id": "a", "text": "ONE"},
-                {"id": "b", "text": "Two"},
-                {"id": "c", "text": "THREE"},
-                {"id": "d", "text": "ANY NUMBER"}
-            ],
-            "correctAnswer": "d"
         },
         {
             "id": "erp45",
@@ -519,17 +191,6 @@
             "correctAnswer": "c"
         },
         {
-            "id": "erp48",
-            "text": "Consumer Mobility/ CFA Sales in SD module includes",
-            "options": [
-                {"id": "a", "text": "Student training services"},
-                {"id": "b", "text": "Media Migration of POI Process"},
-                {"id": "c", "text": "End customer sales from CSC"},
-                {"id": "d", "text": "Executing the Civil /Electrical Projects"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
             "id": "erp49",
             "text": "Cost Centre is Seven Digit number pattern in which 1st Four digits are",
             "options": [
@@ -539,28 +200,6 @@
                 {"id": "d", "text": "SSA Code"}
             ],
             "correctAnswer": "b"
-        },
-        {
-            "id": "erp50",
-            "text": "Work breakdown structure",
-            "options": [
-                {"id": "a", "text": "Work breakdown structure"},
-                {"id": "b", "text": "Work business system"},
-                {"id": "c", "text": "Work breakdown system"},
-                {"id": "d", "text": "Work business structure"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp51",
-            "text": "Unabsorbed, Absorbed, BSNL Recruited & Deputation In all are covers under",
-            "options": [
-                {"id": "a", "text": "Employee Sub Group"},
-                {"id": "b", "text": "Employee Group"},
-                {"id": "c", "text": "Pay Roll Area"},
-                {"id": "d", "text": "None of Above"}
-            ],
-            "correctAnswer": "a"
         },
         {
             "id": "erp52",
@@ -574,39 +213,6 @@
             "correctAnswer": "a"
         },
         {
-            "id": "erp53",
-            "text": "In Holiday Calendar ___ are displayed",
-            "options": [
-                {"id": "a", "text": "Only company holidays(TH)"},
-                {"id": "b", "text": "Only Restricted holidays(RH)"},
-                {"id": "c", "text": "TH and RH both"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp54",
-            "text": "For Creating Purchase Order PO for a Vendor with respect to purchase requisition, the T-Code used is",
-            "options": [
-                {"id": "a", "text": "ME21N"},
-                {"id": "b", "text": "ME21"},
-                {"id": "c", "text": "MES1N"},
-                {"id": "d", "text": "ME5E"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp55",
-            "text": "In FICO, the document type 'KA' means",
-            "options": [
-                {"id": "a", "text": "General Ledger"},
-                {"id": "b", "text": "Vendor Documents"},
-                {"id": "c", "text": "Customer Documents"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
             "id": "erp56",
             "text": "In SD module Contains data on billing schedules and bank details.",
             "options": [
@@ -618,28 +224,6 @@
             "correctAnswer": "c"
         },
         {
-            "id": "erp57",
-            "text": "If the transaction code is preceded with ___ then the next transaction screen opened in the current session.",
-            "options": [
-                {"id": "a", "text": "/o"},
-                {"id": "b", "text": "/n"},
-                {"id": "c", "text": "/m"},
-                {"id": "d", "text": "/i"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp58",
-            "text": "Choose Correct statement: Material Management Module mainly consists of ___ processes",
-            "options": [
-                {"id": "a", "text": "Procurement Process (Service/material)"},
-                {"id": "b", "text": "Inventory Management Process"},
-                {"id": "c", "text": "Both a & b are correct"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
             "id": "erp59",
             "text": "A ___ in an organizational structure represents product or service line in a Sales Organization.",
             "options": [
@@ -647,83 +231,6 @@
                 {"id": "b", "text": "Sales Organization"},
                 {"id": "c", "text": "Distribution Channel"},
                 {"id": "d", "text": "Division"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp60",
-            "text": "PS stands for",
-            "options": [
-                {"id": "a", "text": "Provisioning System"},
-                {"id": "b", "text": "Project System"},
-                {"id": "c", "text": "Project Simulation"},
-                {"id": "d", "text": "Primary System"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp61",
-            "text": "T code CJ01 is used for",
-            "options": [
-                {"id": "a", "text": "To Create a Network"},
-                {"id": "b", "text": "To Change a Project Definition"},
-                {"id": "c", "text": "To Create a Project Definition"},
-                {"id": "d", "text": "To Change a Network"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp62",
-            "text": "PD stands for",
-            "options": [
-                {"id": "a", "text": "Project Data"},
-                {"id": "b", "text": "Performance Design"},
-                {"id": "c", "text": "Plan Details"},
-                {"id": "d", "text": "Project Definition"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp63",
-            "text": "WBS stands for",
-            "options": [
-                {"id": "a", "text": "Work Begin Schedule"},
-                {"id": "b", "text": "Work Breakdown Scheme"},
-                {"id": "c", "text": "Work Breakdown-System"},
-                {"id": "d", "text": "Work Breakdown Structure"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp64",
-            "text": "T code CJ02 is used for",
-            "options": [
-                {"id": "a", "text": "To Create a Project Definition"},
-                {"id": "b", "text": "To Create a Network"},
-                {"id": "c", "text": "To Change a Network"},
-                {"id": "d", "text": "To Change a Project Definition"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp65",
-            "text": "DE in PS Module stands for",
-            "options": [
-                {"id": "a", "text": "Data Enterpreter"},
-                {"id": "b", "text": "Design Entity"},
-                {"id": "c", "text": "Detailed Estimate"},
-                {"id": "d", "text": "Duplicate Entry"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp66",
-            "text": "T code CN22 is used for",
-            "options": [
-                {"id": "a", "text": "To Create a Network"},
-                {"id": "b", "text": "To Change a Project Definition"},
-                {"id": "c", "text": "To Create a Project Definition"},
-                {"id": "d", "text": "To Change a Network"}
             ],
             "correctAnswer": "d"
         },
@@ -750,28 +257,6 @@
             "correctAnswer": "c"
         },
         {
-            "id": "erp69",
-            "text": "SBWP stands for",
-            "options": [
-                {"id": "a", "text": "SAP Business Work Plan"},
-                {"id": "b", "text": "SAP Business Work Place"},
-                {"id": "c", "text": "Serial Bus Wire Panel"},
-                {"id": "d", "text": "System Business Work Place"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp70",
-            "text": "PEFI status shows",
-            "options": [
-                {"id": "a", "text": "PE cum DE financially concurred"},
-                {"id": "b", "text": "PE cum DE changed"},
-                {"id": "c", "text": "PE cum DE created"},
-                {"id": "d", "text": "PE cum DE deleted"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
             "id": "erp71",
             "text": "T code CJBV is used for",
             "options": [
@@ -781,17 +266,6 @@
                 {"id": "d", "text": "To activate the Budget Control"}
             ],
             "correctAnswer": "d"
-        },
-        {
-            "id": "erp72",
-            "text": "SRVD status shows",
-            "options": [
-                {"id": "a", "text": "Survey Report Done"},
-                {"id": "b", "text": "Survey Report Approved"},
-                {"id": "c", "text": "Survey Report Deleted"},
-                {"id": "d", "text": "Survey Report Rejected"}
-            ],
-            "correctAnswer": "a"
         },
         {
             "id": "erp73",
@@ -816,17 +290,6 @@
             "correctAnswer": "c"
         },
         {
-            "id": "erp75",
-            "text": "In personnel structure in SAP HR, Employee groups consist of",
-            "options": [
-                {"id": "a", "text": "Absorbed"},
-                {"id": "b", "text": "BSNL Recruitee"},
-                {"id": "c", "text": "Unabsorbed"},
-                {"id": "d", "text": "All of the above"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
             "id": "erp76",
             "text": "What is the function of the 'Infotype' in SAP HR?",
             "options": [
@@ -838,193 +301,6 @@
             "correctAnswer": "b"
         },
         {
-            "id": "erp77",
-            "text": "What is the transaction code used to create a new employee in SAP HR?",
-            "options": [
-                {"id": "a", "text": "PA40"},
-                {"id": "b", "text": "PA30"},
-                {"id": "c", "text": "PA20"},
-                {"id": "d", "text": "PA12"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp78",
-            "text": "Which one is the sub module of ERP HCM?",
-            "options": [
-                {"id": "a", "text": "OM (Organizational Management)"},
-                {"id": "b", "text": "PA (Personal Administration)"},
-                {"id": "c", "text": "PA (Time or Leave Administration)"},
-                {"id": "d", "text": "All of the above"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp79",
-            "text": "Work Centre in ERP-SAP basically defines",
-            "options": [
-                {"id": "a", "text": "assignments within a organizational unit"},
-                {"id": "b", "text": "physical location of an employee like Offices, exchanges, etc."},
-                {"id": "c", "text": "functional units in the organization"},
-                {"id": "d", "text": "None of the above"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp80",
-            "text": "Which infotype is used for Family Details in SAP HR?",
-            "options": [
-                {"id": "a", "text": "IT0008"},
-                {"id": "b", "text": "IT0006"},
-                {"id": "c", "text": "IT0021"},
-                {"id": "d", "text": "IT0022"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp81",
-            "text": "In Organizational Structure of HCM, alphabet used for 'Position' of Employee is",
-            "options": [
-                {"id": "a", "text": "P"},
-                {"id": "b", "text": "O"},
-                {"id": "c", "text": "S"},
-                {"id": "d", "text": "A"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp82",
-            "text": "Which Personal Actions can you perform on an employee in SAP HR?",
-            "options": [
-                {"id": "a", "text": "Appointment"},
-                {"id": "b", "text": "Joining/Relieving on Transfer"},
-                {"id": "c", "text": "Promotion"},
-                {"id": "d", "text": "All of the above"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp83",
-            "text": "ERP stands for",
-            "options": [
-                {"id": "a", "text": "Enterprise Resource Planning"},
-                {"id": "b", "text": "Enterprise Replan Processing"},
-                {"id": "c", "text": "Ethical Resource Planning"},
-                {"id": "d", "text": "None of These"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp84",
-            "text": "The primary ERP site is ___ and for DR site.",
-            "options": [
-                {"id": "a", "text": "Hyderabad, Kolkata"},
-                {"id": "b", "text": "Hyderabad, Pune"},
-                {"id": "c", "text": "Kolkata, Hyderabad"},
-                {"id": "d", "text": "Pune, Kolkata"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp85",
-            "text": "Development Centre for ERP was setup at",
-            "options": [
-                {"id": "a", "text": "ALTTC Ghaziabad"},
-                {"id": "b", "text": "Hyderabad"},
-                {"id": "c", "text": "Kolkata"},
-                {"id": "d", "text": "Pune"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp86",
-            "text": "Leaves cannot be applied in the ESS system:",
-            "options": [
-                {"id": "a", "text": "Casual Leave"},
-                {"id": "b", "text": "Restricted Holiday"},
-                {"id": "c", "text": "Earned Leave"},
-                {"id": "d", "text": "Maternity / Paternity Leave"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp87",
-            "text": "Following is not HCM Structures:",
-            "options": [
-                {"id": "a", "text": "Enterprise Structure"},
-                {"id": "b", "text": "Organizational Structure"},
-                {"id": "c", "text": "Personnel Structure"},
-                {"id": "d", "text": "Public Structure"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp88",
-            "text": "In the SAP Easy Access screen in the Command Task enter T-Code",
-            "options": [
-                {"id": "a", "text": "PA30"},
-                {"id": "b", "text": "PA40"},
-                {"id": "c", "text": "PA60"},
-                {"id": "d", "text": "PA_30"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "erp89",
-            "text": "New Requirement for Materials in Circle Inventory shall be created by Team under Inventory Data Template.",
-            "options": [
-                {"id": "a", "text": "MDM"},
-                {"id": "b", "text": "MIGO"},
-                {"id": "c", "text": "MMBE"},
-                {"id": "d", "text": "None of these"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp90",
-            "text": "Stock overview T-Code is",
-            "options": [
-                {"id": "a", "text": "MDM"},
-                {"id": "b", "text": "MIGO"},
-                {"id": "c", "text": "MMBE"},
-                {"id": "d", "text": "None of these"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "erp91",
-            "text": "Creation of Purchase Requisitions for Services T-Code",
-            "options": [
-                {"id": "a", "text": "MDM"},
-                {"id": "b", "text": "MIGO"},
-                {"id": "c", "text": "MMBE"},
-                {"id": "d", "text": "ME51N"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "erp92",
-            "text": "Which of the following user type in SAP system is used for interactive system access from GUI?",
-            "options": [
-                {"id": "a", "text": "A - Dialog"},
-                {"id": "b", "text": "B - Service"},
-                {"id": "c", "text": "C - Communication"},
-                {"id": "d", "text": "D - System"}
-            ],
-            "correctAnswer": "a"
-        },
-        {
-            "id": "erp93",
-            "text": "Users can access a SAP system in ___ ways.",
-            "options": [
-                {"id": "a", "text": "1"},
-                {"id": "b", "text": "2"},
-                {"id": "c", "text": "3"},
-                {"id": "d", "text": "4"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
             "id": "erp94",
             "text": "WHICH OF THE FOLLOWING TRANSACTION CODE USED TO RELEASE A TASK?",
             "options": [
@@ -1034,17 +310,6 @@
                 {"id": "d", "text": "SE04"}
             ],
             "correctAnswer": "c"
-        },
-        {
-            "id": "erp95",
-            "text": "Navigate to the official BSNL ERP portal link is",
-            "options": [
-                {"id": "a", "text": "http://eportal.erp.bsnl.co.in/irj/portal"},
-                {"id": "b", "text": "http://eportal.erp.bsnl.com/irj/portal"},
-                {"id": "c", "text": "Both of These"},
-                {"id": "d", "text": "None of These"}
-            ],
-            "correctAnswer": "a"
         },
         {
             "id": "erp96",
