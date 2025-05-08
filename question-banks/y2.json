@@ -1,0 +1,829 @@
+{
+    "title": "JTO PH-I Practice General Administration (MSS) 2025",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "Leadership is function of ___________",
+            "options": [
+                {"id": "a", "text": "L= F (l, f, s) where L is leadership, l-leader, f-follower and s-situation"},
+                {"id": "b", "text": "l= F (L, f, s) where L is leadership, l-leader, f-follower and s-situation"},
+                {"id": "c", "text": "s= F (l, f, L) where L is leadership, l-leader, f-follower and s-situation"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "ROLES OF A LEADER is/are",
+            "options": [
+                {"id": "a", "text": "Guiding peoples, Team Builder, Maintaining discipline"},
+                {"id": "b", "text": "Instruction to peoples, Team Builder, Maintaining discipline"},
+                {"id": "c", "text": "Team Builder, Maintaining discipline"},
+                {"id": "d", "text": "none of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3",
+            "text": "Leader: The member of the organization who can influence followers or people living together five key leadership behaviors,",
+            "options": [
+                {"id": "a", "text": "1. Challenge the process 2. Inspire shared vision 3. Enable others to act 4. Model the way 5. Encourage the hear"},
+                {"id": "b", "text": "1. Challenge the Problem 2. Inspire shared vision 3. Disable others to act 4. Model the way 5. Encourage the communication"},
+                {"id": "c", "text": "1. Challenge the Problem 2. Inspire shared vision 3. Disable others to act 4. Skipped the way 5. Encourage the communication"},
+                {"id": "d", "text": "1. Challenge the Problems 2. Inspire shared vision 3. Enable others to act 4. Model the way 5. Encourage the hear"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q4",
+            "text": "_____________________ stop needs, values, resources and aspirations of group members being individual and they make them become mutual needs of the group. For that reason, people who follow the leader stay connected to missions of charismatic leaders.",
+            "options": [
+                {"id": "a", "text": "TRANSFORMATIONAL LEADERSHIP"},
+                {"id": "b", "text": "ETHICAL LEADERSHIP"},
+                {"id": "c", "text": "Charismatic leaders"},
+                {"id": "d", "text": "STRATEGICAL LEADERSHIP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q5",
+            "text": "In ___________________, the leader performs motivation by making suggestion to employees, performs intellectual stimulation and creates energy on them which enable them to fulfill their objectives.",
+            "options": [
+                {"id": "a", "text": "Transformational Leadership"},
+                {"id": "b", "text": "ETHICAL LEADERSHIP"},
+                {"id": "c", "text": "Charismatic leaders"},
+                {"id": "d", "text": "STRATEGICAL LEADERSHIP"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q6",
+            "text": "LEADERSHIP FRAMEWORK",
+            "options": [
+                {"id": "a", "text": "BE, KNOW, & DO"},
+                {"id": "b", "text": "BE, KNOW, & SO"},
+                {"id": "c", "text": "May BE, KNOW, & SO"},
+                {"id": "d", "text": "Other"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7a",
+            "text": "Which role is associated with 'Change'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7b",
+            "text": "Which role is associated with 'Stability'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q7c",
+            "text": "Which role is associated with 'Leading People'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7d",
+            "text": "Which role is associated with 'Managing Work'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q7e",
+            "text": "Which role is associated with 'Wants Result'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q7f",
+            "text": "Which role is associated with 'Wants Achievement'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7g",
+            "text": "Which role is associated with 'Rules Breaks'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7h",
+            "text": "Which role is associated with 'Rules Makes'?",
+            "options": [
+                {"id": "a", "text": "Leader"},
+                {"id": "b", "text": "Manager"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8a",
+            "text": "Which leadership style is described as 'An _________ exercises complete control over the subordinates.'?",
+            "options": [
+                {"id": "a", "text": "Autocratic Leader"},
+                {"id": "b", "text": "Participative (Consultative) Leadership"},
+                {"id": "c", "text": "Free-Rein (Laissez-Faire) Leadership"},
+                {"id": "d", "text": "Benevolent autocratic"},
+                {"id": "e", "text": "Exploitative Autocratic"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q8b",
+            "text": "Which leadership style is described as '_________decentralizes authority and allows the subordinates to share his power'?",
+            "options": [
+                {"id": "a", "text": "Autocratic Leader"},
+                {"id": "b", "text": "Participative (Consultative) Leadership"},
+                {"id": "c", "text": "Free-Rein (Laissez-Faire) Leadership"},
+                {"id": "d", "text": "Benevolent autocratic"},
+                {"id": "e", "text": "Exploitative Autocratic"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8c",
+            "text": "Which leadership style is described as '______________ leadership responsibilities are shared by all i.e complete delegation of authority to take decision.'?",
+            "options": [
+                {"id": "a", "text": "Autocratic Leader"},
+                {"id": "b", "text": "Participative (Consultative) Leadership"},
+                {"id": "c", "text": "Free-Rein (Laissez-Faire) Leadership"},
+                {"id": "d", "text": "Benevolent autocratic"},
+                {"id": "e", "text": "Exploitative Autocratic"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q8d",
+            "text": "Which leadership style is described as '_____adopt a paternalistic approach. Paternalistic leader makes decision but may consult with subordinates.'?",
+            "options": [
+                {"id": "a", "text": "Autocratic Leader"},
+                {"id": "b", "text": "Participative (Consultative) Leadership"},
+                {"id": "c", "text": "Free-Rein (Laissez-Faire) Leadership"},
+                {"id": "d", "text": "Benevolent autocratic"},
+                {"id": "e", "text": "Exploitative Autocratic"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q8e",
+            "text": "Which leadership style is described as 'In _______all work-related decisions are taken by the manager and order their subordinates to carry out the decision.'?",
+            "options": [
+                {"id": "a", "text": "Autocratic Leader"},
+                {"id": "b", "text": "Participative (Consultative) Leadership"},
+                {"id": "c", "text": "Free-Rein (Laissez-Faire) Leadership"},
+                {"id": "d", "text": "Benevolent autocratic"},
+                {"id": "e", "text": "Exploitative Autocratic"}
+            ],
+            "correctAnswer": "e"
+        },
+        {
+            "id": "q9",
+            "text": "Team refers to the process of establishing and developing a greater sense of collaboration and trust between team members. Interactive exercises, team assessments, and group discussions enable groups to cultivate this greater sense of teamwork",
+            "options": [
+                {"id": "a", "text": "True"},
+                {"id": "b", "text": "False"},
+                {"id": "c", "text": "Can't Say"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q10",
+            "text": "Team building is not",
+            "options": [
+                {"id": "a", "text": "works everywhere."},
+                {"id": "b", "text": "shows the customer that you care"},
+                {"id": "c", "text": "builds confidence in you."},
+                {"id": "d", "text": "instils confidence in your customer"},
+                {"id": "e", "text": "Give up SYNERGY EVERY TEAM NEEDS A GOOD LEADER"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "The vital determinants of teamwork are",
+            "options": [
+                {"id": "a", "text": "Leader, Subordinates, The environment"},
+                {"id": "b", "text": "Leader only"},
+                {"id": "c", "text": "Subordinates only"},
+                {"id": "d", "text": "Manager only"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q12",
+            "text": "The tasks that are to be performed by teams are basically categorized into _______",
+            "options": [
+                {"id": "a", "text": "Projects"},
+                {"id": "b", "text": "Partners"},
+                {"id": "c", "text": "Performance"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q13",
+            "text": "Communication gap, Group & individual rivalry, Lack of communication, Violation of communication channels, Vested interests of few people controlling the masses, such as union leaders, poorly defined responsibilities – when the responsibilities of the individuals in a group are not clearly defined these all are related to _____",
+            "options": [
+                {"id": "a", "text": "INTERNAL CONFLICTS"},
+                {"id": "b", "text": "EXTERNAL CONFLICTS"},
+                {"id": "c", "text": "TEAM GAP"},
+                {"id": "d", "text": "all of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q14",
+            "text": "Outer signs of great team-leadership are",
+            "options": [
+                {"id": "a", "text": "Communication"},
+                {"id": "b", "text": "Commitment"},
+                {"id": "c", "text": "Teamwork & Visibility"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q15",
+            "text": "Job performance =",
+            "options": [
+                {"id": "a", "text": "Ability x Motivation"},
+                {"id": "b", "text": "Ability + Motivation"},
+                {"id": "c", "text": "Ability x (Motivation + Teambuilding)"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16a",
+            "text": "What is the First Need in Maslow’s Hierarchy of Needs?",
+            "options": [
+                {"id": "a", "text": "Physiological"},
+                {"id": "b", "text": "Safety"},
+                {"id": "c", "text": "Love"},
+                {"id": "d", "text": "Esteem"},
+                {"id": "e", "text": "Self-actualization"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16b",
+            "text": "What is the Second Need in Maslow’s Hierarchy of Needs?",
+            "options": [
+                {"id": "a", "text": "Physiological"},
+                {"id": "b", "text": "Safety"},
+                {"id": "c", "text": "Love"},
+                {"id": "d", "text": "Esteem"},
+                {"id": "e", "text": "Self-actualization"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q16c",
+            "text": "What is the Third Need in Maslow’s Hierarchy of Needs?",
+            "options": [
+                {"id": "a", "text": "Physiological"},
+                {"id": "b", "text": "Safety"},
+                {"id": "c", "text": "Love"},
+                {"id": "d", "text": "Esteem"},
+                {"id": "e", "text": "Self-actualization"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q16d",
+            "text": "What is the Fourth Need in Maslow’s Hierarchy of Needs?",
+            "options": [
+                {"id": "a", "text": "Physiological"},
+                {"id": "b", "text": "Safety"},
+                {"id": "c", "text": "Love"},
+                {"id": "d", "text": "Esteem"},
+                {"id": "e", "text": "Self-actualization"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q16e",
+            "text": "What is the Top Need in Maslow’s Hierarchy of Needs?",
+            "options": [
+                {"id": "a", "text": "Physiological"},
+                {"id": "b", "text": "Safety"},
+                {"id": "c", "text": "Love"},
+                {"id": "d", "text": "Esteem"},
+                {"id": "e", "text": "Self-actualization"}
+            ],
+            "correctAnswer": "e"
+        },
+        {
+            "id": "q17",
+            "text": "According to ___________ Theory factors leading to satisfaction are separate and distinct from those leading to dissatisfaction. If we eliminate factors leading to dissatisfaction, peace may come but not motivation.",
+            "options": [
+                {"id": "a", "text": "HYGIENE THEORY"},
+                {"id": "b", "text": "MASLOW’S HIERARCHY OF NEEDS"},
+                {"id": "c", "text": "EXPECTANCY THEORY"},
+                {"id": "d", "text": "Other"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q18",
+            "text": "___________are specific, measurable, acceptable, realistic, timely, extending of capabilities and rewarding to those involved. Balanced business score cards have to base on this concept.",
+            "options": [
+                {"id": "a", "text": "SMARTER"},
+                {"id": "b", "text": "Honor your promises"},
+                {"id": "c", "text": "Create a positive environment"},
+                {"id": "d", "text": "Build a foundation"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q19",
+            "text": "We see that only __________is generally used for effective work in the total life span of 72 years",
+            "options": [
+                {"id": "a", "text": "8 Years"},
+                {"id": "b", "text": "3 Years"},
+                {"id": "c", "text": "6 Year"},
+                {"id": "d", "text": "10 Years"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q20",
+            "text": "Time Management is simply Life Management. Great and Successful People were good Time Managers",
+            "options": [
+                {"id": "a", "text": "True"},
+                {"id": "b", "text": "False"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q21",
+            "text": "For Minor Penalties JTO(Telecom) & Equivalent APPELLATE AUTHORITY is",
+            "options": [
+                {"id": "a", "text": "(Amoeba)"},
+                {"id": "b", "text": "(Anarchy)"},
+                {"id": "c", "text": "(Buggy whip)"},
+                {"id": "d", "text": "(Myopia)"},
+                {"id": "e", "text": "(Rat- race)"},
+                {"id": "f", "text": "(Remote control)"}
+            ],
+            "correctAnswer": "None" // Correct answer is Director (HR), not listed
+        },
+        {
+            "id": "q22",
+            "text": "When (FAFA) are put in right perspective, changes take place, and we start growing. Giving in to our fears and walking through them is the gateway to change. This leads us into actions that we previously have not taken. Fear causes us to resist change. FAFA ------ Stand for",
+            "options": [
+                {"id": "a", "text": "Fear, attitude, feelings and actions"},
+                {"id": "b", "text": "Focus, attitude, feelings and actions"},
+                {"id": "c", "text": "Fear, attitude, focus and actions"},
+                {"id": "d", "text": "fear, attitude, feelings and assurance"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q23",
+            "text": "Emotional intelligence has been defined, by __________________, as \"the ability to monitor one's own and other people's emotions, to discriminate between different emotions and label them appropriately, and to use emotional information to guide thinking and behavior\".",
+            "options": [
+                {"id": "a", "text": "Peter Salovey"},
+                {"id": "b", "text": "John Mayer"},
+                {"id": "c", "text": "Peter Salovey and John Mayer both"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q24",
+            "text": "Which of the following are universal emotions?",
+            "options": [
+                {"id": "a", "text": "anger, surprise, fear, disgust, sadness, happiness"},
+                {"id": "b", "text": "anger, surprise, fear, disgust, sadness"},
+                {"id": "c", "text": "anger, surprise, fear, disgust"},
+                {"id": "d", "text": "anger, surprise, fear"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q25",
+            "text": "________________ refers to the requirement that employees express particular emotions at work (for instance, enthusiasm or cheerfulness) to maximize organizational productivity.",
+            "options": [
+                {"id": "a", "text": "Emotional labour"},
+                {"id": "b", "text": "Emotional Intelligent"},
+                {"id": "c", "text": "Emotional Behaviours"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q26",
+            "text": "_______________refers to a set of abilities to perceive and express emotion, assimilate emotion in thought, understand reason with emotion, and regulate emotion in oneself and others.",
+            "options": [
+                {"id": "a", "text": "Emotional intelligence (EI)"},
+                {"id": "b", "text": "Emotional Labour (EL)"},
+                {"id": "c", "text": "Emotional Behaviors (EB)"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q27",
+            "text": "Which of the following are dimensions of Emotional intelligence (EI)?",
+            "options": [
+                {"id": "a", "text": "Self-awareness, Self-management, Self-motivation, Empathy, Social skills"},
+                {"id": "b", "text": "Self-awareness, Self-management, Self-motivation"},
+                {"id": "c", "text": "Self-awareness, Self-management"},
+                {"id": "d", "text": "Self-awareness only"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q28",
+            "text": "In normal telephone service, basically, a circuit or channel between the calling party and called party is set up (temporarily) and this circuit is kept reserved till the call is completed. Here two speech time slots are involved - one of the calling subscriber and other of the called subscriber. It is called ______________",
+            "options": [
+                {"id": "a", "text": "circuit switching."},
+                {"id": "b", "text": "Packet Switching"},
+                {"id": "c", "text": "IP Switching"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q29",
+            "text": "The prime purpose of an exchange is to provide a temporary path for simultaneous bi-directional transmission of speech between",
+            "options": [
+                {"id": "a", "text": "(i) Subscriber lines connected to same exchange (local switching)"},
+                {"id": "b", "text": "(ii) Subscriber lines and trunks to other exchange(outgoing trunk call)"},
+                {"id": "c", "text": "(iii) Subscriber lines and trunks from other exchanges (incoming trunk calls)"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q30a",
+            "text": "What does Calling Line Identification Presentation correspond to?",
+            "options": [
+                {"id": "a", "text": "CLIP"},
+                {"id": "b", "text": "CLIR"},
+                {"id": "c", "text": "UUSI"},
+                {"id": "d", "text": "MSN"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q30b",
+            "text": "What does Calling Line Identification Restriction correspond to?",
+            "options": [
+                {"id": "a", "text": "CLIP"},
+                {"id": "b", "text": "CLIR"},
+                {"id": "c", "text": "UUSI"},
+                {"id": "d", "text": "MSN"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30c",
+            "text": "What does User to User Signaling Identification correspond to?",
+            "options": [
+                {"id": "a", "text": "CLIP"},
+                {"id": "b", "text": "CLIR"},
+                {"id": "c", "text": "UUSI"},
+                {"id": "d", "text": "MSN"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q30d",
+            "text": "What does Multiple Subscriber Number correspond to?",
+            "options": [
+                {"id": "a", "text": "CLIP"},
+                {"id": "b", "text": "CLIR"},
+                {"id": "c", "text": "UUSI"},
+                {"id": "d", "text": "MSN"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q31a",
+            "text": "What is the configuration for Basic Rate Access (BRA)?",
+            "options": [
+                {"id": "a", "text": "2B+D 2 Channels of 64 Kbps for Speech And Data."},
+                {"id": "b", "text": "1 Channel of 16 Kbps for Signalling"},
+                {"id": "c", "text": "30 B+D 30 Channels of 64 Kbps for speech and data."},
+                {"id": "d", "text": "1 Channel of 64 Kbps for signalling"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q31b",
+            "text": "What is the configuration for Primary Rate Access (PRA)?",
+            "options": [
+                {"id": "a", "text": "2B+D 2 Channels of 64 Kbps for Speech And Data."},
+                {"id": "b", "text": "1 Channel of 16 Kbps for Signalling"},
+                {"id": "c", "text": "30 B+D 30 Channels of 64 Kbps for speech and data."},
+                {"id": "d", "text": "1 Channel of 64 Kbps for signalling"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q32",
+            "text": "CEPT acronym",
+            "options": [
+                {"id": "a", "text": "Conference of European Posts and Telecommunications"},
+                {"id": "b", "text": "Committe of European Posts and Telecommunications"},
+                {"id": "c", "text": "Conference of European Posts and Teleprinter"},
+                {"id": "d", "text": "Committe of European Posts and Teleprinter"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33",
+            "text": "WWWW is",
+            "options": [
+                {"id": "a", "text": "Worldwide Wireless Web"},
+                {"id": "b", "text": "Worldwide Wired Web"},
+                {"id": "c", "text": "Worldwide Webinar Web"},
+                {"id": "d", "text": "Other"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q34",
+            "text": "In September 2015, ITU published the “Vision” of next generation of mobile broadband connected society and named this new technology as IMT-2020. 3GPP, which is developing specifications for access technology for 5G or IMT 2020, calls it",
+            "options": [
+                {"id": "a", "text": "NR (New Radio)."},
+                {"id": "b", "text": "4G/IMT-Advanced standards."},
+                {"id": "c", "text": "Fourth Generation (4G) of broadband cellular network technology"},
+                {"id": "d", "text": "3G uses Wide Brand Wireless Network"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q35",
+            "text": "The typical clusters contain",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "4 & 7"},
+                {"id": "c", "text": "4, 7, 12 or 21 cells."},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q36a",
+            "text": "Which type of cell is described as 'are large cells for remote and sparsely populated areas'?",
+            "options": [
+                {"id": "a", "text": "Macro cells"},
+                {"id": "b", "text": "Micro cells"},
+                {"id": "c", "text": "Umbrella cells"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q36b",
+            "text": "Which type of cell is described as 'are used for densely populated areas. By splitting the existing areas into smaller cells, the number of channels available is increased as well as the capacity of the cells.'?",
+            "options": [
+                {"id": "a", "text": "Macro cells"},
+                {"id": "b", "text": "Micro cells"},
+                {"id": "c", "text": "Umbrella cells"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q36c",
+            "text": "Which type of cell is described as 'On a highway, very small cells produce an large number of handovers among the different small neighboring cells.'?",
+            "options": [
+                {"id": "a", "text": "Macro cells"},
+                {"id": "b", "text": "Micro cells"},
+                {"id": "c", "text": "Umbrella cells"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "In IS-95 there are _______chips for each data bit",
+            "options": [
+                {"id": "a", "text": "64"},
+                {"id": "b", "text": "128"},
+                {"id": "c", "text": "32"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "One tenth of the common logarithm of the ratio of relative powers, equal to_________",
+            "options": [
+                {"id": "a", "text": "0.1 B (bel)"},
+                {"id": "b", "text": "1.0 B (bel)."},
+                {"id": "c", "text": "Both of Above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q39",
+            "text": "The input is 1W and its output 2W, therefore, Gain",
+            "options": [
+                {"id": "a", "text": "3dB approximately"},
+                {"id": "b", "text": "0.3dB approximately"},
+                {"id": "c", "text": "30dB approximately"},
+                {"id": "d", "text": "Other"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q40",
+            "text": "The ratio in dB is given by",
+            "options": [
+                {"id": "a", "text": "X = log P2/P1 B"},
+                {"id": "b", "text": "10 log P2/P1 dB"},
+                {"id": "c", "text": "Both of Above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q41",
+            "text": "0 dBm =",
+            "options": [
+                {"id": "a", "text": "1mW"},
+                {"id": "b", "text": "0.1mW"},
+                {"id": "c", "text": "10mW"},
+                {"id": "d", "text": "1W"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q42",
+            "text": "In Digital Transmission system, the quality of communication is mainly assessed by",
+            "options": [
+                {"id": "a", "text": "BER (Bit Error Ratio)"},
+                {"id": "b", "text": "Jitter"},
+                {"id": "c", "text": "Both of Above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43a",
+            "text": "What is the function of DNS (Domain Name System)?",
+            "options": [
+                {"id": "a", "text": "It is used to resolve URL to IP Address and vice versa"},
+                {"id": "b", "text": "It is used to allocate IP Address"},
+                {"id": "c", "text": "It hosts website"},
+                {"id": "d", "text": "It controls and restricts outgoing and incoming traffic"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q43b",
+            "text": "What is the function of Web Hosting?",
+            "options": [
+                {"id": "a", "text": "It is used to resolve URL to IP Address and vice versa"},
+                {"id": "b", "text": "It is used to allocate IP Address"},
+                {"id": "c", "text": "It hosts website"},
+                {"id": "d", "text": "It controls and restricts outgoing and incoming traffic"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43c",
+            "text": "What is the function of Proxy?",
+            "options": [
+                {"id": "a", "text": "It is used to resolve URL to IP Address and vice versa"},
+                {"id": "b", "text": "It is used to allocate IP Address"},
+                {"id": "c", "text": "It hosts website"},
+                {"id": "d", "text": "It controls and restricts outgoing and incoming traffic"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q43d",
+            "text": "What is the function of DHCP (Dynamic Host Configuration Protocol)?",
+            "options": [
+                {"id": "a", "text": "It is used to resolve URL to IP Address and vice versa"},
+                {"id": "b", "text": "It is used to allocate IP Address"},
+                {"id": "c", "text": "It hosts website"},
+                {"id": "d", "text": "It controls and restricts outgoing and incoming traffic"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q44",
+            "text": "The Wind Turbine Generator (WTG) is designed for optimal operation at wind speed of _______",
+            "options": [
+                {"id": "a", "text": "10-14 metre/sec."},
+                {"id": "b", "text": "1-4 metre/sec."},
+                {"id": "c", "text": "3-4 metre/sec."},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q45",
+            "text": "CONTRACT MANAGEMENT INDIAN CONTRACT ACT-1872 Applicable",
+            "options": [
+                {"id": "a", "text": "to whole of India except J&K"},
+                {"id": "b", "text": "to whole of India except NE-I & NE-II"},
+                {"id": "c", "text": "to whole of India"},
+                {"id": "d", "text": "to whole of India except A & N"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q46",
+            "text": "Communication, Acceptance and Revocation of Proposals Cover under Section of CONTRACT MANAGEMENT INDIAN CONTRACT ACT-1872",
+            "options": [
+                {"id": "a", "text": "SEC-4"},
+                {"id": "b", "text": "SEC-10"},
+                {"id": "c", "text": "SEC-16"},
+                {"id": "d", "text": "SEC-1"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q47",
+            "text": "An agreement without consideration is",
+            "options": [
+                {"id": "a", "text": "Void"},
+                {"id": "b", "text": "unless"},
+                {"id": "c", "text": "Both of these"},
+                {"id": "d", "text": "Acceptance"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q48",
+            "text": "As per implied interpretation of Sec-11, an arbitrator should be appointed by the appointing authority within ________days from the date of receipt of request from the claimant.",
+            "options": [
+                {"id": "a", "text": "15"},
+                {"id": "b", "text": "30"},
+                {"id": "c", "text": "60"},
+                {"id": "d", "text": "90"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q49",
+            "text": "The procurement is done at _________ levels viz",
+            "options": [
+                {"id": "a", "text": "BSNL Corporate Office"},
+                {"id": "b", "text": "Telecom Circle H/Q"},
+                {"id": "c", "text": "Both of these"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q50",
+            "text": "Open Tenders are to be called for where the total estimated value is more than",
+            "options": [
+                {"id": "a", "text": "Rs.2,00,000/-"},
+                {"id": "b", "text": "Rs.1,00,000/-"},
+                {"id": "c", "text": "Rs.5,00,000/-"},
+                {"id": "d", "text": "Rs.6,00,000/-"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q51",
+            "text": "GFRs is",
+            "options": [
+                {"id": "a", "text": "General Financial Rules"},
+                {"id": "b", "text": "General Fixel Rules"},
+                {"id": "c", "text": "Government Financial Rules"},
+                {"id": "d", "text": "Government Fixel Rules"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q52",
+            "text": "The __________ government e-tendering portals will provide a platform for e-procurement for BSNL.",
+            "options": [
+                {"id": "a", "text": "CPPP portal and GeM Portal Both"},
+                {"id": "b", "text": "CPPP portal"},
+                {"id": "c", "text": "GeM Portal"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        }
+    ]
+}
