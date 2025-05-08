@@ -1,6 +1,8 @@
-{
-  "Indian Telegraph Act 1885": [
-    {
+	
+	{
+    "title": "Indian Telegraph Act 1885",
+    "questions":[ 
+	{
       "question": "When did the Indian Telegraph Act come into force?",
       "options": {
         "A": "1st October 2000",
@@ -814,6 +816,6 @@
         "D": "Neither A nor B"
       },
       "answer": "C"
-    }
-  ]
+        }
+    ]
 }
