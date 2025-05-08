@@ -389,7 +389,7 @@
                 {"id": "e", "text": "(Rat- race)"},
                 {"id": "f", "text": "(Remote control)"}
             ],
-            "correctAnswer": "None" // Correct answer is Director (HR), not listed
+            "correctAnswer": "None"
         },
         {
             "id": "q22",
