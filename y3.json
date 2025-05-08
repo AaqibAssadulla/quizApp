@@ -1,27 +1,527 @@
 {
-    "title": "History",
+    "title": "JTO PH-I Technical Questions 2025",
     "questions": [
         {
-            "id": "his1",
-            "text": "In which year did World War II end?",
+            "id": "q1",
+            "text": "The earth resistance of Earth electrode system for electronic exchanges should be _________________",
             "options": [
-                {"id": "a", "text": "1943"},
-                {"id": "b", "text": "1945"},
-                {"id": "c", "text": "1950"},
-                {"id": "d", "text": "1939"}
+                {"id": "a", "text": "less than 0.5 Ohms"},
+                {"id": "b", "text": "more than 0.5 Ohms"},
+                {"id": "c", "text": "More than 0.5 Ohms & less than 1 Ohms"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "The resistance of the earth electrode system should be as low as possible and in any case should not normally _________ at any time for the year.",
+            "options": [
+                {"id": "a", "text": "exceed 2 ohms"},
+                {"id": "b", "text": "exceed 1 ohms"},
+                {"id": "c", "text": "exceed 0.5 ohms"},
+                {"id": "d", "text": "exceed 1.5 ohms"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3",
+            "text": "The present standard for spike earth-electrode system consists of _____________ diameter G.I pipes",
+            "options": [
+                {"id": "a", "text": "twenty 25.0 mm or 38.00 mm"},
+                {"id": "b", "text": "twenty-five 25.0 mm or 38.00 mm"},
+                {"id": "c", "text": "twenty 30.0 mm or 40.00 mm"},
+                {"id": "d", "text": "twenty-five 30.0 mm or 40.00 mm"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "his2",
-            "text": "Who was the first President of the United States?",
+            "id": "q4",
+            "text": "In Spike earth electrode system, each pipe is used as an earth spike driven to its full length into the ground, the spacing between any two being ________",
             "options": [
-                {"id": "a", "text": "Thomas Jefferson"},
-                {"id": "b", "text": "George Washington"},
-                {"id": "c", "text": "Abraham Lincoln"},
-                {"id": "d", "text": "John Adams"}
+                {"id": "a", "text": "not less than 375 cms"},
+                {"id": "b", "text": "not less than 275 cms"},
+                {"id": "c", "text": "more than 275 cms & less than 375 cms"},
+                {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "b"
+        },
+        {
+            "id": "q5",
+            "text": "In Lead Strip Electrode System consists of a lead strip 1 mm wide and 6 gms/square cm buried at a depth of from 60 to 90 cms. The strip should be preferably laid in one continuous length of ________",
+            "options": [
+                {"id": "a", "text": "2450 cms"},
+                {"id": "b", "text": "2450 mms"},
+                {"id": "c", "text": "two lengths of 1225 cm should be laid at least 250 cm apart and overlapped by at least 152 mm"},
+                {"id": "d", "text": "three lengths of 1225 cm should be laid at least 250 cm apart and overlapped by at least 152 mm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q6",
+            "text": "Earth plate electrode system; This consists of four galvanized iron plates of ___________ square arranged as shown in the diagram below.",
+            "options": [
+                {"id": "a", "text": "145 SWG 76 cms"},
+                {"id": "b", "text": "145 SWG 76 mms"},
+                {"id": "c", "text": "Can't Say"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "Telephone exchange buildings have been classified as ____________ in the “National Building Code of India”. As such building Material(s) of suitable fire retardant ability must be provided",
+            "options": [
+                {"id": "a", "text": "E4 business buildings"},
+                {"id": "b", "text": "E3 business buildings"},
+                {"id": "c", "text": "E2 business buildings"},
+                {"id": "d", "text": "E1 business buildings"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q8",
+            "text": "__________ extinguishers are most suitable for fires on wood, paper, textiles etc. They may not be used on other types of fires.",
+            "options": [
+                {"id": "a", "text": "Soda Acid type"},
+                {"id": "b", "text": "Foam Type"},
+                {"id": "c", "text": "CO2 Type"},
+                {"id": "d", "text": "Powder Type"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q9",
+            "text": "___________ of extinguishers is mainly used on small fires on oil and liquids insoluble in water.",
+            "options": [
+                {"id": "a", "text": "CLASS A TYPES"},
+                {"id": "b", "text": "CLASS B TYPES"},
+                {"id": "c", "text": "CLASS C TYPES"},
+                {"id": "d", "text": "CLASS D TYPES"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q10",
+            "text": "____________ stored in metal cylinders at a pressure of about 750 lbs per sq. inch vaporizes at atmospheric pressure and is made to eject in the form of jet.",
+            "options": [
+                {"id": "a", "text": "Liquid Carbon dioxide"},
+                {"id": "b", "text": "Soda Acid type"},
+                {"id": "c", "text": "CO2 Type"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11a",
+            "text": "Who is usually the officer-in-charge of the building in a fire fighting organization?",
+            "options": [
+                {"id": "a", "text": "Floor wardens"},
+                {"id": "b", "text": "Fire fighting officer"},
+                {"id": "c", "text": "Assistant Warden"},
+                {"id": "d", "text": "fire fighters"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11b",
+            "text": "Who is appointed as a responsible officer on each floor in a fire fighting organization?",
+            "options": [
+                {"id": "a", "text": "Floor wardens"},
+                {"id": "b", "text": "Fire fighting officer"},
+                {"id": "c", "text": "Assistant Warden"},
+                {"id": "d", "text": "fire fighters"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11c",
+            "text": "Who acts as wardens in the absence of wardens for the floor in a fire fighting organization?",
+            "options": [
+                {"id": "a", "text": "Floor wardens"},
+                {"id": "b", "text": "Fire fighting officer"},
+                {"id": "c", "text": "Assistant Warden"},
+                {"id": "d", "text": "fire fighters"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q11d",
+            "text": "Who are normally all engineering staff and other selected officials on duty in a fire fighting organization?",
+            "options": [
+                {"id": "a", "text": "Floor wardens"},
+                {"id": "b", "text": "Fire fighting officer"},
+                {"id": "c", "text": "Assistant Warden"},
+                {"id": "d", "text": "fire fighters"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q12",
+            "text": "Types of Faults in CFA Structures",
+            "options": [
+                {"id": "a", "text": "Earth fault"},
+                {"id": "b", "text": "Low insulation fault"},
+                {"id": "c", "text": "Disconnection Fault"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q13",
+            "text": "Diameter of cable over Polythene Jacket Above 46 mm up to 64 mm",
+            "options": [
+                {"id": "a", "text": "1.8 mm"},
+                {"id": "b", "text": "1.4 mm"},
+                {"id": "c", "text": "2.2 mm"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q14",
+            "text": "The PIJF cables are available up to _________pairs.",
+            "options": [
+                {"id": "a", "text": "3600"},
+                {"id": "b", "text": "3200"},
+                {"id": "c", "text": "4200"},
+                {"id": "d", "text": "4800"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q15a",
+            "text": "What is the code for tape or binder for unit identification for number 1?",
+            "options": [
+                {"id": "a", "text": "Blue"},
+                {"id": "b", "text": "Orange"},
+                {"id": "c", "text": "Green"},
+                {"id": "d", "text": "Brown"},
+                {"id": "e", "text": "Slate / Gray"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q15b",
+            "text": "What is the code for tape or binder for unit identification for number 2?",
+            "options": [
+                {"id": "a", "text": "Blue"},
+                {"id": "b", "text": "Orange"},
+                {"id": "c", "text": "Green"},
+                {"id": "d", "text": "Brown"},
+                {"id": "e", "text": "Slate / Gray"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q15c",
+            "text": "What is the code for tape or binder for unit identification for number 3?",
+            "options": [
+                {"id": "a", "text": "Blue"},
+                {"id": "b", "text": "Orange"},
+                {"id": "c", "text": "Green"},
+                {"id": "d", "text": "Brown"},
+                {"id": "e", "text": "Slate / Gray"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q15d",
+            "text": "What is the code for tape or binder for unit identification for number 4?",
+            "options": [
+                {"id": "a", "text": "Blue"},
+                {"id": "b", "text": "Orange"},
+                {"id": "c", "text": "Green"},
+                {"id": "d", "text": "Brown"},
+                {"id": "e", "text": "Slate / Gray"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q15e",
+            "text": "What is the code for tape or binder for unit identification for number 5?",
+            "options": [
+                {"id": "a", "text": "Blue"},
+                {"id": "b", "text": "Orange"},
+                {"id": "c", "text": "Green"},
+                {"id": "d", "text": "Brown"},
+                {"id": "e", "text": "Slate / Gray"}
+            ],
+            "correctAnswer": "e"
+        },
+        {
+            "id": "q16",
+            "text": "For CDR at the Hyderabad Data Centre alone, we have ________ class servers and around ______ low-end servers.",
+            "options": [
+                {"id": "a", "text": "18 DC, 100"},
+                {"id": "b", "text": "18 DC, 200"},
+                {"id": "c", "text": "12 DC, 100"},
+                {"id": "d", "text": "12 DC, 200"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q17",
+            "text": "In this scheme two sets of Batteries (24 cells each set) are connected in parallel to the output of the rectifier. The output of the rectifier is __________.",
+            "options": [
+                {"id": "a", "text": "51.5 V"},
+                {"id": "b", "text": "2.15V/cell"},
+                {"id": "c", "text": "Both of Above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q18",
+            "text": "RECOMMENDED BOOST VOLTAGE _______ VPC AT 27oC",
+            "options": [
+                {"id": "a", "text": "2.25"},
+                {"id": "b", "text": "2.30"},
+                {"id": "c", "text": "1.75"},
+                {"id": "d", "text": "2.15"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q19",
+            "text": "In Lead acid type cells have _________ immersed in an electrolyte of ___________ in a suitable container",
+            "options": [
+                {"id": "a", "text": "electrodes of lead"},
+                {"id": "b", "text": "dilute H2S04"},
+                {"id": "c", "text": "electrodes of copper & Conc. H2S04"},
+                {"id": "d", "text": "Both A & B"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q20",
+            "text": "__________ is the ratio between the cooling capacity and the power input of the Air conditioners",
+            "options": [
+                {"id": "a", "text": "EER"},
+                {"id": "b", "text": "CCR"},
+                {"id": "c", "text": "ETR"},
+                {"id": "d", "text": "Power Factor"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q21",
+            "text": "Contractor should immediately report to _______________ any instance of objection raised by PWD/Local Authority or private individual so that such grievances can be settled.",
+            "options": [
+                {"id": "a", "text": "CGM"},
+                {"id": "b", "text": "Construction officer DOT"},
+                {"id": "c", "text": "GM of respect BA"},
+                {"id": "d", "text": "AGM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q22",
+            "text": "Wherever water pipes exist at insufficient depths and the contractor lays the cable over it, it causes",
+            "options": [
+                {"id": "a", "text": "Breaking of water pipes"},
+                {"id": "b", "text": "No damage to the cables"},
+                {"id": "c", "text": "The cable become bend"},
+                {"id": "d", "text": "Unequal dynamic stress on the cable by vehicular traffic"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q23",
+            "text": "When the telecom cable and power parallelism is more than 0.8 kms the cable route should be referred to",
+            "options": [
+                {"id": "a", "text": "Electricity Board"},
+                {"id": "b", "text": "Local Government"},
+                {"id": "c", "text": "PTCC"},
+                {"id": "d", "text": "DOT"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q24",
+            "text": "In case of PJIF cables use of crimping tool is for pressing UY connectors.",
+            "options": [
+                {"id": "a", "text": "False"},
+                {"id": "b", "text": "True"},
+                {"id": "c", "text": "Can't say"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q25",
+            "text": "SMPS is used for",
+            "options": [
+                {"id": "a", "text": "DC to DC conversion"},
+                {"id": "b", "text": "DC to AC conversion"},
+                {"id": "c", "text": "AC to DC conversion"},
+                {"id": "d", "text": "AC to AC conversion"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q26",
+            "text": "The DC/DC converter is based on ___ topology",
+            "options": [
+                {"id": "a", "text": "full bridge"},
+                {"id": "b", "text": "boost"},
+                {"id": "c", "text": "mesh"},
+                {"id": "d", "text": "star"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q27",
+            "text": "In parallelism with 11 KV cable minimum clearance should be",
+            "options": [
+                {"id": "a", "text": "0.5 meter"},
+                {"id": "b", "text": "0.6 meter"},
+                {"id": "c", "text": "0.7 meter"},
+                {"id": "d", "text": "0.8 meter"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "Minimum Vertical clearance required in case of crossings of the Telecom cable.",
+            "options": [
+                {"id": "a", "text": "0.3 meter"},
+                {"id": "b", "text": "0.4 meter"},
+                {"id": "c", "text": "0.5 meter"},
+                {"id": "d", "text": "0.6 meter"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q29",
+            "text": "After clearance testing position the docket goes to .....",
+            "options": [
+                {"id": "a", "text": "directing position"},
+                {"id": "b", "text": "initial testing position"},
+                {"id": "c", "text": "Tally position"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q30",
+            "text": "The resistance of Single Spike Electrode System is given by",
+            "options": [
+                {"id": "a", "text": "R= P/2L loge (4L/a)-1"},
+                {"id": "b", "text": "R=P/L log10 (4L/a)-1"},
+                {"id": "c", "text": "R=P/2L log10(L/a)-1"},
+                {"id": "d", "text": "R=P/2Lloge(L/2a)-1"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q31",
+            "text": "Earth Plate Electrode System consists of",
+            "options": [
+                {"id": "a", "text": "4 no.of galvanized iron plates"},
+                {"id": "b", "text": "6 no.of plain iron plates"},
+                {"id": "c", "text": "8 no.of Stainless Stell plates"},
+                {"id": "d", "text": "None of above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q32",
+            "text": "Types of Earth Electrode System:-",
+            "options": [
+                {"id": "a", "text": "Spike Earth Electrode System"},
+                {"id": "b", "text": "Lead Strip Electrode System"},
+                {"id": "c", "text": "Earth Plate Electrode System"},
+                {"id": "d", "text": "All of the Above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q33a",
+            "text": "What does PTV stand for in the context of Types of Earth Electrode System?",
+            "options": [
+                {"id": "a", "text": "Pressure Test Valve"},
+                {"id": "b", "text": "Gas Pressure Alarm System"},
+                {"id": "c", "text": "E-Stapling"},
+                {"id": "d", "text": "Process Efficiency"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33b",
+            "text": "What does GPAS stand for in the context of Types of Earth Electrode System?",
+            "options": [
+                {"id": "a", "text": "Pressure Test Valve"},
+                {"id": "b", "text": "Gas Pressure Alarm System"},
+                {"id": "c", "text": "Gas Pressure Accuracy System"},
+                {"id": "d", "text": "Pressure Time Value"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q33c",
+            "text": "In CDR project, _______ is configured as the DR site for Kolkata",
+            "options": [
+                {"id": "a", "text": "Hyderabad"},
+                {"id": "b", "text": "Chandigarh"},
+                {"id": "c", "text": "Pune"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33d",
+            "text": "Through a special mechanism, BSNL services of one customer will be billed together",
+            "options": [
+                {"id": "a", "text": "E-Stapling"},
+                {"id": "b", "text": "Gas Pressure Alarm System"},
+                {"id": "c", "text": "Pressure Test Valve"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33e",
+            "text": "In CDR project, _______ is configured as the DR site for Pune",
+            "options": [
+                {"id": "a", "text": "Hyderabad"},
+                {"id": "b", "text": "Chandigarh"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q33f",
+            "text": "The function of the Float Rectifier is to receive three phase 440V/ single phase 230V AC and to give a constant _________",
+            "options": [
+                {"id": "a", "text": "54.0 Volts D.C without AC ripples"},
+                {"id": "b", "text": "54.0 Volts D.C with AC ripples"},
+                {"id": "c", "text": "Maintenance based Valve-Regulated Lead-Acid"},
+                {"id": "d", "text": "Maintenance free Valve-Regulated Lead-Acid"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33g",
+            "text": "What does VRLA stand for in the context of Types of Earth Electrode System?",
+            "options": [
+                {"id": "a", "text": "Maintenance based Valve-Regulated Lead-Acid"},
+                {"id": "b", "text": "Maintenance free Valve-Regulated Lead-Acid"},
+                {"id": "c", "text": "volts per cell"},
+                {"id": "d", "text": "valve pressure cell"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q33h",
+            "text": "What does VPC stand for in the context of Types of Earth Electrode System?",
+            "options": [
+                {"id": "a", "text": "Maintenance based Valve-Regulated Lead-Acid"},
+                {"id": "b", "text": "Maintenance free Valve-Regulated Lead-Acid"},
+                {"id": "c", "text": "volts per cell"},
+                {"id": "d", "text": "valve pressure cell"}
+            ],
+            "correctAnswer": "c"
         }
     ]
 }
