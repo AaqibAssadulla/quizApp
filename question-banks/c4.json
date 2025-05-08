@@ -58,7 +58,7 @@
             "correctAnswer": "a"
         },
         {
-            "id": "tel6",
+            "id": "q6",
             "text": "Punishment for intentionally tampering or damaging a telegraph?",
             "options": [
                 {"id": "a", "text": "2 Years"},
@@ -69,7 +69,7 @@
             "correctAnswer": "b"
         },
         {
-            "id": "tel7",
+            "id": "q7",
             "text": "Punishment for fraudulently retaining a message?",
             "options": [
                 {"id": "a", "text": "2 Years"},
@@ -80,7 +80,7 @@
             "correctAnswer": "a"
         },
         {
-            "id": "tel8",
+            "id": "q8",
             "text": "Punishment for a telegraph officer fraudulently sending messages without payment?",
             "options": [
                 {"id": "a", "text": "2 Years"},
@@ -91,7 +91,7 @@
             "correctAnswer": "c"
         },
         {
-            "id": "tel9",
+            "id": "q9",
             "text": "Punishment for unlawfully attempting to learn the contents of messages under Section 23?",
             "options": [
                 {"id": "a", "text": "2 Years"},
@@ -102,7 +102,7 @@
             "correctAnswer": "b"
         },
         {
-            "id": "tel10",
+            "id": "q10",
             "text": "Fine for intrusion into a signal room or trespass in a telegraph office?",
             "options": [
                 {"id": "a", "text": "Rs. 500"},
