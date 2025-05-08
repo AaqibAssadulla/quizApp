@@ -1,0 +1,1105 @@
+{
+    "title": "Mobile Communication",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The range of Radio Wave is",
+            "options": [
+                {"id": "a", "text": "3 Khz to 3 Ghz"},
+                {"id": "b", "text": "3 Khz to 30 Ghz"},
+                {"id": "c", "text": "3 Khz to 300 Ghz"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2",
+            "text": "When impedance of transmitter and antenna will perfectly match, VSWR will be",
+            "options": [
+                {"id": "a", "text": "Zero"},
+                {"id": "b", "text": "Infinite"},
+                {"id": "c", "text": "One"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3",
+            "text": "The maximum permissible VSWR is",
+            "options": [
+                {"id": "a", "text": "1.3"},
+                {"id": "b", "text": "1"},
+                {"id": "c", "text": "Infinite"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q4",
+            "text": "If an antenna is facing towards East, its azimuth will be",
+            "options": [
+                {"id": "a", "text": "90"},
+                {"id": "b", "text": "0"},
+                {"id": "c", "text": "180"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q5",
+            "text": "Group of cells in which no frequencies are reused is termed as",
+            "options": [
+                {"id": "a", "text": "Location Area"},
+                {"id": "b", "text": "Cluster"},
+                {"id": "c", "text": "PLMN Area"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6",
+            "text": "What will be the effect on performance, if frequency reuse factor is increased.",
+            "options": [
+                {"id": "a", "text": "Increases"},
+                {"id": "b", "text": "Decreases"},
+                {"id": "c", "text": "Remains Same"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q7",
+            "text": "What will be the effect on cell capacity, if frequency reuse factor is increased.",
+            "options": [
+                {"id": "a", "text": "Increases"},
+                {"id": "b", "text": "Decreases"},
+                {"id": "c", "text": "Remains Same"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8",
+            "text": "Which is the downlink frequency band of GSM 900 band?",
+            "options": [
+                {"id": "a", "text": "890-915 Mhz"},
+                {"id": "b", "text": "935-960 Mhz"},
+                {"id": "c", "text": "1710 to 1785 MHz"},
+                {"id": "d", "text": "1805 to 1880 Mhz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q9",
+            "text": "Which is the uplink frequency band of GSM 1800 band?",
+            "options": [
+                {"id": "a", "text": "890-915 Mhz"},
+                {"id": "b", "text": "935-960 Mhz"},
+                {"id": "c", "text": "1710 to 1785 MHz"},
+                {"id": "d", "text": "1805 to 1880 Mhz"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q10",
+            "text": "The Bandwidth of GSM 1800 Band is",
+            "options": [
+                {"id": "a", "text": "75 Mhz"},
+                {"id": "b", "text": "95 Mhz"},
+                {"id": "c", "text": "25 MHz"},
+                {"id": "d", "text": "45 Mhz"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11",
+            "text": "Duplexing spacing in GSM 900 band is",
+            "options": [
+                {"id": "a", "text": "75 Mhz"},
+                {"id": "b", "text": "95 Mhz"},
+                {"id": "c", "text": "25 MHz"},
+                {"id": "d", "text": "45 Mhz"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q12",
+            "text": "How many RF channels are available in GSM 1800 Band",
+            "options": [
+                {"id": "a", "text": "124"},
+                {"id": "b", "text": "125"},
+                {"id": "c", "text": "374"},
+                {"id": "d", "text": "375"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q13",
+            "text": "Multiple Access scheme adopted by GSM is",
+            "options": [
+                {"id": "a", "text": "TDMA"},
+                {"id": "b", "text": "FDMA"},
+                {"id": "c", "text": "CDMA"},
+                {"id": "d", "text": "FDMA and TDMA"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q14",
+            "text": "What is the TDMA frame duration in GSM?",
+            "options": [
+                {"id": "a", "text": ".577 ms"},
+                {"id": "b", "text": "4.62 ms"},
+                {"id": "c", "text": "10 ms"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q15",
+            "text": "What is the duration of TDMA Hyperframe in GSM?",
+            "options": [
+                {"id": "a", "text": "3 hours, 28 minutes, 53 seconds and 760 milliseconds"},
+                {"id": "b", "text": "2 hours, 28 minutes, 53 seconds and 760 milliseconds"},
+                {"id": "c", "text": "1 hours, 28 minutes, 53 seconds and 760 milliseconds"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16",
+            "text": "Which logical channels works in downlink direction only in GSM?",
+            "options": [
+                {"id": "a", "text": "Traffic Channel"},
+                {"id": "b", "text": "Broadcast Channel"},
+                {"id": "c", "text": "Common control channel"},
+                {"id": "d", "text": "Dedicated Control Channel"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "Which channel carries all signaling between the BTS and the mobile station when no TCH is allocated?",
+            "options": [
+                {"id": "a", "text": "BCCH"},
+                {"id": "b", "text": "SDCCH"},
+                {"id": "c", "text": "RACH"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q18",
+            "text": "Which logical Channels are point to point channel in GSM?",
+            "options": [
+                {"id": "a", "text": "Broadcast Channel"},
+                {"id": "b", "text": "Common control channel"},
+                {"id": "c", "text": "Dedicated Control Channel"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "Which channel is used to informed about the system configuration parameters to the MS in GSM?",
+            "options": [
+                {"id": "a", "text": "BCCH"},
+                {"id": "b", "text": "SDCCH"},
+                {"id": "c", "text": "RACH"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q20",
+            "text": "Which of the following radio resource management technique is adopted in GSM?",
+            "options": [
+                {"id": "a", "text": "DTX"},
+                {"id": "b", "text": "Timing Advance"},
+                {"id": "c", "text": "Power Control"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q21",
+            "text": "What is the net (or effective) bit rate at the TCH/F for speech in GSM?",
+            "options": [
+                {"id": "a", "text": "22.8 Kbps"},
+                {"id": "b", "text": "13 Kbps"},
+                {"id": "c", "text": "11.4 kbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q22",
+            "text": "What is the gross bit rate at the TCH/H for speech in GSM?",
+            "options": [
+                {"id": "a", "text": "22.8 Kbps"},
+                {"id": "b", "text": "13 Kbps"},
+                {"id": "c", "text": "11.4 kbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q23",
+            "text": "Which Signaling Transmission is used in GSM Mobile Network",
+            "options": [
+                {"id": "a", "text": "CCS 7"},
+                {"id": "b", "text": "SIGTRAN"},
+                {"id": "c", "text": "SIP"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q24",
+            "text": "Which is a sub layer of Layer 3 of GSM Protocol at MS?",
+            "options": [
+                {"id": "a", "text": "Radio Resource Management (RR)"},
+                {"id": "b", "text": "Mobility Management (MM)"},
+                {"id": "c", "text": "Connection Management (CM)"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q25",
+            "text": "Which is responsible for transferring messages between network elements?",
+            "options": [
+                {"id": "a", "text": "MTP"},
+                {"id": "b", "text": "SCCP"},
+                {"id": "c", "text": "TUP"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q26",
+            "text": "Which is responsible for virtual connection and connectionless signaling in GSM Mobile Network?",
+            "options": [
+                {"id": "a", "text": "MTP"},
+                {"id": "b", "text": "SCCP"},
+                {"id": "c", "text": "TUP"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q27",
+            "text": "Which is the source and destination of SS7 messages?",
+            "options": [
+                {"id": "a", "text": "IP SEP"},
+                {"id": "b", "text": "Signaling Gateway"},
+                {"id": "c", "text": "TUP"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "Which of the following technique is required for mobility management?",
+            "options": [
+                {"id": "a", "text": "MS Registration"},
+                {"id": "b", "text": "Location Update"},
+                {"id": "c", "text": "Handover"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q29",
+            "text": "Which control channel is used by BTS to broadcast Location Area Identity?",
+            "options": [
+                {"id": "a", "text": "SDCCH"},
+                {"id": "b", "text": "BCCH"},
+                {"id": "c", "text": "PCH"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30",
+            "text": "Which is part of Location Area Identity?",
+            "options": [
+                {"id": "a", "text": "Mobile Country Code"},
+                {"id": "b", "text": "Mobile Network Code"},
+                {"id": "c", "text": "Location Area Code"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q31",
+            "text": "Which is an interim location dependent ISDN number, assigned to a mobile station by a regionally responsible Visitor Location Register (VLR)?",
+            "options": [
+                {"id": "a", "text": "TMSI"},
+                {"id": "b", "text": "MSRN"},
+                {"id": "c", "text": "MSISDN"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "Which is an authentication parameter in GSM?",
+            "options": [
+                {"id": "a", "text": "RAND"},
+                {"id": "b", "text": "SRES"},
+                {"id": "c", "text": "Kc"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q33",
+            "text": "Which is the sequence of use of logical channel for mobile terminated call?",
+            "options": [
+                {"id": "a", "text": "RACH-AGCH-SDCCH-FACCH"},
+                {"id": "b", "text": "PCH-RACH-AGCH-SDCCH-FACCH"},
+                {"id": "c", "text": "PCH-RACH-AGCH-FACCH"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q34",
+            "text": "Which is the sequence of use of logical channel for mobile originated call?",
+            "options": [
+                {"id": "a", "text": "RACH-AGCH-SDCCH-FACCH"},
+                {"id": "b", "text": "PCH-RACH-AGCH-SDCCH-FACCH"},
+                {"id": "c", "text": "PCH-RACH-AGCH-FACCH"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q35",
+            "text": "Which SIM inventory package used in BSNL?",
+            "options": [
+                {"id": "a", "text": "PYRO"},
+                {"id": "b", "text": "B&CCH"},
+                {"id": "c", "text": "Sancharsoft"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q36",
+            "text": "Which of the following code is required for implementing Mobile Number Portability.",
+            "options": [
+                {"id": "a", "text": "LRN"},
+                {"id": "b", "text": "LAI"},
+                {"id": "c", "text": "TAI"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q37",
+            "text": "Which of the following database is used to implement MNP?",
+            "options": [
+                {"id": "a", "text": "NPDB"},
+                {"id": "b", "text": "LPDB"},
+                {"id": "c", "text": "Both a & b"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "What is the full form of MCHA?",
+            "options": [
+                {"id": "a", "text": "Mobile Clearing House Administrator"},
+                {"id": "b", "text": "MNP Clearing House Administrator"},
+                {"id": "c", "text": "MNP charging house administrator"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "Which is the eligibility criteria for making a port request?",
+            "options": [
+                {"id": "a", "text": "A period of 90 days has expired from the date of activation of new mobile connection / 90 days from last porting."},
+                {"id": "b", "text": "There are no outstanding payments due to the Donor Operator."},
+                {"id": "c", "text": "There is no pending request for change of ownership of the mobile number"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q40",
+            "text": "The radio access network of LTE is known as?",
+            "options": [
+                {"id": "a", "text": "UTRAN"},
+                {"id": "b", "text": "E-UTRAN"},
+                {"id": "c", "text": "NR"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q41",
+            "text": "In which 3GPP release LTE was introduced?",
+            "options": [
+                {"id": "a", "text": "Release ?"},
+                {"id": "b", "text": "Release 8"},
+                {"id": "c", "text": "Release 10"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q42",
+            "text": "What is the peak data rate of LTE in downlink?",
+            "options": [
+                {"id": "a", "text": "100 Mbps"},
+                {"id": "b", "text": "50 Mbps"},
+                {"id": "c", "text": "1 Gbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q43",
+            "text": "Which multiple access technique is used in downlink of LTE?",
+            "options": [
+                {"id": "a", "text": "FDMA"},
+                {"id": "b", "text": "SC-FDMA"},
+                {"id": "c", "text": "OFDMA"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q44",
+            "text": "Which is responsible for mobility management in LTE?",
+            "options": [
+                {"id": "a", "text": "MME"},
+                {"id": "b", "text": "SGW"},
+                {"id": "c", "text": "PGW"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q45",
+            "text": "Which technique is followed at transmitter on the frequency-domain subcarriers to produce the OFDM symbol in the time-domain.",
+            "options": [
+                {"id": "a", "text": "FFT"},
+                {"id": "b", "text": "IFFT"},
+                {"id": "c", "text": "both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q46",
+            "text": "How many subcarrier form one resource Block in LTE OFDM?",
+            "options": [
+                {"id": "a", "text": "10"},
+                {"id": "b", "text": "12"},
+                {"id": "c", "text": "2"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q47",
+            "text": "How many OFDM symbol (with normal cyclic prefix) form 1 time slot in LTE OFDM?",
+            "options": [
+                {"id": "a", "text": "6"},
+                {"id": "b", "text": "7"},
+                {"id": "c", "text": "10"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q48",
+            "text": "Which Network Architecture is used in control part of 5G core network?",
+            "options": [
+                {"id": "a", "text": "SBA"},
+                {"id": "b", "text": "Reference Point"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q49",
+            "text": "What is the Radio Network of 5G?",
+            "options": [
+                {"id": "a", "text": "UTRAN"},
+                {"id": "b", "text": "E-UTRAN"},
+                {"id": "c", "text": "NR"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q50",
+            "text": "Which is an supported RAN Node in 5G?",
+            "options": [
+                {"id": "a", "text": "gNB"},
+                {"id": "b", "text": "ng-eNB"},
+                {"id": "c", "text": "eNB"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q51",
+            "text": "The transport network that connects the core network and the RAN/Cell Site is:",
+            "options": [
+                {"id": "a", "text": "Mobile Backhaul"},
+                {"id": "b", "text": "Mobile Fronthaul"},
+                {"id": "c", "text": "Mobile Macrohaul"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q52",
+            "text": "Microwave frequency for backhaul solutions in the V-band is:",
+            "options": [
+                {"id": "a", "text": "40 GHZ"},
+                {"id": "b", "text": "50 GHZ"},
+                {"id": "c", "text": "60 GHZ"},
+                {"id": "d", "text": "70 GHZ"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q53",
+            "text": "There is how much round trip delay for a geostationary satellite?",
+            "options": [
+                {"id": "a", "text": "circa 300-400 ms"},
+                {"id": "b", "text": "circa 400-500 ms"},
+                {"id": "c", "text": "circa 500-600 ms"},
+                {"id": "d", "text": "circa 600-700 ms"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q54",
+            "text": "The RRH contains the base station's:",
+            "options": [
+                {"id": "a", "text": "RF circuitry"},
+                {"id": "b", "text": "analog-to-digital/digital-to-analog converters"},
+                {"id": "c", "text": "up/down converters"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q55",
+            "text": "The international telecommunication union (ITU) defined the 3rd generation (3G) of mobile telephony standards as:",
+            "options": [
+                {"id": "a", "text": "IS-95"},
+                {"id": "b", "text": "IS-98"},
+                {"id": "c", "text": "IS-2000"},
+                {"id": "d", "text": "IMT-2000"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q56",
+            "text": "Some of the features of the 3G systems are:",
+            "options": [
+                {"id": "a", "text": "Bit rates up to 2 Mbps"},
+                {"id": "b", "text": "Variable bit rate to offer bandwidth on demand"},
+                {"id": "c", "text": "Co-existence of FDD and TDD modes"},
+                {"id": "d", "text": "All of the above are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q57",
+            "text": "WCDMA uses a BW of:",
+            "options": [
+                {"id": "a", "text": "1.25 MHz"},
+                {"id": "b", "text": "2.5 MHz"},
+                {"id": "c", "text": "5 MHz"},
+                {"id": "d", "text": "10 MHz"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q58",
+            "text": "The codes used with WCDMA systems are:",
+            "options": [
+                {"id": "a", "text": "Channelisation codes"},
+                {"id": "b", "text": "Scrambling codes"},
+                {"id": "c", "text": "Both of the above are true"},
+                {"id": "d", "text": "None of the above are true"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q59",
+            "text": "To ensure good performance, power control is implemented in:",
+            "options": [
+                {"id": "a", "text": "both the up-link and the down-link"},
+                {"id": "b", "text": "only up link"},
+                {"id": "c", "text": "in down link"},
+                {"id": "d", "text": "no power control"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q60",
+            "text": "Choose the correct option:",
+            "options": [
+                {"id": "a", "text": "during soft handover, the handset is connected to multiple cells at different base stations"},
+                {"id": "b", "text": "during softer handover, the handset is connected to multiple cells at the same base station"},
+                {"id": "c", "text": "Both of above are true"},
+                {"id": "d", "text": "Both are false"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q61",
+            "text": "Code Division Multiple Access (CDMA) is a multiple access technology where the users are separated by:",
+            "options": [
+                {"id": "a", "text": "Different codes"},
+                {"id": "b", "text": "different frequencies"},
+                {"id": "c", "text": "different time slots"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q62",
+            "text": "WCDMA has a fast power control that updates power levels:",
+            "options": [
+                {"id": "a", "text": "1000 times every second"},
+                {"id": "b", "text": "1500 times every second"},
+                {"id": "c", "text": "1600 times every second"},
+                {"id": "d", "text": "2000 times every second"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q63",
+            "text": "Which 3GPP Release implements the NGN architecture in the core network?",
+            "options": [
+                {"id": "a", "text": "Rel. 99"},
+                {"id": "b", "text": "Rel. 00"},
+                {"id": "c", "text": "Rel. 4"},
+                {"id": "d", "text": "Rel. 5"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q64",
+            "text": "Mobile data Offloading:",
+            "options": [
+                {"id": "a", "text": "Reduces the amount of data being carried on the cellular bands"},
+                {"id": "b", "text": "Freeing bandwidth for other users"},
+                {"id": "c", "text": "It is also used in situations where local cell reception may be poor, allowing the user to connect via wired services with better connectivity"},
+                {"id": "d", "text": "All of the above are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q65",
+            "text": "The first release of UMTS was:",
+            "options": [
+                {"id": "a", "text": "Release99"},
+                {"id": "b", "text": "Release 2000"},
+                {"id": "c", "text": "Release 2001"},
+                {"id": "d", "text": "Release 2002"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q66",
+            "text": "High Speed DownLink (DL) Packet data Access (HSDPA), was introduced in 3GPP:",
+            "options": [
+                {"id": "a", "text": "Release 4"},
+                {"id": "b", "text": "Release 5"},
+                {"id": "c", "text": "Release 6"},
+                {"id": "d", "text": "Release 7"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q67",
+            "text": "HSPA evolution (also known as HSPA+ and evolved HSPA) came in:",
+            "options": [
+                {"id": "a", "text": "Release 5"},
+                {"id": "b", "text": "Release 6"},
+                {"id": "c", "text": "Release 7"},
+                {"id": "d", "text": "Release 8"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q68",
+            "text": "Transmission time interval (TTI) for HSDPA is:",
+            "options": [
+                {"id": "a", "text": "1 ms"},
+                {"id": "b", "text": "2 ms"},
+                {"id": "c", "text": "5 ms"},
+                {"id": "d", "text": "10 ms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q69",
+            "text": "The maximum user data rate for R99 is:",
+            "options": [
+                {"id": "a", "text": "184 kbps"},
+                {"id": "b", "text": "284 kbps"},
+                {"id": "c", "text": "384 kbps"},
+                {"id": "d", "text": "484 kbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q70",
+            "text": "The scheduling algorithms not used in HSDPA is:",
+            "options": [
+                {"id": "a", "text": "Round Robin"},
+                {"id": "b", "text": "Proportional Fair"},
+                {"id": "c", "text": "Flexible Scheduler"},
+                {"id": "d", "text": "Hard Scheduler"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q71",
+            "text": "Choose wrong option:",
+            "options": [
+                {"id": "a", "text": "HS-DSCH carries the overhead data"},
+                {"id": "b", "text": "HS-PDSCH carries the user data and layer 2 overhead bits over the air interface"},
+                {"id": "c", "text": "HS-SCCH carries control information"},
+                {"id": "d", "text": "HS-DPCCH carries channel quality reports"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q72",
+            "text": "HSUPA provides peak uplink data rate of:",
+            "options": [
+                {"id": "a", "text": "5.76 Mbps"},
+                {"id": "b", "text": "6.76 Mbps"},
+                {"id": "c", "text": "7.76 Mbps"},
+                {"id": "d", "text": "8.76 Mbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q73",
+            "text": "HSPA uses Higher Order Modulation:",
+            "options": [
+                {"id": "a", "text": "8 QAM on the downlink and QPSK on the uplink"},
+                {"id": "b", "text": "16 QAM on the downlink and QPSK on the uplink"},
+                {"id": "c", "text": "16 QAM on the downlink and 8 QAM on the uplink"},
+                {"id": "d", "text": "16 QAM on the downlink and 16 QAM on the uplink"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q74",
+            "text": "A Flat architecture of network was introduced in:",
+            "options": [
+                {"id": "a", "text": "3GPP Release 5"},
+                {"id": "b", "text": "3GPP Release 6"},
+                {"id": "c", "text": "3GPP Release 7"},
+                {"id": "d", "text": "3GPP Release 8"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q75",
+            "text": "With GSM,",
+            "options": [
+                {"id": "a", "text": "Only the Mobile Equipment (ME) is identified"},
+                {"id": "b", "text": "Only the Mobile Subscriber is identified"},
+                {"id": "c", "text": "Both the Mobile Equipment (ME) and Mobile Subscriber are identified"},
+                {"id": "d", "text": "None of the Mobile Equipment (ME) and Mobile Subscriber is identified"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q76",
+            "text": "The ME has a unique number coded into it:",
+            "options": [
+                {"id": "a", "text": "By the manufacturer"},
+                {"id": "b", "text": "By the Operator"},
+                {"id": "c", "text": "By the subscriber"},
+                {"id": "d", "text": "By the Regulator"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q77",
+            "text": "The subscriber is authenticated by using:",
+            "options": [
+                {"id": "a", "text": "Subscriber Identity Module"},
+                {"id": "b", "text": "Simple Identification Module"},
+                {"id": "c", "text": "Mobile Equipment Number"},
+                {"id": "d", "text": "Roaming number"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q78",
+            "text": "The main reasons why GSM uses a digital air interface:",
+            "options": [
+                {"id": "a", "text": "It is 'noise robust', enabling the use of tighter frequency re-use patterns and minimizing interference problems"},
+                {"id": "b", "text": "It incorporates error correction, thus protecting the traffic that it carries"},
+                {"id": "c", "text": "It offers greatly enhanced privacy to subscribers and security to network providers"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q79",
+            "text": "The allocation of new Temporary Mobile Subscriber Identity (TMSI) numbers is done by:",
+            "options": [
+                {"id": "a", "text": "MSC"},
+                {"id": "b", "text": "AUC"},
+                {"id": "c", "text": "VLR"},
+                {"id": "d", "text": "HLR"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q80",
+            "text": "The SIM Card does not contain:",
+            "options": [
+                {"id": "a", "text": "IMSI"},
+                {"id": "b", "text": "Ki"},
+                {"id": "c", "text": "PIN"},
+                {"id": "d", "text": "Mobile Equipment number"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q81",
+            "text": "The ciphering start procedure is initiated from:",
+            "options": [
+                {"id": "a", "text": "The MSC / VLR"},
+                {"id": "b", "text": "The BTS"},
+                {"id": "c", "text": "The AUC"},
+                {"id": "d", "text": "The HLR"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q82",
+            "text": "For security in 3G:",
+            "options": [
+                {"id": "a", "text": "Mandatory integrity protection for signaling over the air is added"},
+                {"id": "b", "text": "Authentication and Key Agreement are used"},
+                {"id": "c", "text": "Encryption terminates in protected location (RNC)"},
+                {"id": "d", "text": "All of the above are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q83",
+            "text": "SECURITY FEATURES IN 4G:",
+            "options": [
+                {"id": "a", "text": "Mutual authentication between user and serving network"},
+                {"id": "b", "text": "Mandatory integrity for signaling data on all interfaces"},
+                {"id": "c", "text": "Confidentiality for signaling data on all interfaces, according to regulations and operator policy"},
+                {"id": "d", "text": "All of the above are true"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q84",
+            "text": "To provide the voice interception capability on the DMS-MSC when combined channel monitoring is used:",
+            "options": [
+                {"id": "a", "text": "A two port conference bridge is used"},
+                {"id": "b", "text": "A three port conference bridge is used"},
+                {"id": "c", "text": "A four port conference bridge is used"},
+                {"id": "d", "text": "A five port conference bridge is used"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q85",
+            "text": "EIR is a database that stores the numbers for all registered ME units.",
+            "options": [
+                {"id": "a", "text": "IMSI"},
+                {"id": "b", "text": "IMEI"},
+                {"id": "c", "text": "TMSI"},
+                {"id": "d", "text": "ALL"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q86",
+            "text": "The is the reference database for subscriber parameters. Various identification numbers and addresses as well as authentication parameters, services subscribed, and special routing information are stored.",
+            "options": [
+                {"id": "a", "text": "AUC"},
+                {"id": "b", "text": "VLR"},
+                {"id": "c", "text": "HLR"},
+                {"id": "d", "text": "ALL"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q87",
+            "text": "Encryption parameters transfers from VLR to BSS to facilitate ciphering on the radio interface are done by",
+            "options": [
+                {"id": "a", "text": "AUC"},
+                {"id": "b", "text": "HLR"},
+                {"id": "c", "text": "BSC"},
+                {"id": "d", "text": "MSC"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q88",
+            "text": "The controls the power transmission of both BSSs and MSs in its area.",
+            "options": [
+                {"id": "a", "text": "BSC"},
+                {"id": "b", "text": "MSC"},
+                {"id": "c", "text": "BOTH"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q89",
+            "text": "The is the number that the calling party dials in order to reach the subscriber.",
+            "options": [
+                {"id": "a", "text": "TMSI"},
+                {"id": "b", "text": "MSISDN"},
+                {"id": "c", "text": "IMSI"},
+                {"id": "d", "text": "ALL"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q90",
+            "text": "In the GSM system, the network is divided into the following partitioned areas, arrange them in small to big. 1.MSC service area; 2.Location area; 3.PLMN service area; 4.Cells; 5.GSM service area;",
+            "options": [
+                {"id": "a", "text": "1,2,3,4,5"},
+                {"id": "b", "text": "5,4,3,2,1"},
+                {"id": "c", "text": "4,2,1,3,5"},
+                {"id": "d", "text": "1,3,5,2,4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q91",
+            "text": "performs the signal processing function of digitizing, encoding, error protecting, encrypting, and modulating the transmitted signals.",
+            "options": [
+                {"id": "a", "text": "MSC"},
+                {"id": "b", "text": "BSC"},
+                {"id": "c", "text": "BTS"},
+                {"id": "d", "text": "MS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q92",
+            "text": "The interface between the VLR and the HLR is a standardized interface",
+            "options": [
+                {"id": "a", "text": "E"},
+                {"id": "b", "text": "D"},
+                {"id": "c", "text": "F"},
+                {"id": "d", "text": "G"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q93",
+            "text": "performs functions such as paging, resource allocation, location registration, and encryption.",
+            "options": [
+                {"id": "a", "text": "VLR"},
+                {"id": "b", "text": "HLR"},
+                {"id": "c", "text": "EIR"},
+                {"id": "d", "text": "MSC"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q94",
+            "text": "WHICH IS/ARE FEATURES OF KPI SERVER?",
+            "options": [
+                {"id": "a", "text": "Reports are available Daily, TCBH and BBH"},
+                {"id": "b", "text": "Reports are available cell wise / Site wise / BSC wise/ RNC and SSA wise"},
+                {"id": "c", "text": "Both A and B"},
+                {"id": "d", "text": "NONE"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q95",
+            "text": "WHICH IS NOT CNMC FUNCTIONS",
+            "options": [
+                {"id": "a", "text": "CGI reports"},
+                {"id": "b", "text": "GoS"},
+                {"id": "c", "text": "ALARMS"},
+                {"id": "d", "text": "Locked sites"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q96",
+            "text": "2G network KPI optimizations are",
+            "options": [
+                {"id": "a", "text": "SDCCH congestion Rate"},
+                {"id": "b", "text": "SDCCH drop Rate"},
+                {"id": "c", "text": "TCH congestion/Blocking Rate"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q97",
+            "text": "SDCCH CONGESTION RATE average value should be ≤",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "1.5"},
+                {"id": "c", "text": "1"},
+                {"id": "d", "text": "3"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q98",
+            "text": "TCH CONGESTION/BLOCKING RATE average value should be ≤",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "1.5"},
+                {"id": "c", "text": "3"},
+                {"id": "d", "text": "2"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q99",
+            "text": "CALL SETUP SUCCESS RATE (CSSR) value should be ≥",
+            "options": [
+                {"id": "a", "text": "value should be ≥ 95%"},
+                {"id": "b", "text": "value should be ≥ 96%"},
+                {"id": "c", "text": "value should be ≥ 99%"},
+                {"id": "d", "text": "value should be ≥ 95.5%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q100",
+            "text": "Call Drop Rate should be ≤",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2"},
+                {"id": "c", "text": "3"},
+                {"id": "d", "text": "1.5"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}

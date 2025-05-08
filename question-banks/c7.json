@@ -1,0 +1,1105 @@
+{
+    "title": "Basic Telecom Technology",
+    "questions": [
+        {
+            "id": "btt1",
+            "text": "The variation between maximum and the minimum diameter of a cable at any cross section shall not exceed",
+            "options": [
+                {"id": "a", "text": "5 mm"},
+                {"id": "b", "text": "8 mm"},
+                {"id": "c", "text": "10 mm"},
+                {"id": "d", "text": "12 mm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt2",
+            "text": "Two close helical lapping of polythene or polypropylene tape is applied over the sheath to provide sufficient mechanical protection during armouring. This process is called",
+            "options": [
+                {"id": "a", "text": "screening"},
+                {"id": "b", "text": "bedding"},
+                {"id": "c", "text": "Armouring"},
+                {"id": "d", "text": "filling"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt3",
+            "text": "Markings on a cable are at an interval of meter throughout the length and are distinct and visible to the naked eye from a distance of about 1 meter",
+            "options": [
+                {"id": "a", "text": "one"},
+                {"id": "b", "text": "two"},
+                {"id": "c", "text": "four"},
+                {"id": "d", "text": "five"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt4",
+            "text": "The PUF cables are available up to pairs",
+            "options": [
+                {"id": "a", "text": "1600"},
+                {"id": "b", "text": "2000"},
+                {"id": "c", "text": "3200"},
+                {"id": "d", "text": "3600"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt5",
+            "text": "In the case of 100 pair cable, how many spare pairs shall be provided?",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2"},
+                {"id": "c", "text": "5"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt6",
+            "text": "The 200pair and 400 pair cables (cables above 100 pr and unto 400 pairs) will be formed by super units of pairs",
+            "options": [
+                {"id": "a", "text": "10"},
+                {"id": "b", "text": "20"},
+                {"id": "c", "text": "50"},
+                {"id": "d", "text": "100"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt7",
+            "text": "A 1200 pair cable consist of No of super units of size",
+            "options": [
+                {"id": "a", "text": "120,10"},
+                {"id": "b", "text": "60,20"},
+                {"id": "c", "text": "24,50"},
+                {"id": "d", "text": "12,100"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt8",
+            "text": "Gauges -mm and -mm conductor is used for primary cable",
+            "options": [
+                {"id": "a", "text": "0.32,0.4"},
+                {"id": "b", "text": "0.4,0.5"},
+                {"id": "c", "text": "0.5,0.63"},
+                {"id": "d", "text": "0.63,0.9"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt9",
+            "text": "Colour code of pair number 137 of 400 pair cable is",
+            "options": [
+                {"id": "a", "text": "white, orange"},
+                {"id": "b", "text": "red, orange"},
+                {"id": "c", "text": "black, orange"},
+                {"id": "d", "text": "yellow, orange"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt10",
+            "text": "is the last cable terminating point from where subscriber line is connected",
+            "options": [
+                {"id": "a", "text": "pillar"},
+                {"id": "b", "text": "cabinet"},
+                {"id": "c", "text": "DP"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt11",
+            "text": "While crossing power cables, the telecom cables should be laid at degree to the power cables",
+            "options": [
+                {"id": "a", "text": "30"},
+                {"id": "b", "text": "45"},
+                {"id": "c", "text": "60"},
+                {"id": "d", "text": "90"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt12",
+            "text": "The min. bending diameter for armoured cables should be times of the diameter of the cable",
+            "options": [
+                {"id": "a", "text": "5"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "10"},
+                {"id": "d", "text": "15"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt13",
+            "text": "A separation of -m (relaxable upto 0.2 m) should be maintained while cable laid parallel to electric cables",
+            "options": [
+                {"id": "a", "text": "0.2"},
+                {"id": "b", "text": "0.4"},
+                {"id": "c", "text": "0.5"},
+                {"id": "d", "text": "0.6"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt14",
+            "text": "Minimum depth of the GI pipe from below the rail level should be meters",
+            "options": [
+                {"id": "a", "text": "0.5"},
+                {"id": "b", "text": "1.0"},
+                {"id": "c", "text": "1.25"},
+                {"id": "d", "text": "1.5"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt15",
+            "text": "The appropriate type of route indicators should be placed m apart in the straight",
+            "options": [
+                {"id": "a", "text": "100"},
+                {"id": "b", "text": "200"},
+                {"id": "c", "text": "400"},
+                {"id": "d", "text": "500"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt16",
+            "text": "During area transfer the pairs from one exchange are extended to another exchange using --- type of jointing of the pairs",
+            "options": [
+                {"id": "a", "text": "Straight Jointing"},
+                {"id": "b", "text": "Branch Joint"},
+                {"id": "c", "text": "TEE Joint"},
+                {"id": "d", "text": "anyone of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt17",
+            "text": "Jointing of pairs of one large size cable to two or more smaller size cables is called -jointing",
+            "options": [
+                {"id": "a", "text": "Straight Jointing"},
+                {"id": "b", "text": "Branch Joint"},
+                {"id": "c", "text": "TEE Joint"},
+                {"id": "d", "text": "anyone of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt18",
+            "text": "For jointing 800 pair cable which type of TSF is used?",
+            "options": [
+                {"id": "a", "text": "TSF-2"},
+                {"id": "b", "text": "TSF-4"},
+                {"id": "c", "text": "TSF-5"},
+                {"id": "d", "text": "TSF-6"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt19",
+            "text": "What is used with reference to a flexibility point where secondary cable and distribution cables are interconnected?",
+            "options": [
+                {"id": "a", "text": "cabinet"},
+                {"id": "b", "text": "pillar"},
+                {"id": "c", "text": "DP"},
+                {"id": "d", "text": "MDF"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt20",
+            "text": "In case of external DPs, the cable is carried to DP box through a galvanized iron pipe with an internal diameter of cms",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "5"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "10"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt21",
+            "text": "Underground cables can be considered as a buried treasure with an average life of years",
+            "options": [
+                {"id": "a", "text": "5"},
+                {"id": "b", "text": "20"},
+                {"id": "c", "text": "40"},
+                {"id": "d", "text": "60"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt22",
+            "text": "The minimum require length of heat shrink sleeve for shrinking is mm",
+            "options": [
+                {"id": "a", "text": "100"},
+                {"id": "b", "text": "200"},
+                {"id": "c", "text": "250"},
+                {"id": "d", "text": "400"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt23",
+            "text": "Modern protective system uses as a current protection against excess currents",
+            "options": [
+                {"id": "a", "text": "Fast operating (double acting) fuse"},
+                {"id": "b", "text": "Gas Discharge tube"},
+                {"id": "c", "text": "Metal Oxide varistors"},
+                {"id": "d", "text": "Both b & c"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt24",
+            "text": "Analysis of faults in external plant reveals that about % are due to faults in telephone instruments in subscriber premises",
+            "options": [
+                {"id": "a", "text": "5"},
+                {"id": "b", "text": "10"},
+                {"id": "c", "text": "30"},
+                {"id": "d", "text": "50"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt25",
+            "text": "Protective maintenance includes which one of the followings",
+            "options": [
+                {"id": "a", "text": "attending to faults reported to Fault Repair Service 198 by the subscribers as and when occurred"},
+                {"id": "b", "text": "attending to the defects noticed during routine testing of subscriber lines"},
+                {"id": "c", "text": "attending to the defects noticed during periodical visits"},
+                {"id": "d", "text": "taking advance action in identifying the defects and attending to them before commencement of monsoon"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt26",
+            "text": "Which one is/are pre monsoon precautions",
+            "options": [
+                {"id": "a", "text": "Updating cable diagrams and records"},
+                {"id": "b", "text": "Procurement of jointing materials and testing equipment"},
+                {"id": "c", "text": "Dressing up of all DPs"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt27",
+            "text": "Annual maintenance programmed for improvement of external plant is/are",
+            "options": [
+                {"id": "a", "text": "Replacement of worn-out drop wires"},
+                {"id": "b", "text": "Replacement of fault prone underground cables whose maintenance is uneconomical"},
+                {"id": "c", "text": "Rehabilitation of DPS"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt28",
+            "text": "In pole less scheme which point(s) should be kept in mind",
+            "options": [
+                {"id": "a", "text": "Maximum Over head lines exist"},
+                {"id": "b", "text": "DPs are in bad condition due to traffic congestion"},
+                {"id": "c", "text": "Maximum faults are booked and noticed"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt29",
+            "text": "Cabinets should be inspected at least once in every months and pillars once in every months",
+            "options": [
+                {"id": "a", "text": "3,3"},
+                {"id": "b", "text": "3,6"},
+                {"id": "c", "text": "6,3"},
+                {"id": "d", "text": "6,6"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt30",
+            "text": "As per TRAI parameter Time taken for refund of deposits after closures",
+            "options": [
+                {"id": "a", "text": "15 days"},
+                {"id": "b", "text": "30 days"},
+                {"id": "c", "text": "45 days"},
+                {"id": "d", "text": "60 days"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt31",
+            "text": "Fault to be repaired by next working day",
+            "options": [
+                {"id": "a", "text": "70%"},
+                {"id": "b", "text": "80%"},
+                {"id": "c", "text": "85%"},
+                {"id": "d", "text": "90%"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt32",
+            "text": "Special care should be taken by Lineman to attend the cases where the line resistance is higher than the normal expectation depending upon the distance of the area from the Exchange. This action will greatly reduce the number of cases",
+            "options": [
+                {"id": "a", "text": "ROT"},
+                {"id": "b", "text": "FNF"},
+                {"id": "c", "text": "short circuit"},
+                {"id": "d", "text": "disconnection"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt33",
+            "text": "Objective of the computerised fault control system is/are",
+            "options": [
+                {"id": "a", "text": "To provide computerized record of telephone complaints"},
+                {"id": "b", "text": "to help the field executive in the effective monitoring of the fault performance of any exchange on day to day basis"},
+                {"id": "c", "text": "To help the management in working out the long term strategy for the improvement of the telephone system"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt34",
+            "text": "The computerized fault repair service, before registering the complaint, automatically checks",
+            "options": [
+                {"id": "a", "text": "Whether the complaint is already pending"},
+                {"id": "b", "text": "Whether the number is disconnected due to non-payment"},
+                {"id": "c", "text": "Whether the number is in safe custody"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt35",
+            "text": "Advantage(s) of computerising the fault control system is/are",
+            "options": [
+                {"id": "a", "text": "It handles very huge data very efficiently with far greater accuracy"},
+                {"id": "b", "text": "Flow of information from one position to another is almost instantaneous"},
+                {"id": "c", "text": "The current status of any complaint booked can be retrieved"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt36",
+            "text": "The department has to give rebate in rents for how many days in case the fault is pending for 4 day?",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "7"},
+                {"id": "d", "text": "4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt37",
+            "text": "CDR package covers the customer care and billing for the service(s)",
+            "options": [
+                {"id": "a", "text": "Landline"},
+                {"id": "b", "text": "Broadband"},
+                {"id": "c", "text": "Leased line"},
+                {"id": "d", "text": "All"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt38",
+            "text": "The Electronic Stapling Software that Shall Take Care Of Corporate customers having All India presence, is installed at",
+            "options": [
+                {"id": "a", "text": "Hyderabad"},
+                {"id": "b", "text": "Lucknow"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Delhi"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt39",
+            "text": "Data centres for CDR project are at",
+            "options": [
+                {"id": "a", "text": "Hyderabad, Kolkata, Pune, Delhi"},
+                {"id": "b", "text": "Hyderabad, Cuttack, Pune, Chandigarh"},
+                {"id": "c", "text": "Hyderabad, Kolkata, Pune, Chandigarh"},
+                {"id": "d", "text": "Bangalore, Kolkata, Pune, Chandigarh"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt40",
+            "text": "Which module enables the customers to access the system through Internet for placing any request, for making payments, or for general enquiry?",
+            "options": [
+                {"id": "a", "text": "Docket booking"},
+                {"id": "b", "text": "Order Management"},
+                {"id": "c", "text": "Web Self Care"},
+                {"id": "d", "text": "Billing systems"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt41",
+            "text": "The degradation of performance for the applications failing over to the DR site is permitted up to - %",
+            "options": [
+                {"id": "a", "text": "25"},
+                {"id": "b", "text": "50"},
+                {"id": "c", "text": "75"},
+                {"id": "d", "text": "100"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt42",
+            "text": "Which is configured as the DR site for Chandigarh",
+            "options": [
+                {"id": "a", "text": "Hyderabad"},
+                {"id": "b", "text": "Pune"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Delhi"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt43",
+            "text": "A billing operation taking 8 hours in the normal course, can take up to hours in case of a disaster",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "16"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt44",
+            "text": "Based on the current convention, the circuit starts at DP and ends with Switch port. The sequence is:",
+            "options": [
+                {"id": "a", "text": "DP - Pillar IN & Pillar OUT - MDF -Switch"},
+                {"id": "b", "text": "DP - MDF - Pillar OUT & Pillar IN-Switch"},
+                {"id": "c", "text": "DP - MDF - Pillar IN & Pillar OUT-Switch"},
+                {"id": "d", "text": "DP - Pillar OUT & Pillar IN - MDF -Switch"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt45",
+            "text": "When the insulation between the earth and the conductor in the cable becomes very low, the fault is termed as",
+            "options": [
+                {"id": "a", "text": "Earth fault"},
+                {"id": "b", "text": "Low insulation fault"},
+                {"id": "c", "text": "Disconnection Fault"},
+                {"id": "d", "text": "Short Circuit Fault"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt46",
+            "text": "When the resistance between the wires or between the conductors becomes very low even without any loop in the circuit on the pairs, the fault is called",
+            "options": [
+                {"id": "a", "text": "Earth fault"},
+                {"id": "b", "text": "Low insulation fault"},
+                {"id": "c", "text": "Disconnection Fault"},
+                {"id": "d", "text": "Short Circuit Fault"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt47",
+            "text": "is the first step in reaching a developing cable fault early",
+            "options": [
+                {"id": "a", "text": "Restoration"},
+                {"id": "b", "text": "Rectification"},
+                {"id": "c", "text": "Detection"},
+                {"id": "d", "text": "Jointing"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt48",
+            "text": "Once the fault is reported by any alof the above means The steps to follow are",
+            "options": [
+                {"id": "a", "text": "Pinpointing the fault - Verifying the fault - Determining the cause of fault - Rectification of fault"},
+                {"id": "b", "text": "Verifying the fault - Pinpointing the fault - Determining the cause of fault - Rectification of fault"},
+                {"id": "c", "text": "Verifying the fault - Determining the cause of fault - Pinpointing the fault - Rectification of fault"},
+                {"id": "d", "text": "Pinpointing the fault - Determining the cause of fault - Verifying the fault - Rectification of fault"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt49",
+            "text": "Which instrument provides reasonably an accurate distance measurement of a fault?",
+            "options": [
+                {"id": "a", "text": "Multimeter"},
+                {"id": "b", "text": "A.V.O. meter"},
+                {"id": "c", "text": "BRIDGE MEGGAR"},
+                {"id": "d", "text": "Pulse Echo Tester"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt50",
+            "text": "For jointing 50 pair cable which type of TSF is used?",
+            "options": [
+                {"id": "a", "text": "TSF-1"},
+                {"id": "b", "text": "TSF-2"},
+                {"id": "c", "text": "TSF-3"},
+                {"id": "d", "text": "TSF-4"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt51",
+            "text": "Life of 200 AH VRLA Batteries is ?",
+            "options": [
+                {"id": "a", "text": "6 years"},
+                {"id": "b", "text": "7 years"},
+                {"id": "c", "text": "10 years"},
+                {"id": "d", "text": "15 years"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt52",
+            "text": "Maintenance free, Valve-Regulated Lead-Acid (VRLA) batteries are",
+            "options": [
+                {"id": "a", "text": "Ensure a reliable, effective and user friendly source of power"},
+                {"id": "b", "text": "It is spill proof, leak proof and explosion resistant"},
+                {"id": "c", "text": "There is no need to add water or to clean terminals"},
+                {"id": "d", "text": "all"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt53",
+            "text": "As the VRLA battery is discharged, negative active material is",
+            "options": [
+                {"id": "a", "text": "lead dioxide"},
+                {"id": "b", "text": "spongy lead"},
+                {"id": "c", "text": "li"},
+                {"id": "d", "text": "NONE"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt54",
+            "text": "The oxygen gas evolved at the plate bubbles upwards through the electrolyte and is released through the vents",
+            "options": [
+                {"id": "a", "text": "positive plate"},
+                {"id": "b", "text": "negative plate"},
+                {"id": "c", "text": "positive plate & negative plate"},
+                {"id": "d", "text": "none"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt55",
+            "text": "at Open Circuit Voltage (OCV) of VRLA fully charged battery is",
+            "options": [
+                {"id": "a", "text": "2.15 V"},
+                {"id": "b", "text": "2.05 V"},
+                {"id": "c", "text": "2.0 V"},
+                {"id": "d", "text": "2.25 V"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt56",
+            "text": "Containers of VLRA Battery is made up of",
+            "options": [
+                {"id": "a", "text": "Polypropylene"},
+                {"id": "b", "text": "Carbon"},
+                {"id": "c", "text": "Steel"},
+                {"id": "d", "text": "Cupper"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt57",
+            "text": "Requirement of Charger for VRLA Battery. It is preferable to have High voltage cut-off at",
+            "options": [
+                {"id": "a", "text": "1.60 VPC"},
+                {"id": "b", "text": "1.97 VPC"},
+                {"id": "c", "text": "2.37 VPC"},
+                {"id": "d", "text": "1.99 VPC"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt58",
+            "text": "Which is not the advantage of li-ion battery",
+            "options": [
+                {"id": "a", "text": "Long cycle and extend shelf-life; maintenance-free"},
+                {"id": "b", "text": "High capacity, low internal resistance, good coulombic efficiency"},
+                {"id": "c", "text": "No rapid charge possible at freezing temperatures"},
+                {"id": "d", "text": "Simple charge algorithm and reasonably short charge times"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt59",
+            "text": "Most charging strategies (li-ion battery) implement a 3-phase scheme:",
+            "options": [
+                {"id": "a", "text": "Low-current conditioning phase"},
+                {"id": "b", "text": "Constant-current phase"},
+                {"id": "c", "text": "Constant-voltage phase/charge termination"},
+                {"id": "d", "text": "all"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt60",
+            "text": "numbers of surge arrestors has been installed directly across A.C. input terminals in the main rack of the system to protect the rectifier modules",
+            "options": [
+                {"id": "a", "text": "two"},
+                {"id": "b", "text": "three"},
+                {"id": "c", "text": "four"},
+                {"id": "d", "text": "six"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt61",
+            "text": "Earthing in power supply systems is used to effect reliability of power as it helps to provide:",
+            "options": [
+                {"id": "a", "text": "Stability of voltage regulations"},
+                {"id": "b", "text": "Preventing excess fluctuations"},
+                {"id": "c", "text": "A measure for protection against lightening"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt62",
+            "text": "Earth electrode systems are installed at telephone exchanges:",
+            "options": [
+                {"id": "a", "text": "To provide a direct connection with earth for lightning protective apparatus"},
+                {"id": "b", "text": "To provide protection to persons and plant against leakage from station power wiring to metallic apparatus, frames etc"},
+                {"id": "c", "text": "To complete the circuit of telephone systems, employing a common earth path for signaling purposes"},
+                {"id": "d", "text": "All of thepolitics above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt63",
+            "text": "The resistance of the earth electrode system should be as low as possible and in any case should not normally exceed:",
+            "options": [
+                {"id": "a", "text": "1 Ohms"},
+                {"id": "b", "text": "2 Ohms"},
+                {"id": "c", "text": "3 Ohms"},
+                {"id": "d", "text": "4 Ohms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt64",
+            "text": "Two or more of similar or any one of the alternative Earthing system should be installed and spaced as far as away from each other as possible but in no case within a distance less than the following from the first electrode system:",
+            "options": [
+                {"id": "a", "text": "175 cm"},
+                {"id": "b", "text": "275 cm"},
+                {"id": "c", "text": "375 cm"},
+                {"id": "d", "text": "475 cm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt65",
+            "text": "The earth resistance of Earth electrode system for Electronic exchanges should be less than:",
+            "options": [
+                {"id": "a", "text": "0.2 Ohms"},
+                {"id": "b", "text": "0.4 Ohms"},
+                {"id": "c", "text": "0.5 Ohms"},
+                {"id": "d", "text": "1 Ohms"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt66",
+            "text": "Which is not a service Earthing Systems:",
+            "options": [
+                {"id": "a", "text": "A.C. power supply earth"},
+                {"id": "b", "text": "Measuring equipment earth"},
+                {"id": "c", "text": "Corrosion mitigation earth"},
+                {"id": "d", "text": "Lightning protective earth to provide protection against excessive voltage"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt67",
+            "text": "Earthing systems should be designed to achieve the following:",
+            "options": [
+                {"id": "a", "text": "Adequate current carrying capacity (DC or AC as appropriate)"},
+                {"id": "b", "text": "Adequate mechanical strength to withstand the rigors of service without fracturing"},
+                {"id": "c", "text": "In the case of lightning protective earths adequate-surge-current carrying"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt68",
+            "text": "Lead Strip Electrode System consists of a lead strip 1 mm wide and 6 gms/square cm buried at a depth of:",
+            "options": [
+                {"id": "a", "text": "From 10 to 30 cms"},
+                {"id": "b", "text": "From 30 to 60 cms"},
+                {"id": "c", "text": "From 60 to 90 cms"},
+                {"id": "d", "text": "From 90 to 120 cms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt69",
+            "text": "Lead Strip Electrode System should have length & breadth of:",
+            "options": [
+                {"id": "a", "text": "2250 Cm & 51 Cm respectively"},
+                {"id": "b", "text": "2450 Cm & 51 Cm respectively"},
+                {"id": "c", "text": "2250 Cm & 61 Cm respectively"},
+                {"id": "d", "text": "2450 Cm & 61 Cm respectively"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt70",
+            "text": "Earth plate electrode system is employed when:",
+            "options": [
+                {"id": "a", "text": "Adequate space is available around the exchange building and where subsoil suitable for driving in pipes to the prescribed depth exists"},
+                {"id": "b", "text": "Adequate space around the exchange building is available but where rock is encountered at a depth less than 375 cm below ground level"},
+                {"id": "c", "text": "The layout of the exchange site is such that adequate space is not available"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt71",
+            "text": "Telephone exchange buildings have been classified as which category of business building?",
+            "options": [
+                {"id": "a", "text": "E1"},
+                {"id": "b", "text": "E2"},
+                {"id": "c", "text": "E3"},
+                {"id": "d", "text": "E4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt72",
+            "text": "The full form of NBCI is:",
+            "options": [
+                {"id": "a", "text": "National Building Code for Industries"},
+                {"id": "b", "text": "National Business Code of India"},
+                {"id": "c", "text": "National Building Class of India"},
+                {"id": "d", "text": "National Building Code of India"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt73",
+            "text": "The following are the essential factors for a fire:",
+            "options": [
+                {"id": "a", "text": "The combustible material or fuel"},
+                {"id": "b", "text": "Oxygen or air"},
+                {"id": "c", "text": "The ignition temperature or heat"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt74",
+            "text": "In case of extinguishing:",
+            "options": [
+                {"id": "a", "text": "Removal of the fuel is smothering"},
+                {"id": "b", "text": "Removal of the oxygen is starvation"},
+                {"id": "c", "text": "Bringing down the temperature is cooling"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt75",
+            "text": "Which of the following is a type of fire:",
+            "options": [
+                {"id": "a", "text": "Class A"},
+                {"id": "b", "text": "Class P"},
+                {"id": "c", "text": "Class Q"},
+                {"id": "d", "text": "Class X"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt76",
+            "text": "Class C fire is:",
+            "options": [
+                {"id": "a", "text": "Solid fire"},
+                {"id": "b", "text": "Liquid fire"},
+                {"id": "c", "text": "Electric fire"},
+                {"id": "d", "text": "Metallic fire"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt77",
+            "text": "The type of fire extinguisher used for Class C fire is:",
+            "options": [
+                {"id": "a", "text": "Soda Acid Type"},
+                {"id": "b", "text": "CO2 Type"},
+                {"id": "c", "text": "Powder Type"},
+                {"id": "d", "text": "Foam Type"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt78",
+            "text": "ACTIVE FIRE PROTECTION MEASURES does not include:",
+            "options": [
+                {"id": "a", "text": "Provision of suitable and adequate Fire detection system with audio visual alarm"},
+                {"id": "b", "text": "Wet riser & fire Extinguishers"},
+                {"id": "c", "text": "Arrangements for provision of fire fighting appliance"},
+                {"id": "d", "text": "Building design"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt79",
+            "text": "Fire extinguishers should be tested:",
+            "options": [
+                {"id": "a", "text": "Daily"},
+                {"id": "b", "text": "Weekly"},
+                {"id": "c", "text": "Monthly"},
+                {"id": "d", "text": "Yearly"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt80",
+            "text": "The following is not included in fire fighting organization:",
+            "options": [
+                {"id": "a", "text": "Fire fighting officer"},
+                {"id": "b", "text": "Fire manager"},
+                {"id": "c", "text": "Floor warden"},
+                {"id": "d", "text": "Fire fighters"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt81",
+            "text": "The Capacity of an UPS is the output power it can deliver and is expressed in terms of:",
+            "options": [
+                {"id": "a", "text": "kilo volt-amperes (KVA)"},
+                {"id": "b", "text": "KW"},
+                {"id": "c", "text": "KWH"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt82",
+            "text": "During the available period of input AC mains, the battery sets will be:",
+            "options": [
+                {"id": "a", "text": "trickle charged"},
+                {"id": "b", "text": "Initial charged"},
+                {"id": "c", "text": "Switched off"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt83",
+            "text": "Alarms in UPS system is not available for:",
+            "options": [
+                {"id": "a", "text": "Output High"},
+                {"id": "b", "text": "Output Low"},
+                {"id": "c", "text": "Over Load"},
+                {"id": "d", "text": "Under Load"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt84",
+            "text": "For which of the following inverter, Rated Current is =12.9 A:",
+            "options": [
+                {"id": "a", "text": "1 KVA"},
+                {"id": "b", "text": "3 KVA"},
+                {"id": "c", "text": "6 KVA"},
+                {"id": "d", "text": "9 KVA"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt85",
+            "text": "Choose the correct option: Exchange Make and Capacity No. of Inverters used",
+            "options": [
+                {"id": "a", "text": "CDOT up to 1400 lines: 1 KVA x 3 Nos"},
+                {"id": "b", "text": "CDOT above 1400 lines: 1 KVA x 4 Nos"},
+                {"id": "c", "text": "E10B: 6 KVA x 3 Nos"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt86",
+            "text": "Choose the correct option:",
+            "options": [
+                {"id": "a", "text": "Low capacity inverters are designed using integrated circuits, transistors, etc"},
+                {"id": "b", "text": "Higher capacity inverters are designed using thyristors"},
+                {"id": "c", "text": "Both of the above"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt87",
+            "text": "Choose the correct option against an Inverter:",
+            "options": [
+                {"id": "a", "text": "Main transformer T1 provides input output isolation"},
+                {"id": "b", "text": "Radio frequencies are filtered at output with the help of RF I suppresser"},
+                {"id": "c", "text": "Regulation and frequency stabilization is done by the control circuit"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt88",
+            "text": "In E10B exchanges, the main computer works on the output supply of the inverter. The inverter system comprises of two 6 KVA inverter units and a control cubicle. The inverters operate in:",
+            "options": [
+                {"id": "a", "text": "Load sharing mode"},
+                {"id": "b", "text": "Active and Stand By mode"},
+                {"id": "c", "text": "Both of the above"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt89",
+            "text": "In case of failure of any inverter unit in E10B exchanges:",
+            "options": [
+                {"id": "a", "text": "The total load will be supplied by the other unit"},
+                {"id": "b", "text": "Single inverter cannot supply the full load"},
+                {"id": "c", "text": "The complete system shuts down"},
+                {"id": "d", "text": "Only B & C of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt90",
+            "text": "This inverters system in E10B exchanges is:",
+            "options": [
+                {"id": "a", "text": "Sharing the system load equally"},
+                {"id": "b", "text": "Having ability to be in phase synchronization even in the event of failure of master oscillator, which normally synchronizes them"},
+                {"id": "c", "text": "Well protected against different fault conditions with minimum inter cubicle circular currents"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt91",
+            "text": "THE AIR CONDITIONING IS PROVIDED FOR THE EXCHANGE TO CATER THE FOLLOWING NEEDS:",
+            "options": [
+                {"id": "a", "text": "To maintain the temperature"},
+                {"id": "b", "text": "Fresh air"},
+                {"id": "c", "text": "To provide Air movement"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt92",
+            "text": "Which of the followings is not a part of AIR CONDITIONER:",
+            "options": [
+                {"id": "a", "text": "Evaporator"},
+                {"id": "b", "text": "Compressor"},
+                {"id": "c", "text": "Conditioner"},
+                {"id": "d", "text": "Expansion Valve"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt93",
+            "text": "A refrigerant should be:",
+            "options": [
+                {"id": "a", "text": "Non-flammable"},
+                {"id": "b", "text": "Non-toxic"},
+                {"id": "c", "text": "Should have dense vapour"},
+                {"id": "d", "text": "Higher boiling point"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt94",
+            "text": "The following types of Air Conditioning units used in our department are:",
+            "options": [
+                {"id": "a", "text": "Split AC"},
+                {"id": "b", "text": "Packaged AC"},
+                {"id": "c", "text": "Central AC plant"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt95",
+            "text": "Packaged ACs are used where the cooling loads extend beyond:",
+            "options": [
+                {"id": "a", "text": "5 Tons"},
+                {"id": "b", "text": "10 Tons"},
+                {"id": "c", "text": "15 Tons"},
+                {"id": "d", "text": "20 Tons"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "btt96",
+            "text": "Which type of AC is having highest Capacity:",
+            "options": [
+                {"id": "a", "text": "Window AC"},
+                {"id": "b", "text": "Split AC"},
+                {"id": "c", "text": "Packaged AC"},
+                {"id": "d", "text": "Central AC plant"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt97",
+            "text": "Following factor is not responsible for quantum of heat gain:",
+            "options": [
+                {"id": "a", "text": "Orientation and location of the building"},
+                {"id": "b", "text": "Type of the construction, materials, windows and doors"},
+                {"id": "c", "text": "Light"},
+                {"id": "d", "text": "Noise"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "btt98",
+            "text": "The heat load of the Telecom Equipments is to be taken from D.O.T. circular No.",
+            "options": [
+                {"id": "a", "text": "3-1/Director/EW/95 dated 17.7.95"},
+                {"id": "b", "text": "3-1/Director/EW/96 dated 17.7.96"},
+                {"id": "c", "text": "3-1/Director/EW/97 dated 17.7.97"},
+                {"id": "d", "text": "3-1/Director/EW/98 dated 17.7.98"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "btt99",
+            "text": "If a 1 TR (3500 W) AC consumes 1000 watts, then the EER of the Air conditioners is:",
+            "options": [
+                {"id": "a", "text": "1.5 W/W"},
+                {"id": "b", "text": "2.5 W/W"},
+                {"id": "c", "text": "3.5 W/W"},
+                {"id": "d", "text": "4.5 W/W"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "btt100",
+            "text": "The following star rating is provided for customer awareness by BEE (Bureau of Energy Efficiency), valid after 31 Dec 2011, for EER=3.5 W/W is:",
+            "options": [
+                {"id": "a", "text": "2 Star"},
+                {"id": "b", "text": "3 Star"},
+                {"id": "c", "text": "4 Star"},
+                {"id": "d", "text": "5 Star"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
