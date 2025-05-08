@@ -1,0 +1,148 @@
+{
+    "title": "JTO PH-I Practice CDR",
+    "questions": [
+        {
+            "id": "cdr1",
+            "text": "What is a workflow-based system that includes the features of existing manual handling of files in addition to a more efficient electronic system?",
+            "options": [
+                {"id": "a", "text": "eFile"},
+                {"id": "b", "text": "eOffice"},
+                {"id": "c", "text": "EMD"},
+                {"id": "d", "text": "Employee Welfare"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "cdr2",
+            "text": "What does ERP stand for?",
+            "options": [
+                {"id": "a", "text": "Eoffice Resource Plan"},
+                {"id": "b", "text": "Enterprise Resource Planning"},
+                {"id": "c", "text": "Enterprise Reaction Plan"},
+                {"id": "d", "text": "Enterprise Reuse Plan"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "cdr3",
+            "text": "What does SPOC stand for?",
+            "options": [
+                {"id": "a", "text": "Special Point of Contact"},
+                {"id": "b", "text": "Systematic Point of Communication"},
+                {"id": "c", "text": "Single Point of Contact"},
+                {"id": "d", "text": "Synchronous Point of Communication"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "cdr4",
+            "text": "How many Data Centres will the entire CDR project be implemented with?",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "5"},
+                {"id": "c", "text": "6"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "cdr5",
+            "text": "Which city is configured as the DR (Disaster Recovery) site for Kolkata in the CDR Project?",
+            "options": [
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Pune"},
+                {"id": "c", "text": "Hyderabad"},
+                {"id": "d", "text": "Chandigarh"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "cdr6",
+            "text": "Which city is configured as the DR (Disaster Recovery) site for Hyderabad in the CDR Project?",
+            "options": [
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Pune"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Chandigarh"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "cdr7",
+            "text": "The South and East Zones are considered as which project in the CDR Project?",
+            "options": [
+                {"id": "a", "text": "Project-I"},
+                {"id": "b", "text": "Project-II"},
+                {"id": "c", "text": "Project-III"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "cdr8",
+            "text": "The North and West Zones are considered as which project in the CDR Project?",
+            "options": [
+                {"id": "a", "text": "Project-I"},
+                {"id": "b", "text": "Project-II"},
+                {"id": "c", "text": "Project-III"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "cdr9",
+            "text": "Which services will the CDR project cover for customer care and billing?",
+            "options": [
+                {"id": "a", "text": "Landline"},
+                {"id": "b", "text": "Broadband"},
+                {"id": "c", "text": "CDMA"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "cdr10",
+            "text": "What is the Intranet URL of BSNL?",
+            "options": [
+                {"id": "a", "text": "http://internet.bsnl.co.in"},
+                {"id": "b", "text": "http://intranet.bsnl.in"},
+                {"id": "c", "text": "http://intranet.bsnl.co.in"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "cdr11",
+            "text": "Through which special mechanism will charges of various BSNL services of one customer be billed together?",
+            "options": [
+                {"id": "a", "text": "EMS"},
+                {"id": "b", "text": "E-Stapling"},
+                {"id": "c", "text": "MMS"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "cdr12",
+            "text": "Is the tariff in the CDR System based on an MOU (Minutes of Usage) based system?",
+            "options": [
+                {"id": "a", "text": "TRUE"},
+                {"id": "b", "text": "FALSE"},
+                {"id": "c", "text": "Depend on service"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "cdr13",
+            "text": "Will OYT (Own Your Telephone) connection be provided in the CDR system?",
+            "options": [
+                {"id": "a", "text": "TRUE"},
+                {"id": "b", "text": "FALSE"},
+                {"id": "c", "text": "Depend on service"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        }
+    ]
+}
