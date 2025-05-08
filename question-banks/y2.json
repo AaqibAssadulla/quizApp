@@ -380,19 +380,6 @@
         },
         {
             "id": "q21",
-            "text": "For Minor Penalties JTO(Telecom) & Equivalent APPELLATE AUTHORITY is",
-            "options": [
-                {"id": "a", "text": "(Amoeba)"},
-                {"id": "b", "text": "(Anarchy)"},
-                {"id": "c", "text": "(Buggy whip)"},
-                {"id": "d", "text": "(Myopia)"},
-                {"id": "e", "text": "(Rat- race)"},
-                {"id": "f", "text": "(Remote control)"}
-            ],
-            "correctAnswer": "None"
-        },
-        {
-            "id": "q22",
             "text": "When (FAFA) are put in right perspective, changes take place, and we start growing. Giving in to our fears and walking through them is the gateway to change. This leads us into actions that we previously have not taken. Fear causes us to resist change. FAFA ------ Stand for",
             "options": [
                 {"id": "a", "text": "Fear, attitude, feelings and actions"},
