@@ -297,6 +297,39 @@
                 {"id": "d", "text": "None of These"}
             ],
             "correctAnswer": "a"
-        }
-    ]
+        },
+		{
+        "id": "tel28",
+        "text": "What is the high traffic/load handling capacity of the C-DOT DSS MAX in terms of Busy Hour Call Attempts (BHCA)?",
+        "options": [
+            {"id": "a", "text": "4,00,000 BHCA"},
+            {"id": "b", "text": "8,00,000 BHCA"},
+            {"id": "c", "text": "10,00,000 BHCA"},
+            {"id": "d", "text": "6,00,000 BHCA"}
+        ],
+        "correctAnswer": "b"
+		},
+		{
+			"id": "tel29",
+			"text": "What is the termination capacity of the C-DOT DSS MAX when configured as a Local Exchange?",
+			"options": [
+				{"id": "a", "text": "20,000 Lines"},
+				{"id": "b", "text": "30,000 Lines"},
+				{"id": "c", "text": "40,000 Lines"},
+				{"id": "d", "text": "50,000 Lines"}
+			],
+			"correctAnswer": "c"
+		},
+		{
+			"id": "tel30",
+			"text": "What is the termination capacity of the C-DOT DSS MAX when configured as a Trunk Automatic Exchange?",
+			"options": [
+				{"id": "a", "text": "10,000 trunks"},
+				{"id": "b", "text": "12,000 trunks"},
+				{"id": "c", "text": "15,000 trunks"},
+				{"id": "d", "text": "20,000 trunks"}
+			],
+			"correctAnswer": "c"
+		}
+		]	
 }
