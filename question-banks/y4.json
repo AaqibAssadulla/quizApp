@@ -1,0 +1,302 @@
+{
+    "title": "Telecommunications and Signaling",
+    "questions": [
+        {
+            "id": "tel1",
+            "text": "TYPES OF SIGNALLING is/are",
+            "options": [
+                {"id": "a", "text": "Subscriber Line signaling"},
+                {"id": "b", "text": "Inter-Exchange Signalling"},
+                {"id": "c", "text": "Both of above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel2",
+            "text": "_______________ signal is sent to the calling subscriber if he fails to release the call even after the called subscriber has gone on-hook and the call is released after a time delay.",
+            "options": [
+                {"id": "a", "text": "Permanent line or permanent glow (PG)"},
+                {"id": "b", "text": "Release"},
+                {"id": "c", "text": "Answer Back"},
+                {"id": "d", "text": "End of selection"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel3",
+            "text": "The inter-exchange signaling are",
+            "options": [
+                {"id": "a", "text": "channel associated signaling"},
+                {"id": "b", "text": "common channel signaling"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel4",
+            "text": "In the PCM systems the signalling information is conveyed on a separate channel which is rigidly associated with the speech channel. Hence, this method is known as",
+            "options": [
+                {"id": "a", "text": "channel associated signaling"},
+                {"id": "b", "text": "common channel signaling"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel5",
+            "text": "The signaling functions in CCS7 are distributed among the following parts:",
+            "options": [
+                {"id": "a", "text": "message transfer part (MTP)"},
+                {"id": "b", "text": "function – specific user parts (UP)"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel6",
+            "text": "There are three different types of SIGNAL UNITS",
+            "options": [
+                {"id": "a", "text": "Message Signal Units (MSU)"},
+                {"id": "b", "text": "Link Status Signal Units (LSSU)"},
+                {"id": "c", "text": "Fill-in Signal Units (FISU)"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "tel7",
+            "text": "In primary Rate Access (PRA): 30B plus D 30 channels of",
+            "options": [
+                {"id": "a", "text": "256 Kbps for speech and data"},
+                {"id": "b", "text": "8 Kbps for speech and data"},
+                {"id": "c", "text": "64 Kbps for speech and data"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel8",
+            "text": "Topology Hiding or Topology Information is done by",
+            "options": [
+                {"id": "a", "text": "P-CSCF"},
+                {"id": "b", "text": "I-CSCF"},
+                {"id": "c", "text": "S-CSCF"},
+                {"id": "d", "text": "SBC"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "tel9",
+            "text": "Information Security Components can be abbreviated as CIA. In CIA, A stands for",
+            "options": [
+                {"id": "a", "text": "Access"},
+                {"id": "b", "text": "Availability"},
+                {"id": "c", "text": "Accounting"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "tel10",
+            "text": "The main functionality in IMS is",
+            "options": [
+                {"id": "a", "text": "MGCF"},
+                {"id": "b", "text": "BGCF"},
+                {"id": "c", "text": "MRFC"},
+                {"id": "d", "text": "CSCF"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "tel11",
+            "text": "What is the interface between the Home Subscriber Server (HSS) and I-CSCF",
+            "options": [
+                {"id": "a", "text": "Cx"},
+                {"id": "b", "text": "Dx"},
+                {"id": "c", "text": "Sh"},
+                {"id": "d", "text": "Dh"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel12",
+            "text": "Which of these is/are component of SS7 network?",
+            "options": [
+                {"id": "a", "text": "SSP"},
+                {"id": "b", "text": "SCP"},
+                {"id": "c", "text": "STP"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "tel13",
+            "text": "NOT TYPES OF SIGNALLING is/are",
+            "options": [
+                {"id": "a", "text": "Subscriber Line signaling"},
+                {"id": "b", "text": "Inter-Exchange Signalling"},
+                {"id": "c", "text": "Intra-Exchange Signalling"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel14",
+            "text": "________ signal is sent to the calling subscriber if he fails to release the call even after the called subscriber has gone on-hook and the call is released after a time delay.",
+            "options": [
+                {"id": "a", "text": "Subscriber Line signaling"},
+                {"id": "b", "text": "Inter-Exchange Signalling"},
+                {"id": "c", "text": "Intra-Exchange Signalling"},
+                {"id": "d", "text": "Permanent Line (PG) Signal"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "tel15",
+            "text": "In the PCM systems the signalling information is conveyed on a separate channel which is rigidly associated with the speech channel. Hence, this method is known as",
+            "options": [
+                {"id": "a", "text": "Subscriber Line signaling"},
+                {"id": "b", "text": "Inter-Exchange Signalling"},
+                {"id": "c", "text": "channel associated signaling (CAS)"},
+                {"id": "d", "text": "Permanent Line (PG) Signal"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel16",
+            "text": "COMMON CHANNEL SIGNALING SYSTEM No. 7 (CCS#7) is/are",
+            "options": [
+                {"id": "a", "text": "a signaling protocol that has become a worldwide standard for modern telecommunications networks"},
+                {"id": "b", "text": "SS7 is a layered protocol following the OSI reference model"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "tel17",
+            "text": "Write Down Full Form of TCAP",
+            "options": [
+                {"id": "a", "text": "TRANSACTION CAPABILITIES APPLICATION PART"},
+                {"id": "b", "text": "TELECOM CAPABILITIES APPLICATION PROTOCOL"},
+                {"id": "c", "text": "TRANSACTION CONTROL APPLICATION PART"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel18",
+            "text": "Write Down Full Form of ISUP",
+            "options": [
+                {"id": "a", "text": "INTEGRATED SERVICES USER PART"},
+                {"id": "b", "text": "INTERNATIONAL SIGNALING USER PROTOCOL"},
+                {"id": "c", "text": "INTEGRATED SIGNALING USER PART"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel19",
+            "text": "In the ___________ of signaling, the signaling link and the speech circuit group run along different routes, the circuit group connecting the SP A directly with the SP B",
+            "options": [
+                {"id": "a", "text": "quasi-associated mode"},
+                {"id": "b", "text": "associated mode"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel20",
+            "text": "_________ supplements this capability by providing an addressing capability that uses DPC + SSN",
+            "options": [
+                {"id": "a", "text": "SCCP"},
+                {"id": "b", "text": "Global Title"},
+                {"id": "c", "text": "TCAP"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel21",
+            "text": "The TCAP recommendations are covered in ITU-T",
+            "options": [
+                {"id": "a", "text": "Q.771 to Q.775"},
+                {"id": "b", "text": "Q.711 to Q.714"},
+                {"id": "c", "text": "Q.716"},
+                {"id": "d", "text": "Both B & C"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel22",
+            "text": "The SCCP function is covered in ITU-T recommendations.",
+            "options": [
+                {"id": "a", "text": "Q.771 to Q.775"},
+                {"id": "b", "text": "Q.711 to Q.714"},
+                {"id": "c", "text": "Q.716"},
+                {"id": "d", "text": "Both B & C"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "tel23",
+            "text": "CAP carries Mobile Application Part (MAP) messages sent between",
+            "options": [
+                {"id": "a", "text": "mobile switches and database"},
+                {"id": "b", "text": "mobile switches and Mobile Switch"},
+                {"id": "c", "text": "Database and DataBase"},
+                {"id": "d", "text": "Both B & C"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel24",
+            "text": "IP Tax Project is the 1st step towards NGN. The name given to this project has been IP TAX Project and is a class4 NGN implementation. The equipment for IP Tax is provided by",
+            "options": [
+                {"id": "a", "text": "M/s ZTE"},
+                {"id": "b", "text": "M/s Huwai"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel25",
+            "text": "The ZXMSG 9000 (Trunk Media Gateway) is located on the core layer for connecting No.7",
+            "options": [
+                {"id": "a", "text": "trunk users and PRI users"},
+                {"id": "b", "text": "announcement server and PRI users"},
+                {"id": "c", "text": "announcement server and trunk users"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "tel26",
+            "text": "The Soft switch control device ZXSS10 SS1b mainly carries out the functions of",
+            "options": [
+                {"id": "a", "text": "call control, signaling process"},
+                {"id": "b", "text": "management and protocol adaptation"},
+                {"id": "c", "text": "resource management, accounting management, user"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "tel27",
+            "text": "The Megaco/H.248 protocol is used between the",
+            "options": [
+                {"id": "a", "text": "SoftSwitch control equipment and various media gateways"},
+                {"id": "b", "text": "collection of Terminations"},
+                {"id": "c", "text": "the MG and the SoftSwitch control equipment"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        }
+    ]
+}
