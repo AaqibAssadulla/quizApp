@@ -1,0 +1,753 @@
+{
+    "title": "BSNL ERP and Telecom",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "ERP stands for.",
+            "options": [
+                {"id": "a", "text": "Enterprise Resource Planning"},
+                {"id": "b", "text": "Enterprise Replan Processing"},
+                {"id": "c", "text": "Ethical Resource Planning"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "The primary ERP site is _______ and _________ for DR site.",
+            "options": [
+                {"id": "a", "text": "Hyderabad, Kolkata"},
+                {"id": "b", "text": "Hyderabad, Pune"},
+                {"id": "c", "text": "Kolkata, Hyderabad"},
+                {"id": "d", "text": "Pune, Kolkata"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "Development Centre for ERP was setup at _________",
+            "options": [
+                {"id": "a", "text": "ALTTC Ghaziabad"},
+                {"id": "b", "text": "Hyderabad"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Pune"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q4",
+            "text": "Leaves cannot be applied in the ESS system:",
+            "options": [
+                {"id": "a", "text": "Casual Leave"},
+                {"id": "b", "text": "Restricted Holiday"},
+                {"id": "c", "text": "Earned Leave"},
+                {"id": "d", "text": "Maternity / Paternity Leave"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q5",
+            "text": "Following is not HCM Structures:",
+            "options": [
+                {"id": "a", "text": "Enterprise Structure"},
+                {"id": "b", "text": "Organizational Structure"},
+                {"id": "c", "text": "Personnel Structure"},
+                {"id": "d", "text": "Public Structure"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6",
+            "text": "New Requirement for Materials in Circle Inventory shall be created by_______________ Team under Inventory Data Template.",
+            "options": [
+                {"id": "a", "text": "MDM"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MMBE"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7",
+            "text": "Creation of Purchase Requisitions for Services T-Code",
+            "options": [
+                {"id": "a", "text": "MDM"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MMBE"},
+                {"id": "d", "text": "ME51N"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q8",
+            "text": "Navigate to the official BSNL ERP portal link is",
+            "options": [
+                {"id": "a", "text": "http://eportal.erp.bsnl.co.in/irj/portal"},
+                {"id": "b", "text": "http://eportal.erp.bsnl.com/irj/portal"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q9",
+            "text": "Transaction Code IN SAP FOR: Create Purchase Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "FB1S"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q10",
+            "text": "Transaction Code IN SAP FOR: Create Sales Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "FB1S"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "Transaction Code IN SAP FOR: Display Purchase Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q12",
+            "text": "Transaction Code IN SAP FOR: Stock Overview",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "MIRO"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "MMBE"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q13",
+            "text": "The impedance of the antenna is simply equal to the voltage applied to its input terminals divided by the current flow. Input impedance of the antenna and transmission impedance of the feeder cable should be equal. It is __________.",
+            "options": [
+                {"id": "a", "text": "50 ohm"},
+                {"id": "b", "text": "5 ohm"},
+                {"id": "c", "text": "25 ohm"},
+                {"id": "d", "text": "100 ohm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q14",
+            "text": "GSM operates on the mobile communication bands __________ in most parts of the world.",
+            "options": [
+                {"id": "a", "text": "900 MHz and 1800 MHz"},
+                {"id": "b", "text": "800 MHz and 850 MHz"},
+                {"id": "c", "text": "1850 MHz and 1950 MHz"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q15",
+            "text": "The BCCH is also known as",
+            "options": [
+                {"id": "a", "text": "beacon"},
+                {"id": "b", "text": "Broadcast Control Channel"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q16",
+            "text": "An important component of the BSS that is considered in the GSM architecture as a part of the BTS is the _____",
+            "options": [
+                {"id": "a", "text": "Transcoder/Rate Adapter Unit (TRAU)"},
+                {"id": "b", "text": "BSS Node"},
+                {"id": "c", "text": "A-bis"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q17",
+            "text": "________ allows us to send SS7 messages over IP networks.",
+            "options": [
+                {"id": "a", "text": "SIGTRAN"},
+                {"id": "b", "text": "MTP"},
+                {"id": "c", "text": "SSTP"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q18",
+            "text": "The physical part of a communications network between the central backbone and the individual local networks is known as ________",
+            "options": [
+                {"id": "a", "text": "backhaul"},
+                {"id": "b", "text": "macro cell"},
+                {"id": "c", "text": "RAN"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q19",
+            "text": "'C' Stand for in CDWM",
+            "options": [
+                {"id": "a", "text": "Code"},
+                {"id": "b", "text": "Coarse"},
+                {"id": "c", "text": "Core"},
+                {"id": "d", "text": "Communication"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q20",
+            "text": "_______ backhaul is much more 'plug and play' and so take less time with less skilled labour to set up",
+            "options": [
+                {"id": "a", "text": "NLOS"},
+                {"id": "b", "text": "LOS"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q21",
+            "text": "Free Space Optics (FSO) is a newer low-latency technology that offers speeds comparable to fibre optics that transmit voice, video and data with up to ______",
+            "options": [
+                {"id": "a", "text": "1.5Gbps"},
+                {"id": "b", "text": "1.5Tbps"},
+                {"id": "c", "text": "15Gbps"},
+                {"id": "d", "text": "15Tbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q22",
+            "text": "In WCDMA System Chip rate used is .........Mcps",
+            "options": [
+                {"id": "a", "text": "1.22"},
+                {"id": "b", "text": "2.11"},
+                {"id": "c", "text": "3.84"},
+                {"id": "d", "text": "4.34"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q23",
+            "text": "SMS to called party mobile, in dedicated mode, is delivered by-",
+            "options": [
+                {"id": "a", "text": "SACCH"},
+                {"id": "b", "text": "SDCCH"},
+                {"id": "c", "text": "FACCH"},
+                {"id": "d", "text": "PCH"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q24",
+            "text": "In GSM, using a FDMA scheme, into 124 carrier frequencies spaced one from each other by a................... frequency band.",
+            "options": [
+                {"id": "a", "text": "200 MHz"},
+                {"id": "b", "text": "200 KHz"},
+                {"id": "c", "text": "25 Khz"},
+                {"id": "d", "text": "25 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q25",
+            "text": "______ has specified both 'Reference Point' and 'Service based' architectures for the 5G System (SGS)",
+            "options": [
+                {"id": "a", "text": "3GPP"},
+                {"id": "b", "text": "4GPP"},
+                {"id": "c", "text": "5GPP"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q26",
+            "text": "5G NR gNodeB is splited into Part:",
+            "options": [
+                {"id": "a", "text": "gNB-Cu 9 central unit"},
+                {"id": "b", "text": "gNB-DU (Distributed unit)"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q27",
+            "text": "B&CCS Centre for South zone is______",
+            "options": [
+                {"id": "a", "text": "Chandigarh"},
+                {"id": "b", "text": "Trichy"},
+                {"id": "c", "text": "Calcutta"},
+                {"id": "d", "text": "West Pune"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "The resistance of the earth electrode system should be as low as possible and in any case should not normally _________ at any time for the year.",
+            "options": [
+                {"id": "a", "text": "exceed 2 ohms"},
+                {"id": "b", "text": "exceed 1 ohms"},
+                {"id": "c", "text": "exceed 0.5 ohms"},
+                {"id": "d", "text": "exceed 1.5 ohms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "Earth plate electrode system; This consists of four galvanized iron plates of ___________ square arranged as shown in the diagram below.",
+            "options": [
+                {"id": "a", "text": "145 SWG 76 cms"},
+                {"id": "b", "text": "145 SWG 76 mms"},
+                {"id": "c", "text": "Can't Say"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q30",
+            "text": "__________ extinguishers are most suitable for fires on wood, paper, textiles etc. They may not be used on other types of fires.",
+            "options": [
+                {"id": "a", "text": "Soda Acid type"},
+                {"id": "b", "text": "Foam Type"},
+                {"id": "c", "text": "CO2 Type"},
+                {"id": "d", "text": "Powder Type"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q31",
+            "text": "Types of Faults in CFA Structures",
+            "options": [
+                {"id": "a", "text": "Earth fault"},
+                {"id": "b", "text": "Low insulation fault"},
+                {"id": "c", "text": "Disconnection Fault"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q32",
+            "text": "In this scheme two sets of Batteries (24 cells each set) are connected in parallel to the output of the rectifier. The output of the rectifier is __________.",
+            "options": [
+                {"id": "a", "text": "51.5 V"},
+                {"id": "b", "text": "2.15V/cell"},
+                {"id": "c", "text": "Both of Above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q33",
+            "text": "RECOMMENDED BOOST VOLTAGE _______ VPC AT 27oC",
+            "options": [
+                {"id": "a", "text": "2.25"},
+                {"id": "b", "text": "2.30"},
+                {"id": "c", "text": "1.75"},
+                {"id": "d", "text": "2.15"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q34",
+            "text": "Contractor should immediately report to _______________ any instance of objection raised by PWD/Local Authority or private individual so that such grievances can be settled.",
+            "options": [
+                {"id": "a", "text": "CGM"},
+                {"id": "b", "text": "Construction officer DOT"},
+                {"id": "c", "text": "GM of respect BA"},
+                {"id": "d", "text": "AGM"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q35",
+            "text": "SMPS is used for",
+            "options": [
+                {"id": "a", "text": "DC to DC conversion"},
+                {"id": "b", "text": "DC to AC conversion"},
+                {"id": "c", "text": "AC to DC conversion"},
+                {"id": "d", "text": "AC to AC conversion"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q36",
+            "text": "The DC/DC converter is based on ___ topology",
+            "options": [
+                {"id": "a", "text": "full bridge"},
+                {"id": "b", "text": "boost"},
+                {"id": "c", "text": "mesh"},
+                {"id": "d", "text": "star"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q37",
+            "text": "Minimum Vertical clearance required in case of crossings of the Telecom cable.",
+            "options": [
+                {"id": "a", "text": "0.3 meter"},
+                {"id": "b", "text": "0.4 meter"},
+                {"id": "c", "text": "0.5 meter"},
+                {"id": "d", "text": "0.6 meter"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q38",
+            "text": "Earth Plate Electrode System consists of",
+            "options": [
+                {"id": "a", "text": "4 no.of galvanized iron plates"},
+                {"id": "b", "text": "6 no.of plain iron plates"},
+                {"id": "c", "text": "8 no.of Stainless Steel plates"},
+                {"id": "d", "text": "None of above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q39",
+            "text": "Types of Earth Electrode System:-",
+            "options": [
+                {"id": "a", "text": "Spike Earth Electrode System"},
+                {"id": "b", "text": "Lead Strip Electrode System"},
+                {"id": "c", "text": "Earth Plate Electrode System"},
+                {"id": "d", "text": "All of the Above"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q40",
+            "text": "Which of Following is connectionless, unreliable, less overhead, reliability can be provided by the Application layer?",
+            "options": [
+                {"id": "a", "text": "TCP"},
+                {"id": "b", "text": "SCTP (Stream Control Transmission Protocol)"},
+                {"id": "c", "text": "RSVP (Resource Reservation Protocol)"},
+                {"id": "d", "text": "UDP"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q41",
+            "text": "Which Statement is True? Statement-1: HTTP is a stateless protocol; the current request does not know what has been done in the previous requests. Statement-2: HTTPS is an extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network",
+            "options": [
+                {"id": "a", "text": "Both are True"},
+                {"id": "b", "text": "Only Statement -1 True"},
+                {"id": "c", "text": "Only Statement -2 True"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q42",
+            "text": "The IP address range 127.0.0.0 – 127.255.255.255 is reserved for",
+            "options": [
+                {"id": "a", "text": "loopback"},
+                {"id": "b", "text": "Private IP"},
+                {"id": "c", "text": "Both are True"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q43",
+            "text": "The multicast address in IPv6 is/Are",
+            "options": [
+                {"id": "a", "text": "FF02:0:0:0:0:0:0:2"},
+                {"id": "b", "text": "FF02::2"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q44",
+            "text": "Types of spoofing",
+            "options": [
+                {"id": "a", "text": "IP spoofing"},
+                {"id": "b", "text": "Email spoofing"},
+                {"id": "c", "text": "Social Media spoofing"},
+                {"id": "d", "text": "Both A & B"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q45",
+            "text": "For BB multiplay city Bangalore, Chennai, Mumbai, Delhi, Kolkatta under Group",
+            "options": [
+                {"id": "a", "text": "A1"},
+                {"id": "b", "text": "A2"},
+                {"id": "c", "text": "A3"},
+                {"id": "d", "text": "A4"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q46",
+            "text": "In MNG-PAN Ring 'COAU' Stand for",
+            "options": [
+                {"id": "a", "text": "Central Office Aggregation Unit"},
+                {"id": "b", "text": "Central Open Aggregation Unit"},
+                {"id": "c", "text": "Central Office Assignment Unit"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q47",
+            "text": "Checkout Wrong about Packet switch is",
+            "options": [
+                {"id": "a", "text": "follows connection-oriented routing (dedicated path), there will be no loss of intelligence"},
+                {"id": "b", "text": "Latency cannot be maintained"},
+                {"id": "c", "text": "Type of users could not be defined"},
+                {"id": "d", "text": "Entire address (IP address) is analyzed for selecting best match"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q48",
+            "text": "Major Cloud Computing Offerings are",
+            "options": [
+                {"id": "a", "text": "Software as a Service (SaaS)"},
+                {"id": "b", "text": "Platform as a Service (PaaS)"},
+                {"id": "c", "text": "Infrastructure as a Service (IaaS)"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q49",
+            "text": "Applications of Python Programming Language is/are",
+            "options": [
+                {"id": "a", "text": "Program video games"},
+                {"id": "b", "text": "Build Artificial Intelligence algorithms"},
+                {"id": "c", "text": "Program various scientific programs such as statistical models"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q50",
+            "text": "The role of digital marketing is to help you garner_____ for your business by reaching people looking for your products and services.",
+            "options": [
+                {"id": "a", "text": "New traffic"},
+                {"id": "b", "text": "Leads"},
+                {"id": "c", "text": "Sales"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q51",
+            "text": "Internal marketing belongs to",
+            "options": [
+                {"id": "a", "text": "Customer"},
+                {"id": "b", "text": "Employees"},
+                {"id": "c", "text": "Stakeholder"},
+                {"id": "d", "text": "Suppliers"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q52",
+            "text": "............................directs a message at large numbers of people with a single communication. It is a mass medium.",
+            "options": [
+                {"id": "a", "text": "Direct selling"},
+                {"id": "b", "text": "advertisement"},
+                {"id": "c", "text": "Telemarketing"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q53",
+            "text": "SEO is",
+            "options": [
+                {"id": "a", "text": "Search engine optimization"},
+                {"id": "b", "text": "Source engine optimization"},
+                {"id": "c", "text": "SIM engine optimization"},
+                {"id": "d", "text": "Social engine optimization"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q54",
+            "text": "DIGITAL MARKETING is/are",
+            "options": [
+                {"id": "a", "text": "Targetable"},
+                {"id": "b", "text": "Immediate Result"},
+                {"id": "c", "text": "Easy to Measure"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q55",
+            "text": "TYPES OF SIGNALLING is/Are________________",
+            "options": [
+                {"id": "a", "text": "Subscriber Line signaling"},
+                {"id": "b", "text": "Inter-Exchange Signalling"},
+                {"id": "c", "text": "Both of above"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q56",
+            "text": "The signaling functions in CCS7 are distributed among the following parts:",
+            "options": [
+                {"id": "a", "text": "message transfer part (MTP)"},
+                {"id": "b", "text": "function – specific user parts (UP)"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q57",
+            "text": "In primary Rate Access (PRA): 30B plus D 30 channels of",
+            "options": [
+                {"id": "a", "text": "256 Kbps for speech and data"},
+                {"id": "b", "text": "8 Kbps for speech and data"},
+                {"id": "c", "text": "64 Kbps for speech and data"},
+                {"id": "d", "text": "Other"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q58",
+            "text": "CAP carries Mobile Application Part (MAP) messages sent between______________________ mobile switches and databases to support user authentication, equipment identification, and roaming.",
+            "options": [
+                {"id": "a", "text": "mobile switches and database"},
+                {"id": "b", "text": "mobile switches and Mobile Switch"},
+                {"id": "c", "text": "Database and DataBase"},
+                {"id": "d", "text": "Both B & C"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q59",
+            "text": "IP Tax Project is the 1st step towards NGN. The name given to this project has been IP TAX Project and is a class4 NGN implementation. The equipment for IP Tax is provided by __________. ",
+            "options": [
+                {"id": "a", "text": "M/s ZTE"},
+                {"id": "b", "text": "M/s Huawei"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q60",
+            "text": "The Soft switch control device ZXSS10 SS1b mainly carries out the functions of _____________ within its own domain",
+            "options": [
+                {"id": "a", "text": "call control, signaling process"},
+                {"id": "b", "text": "management and protocol adaptation"},
+                {"id": "c", "text": "announcement server and PRI users"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q61",
+            "text": "The Megaco/H.248 protocol is used between the",
+            "options": [
+                {"id": "a", "text": "SoftSwitch control equipment and various media gateways"},
+                {"id": "b", "text": "collection of Terminations"},
+                {"id": "c", "text": "the MG and the SoftSwitch control equipment"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q62",
+            "text": "______________is configured as the DR site for Hyderabad in CDR Project.",
+            "options": [
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Pune"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Chandigarh"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q63",
+            "text": "The prime purpose of an exchange is to provide a temporary path for simultaneous bi-directional transmission of speech between",
+            "options": [
+                {"id": "a", "text": "(i) Subscriber lines connected to same exchange (local switching)"},
+                {"id": "b", "text": "(ii) Subscriber lines and trunks to other exchange(outgoing trunk call)"},
+                {"id": "c", "text": "(iii) Subscriber lines and trunks from other exchanges (incoming trunk calls)"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q64",
+            "text": "WWWW is",
+            "options": [
+                {"id": "a", "text": "Worldwide Wireless Web"},
+                {"id": "b", "text": "Worldwide Wired Web"},
+                {"id": "c", "text": "Worldwide Webinar Web"},
+                {"id": "d", "text": "Other"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q65",
+            "text": "0 dBm =",
+            "options": [
+                {"id": "a", "text": "1mW"},
+                {"id": "b", "text": "0.1mW"},
+                {"id": "c", "text": "10mW"},
+                {"id": "d", "text": "1W"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q66",
+            "text": "CONTRACT MANAGEMENT INDIAN CONTRACT ACT-1872 Applicable",
+            "options": [
+                {"id": "a", "text": "to whole of India except J&K"},
+                {"id": "b", "text": "to whole of India except NE-I & NE-II"},
+                {"id": "c", "text": "to whole of India"},
+                {"id": "d", "text": "to whole of India except A & N"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q67",
+            "text": "An agreement without consideration is",
+            "options": [
+                {"id": "a", "text": "Void"},
+                {"id": "b", "text": "unless"},
+                {"id": "c", "text": "Both of these"},
+                {"id": "d", "text": "Acceptance"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q68",
+            "text": "GFRs is",
+            "options": [
+                {"id": "a", "text": "General Financial Rules"},
+                {"id": "b", "text": "General Fixel Rules"},
+                {"id": "c", "text": "Government Financial Rules"},
+                {"id": "d", "text": "Government Fixel Rules"}
+            ],
+            "correctAnswer": "a"
+        }
+    ]
+}
