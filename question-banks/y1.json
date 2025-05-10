@@ -131,7 +131,7 @@
                 {"id": "c", "text": "Depend on service"},
                 {"id": "d", "text": "None of these"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "cdr13",
@@ -142,7 +142,7 @@
                 {"id": "c", "text": "Depend on service"},
                 {"id": "d", "text": "None of these"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         }
     ]
 }

@@ -186,7 +186,7 @@
                 {"id": "c", "text": "12"},
                 {"id": "d", "text": "None"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "ga18",
@@ -351,7 +351,7 @@
                 {"id": "c", "text": "50"},
                 {"id": "d", "text": "10000"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "ga33",
@@ -538,7 +538,7 @@
                 {"id": "c", "text": "30 days"},
                 {"id": "d", "text": "45 days"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "ga50",
@@ -747,7 +747,7 @@
                 {"id": "c", "text": "PT"},
                 {"id": "d", "text": "Slack Time"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "ga69",
