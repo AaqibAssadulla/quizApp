@@ -132,7 +132,7 @@
                 {"id": "c", "text": "3, 15"},
                 {"id": "d", "text": "5, 12"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "q13",
@@ -165,7 +165,7 @@
                 {"id": "c", "text": "6"},
                 {"id": "d", "text": "5"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "q16",
