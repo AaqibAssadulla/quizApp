@@ -1,0 +1,599 @@
+{
+    "title": "Networking and IT Concepts",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "There are ______ steps of Data Encapsulation",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "5"},
+                {"id": "c", "text": "6"},
+                {"id": "d", "text": "7"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2",
+            "text": "In Data Encapsulation Application, Presentation & Session layers create DATA from",
+            "options": [
+                {"id": "a", "text": "SEGMENTS"},
+                {"id": "b", "text": "users' input"},
+                {"id": "c", "text": "FRAMES"},
+                {"id": "d", "text": "PACKETS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "The lower layers of the OSI model handle _________ issues. The physical layer and the data link layer are implemented in ___________.",
+            "options": [
+                {"id": "a", "text": "data transport, hardware and software"},
+                {"id": "b", "text": "hardware and software, data transport"},
+                {"id": "c", "text": "Single Point of Communication, Software"},
+                {"id": "d", "text": "data transport, hardware"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q4",
+            "text": "The examples of Application layer protocols",
+            "options": [
+                {"id": "a", "text": "SSH (Secure Shell) & SMTP (Simple Mail Transfer Protocols)"},
+                {"id": "b", "text": "FTP (File Transfer Protocol) & Session Initiation Protocol (SIP)"},
+                {"id": "c", "text": "SNMP (Simple Network Management Protocol)"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q5",
+            "text": "In OSI Layer TCP is/are",
+            "options": [
+                {"id": "a", "text": "Connection-oriented"},
+                {"id": "b", "text": "reliable"},
+                {"id": "c", "text": "provides guaranteed delivery"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6",
+            "text": "Which of Following is connectionless, unreliable, with less overhead, reliability can be provided by the Application layer?",
+            "options": [
+                {"id": "a", "text": "TCP"},
+                {"id": "b", "text": "SCTP (Stream Control Transmission Protocol)"},
+                {"id": "c", "text": "RSVP (Resource Reservation Protocol)"},
+                {"id": "d", "text": "UDP"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q7",
+            "text": "Which Statement is True? Statement-1: HTTP is a stateless protocol; the current request does not know what has been done in the previous requests. Statement-2: HTTPS is an extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network",
+            "options": [
+                {"id": "a", "text": "Both are True"},
+                {"id": "b", "text": "Only Statement -1 True"},
+                {"id": "c", "text": "Only Statement -2 True"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q8",
+            "text": "The IP address range 127.0.0.0 – 127.255.255.255 is reserved for",
+            "options": [
+                {"id": "a", "text": "loopback"},
+                {"id": "b", "text": "Private IP"},
+                {"id": "c", "text": "Both are True"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q9",
+            "text": "The multicast address in IPv6 is/Are",
+            "options": [
+                {"id": "a", "text": "FF02:0:0:0:0:0:0:2"},
+                {"id": "b", "text": "FF02::2"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q10",
+            "text": "The IPv6 header is always present and is a fixed size of",
+            "options": [
+                {"id": "a", "text": "40 bytes"},
+                {"id": "b", "text": "40 bits"},
+                {"id": "c", "text": "60 bytes"},
+                {"id": "d", "text": "60 bits"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11",
+            "text": "A switch is a ________ network connecting device,",
+            "options": [
+                {"id": "a", "text": "layer-1"},
+                {"id": "b", "text": "layer-2"},
+                {"id": "c", "text": "layer-3"},
+                {"id": "d", "text": "layer-4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q12",
+            "text": "A Router is a ________ network connecting device,",
+            "options": [
+                {"id": "a", "text": "layer-1"},
+                {"id": "b", "text": "layer-2"},
+                {"id": "c", "text": "layer-3"},
+                {"id": "d", "text": "layer-4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q13",
+            "text": "A Bridge is a ________ network connecting device,",
+            "options": [
+                {"id": "a", "text": "layer-1"},
+                {"id": "b", "text": "layer-2"},
+                {"id": "c", "text": "layer-3"},
+                {"id": "d", "text": "layer-4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q14",
+            "text": "OSPF is an IP routing protocol that’s completely ______",
+            "options": [
+                {"id": "a", "text": "link-state"},
+                {"id": "b", "text": "Distance vector"},
+                {"id": "c", "text": "shortest-path-first (SPF) protocols"},
+                {"id": "d", "text": "Both A & C"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q15",
+            "text": "_________ is a collection of connected Internet Protocol (IP) routing prefixes along with their routers which are controlled under a single administration that follows a defined routing policy.",
+            "options": [
+                {"id": "a", "text": "An autonomous system (AS)"},
+                {"id": "b", "text": "Interior Gateway Protocols"},
+                {"id": "c", "text": "Exterior Gateway Protocols"},
+                {"id": "d", "text": "Both A & C"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16",
+            "text": "________ is a routing protocol that is used to exchange routing information within routers of an autonomous system (AS).",
+            "options": [
+                {"id": "a", "text": "An autonomous system (AS)"},
+                {"id": "b", "text": "Interior Gateway Protocols"},
+                {"id": "c", "text": "Exterior Gateway Protocols"},
+                {"id": "d", "text": "Both A & C"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "Select about Not True: EIGRP is",
+            "options": [
+                {"id": "a", "text": "ENHANCED INTERIOR GATEWAY ROUTING PROTOCOL"},
+                {"id": "b", "text": "a Cisco proprietary routing protocol that combines the advantages of distance vector and link state routing protocols."},
+                {"id": "c", "text": "EIGRP uses DUAL (Diffusion Update Algorithm) to find unavailable paths."},
+                {"id": "d", "text": "EIGRP not supports VLSM and automatic network summarization."}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q18",
+            "text": "A _______ proxy provides encryption between the client and the server. As the data is encrypted in both directions, the proxy hides its existence from both the client and the server.",
+            "options": [
+                {"id": "a", "text": "Secure Sockets Layer (SSL)"},
+                {"id": "b", "text": "Firewall"},
+                {"id": "c", "text": "VPN"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q19",
+            "text": "which of the following is called for Internet’s Phone Book or Internet Telephone Directory",
+            "options": [
+                {"id": "a", "text": "DHCP"},
+                {"id": "b", "text": "Firewall"},
+                {"id": "c", "text": "VPN"},
+                {"id": "d", "text": "DNS"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q20",
+            "text": "The TLD for www.bsnl.co.in is",
+            "options": [
+                {"id": "a", "text": "www"},
+                {"id": "b", "text": "co.in"},
+                {"id": "c", "text": ".in"},
+                {"id": "d", "text": "www.bsnl.co.in"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q21",
+            "text": "Types of TLDs is/are",
+            "options": [
+                {"id": "a", "text": "Geographical or country based TLD"},
+                {"id": "b", "text": "Generic or Organization based TLD"},
+                {"id": "c", "text": "Inverse"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q22",
+            "text": "In Corporate organization Information is a/an",
+            "options": [
+                {"id": "a", "text": "Tool"},
+                {"id": "b", "text": "Just Data"},
+                {"id": "c", "text": "Knowledge"},
+                {"id": "d", "text": "Asset"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q23",
+            "text": "Information Security Components: or Qualities are",
+            "options": [
+                {"id": "a", "text": "Confidentiality"},
+                {"id": "b", "text": "Integrity"},
+                {"id": "c", "text": "Availability"},
+                {"id": "d", "text": "CIA"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q24",
+            "text": "_______ is weakness in Information Security system that could be exploited by a threat; that is a weakness in Network System components, Network security process & procedures",
+            "options": [
+                {"id": "a", "text": "VULNERABILITY"},
+                {"id": "b", "text": "HACKER"},
+                {"id": "c", "text": "SECURITY THREATS"},
+                {"id": "d", "text": "INTERNET ATTACKS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q25",
+            "text": "Types of spoofing",
+            "options": [
+                {"id": "a", "text": "IP spoofing"},
+                {"id": "b", "text": "Email spoofing"},
+                {"id": "c", "text": "Social Media spoofing"},
+                {"id": "d", "text": "Both A & B"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q26",
+            "text": "A program that covertly gathers information about your online activities without your knowledge, is called....",
+            "options": [
+                {"id": "a", "text": "Spyware"},
+                {"id": "b", "text": "KEYLOGGER"},
+                {"id": "c", "text": "PHISHING"},
+                {"id": "d", "text": "SPOOFING"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q27",
+            "text": "Under NIB II Project Narrowband Access (Dialup Remote Access) come under Project ____",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2.1"},
+                {"id": "c", "text": "2.2"},
+                {"id": "d", "text": "3"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q28",
+            "text": "Under NIB II Project MPLS based IP Infrastructure come under Project ____",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2.1"},
+                {"id": "c", "text": "2.2"},
+                {"id": "d", "text": "3"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "Under NIB II Project Enterprise Management, AAA come under Project ____",
+            "options": [
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "2.1"},
+                {"id": "c", "text": "2.2"},
+                {"id": "d", "text": "3"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q30",
+            "text": "Service that will enable private users to access public networks by",
+            "options": [
+                {"id": "a", "text": "NAT"},
+                {"id": "b", "text": "Firewall"},
+                {"id": "c", "text": "AAA"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q31",
+            "text": "For BB multiplay city Bangalore, Chennai, Mumbai, Delhi, Kolkata under Group",
+            "options": [
+                {"id": "a", "text": "A1"},
+                {"id": "b", "text": "A2"},
+                {"id": "c", "text": "A3"},
+                {"id": "d", "text": "A4"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q32",
+            "text": "The MNG-PAN switches shall have _________ reliability",
+            "options": [
+                {"id": "a", "text": "99.999%"},
+                {"id": "b", "text": "90%"},
+                {"id": "c", "text": "100%"},
+                {"id": "d", "text": "40 to 60 %"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33",
+            "text": "In MNG-PAN Ring 'COAU' Stand for",
+            "options": [
+                {"id": "a", "text": "Central Office Aggregation Unit"},
+                {"id": "b", "text": "Central Open Aggregation Unit"},
+                {"id": "c", "text": "Central Office Assignment Unit"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q34",
+            "text": "In ADSL uses frequency bands for ___________ is used for upstream communication, while____________ is used for downstream communication.",
+            "options": [
+                {"id": "a", "text": "25.875 kHz to 138 kHz, 138 kHz - 1104 kHz"},
+                {"id": "b", "text": "138 kHz - 1104 kHz, 25.875 kHz to 138 kHz"},
+                {"id": "c", "text": "26kHz to 1.1mhz, 138 kHz - 1104 kHz"},
+                {"id": "d", "text": "138 kHz - 1104 kHz, 26kHz to 1.1mhz"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q35",
+            "text": "DSL uses Modulation",
+            "options": [
+                {"id": "a", "text": "CAP (Carrierless Amplitude Phase Modulation)"},
+                {"id": "b", "text": "DMT (Discrete Multi Tone)"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q36",
+            "text": "SSSS stands for",
+            "options": [
+                {"id": "a", "text": "Subscriber Service Subscription Server"},
+                {"id": "b", "text": "Subscriber Service Subsystem Server"},
+                {"id": "c", "text": "Subscriber Service Super Server"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q37",
+            "text": "For all North Zone Circles RPOP Locations is",
+            "options": [
+                {"id": "a", "text": "Noida"},
+                {"id": "b", "text": "Chandigarh"},
+                {"id": "c", "text": "Lucknow"},
+                {"id": "d", "text": "New Delhi"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "Checkout Wrong about Packet switch is",
+            "options": [
+                {"id": "a", "text": "follows connection-oriented routing (dedicated path), there will be no loss of intelligence"},
+                {"id": "b", "text": "Latency cannot be maintained"},
+                {"id": "c", "text": "Type of users could not be defined"},
+                {"id": "d", "text": "Entire address (IP address) is analyzed for selecting best match."}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q39",
+            "text": "MPLS Work on",
+            "options": [
+                {"id": "a", "text": "Layer 2"},
+                {"id": "b", "text": "Layer 3"},
+                {"id": "c", "text": "Layer 2.5"},
+                {"id": "d", "text": "Layer 4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "FIB contains the components of information:",
+            "options": [
+                {"id": "a", "text": "Next Hop Label Forwarding Entry (NHLEF)"},
+                {"id": "b", "text": "Incoming Label Map (ILM)"},
+                {"id": "c", "text": "FEC to NHLFE Map (FTN)"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q41",
+            "text": "The types of VPN model basically:",
+            "options": [
+                {"id": "a", "text": "Overlay VPN Model."},
+                {"id": "b", "text": "Peer VPN Model"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q42",
+            "text": "______ is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software",
+            "options": [
+                {"id": "a", "text": "Big data"},
+                {"id": "b", "text": "AI"},
+                {"id": "c", "text": "Cloud Computing"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q43",
+            "text": "__________is an open-source framework that efficiently stores and processes big datasets on clusters of commodity hardware. This framework is free and can handle large amounts of structured and unstructured data, making it a valuable mainstay for any big data operation.",
+            "options": [
+                {"id": "a", "text": "Hadoop"},
+                {"id": "b", "text": "NoSQL databases"},
+                {"id": "c", "text": "MapReduce"},
+                {"id": "d", "text": "YARN"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q44",
+            "text": "Examples of Cloud Computing Services:",
+            "options": [
+                {"id": "a", "text": "AWS, Azure, Google Cloud"},
+                {"id": "b", "text": "AWS"},
+                {"id": "c", "text": "Azure"},
+                {"id": "d", "text": "Google Cloud"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q45",
+            "text": "Major Cloud Computing Offerings are",
+            "options": [
+                {"id": "a", "text": "Software as a Service (SaaS)"},
+                {"id": "b", "text": "Platform as a Service (PaaS)"},
+                {"id": "c", "text": "Infrastructure as a Service (IaaS)"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q46",
+            "text": "Which of Following are not cloud computing technologies",
+            "options": [
+                {"id": "a", "text": "Virtualization"},
+                {"id": "b", "text": "Service-Oriented Architecture (SOA)"},
+                {"id": "c", "text": "G-Tool Computing"},
+                {"id": "d", "text": "Utility Computing"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q47",
+            "text": "Grid computing contains",
+            "options": [
+                {"id": "a", "text": "Control Node"},
+                {"id": "b", "text": "Provider"},
+                {"id": "c", "text": "User"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q48",
+            "text": "___________ is the ability of a machine to perform cognitive functions as humans do, such as perceiving, learning, reasoning and solving problems.",
+            "options": [
+                {"id": "a", "text": "AI (Artificial Intelligence)"},
+                {"id": "b", "text": "Cloud Computing"},
+                {"id": "c", "text": "Blockchain"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q49",
+            "text": "Most common subsets of AI :",
+            "options": [
+                {"id": "a", "text": "Machine Learning"},
+                {"id": "b", "text": "Deep Learning"},
+                {"id": "c", "text": "Natural Language processing"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q50",
+            "text": "Not types of Machine Learning is",
+            "options": [
+                {"id": "a", "text": "Supervised learning"},
+                {"id": "b", "text": "Deep Learning"},
+                {"id": "c", "text": "Reinforcement learning"},
+                {"id": "d", "text": "Unsupervised learning"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q51",
+            "text": "Not Related to AI Tools and Frameworks",
+            "options": [
+                {"id": "a", "text": "Scikit Learn"},
+                {"id": "b", "text": "TensorFlow"},
+                {"id": "c", "text": "Theano"},
+                {"id": "d", "text": "Coffie-Tea"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q52",
+            "text": "Wrong Statement identified",
+            "options": [
+                {"id": "a", "text": "Linux is Programming Language"},
+                {"id": "b", "text": "Apache as the Web server;"},
+                {"id": "c", "text": "MySQL as the database server;"},
+                {"id": "d", "text": "Perl or Python or PHP as the language."}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q53",
+            "text": "Applications of Python Programming Language is/are",
+            "options": [
+                {"id": "a", "text": "Program video games"},
+                {"id": "b", "text": "Build Artificial Intelligence algorithms"},
+                {"id": "c", "text": "Program various scientific programs such as statistical models"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q54",
+            "text": "Router# means",
+            "options": [
+                {"id": "a", "text": "Privileged EXEC mode"},
+                {"id": "b", "text": "User EXEC Mode"},
+                {"id": "c", "text": "Global Configuration Mode"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        }
+    ]
+}
