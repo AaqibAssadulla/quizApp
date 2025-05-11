@@ -1,0 +1,555 @@
+{
+    "title": "Marketing and Sales",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "Public relations is used to promote",
+            "options": [
+                {"id": "a", "text": "People"},
+                {"id": "b", "text": "Places"},
+                {"id": "c", "text": "Activities, ideas, and even countries"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q2",
+            "text": "The role of public relations is/are",
+            "options": [
+                {"id": "a", "text": "To educate the public"},
+                {"id": "b", "text": "To give information about the various existing services, proposed services, various policies of the organization etc."},
+                {"id": "c", "text": "Towards problem solving"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q3",
+            "text": "Various organizations may have different objectives, such as",
+            "options": [
+                {"id": "a", "text": "Profit maximisation"},
+                {"id": "b", "text": "Service maximisation"},
+                {"id": "c", "text": "Sales maximisation"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q4",
+            "text": "Services Marketing can be considered to have how many Ps, known to all marketers?",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "5"},
+                {"id": "c", "text": "6"},
+                {"id": "d", "text": "7"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q5",
+            "text": "Which of the following is/are not standard Marketing Service Ps applicable for products?",
+            "options": [
+                {"id": "a", "text": "Product"},
+                {"id": "b", "text": "Pricing"},
+                {"id": "c", "text": "Placement"},
+                {"id": "d", "text": "Public"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6",
+            "text": "In SWOT, S stands for",
+            "options": [
+                {"id": "a", "text": "Strengths"},
+                {"id": "b", "text": "Standard"},
+                {"id": "c", "text": "Super"},
+                {"id": "d", "text": "Social"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q7",
+            "text": "In PEST, S stands for",
+            "options": [
+                {"id": "a", "text": "Strengths"},
+                {"id": "b", "text": "Standard"},
+                {"id": "c", "text": "Super"},
+                {"id": "d", "text": "Social"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q8",
+            "text": "(1) identifying a target market, (2) focusing on customer needs, (3) coordinating all marketing functions from the customer's point of view, and (4) achieving profitability. These are",
+            "options": [
+                {"id": "a", "text": "The marketing concept rests on four pillars"},
+                {"id": "b", "text": "Image Branding"},
+                {"id": "c", "text": "Product Enhancing"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q9",
+            "text": "The set of tools—product, price, place, promotion, people, process, physical evidence—that a company uses to pursue its marketing objectives in the target market. This is known as",
+            "options": [
+                {"id": "a", "text": "Marketing mix"},
+                {"id": "b", "text": "Marketing channel"},
+                {"id": "c", "text": "Marketing concepts"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q10",
+            "text": "A type of marketing that attempts to persuade the customer to try a product and continue to use the product. Advertising is an example of it. This is",
+            "options": [
+                {"id": "a", "text": "Pull marketing"},
+                {"id": "b", "text": "Push marketing"},
+                {"id": "c", "text": "Marketing concepts"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11",
+            "text": "A type of marketing in which the product is 'pushed' from the seller to the consumer. Direct sales force, contests, free trials etc. are its examples. This is",
+            "options": [
+                {"id": "a", "text": "Pull marketing"},
+                {"id": "b", "text": "Push marketing"},
+                {"id": "c", "text": "Marketing concepts"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q12",
+            "text": "There are two main sources of data",
+            "options": [
+                {"id": "a", "text": "Primary Data"},
+                {"id": "b", "text": "Secondary Data"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q13",
+            "text": "__________ is concerned with the ability of an organization to meet or exceed customer expectation. The measure of performance is perceived service quality",
+            "options": [
+                {"id": "a", "text": "Service quality"},
+                {"id": "b", "text": "QoS"},
+                {"id": "c", "text": "Service Measurements"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q14",
+            "text": "The outcome dimension of the service operations process is",
+            "options": [
+                {"id": "a", "text": "Technical quality"},
+                {"id": "b", "text": "Functional quality"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q15",
+            "text": "The process dimension in terms of the interactions between the customer and the service provider is",
+            "options": [
+                {"id": "a", "text": "Technical quality"},
+                {"id": "b", "text": "Functional quality"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q16",
+            "text": "Factors which influence the service quality under the category of tangibles is/are not",
+            "options": [
+                {"id": "a", "text": "Physical facilities"},
+                {"id": "b", "text": "Billing accuracy"},
+                {"id": "c", "text": "Tools or equipment used to provide service"},
+                {"id": "d", "text": "Physical appearance of service"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "Factors which influence the service quality under the category of competence is/are not",
+            "options": [
+                {"id": "a", "text": "Knowledge & skills of contact employees"},
+                {"id": "b", "text": "Billing accuracy"},
+                {"id": "c", "text": "Research capability"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q18",
+            "text": "A thorough marketing strategy covers 'the four Ps' of marketing, which of the following is/are not",
+            "options": [
+                {"id": "a", "text": "Product"},
+                {"id": "b", "text": "Price"},
+                {"id": "c", "text": "Place"},
+                {"id": "d", "text": "Policy"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q19",
+            "text": "Provision of telephone within ______ days for exchange areas declared 'on demand'",
+            "options": [
+                {"id": "a", "text": "7"},
+                {"id": "b", "text": "15"},
+                {"id": "c", "text": "30"},
+                {"id": "d", "text": "24 Hours"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q20",
+            "text": "Grade of service for junction between local exchanges should be",
+            "options": [
+                {"id": "a", "text": "< 0.002"},
+                {"id": "b", "text": "Between 0.001 and 0.002"},
+                {"id": "c", "text": "< 0.001"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q21",
+            "text": "Which of the following is incorrect about TRAI Mobile QoS Benchmarks?",
+            "options": [
+                {"id": "a", "text": "No. of faults (per 100 subscribers per month) < 1"},
+                {"id": "b", "text": "Accumulated down time of community isolation < 48 hrs"},
+                {"id": "c", "text": "Call success rate (within licensee's own network) > 99%"},
+                {"id": "d", "text": "Call drop rate < 3.0%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q22",
+            "text": "Which of the following is not applicable in TRAI Internet QoS Benchmarks?",
+            "options": [
+                {"id": "a", "text": "Time to access: 30 sec"},
+                {"id": "b", "text": "Success rate: 99% for the third attempt"},
+                {"id": "c", "text": "ISP node unavailability: < 90 minutes/month"},
+                {"id": "d", "text": "Mean time to restore (MTTR): 90% within 24 hours and 99% within three days"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q23",
+            "text": "The main stages of any sales funnel is/are",
+            "options": [
+                {"id": "a", "text": "AIDA"},
+                {"id": "b", "text": "Acknowledge"},
+                {"id": "c", "text": "Appearance"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q24",
+            "text": "Attention, Interest, Desire & Action is a stage of",
+            "options": [
+                {"id": "a", "text": "Any Sales Funnel"},
+                {"id": "b", "text": "Digital Marketing"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q25",
+            "text": "_______ is the component of marketing that utilizes internet and online-based digital technologies such as desktop computers, mobile phones, and other digital platforms to promote products and services",
+            "options": [
+                {"id": "a", "text": "Sales Funnel"},
+                {"id": "b", "text": "Digital marketing"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q26",
+            "text": "The role of digital marketing is to help you garner _____ for your business by reaching people looking for your products and services",
+            "options": [
+                {"id": "a", "text": "New traffic"},
+                {"id": "b", "text": "Leads"},
+                {"id": "c", "text": "Sales"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q27",
+            "text": "Internal marketing belongs to",
+            "options": [
+                {"id": "a", "text": "Customer"},
+                {"id": "b", "text": "Employees"},
+                {"id": "c", "text": "Stakeholder"},
+                {"id": "d", "text": "Suppliers"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "BSNL has expertise in",
+            "options": [
+                {"id": "a", "text": "DEL Mania"},
+                {"id": "b", "text": "Integration problem"},
+                {"id": "c", "text": "Legacy system"},
+                {"id": "d", "text": "Abundant Bandwidth/Manpower"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q29",
+            "text": "New business solution includes",
+            "options": [
+                {"id": "a", "text": "Corporate VPN"},
+                {"id": "b", "text": "Centralized Billing to customer"},
+                {"id": "c", "text": "Single window approach"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q30",
+            "text": "_______ directs a message at large numbers of people with a single communication. It is a mass medium",
+            "options": [
+                {"id": "a", "text": "Direct selling"},
+                {"id": "b", "text": "Advertisement"},
+                {"id": "c", "text": "Telemarketing"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q31",
+            "text": "SEO is",
+            "options": [
+                {"id": "a", "text": "Search engine optimization"},
+                {"id": "b", "text": "Source engine optimization"},
+                {"id": "c", "text": "SIM engine optimization"},
+                {"id": "d", "text": "Social engine optimization"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q32",
+            "text": "Digital marketing is/are",
+            "options": [
+                {"id": "a", "text": "Targetable"},
+                {"id": "b", "text": "Immediate Result"},
+                {"id": "c", "text": "Easy to Measure"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q33",
+            "text": "Operating Expense Ratio =",
+            "options": [
+                {"id": "a", "text": "(Operating Expenses - Depreciation) / Gross Revenue"},
+                {"id": "b", "text": "(Operating Expenses - Depreciation) X Gross Revenue"},
+                {"id": "c", "text": "(Operating Expenses + Depreciation) / Gross Revenue"},
+                {"id": "d", "text": "(Operating Expenses + Depreciation) X Gross Revenue"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q34",
+            "text": "Provisions of the previous franchisee S&D Policy -2009 have been amended and integrated into 'CM Sales and Distribution Policy -2012' to be effective from",
+            "options": [
+                {"id": "a", "text": "01.07.2012"},
+                {"id": "b", "text": "01.07.2022"},
+                {"id": "c", "text": "01.10.2012"},
+                {"id": "d", "text": "01.10.2022"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q35",
+            "text": "Which of the following is/are not part of 'CM Sales and Distribution Policy – 2012'?",
+            "options": [
+                {"id": "a", "text": "Franchisee Sales & Distribution Policy"},
+                {"id": "b", "text": "E-Distributor Policy"},
+                {"id": "c", "text": "DSA Policy"},
+                {"id": "d", "text": "Urban Distributor Policy"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q36",
+            "text": "Services Marketing in BSNL mix includes how many P's?",
+            "options": [
+                {"id": "a", "text": "5"},
+                {"id": "b", "text": "6"},
+                {"id": "c", "text": "7"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "The Project Vijay is concerned with",
+            "options": [
+                {"id": "a", "text": "Consumer Mobility"},
+                {"id": "b", "text": "Broadband"},
+                {"id": "c", "text": "CFA"},
+                {"id": "d", "text": "PCO"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "The Project Udaan is concerned with",
+            "options": [
+                {"id": "a", "text": "Consumer Mobility"},
+                {"id": "b", "text": "Broadband"},
+                {"id": "c", "text": "CFA"},
+                {"id": "d", "text": "PCO"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "Find the wrong match",
+            "options": [
+                {"id": "a", "text": "FoS: Feet on Street"},
+                {"id": "b", "text": "CAF: Customer Application Forms"},
+                {"id": "c", "text": "MBO: Multi-brand telecom outlets"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q40",
+            "text": "Sales of product from BSNL to franchise is defined as",
+            "options": [
+                {"id": "a", "text": "Primary Sales"},
+                {"id": "b", "text": "Secondary Sales"},
+                {"id": "c", "text": "Tertiary Sales"},
+                {"id": "d", "text": "Extraction"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q41",
+            "text": "Any sales from franchise unit to retailer is defined as",
+            "options": [
+                {"id": "a", "text": "Primary Sales"},
+                {"id": "b", "text": "Secondary Sales"},
+                {"id": "c", "text": "Tertiary Sales"},
+                {"id": "d", "text": "Extraction"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q42",
+            "text": "Product sales from retailer to end-customer is defined as",
+            "options": [
+                {"id": "a", "text": "Primary Sales"},
+                {"id": "b", "text": "Secondary Sales"},
+                {"id": "c", "text": "Tertiary Sales"},
+                {"id": "d", "text": "Extraction"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43",
+            "text": "_______ defined as the share of BSNL sales in the total sales of a particular multi-brand telecom outlet, by number of SIMs or by value of recharge",
+            "options": [
+                {"id": "a", "text": "Primary Sales"},
+                {"id": "b", "text": "Secondary Sales"},
+                {"id": "c", "text": "Tertiary Sales"},
+                {"id": "d", "text": "Extraction"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q44",
+            "text": "Enterprise sales, also known as",
+            "options": [
+                {"id": "a", "text": "Complex sales, refers to the procurement of large contracts that typically involve long sales cycles"},
+                {"id": "b", "text": "Multiple decision makers, and a higher level of risk than traditional sales"},
+                {"id": "c", "text": "SMB, referring to sales to small- and medium-sized businesses"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q45",
+            "text": "The importance of consumer protection from the consumers' point of view can be understood from which of the following points?",
+            "options": [
+                {"id": "a", "text": "Consumer Ignorance"},
+                {"id": "b", "text": "Unorganised Consumers"},
+                {"id": "c", "text": "Widespread Exploitation of Consumers"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q46",
+            "text": "Under the Consumer Protection Act 2019, a consumer is",
+            "options": [
+                {"id": "a", "text": "A person who buys any goods or avails services for a consideration"},
+                {"id": "b", "text": "Which has been paid or promised, or partly paid and partly promised, or under any scheme of deferred payment"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q47",
+            "text": "_______ is just like a tailor. It creates the ads, plans how, when, and where it should be delivered, and hands it over to the client. Advertising agencies are mostly not dependent on any organizations",
+            "options": [
+                {"id": "a", "text": "Advertising Agency"},
+                {"id": "b", "text": "Consumer Protection"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q48",
+            "text": "_______ is the type of marketing a company does to promote the company as a whole, as opposed to individual products. Essentially, it is all about the branding and messaging of a company, from the mission statement to advertisement language",
+            "options": [
+                {"id": "a", "text": "Advertising Agency"},
+                {"id": "b", "text": "Consumer Protection"},
+                {"id": "c", "text": "Internet Marketing"},
+                {"id": "d", "text": "Corporate Marketing"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q49",
+            "text": "_______ is the process of growing and promoting an organization using online media. Internet marketing does not simply mean building a website or promoting a website",
+            "options": [
+                {"id": "a", "text": "Advertising Agency"},
+                {"id": "b", "text": "Consumer Protection"},
+                {"id": "c", "text": "Internet Marketing"},
+                {"id": "d", "text": "Corporate Marketing"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q50",
+            "text": "A CRM software will help you to",
+            "options": [
+                {"id": "a", "text": "Forecast your sales for the upcoming month or quarter"},
+                {"id": "b", "text": "Keep track of lead's activities"},
+                {"id": "c", "text": "Leverage reminders and stay on top of hot deals"},
+                {"id": "d", "text": "All of These"}
+            ],
+            "correctAnswer": "d"
+        }
+    ]
+}
