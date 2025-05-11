@@ -5,63 +5,63 @@
             "id": "q1",
             "text": "A deliberate, planned and sustained effort to establish and maintain a mutual understanding between one's organization and the public is called",
             "options": [
-                {"id": "a", "text": "Public Relation"},
-                {"id": "b", "text": "Marketing mix"},
-                {"id": "c", "text": "Business management"},
-                {"id": "d", "text": "Partnership project"}
+                {"id": "a", "text": "Public Relations"},
+                {"id": "b", "text": "Marketing Mix"},
+                {"id": "c", "text": "Business Management"},
+                {"id": "d", "text": "Partnership Project"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q2",
-            "text": "Public relations efforts can be directed toward of an Organization,",
+            "text": "Public relations efforts can be directed toward which of the following in an organization?",
             "options": [
                 {"id": "a", "text": "Internal Public"},
                 {"id": "b", "text": "External Public"},
-                {"id": "c", "text": "both a and b"},
-                {"id": "d", "text": "n.o.t"}
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q3",
-            "text": "Which of the following is not considered to be an organisation's public?",
+            "text": "Which of the following is not considered to be an organization's public?",
             "options": [
-                {"id": "a", "text": "customers"},
+                {"id": "a", "text": "Customers"},
                 {"id": "b", "text": "Employees"},
                 {"id": "c", "text": "Media"},
-                {"id": "d", "text": "n.o.t"}
+                {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q4",
-            "text": "Advertising: Paid:: Public Relation;",
+            "text": "Advertising: Paid :: Public Relations:",
             "options": [
                 {"id": "a", "text": "Earned"},
                 {"id": "b", "text": "Rewarded"},
-                {"id": "c", "text": "spend"},
+                {"id": "c", "text": "Spent"},
                 {"id": "d", "text": "Purchased"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q5",
-            "text": "Public Relation builds",
+            "text": "Public Relations builds",
             "options": [
-                {"id": "a", "text": "trust"},
-                {"id": "b", "text": "exposure"},
-                {"id": "c", "text": "guaranteed placement"},
+                {"id": "a", "text": "Trust"},
+                {"id": "b", "text": "Exposure"},
+                {"id": "c", "text": "Guaranteed Placement"},
                 {"id": "d", "text": "All of these"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q6",
-            "text": "The public relations are needed for the following purposes:",
+            "text": "Public Relations are needed for the following purposes:",
             "options": [
                 {"id": "a", "text": "To change hostile opinion"},
-                {"id": "b", "text": "To smoothen the process of Change"},
+                {"id": "b", "text": "To smoothen the process of change"},
                 {"id": "c", "text": "To highlight the service rendered to the public"},
                 {"id": "d", "text": "All of these"}
             ],
@@ -69,7 +69,7 @@
         },
         {
             "id": "q7",
-            "text": "The basic role of public relations is/are",
+            "text": "The basic role of Public Relations is/are",
             "options": [
                 {"id": "a", "text": "Educational"},
                 {"id": "b", "text": "Informative"},
@@ -82,10 +82,10 @@
             "id": "q8",
             "text": "A typed page of about 300 words provided by an organization to the media as a form of publicity is called",
             "options": [
-                {"id": "a", "text": "Annual report"},
-                {"id": "b", "text": "News release"},
-                {"id": "c", "text": "Feature article"},
-                {"id": "d", "text": "company magazine"}
+                {"id": "a", "text": "Annual Report"},
+                {"id": "b", "text": "News Release"},
+                {"id": "c", "text": "Feature Article"},
+                {"id": "d", "text": "Company Magazine"}
             ],
             "correctAnswer": "b"
         },
@@ -93,49 +93,49 @@
             "id": "q9",
             "text": "A piece of up to 3,000 words prepared by an organization for inclusion in a particular publication is known as",
             "options": [
-                {"id": "a", "text": "Feature article"},
-                {"id": "b", "text": "News release"},
-                {"id": "c", "text": "Feature article"},
-                {"id": "d", "text": "company magazine"}
+                {"id": "a", "text": "Feature Article"},
+                {"id": "b", "text": "News Release"},
+                {"id": "c", "text": "Company Magazine"},
+                {"id": "d", "text": "Annual Report"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q10",
-            "text": "Which of the following is a public relation tool",
+            "text": "Which of the following is a Public Relations tool?",
             "options": [
-                {"id": "a", "text": "Feature article and Caption photograph"},
-                {"id": "b", "text": "News release"},
-                {"id": "c", "text": "Feature article/company magazine"},
+                {"id": "a", "text": "Feature Article"},
+                {"id": "b", "text": "News Release"},
+                {"id": "c", "text": "Captioned Photograph"},
                 {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q11",
-            "text": "is an art of persuasion to create a favorable opinion amongst the customers towards views and services provided by the organization.",
+            "text": "The art of persuasion to create a favorable opinion amongst customers towards views and services provided by the organization is called",
             "options": [
                 {"id": "a", "text": "Event Management"},
-                {"id": "b", "text": "public relation"},
-                {"id": "c", "text": "customer management"},
-                {"id": "d", "text": "Review meeting"}
+                {"id": "b", "text": "Public Relations"},
+                {"id": "c", "text": "Customer Management"},
+                {"id": "d", "text": "Review Meeting"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q12",
-            "text": "Find the correct sequence of product or service line shown below so as to help build the good image of an organisation.",
+            "text": "Find the correct sequence of product or service line steps to help build the good image of an organization.",
             "options": [
-                {"id": "a", "text": "Launch- Manage-define-Scale-Innovating"},
-                {"id": "b", "text": "Innovating- Manage-define-Scale-Launch"},
-                {"id": "c", "text": "Scale-Innovating-Launch- Manage-define"},
-                {"id": "d", "text": "define-Launch- Manage-Scale-Innovating"}
+                {"id": "a", "text": "Define, Launch, Manage, Scale, Innovate"},
+                {"id": "b", "text": "Innovate, Manage, Define, Scale, Launch"},
+                {"id": "c", "text": "Scale, Innovate, Launch, Manage, Define"},
+                {"id": "d", "text": "Launch, Manage, Define, Scale, Innovate"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q13",
-            "text": "Which of the following is a customer - oriented organization",
+            "text": "Which of the following is a customer-oriented organization?",
             "options": [
                 {"id": "a", "text": "ISRO"},
                 {"id": "b", "text": "Finance"},
@@ -148,16 +148,16 @@
             "id": "q14",
             "text": "BSNL is a",
             "options": [
-                {"id": "a", "text": "Profit motivated organization"},
+                {"id": "a", "text": "Profit-motivated organization"},
                 {"id": "b", "text": "Specialist organization"},
-                {"id": "c", "text": "A highly technical Organization"},
-                {"id": "d", "text": "A customer Friendly organization"}
+                {"id": "c", "text": "Highly technical organization"},
+                {"id": "d", "text": "Customer-friendly organization"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q15",
-            "text": "Which of the following is an organisations objective",
+            "text": "Which of the following is an organization's objective?",
             "options": [
                 {"id": "a", "text": "Profit maximization"},
                 {"id": "b", "text": "Service maximization"},
@@ -168,7 +168,7 @@
         },
         {
             "id": "q16",
-            "text": "Organizationl objective of BSNL is",
+            "text": "The organizational objective of BSNL is",
             "options": [
                 {"id": "a", "text": "Profit maximization"},
                 {"id": "b", "text": "Service maximization"},
@@ -179,12 +179,12 @@
         },
         {
             "id": "q17",
-            "text": "The role of the employee in the organization and his own objectives are",
+            "text": "The role of the employee in the organization and their own objectives are",
             "options": [
-                {"id": "a", "text": "supplementary to each other, but are not mutually exclusive."},
-                {"id": "b", "text": "not supplementary to each other, not mutually exclusive."},
-                {"id": "c", "text": "supplementary to each other and are mutually exclusive."},
-                {"id": "d", "text": "not supplementary to each other, but are mutually exclusive."}
+                {"id": "a", "text": "Supplementary to each other, but not mutually exclusive"},
+                {"id": "b", "text": "Not supplementary to each other, not mutually exclusive"},
+                {"id": "c", "text": "Supplementary to each other and mutually exclusive"},
+                {"id": "d", "text": "Not supplementary to each other, but mutually exclusive"}
             ],
             "correctAnswer": "a"
         },
@@ -192,49 +192,49 @@
             "id": "q18",
             "text": "The quality of services depends to a large extent on the",
             "options": [
-                {"id": "a", "text": "quality of workmanship"},
-                {"id": "b", "text": "quantity of job done"},
-                {"id": "c", "text": "quality of manager"},
+                {"id": "a", "text": "Quality of workmanship"},
+                {"id": "b", "text": "Quantity of job done"},
+                {"id": "c", "text": "Quality of manager"},
                 {"id": "d", "text": "Quantity of teamwork"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q19",
-            "text": "\"It is the fuel that allows common people to attain uncommon results\"- Choose that best fit from below?",
+            "text": "\"It is the fuel that allows common people to attain uncommon results\" best fits which of the following?",
             "options": [
-                {"id": "a", "text": "Team work"},
+                {"id": "a", "text": "Teamwork"},
                 {"id": "b", "text": "Individual goal"},
                 {"id": "c", "text": "Workmanship"},
-                {"id": "d", "text": "Public Relation"}
+                {"id": "d", "text": "Public Relations"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q20",
-            "text": "Team work the efforts and the effect!",
+            "text": "Teamwork ______ the efforts and ______ the effect!",
             "options": [
-                {"id": "a", "text": "divides, multiplies"},
-                {"id": "b", "text": "multiplies, divides"},
-                {"id": "c", "text": "bisects, boosts"},
-                {"id": "d", "text": "both a and c"}
+                {"id": "a", "text": "Divides, multiplies"},
+                {"id": "b", "text": "Multiplies, divides"},
+                {"id": "c", "text": "Bisects, boosts"},
+                {"id": "d", "text": "Both a and c"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "a"
         },
         {
             "id": "q21",
-            "text": "is used to influence the way an organization is perceived by various groups of stakeholders.",
+            "text": "______ is used to influence the way an organization is perceived by various groups of stakeholders.",
             "options": [
-                {"id": "a", "text": "Direct marketing"},
-                {"id": "b", "text": "Public relations"},
-                {"id": "c", "text": "Sale promotion"},
+                {"id": "a", "text": "Direct Marketing"},
+                {"id": "b", "text": "Public Relations"},
+                {"id": "c", "text": "Sales Promotion"},
                 {"id": "d", "text": "Advertising"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q22",
-            "text": "Planned and sustained effort for establishing and maintaining mutual understanding between organization and public is",
+            "text": "A planned and sustained effort for establishing and maintaining mutual understanding between an organization and its public is",
             "options": [
                 {"id": "a", "text": "Advertising"},
                 {"id": "b", "text": "Organizing"},
@@ -245,7 +245,7 @@
         },
         {
             "id": "q23",
-            "text": "Attributes of PR does not include.",
+            "text": "Which of the following is not an attribute of Public Relations?",
             "options": [
                 {"id": "a", "text": "Builds trust"},
                 {"id": "b", "text": "Uses language"},
@@ -256,7 +256,7 @@
         },
         {
             "id": "q24",
-            "text": "Organization's public can include",
+            "text": "An organization's public can include",
             "options": [
                 {"id": "a", "text": "Customers"},
                 {"id": "b", "text": "Employees"},
@@ -268,30 +268,30 @@
         },
         {
             "id": "q25",
-            "text": "PR is needed for following purposes.",
+            "text": "Public Relations is needed for which of the following purposes?",
             "options": [
                 {"id": "a", "text": "To change hostile opinion"},
                 {"id": "b", "text": "To create new attitudes"},
-                {"id": "c", "text": "To highlight service rendered"},
+                {"id": "c", "text": "To highlight services rendered"},
                 {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q26",
-            "text": "Publicity based Public relations tools includes",
+            "text": "Publicity-based Public Relations tools include",
             "options": [
-                {"id": "a", "text": "News release"},
-                {"id": "b", "text": "Press conference"},
-                {"id": "c", "text": "Captioned photograph"},
-                {"id": "d", "text": "Feature article"},
+                {"id": "a", "text": "News Release"},
+                {"id": "b", "text": "Press Conference"},
+                {"id": "c", "text": "Captioned Photograph"},
+                {"id": "d", "text": "Feature Article"},
                 {"id": "e", "text": "All of the above"}
             ],
             "correctAnswer": "e"
         },
         {
             "id": "q27",
-            "text": "Roles of PR",
+            "text": "The roles of Public Relations include",
             "options": [
                 {"id": "a", "text": "Educational"},
                 {"id": "b", "text": "Informative"},
@@ -302,11 +302,11 @@
         },
         {
             "id": "q28",
-            "text": "Image can be built in the minds of public by means of",
+            "text": "An image can be built in the minds of the public by means of",
             "options": [
                 {"id": "a", "text": "Advertising"},
                 {"id": "b", "text": "Quality of services and products"},
-                {"id": "c", "text": "Attitude of employees towards customer"},
+                {"id": "c", "text": "Attitude of employees towards customers"},
                 {"id": "d", "text": "Acquiring reliability and quality standards"},
                 {"id": "e", "text": "All of the above"}
             ],
@@ -314,21 +314,21 @@
         },
         {
             "id": "q29",
-            "text": "Bad publicity or bad name spreads times than good publicity.",
+            "text": "Bad publicity or bad name spreads ______ times faster than good publicity.",
             "options": [
-                {"id": "a", "text": "4 times"},
-                {"id": "b", "text": "1.5 times"},
-                {"id": "c", "text": ".75 times"},
+                {"id": "a", "text": "Four"},
+                {"id": "b", "text": "Two"},
+                {"id": "c", "text": "Ten"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q30",
-            "text": "A company which has a customer friendly image will",
+            "text": "A company with a customer-friendly image will",
             "options": [
-                {"id": "a", "text": "Perish in competitive field"},
-                {"id": "b", "text": "Succeed in competitive field"},
+                {"id": "a", "text": "Perish in a competitive field"},
+                {"id": "b", "text": "Succeed in a competitive field"},
                 {"id": "c", "text": "Both are correct"},
                 {"id": "d", "text": "None are correct"}
             ],
@@ -336,7 +336,7 @@
         },
         {
             "id": "q31",
-            "text": "Bsnl's motive is to",
+            "text": "BSNL's motive is to",
             "options": [
                 {"id": "a", "text": "Render maximum service with given monetary constraints"},
                 {"id": "b", "text": "Generate maximum profit in urban areas"},
@@ -347,40 +347,40 @@
         },
         {
             "id": "q32",
-            "text": "BSNL should make its image as a organisation",
+            "text": "BSNL should make its image as a ______ organization",
             "options": [
-                {"id": "a", "text": "highly technical"},
-                {"id": "b", "text": "specialist organisation"},
-                {"id": "c", "text": "customer oriented"},
-                {"id": "d", "text": "profit motivated"}
+                {"id": "a", "text": "Highly technical"},
+                {"id": "b", "text": "Specialist"},
+                {"id": "c", "text": "Customer-oriented"},
+                {"id": "d", "text": "Profit-motivated"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q33",
-            "text": "Objective of BSNL is",
+            "text": "The objective of BSNL is",
             "options": [
-                {"id": "a", "text": "profit maximization"},
-                {"id": "b", "text": "sales maximization"},
-                {"id": "c", "text": "service maximization"},
-                {"id": "d", "text": "all the above"}
+                {"id": "a", "text": "Profit maximization"},
+                {"id": "b", "text": "Sales maximization"},
+                {"id": "c", "text": "Service maximization"},
+                {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q34",
-            "text": "Motive of BSNL is",
+            "text": "The motive of BSNL is",
             "options": [
-                {"id": "a", "text": "service effective"},
-                {"id": "b", "text": "sales maximization"},
-                {"id": "c", "text": "cost effective"},
-                {"id": "d", "text": "all the above"}
+                {"id": "a", "text": "Service effectiveness"},
+                {"id": "b", "text": "Sales maximization"},
+                {"id": "c", "text": "Cost effectiveness"},
+                {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q35",
-            "text": "who said \"all the world is a stage and old men and women merely players\"",
+            "text": "Who said \"All the world is a stage and all men and women merely players\"?",
             "options": [
                 {"id": "a", "text": "George Orwell"},
                 {"id": "b", "text": "William Wordsworth"},
@@ -391,77 +391,77 @@
         },
         {
             "id": "q36",
-            "text": "our (BSNL) Moto should be",
+            "text": "BSNL's motto should be",
             "options": [
-                {"id": "a", "text": "do the things right"},
-                {"id": "b", "text": "do it right the first time, every time and on time"},
-                {"id": "c", "text": "both a and b"},
-                {"id": "d", "text": "be the leader in market"}
+                {"id": "a", "text": "Do the things right"},
+                {"id": "b", "text": "Do it right the first time, every time, and on time"},
+                {"id": "c", "text": "Both a and b"},
+                {"id": "d", "text": "Be the leader in the market"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q37",
-            "text": "teamwork is",
+            "text": "Teamwork is",
             "options": [
-                {"id": "a", "text": "ability to work together towards a common vision"},
-                {"id": "b", "text": "the ability to direct individual accomplishment towards organisational objectives"},
-                {"id": "c", "text": "the fuel that allows common people to attain uncommon results"},
-                {"id": "d", "text": "all the above"}
+                {"id": "a", "text": "The ability to work together towards a common vision"},
+                {"id": "b", "text": "The ability to direct individual accomplishment towards organizational objectives"},
+                {"id": "c", "text": "The fuel that allows common people to attain uncommon results"},
+                {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q38",
-            "text": "teamwork the effort and the effect",
+            "text": "Teamwork ______ the effort and ______ the effect",
             "options": [
-                {"id": "a", "text": "divide, add"},
-                {"id": "b", "text": "divide, simplify"},
-                {"id": "c", "text": "divide, multiply"},
-                {"id": "d", "text": "multiply, simplify"}
+                {"id": "a", "text": "Divides, adds"},
+                {"id": "b", "text": "Divides, simplifies"},
+                {"id": "c", "text": "Divides, multiplies"},
+                {"id": "d", "text": "Multiplies, simplifies"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q39",
-            "text": "the quality of service depends to a large extent on the quality of",
+            "text": "The quality of service depends to a large extent on the quality of",
             "options": [
-                {"id": "a", "text": "teamwork"},
-                {"id": "b", "text": "image building"},
-                {"id": "c", "text": "workmanship"},
-                {"id": "d", "text": "products"}
+                {"id": "a", "text": "Teamwork"},
+                {"id": "b", "text": "Image building"},
+                {"id": "c", "text": "Workmanship"},
+                {"id": "d", "text": "Products"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q40",
-            "text": "is communication in news story form about an organization, its products, or both",
+            "text": "______ is communication in news story form about an organization, its products, or both",
             "options": [
-                {"id": "a", "text": "Feature article"},
-                {"id": "b", "text": "News release"},
+                {"id": "a", "text": "Feature Article"},
+                {"id": "b", "text": "News Release"},
                 {"id": "c", "text": "Publicity"},
-                {"id": "d", "text": "Captioned photograph"}
+                {"id": "d", "text": "Captioned Photograph"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q41",
-            "text": "is known as the planned and sustained effort to establish and maintain mutual understanding between ones organisation and the public.",
+            "text": "______ is known as the planned and sustained effort to establish and maintain mutual understanding between an organization and the public.",
             "options": [
-                {"id": "a", "text": "Sustainable development"},
-                {"id": "b", "text": "public relations"},
-                {"id": "c", "text": "Image building"},
+                {"id": "a", "text": "Sustainable Development"},
+                {"id": "b", "text": "Public Relations"},
+                {"id": "c", "text": "Image Building"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q42",
-            "text": "Organizations public include...",
+            "text": "An organization's public includes",
             "options": [
-                {"id": "a", "text": "Stake holders"},
+                {"id": "a", "text": "Stakeholders"},
                 {"id": "b", "text": "Media"},
-                {"id": "c", "text": "Govt officials"},
+                {"id": "c", "text": "Government officials"},
                 {"id": "d", "text": "Educators"},
                 {"id": "e", "text": "All of the above"}
             ],
@@ -469,19 +469,19 @@
         },
         {
             "id": "q43",
-            "text": "Choose the correct statements belongs to advertising method?",
+            "text": "Which of the following statements belong to the advertising method?",
             "options": [
                 {"id": "a", "text": "Earned"},
                 {"id": "b", "text": "Builds exposure"},
-                {"id": "c", "text": "Audience are skeptical"},
+                {"id": "c", "text": "Audience is skeptical"},
                 {"id": "d", "text": "Less expensive"},
-                {"id": "e", "text": "II and III are correct"}
+                {"id": "e", "text": "b and c are correct"}
             ],
             "correctAnswer": "e"
         },
         {
             "id": "q44",
-            "text": "To give information about the various existing services, proposed services, various policies of organization to the public comes under which role of organization?",
+            "text": "To give information about the various existing services, proposed services, and various policies of an organization to the public comes under which role of Public Relations?",
             "options": [
                 {"id": "a", "text": "Educative"},
                 {"id": "b", "text": "Informative"},
@@ -492,21 +492,21 @@
         },
         {
             "id": "q45",
-            "text": "Publicity based public relations tools include:",
+            "text": "Publicity-based Public Relations tools include",
             "options": [
-                {"id": "a", "text": "Event sponsorship"},
-                {"id": "b", "text": "News release"},
-                {"id": "c", "text": "Feature article"},
-                {"id": "d", "text": "b and c are correct"}
+                {"id": "a", "text": "Event Sponsorship"},
+                {"id": "b", "text": "News Release"},
+                {"id": "c", "text": "Feature Article"},
+                {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q46",
-            "text": "is an art of persuasion",
+            "text": "______ is an art of persuasion",
             "options": [
-                {"id": "a", "text": "Image building"},
-                {"id": "b", "text": "Public relation"},
+                {"id": "a", "text": "Image Building"},
+                {"id": "b", "text": "Public Relations"},
                 {"id": "c", "text": "Anchoring"},
                 {"id": "d", "text": "Advertising"}
             ],
@@ -514,23 +514,23 @@
         },
         {
             "id": "q47",
-            "text": "What will be the next step after successful launching of a product or services.",
+            "text": "What is the next step after successfully launching a product or service?",
             "options": [
                 {"id": "a", "text": "Define"},
                 {"id": "b", "text": "Manage"},
-                {"id": "c", "text": "Innovation"},
-                {"id": "d", "text": "Launch"}
+                {"id": "c", "text": "Innovate"},
+                {"id": "d", "text": "Scale"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q48",
-            "text": "Which one comes under profit motivated organization?",
+            "text": "Which one is a profit-motivated organization?",
             "options": [
-                {"id": "a", "text": "Travel agents"},
+                {"id": "a", "text": "Travel Agents"},
                 {"id": "b", "text": "Bank"},
-                {"id": "c", "text": "Educational institution"},
-                {"id": "d", "text": "Mutual funds"}
+                {"id": "c", "text": "Educational Institution"},
+                {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "d"
         },
@@ -538,37 +538,38 @@
             "id": "q49",
             "text": "What is the main objective of BSNL?",
             "options": [
-                {"id": "a", "text": "Service maximisation"},
-                {"id": "b", "text": "Profit maximisation"},
-                {"id": "c", "text": "Sales maximisation"}
+                {"id": "a", "text": "Service maximization"},
+                {"id": "b", "text": "Profit maximization"},
+                {"id": "c", "text": "Sales maximization"},
+                {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q50",
-            "text": "__ is the process of planning and executing the conception, pricing, promotion and distribution of ideas?",
+            "text": "______ is the process of planning and executing the conception, pricing, promotion, and distribution of ideas, goods, and services.",
             "options": [
                 {"id": "a", "text": "Sales"},
                 {"id": "b", "text": "Marketing"},
-                {"id": "c", "text": "Public relation"},
+                {"id": "c", "text": "Public Relations"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q51",
-            "text": "Which of the following is not a part of standard four Ps, applicable for product?",
+            "text": "Which of the following is not a part of the standard four Ps applicable for product marketing?",
             "options": [
                 {"id": "a", "text": "Product"},
                 {"id": "b", "text": "Pricing"},
                 {"id": "c", "text": "Purchase"},
-                {"id": "d", "text": "Placement"}
+                {"id": "d", "text": "Place"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q52",
-            "text": "Which of the following not comes under demographic variables used for audience segmentation?",
+            "text": "Which of the following does not come under demographic variables used for audience segmentation?",
             "options": [
                 {"id": "a", "text": "Education"},
                 {"id": "b", "text": "Occupation"},
@@ -579,11 +580,11 @@
         },
         {
             "id": "q53",
-            "text": "Which of the following not comes under Geographic variables used for audience segmentation?",
+            "text": "Which of the following does not come under geographic variables used for audience segmentation?",
             "options": [
                 {"id": "a", "text": "Age"},
                 {"id": "b", "text": "Region"},
-                {"id": "c", "text": "Market density"},
+                {"id": "c", "text": "Market Density"},
                 {"id": "d", "text": "Climate"}
             ],
             "correctAnswer": "a"
@@ -592,10 +593,10 @@
             "id": "q54",
             "text": "SWOT in marketing stands for:",
             "options": [
-                {"id": "a", "text": "Sales, work, opportunities and threats"},
-                {"id": "b", "text": "Strength, work, opportunities and targets"},
-                {"id": "c", "text": "Strength, weakness, opportunities and threats"},
-                {"id": "d", "text": "Sales, weakness, opportunities and threats"}
+                {"id": "a", "text": "Sales, Work, Opportunities, and Threats"},
+                {"id": "b", "text": "Strength, Work, Opportunities, and Targets"},
+                {"id": "c", "text": "Strength, Weakness, Opportunities, and Threats"},
+                {"id": "d", "text": "Sales, Weakness, Opportunities, and Threats"}
             ],
             "correctAnswer": "c"
         },
@@ -603,18 +604,18 @@
             "id": "q55",
             "text": "PEST stands for:",
             "options": [
-                {"id": "a", "text": "Political, economical, social and technological"},
-                {"id": "b", "text": "Political, economical, statistical and technological"},
-                {"id": "c", "text": "Political, economical, social and traditional"},
+                {"id": "a", "text": "Political, Economical, Social, and Technological"},
+                {"id": "b", "text": "Political, Economical, Statistical, and Technological"},
+                {"id": "c", "text": "Political, Economical, Social, and Traditional"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q56",
-            "text": "Which of the following not comes under psychographic variables used for audience segmentation?",
+            "text": "Which of the following does not come under psychographic variables used for audience segmentation?",
             "options": [
-                {"id": "a", "text": "Family size"},
+                {"id": "a", "text": "Family Size"},
                 {"id": "b", "text": "Personality"},
                 {"id": "c", "text": "Lifestyle"},
                 {"id": "d", "text": "Motive"}
@@ -623,18 +624,18 @@
         },
         {
             "id": "q57",
-            "text": "Which of the following not comes under Behavioristic variables used for audience segmentation?",
+            "text": "Which of the following does not come under behavioristic variables used for audience segmentation?",
             "options": [
-                {"id": "a", "text": "Price sensitivity"},
-                {"id": "b", "text": "Brand loyalty"},
+                {"id": "a", "text": "Price Sensitivity"},
+                {"id": "b", "text": "Brand Loyalty"},
                 {"id": "c", "text": "Lifestyle"},
-                {"id": "d", "text": "Volume usage"}
+                {"id": "d", "text": "Volume Usage"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q58",
-            "text": "Marketing section started functioning in 2000 at Bsnl corporate office?",
+            "text": "The marketing section started functioning in 2000 at BSNL corporate office in which month?",
             "options": [
                 {"id": "a", "text": "October"},
                 {"id": "b", "text": "November"},
@@ -645,40 +646,40 @@
         },
         {
             "id": "q59",
-            "text": "A type of marketing that attempts to persuade the customer to try a product and continue to use the product?",
+            "text": "A type of marketing that attempts to persuade the customer to try a product and continue to use the product is called",
             "options": [
-                {"id": "a", "text": "push marketing"},
-                {"id": "b", "text": "pull marketing"},
-                {"id": "c", "text": "digital marketing"},
-                {"id": "d", "text": "none of the above"}
+                {"id": "a", "text": "Push Marketing"},
+                {"id": "b", "text": "Pull Marketing"},
+                {"id": "c", "text": "Digital Marketing"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q60",
-            "text": "Which of these is not one of 4 standard P's in product marketing",
+            "text": "Which of these is not one of the four standard Ps in product marketing?",
             "options": [
                 {"id": "a", "text": "Product"},
                 {"id": "b", "text": "Process"},
                 {"id": "c", "text": "Promotion"},
-                {"id": "d", "text": "Placement"}
+                {"id": "d", "text": "Place"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q61",
-            "text": "Which of these is not one of 7 P's of marketing mix",
+            "text": "Which of these is not one of the seven Ps of the marketing mix?",
             "options": [
                 {"id": "a", "text": "Pricing"},
                 {"id": "b", "text": "Physical Evidence"},
                 {"id": "c", "text": "People"},
-                {"id": "d", "text": "None of the above"}
+                {"id": "d", "text": "Performance"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q62",
-            "text": "In which year BSNL merged individual brand names like CellOne, Bfone, Dataone, Sancharnet etc to unified brand BSNL",
+            "text": "In which year did BSNL merge individual brand names like CellOne, Bfone, Dataone, Sancharnet, etc., into the unified brand BSNL?",
             "options": [
                 {"id": "a", "text": "2002"},
                 {"id": "b", "text": "2005"},
@@ -689,11 +690,11 @@
         },
         {
             "id": "q63",
-            "text": "Which of these analysis technique is also called environmental analysis",
+            "text": "Which of these analysis techniques is also called environmental analysis?",
             "options": [
                 {"id": "a", "text": "SWOT"},
                 {"id": "b", "text": "PEST"},
-                {"id": "c", "text": "Porter's Five Force Model"},
+                {"id": "c", "text": "Porter's Five Forces Model"},
                 {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
@@ -722,7 +723,7 @@
         },
         {
             "id": "q66",
-            "text": "Which of these is not a general criteria used for market segmentation",
+            "text": "Which of these is not a general criterion used for market segmentation?",
             "options": [
                 {"id": "a", "text": "Demographic"},
                 {"id": "b", "text": "Geographic"},
@@ -733,7 +734,7 @@
         },
         {
             "id": "q67",
-            "text": "Case studies, Testimonials or demonstrations comes under which P of marketing mix",
+            "text": "Case studies, testimonials, or demonstrations come under which P of the marketing mix?",
             "options": [
                 {"id": "a", "text": "Process"},
                 {"id": "b", "text": "People"},
@@ -744,7 +745,7 @@
         },
         {
             "id": "q68",
-            "text": "Which of these are not a stage in product life cycle",
+            "text": "Which of these is not a stage in the product life cycle?",
             "options": [
                 {"id": "a", "text": "Introduction"},
                 {"id": "b", "text": "Growth"},
@@ -755,7 +756,7 @@
         },
         {
             "id": "q69",
-            "text": "Which of these is not an example of Placement or Distribution in Marketing mix",
+            "text": "Which of these is not an example of Placement or Distribution in the marketing mix?",
             "options": [
                 {"id": "a", "text": "Customer Service Centre"},
                 {"id": "b", "text": "Advertisements"},
@@ -766,84 +767,84 @@
         },
         {
             "id": "q70",
-            "text": "Free trials are examples of marketing",
+            "text": "Free trials are examples of which type of marketing?",
             "options": [
                 {"id": "a", "text": "Pull"},
                 {"id": "b", "text": "Push"},
-                {"id": "c", "text": "mix"},
+                {"id": "c", "text": "Mix"},
                 {"id": "d", "text": "Channel"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q71",
-            "text": "Advertising are examples of marketing",
+            "text": "Advertising is an example of which type of marketing?",
             "options": [
                 {"id": "a", "text": "Pull"},
                 {"id": "b", "text": "Push"},
-                {"id": "c", "text": "mix"},
+                {"id": "c", "text": "Mix"},
                 {"id": "d", "text": "Channel"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q72",
-            "text": "A car manufacturer that target customers for whom safety is a major concern is a marketing",
+            "text": "A car manufacturer that targets customers for whom safety is a major concern is using which marketing approach?",
             "options": [
-                {"id": "a", "text": "Position"},
+                {"id": "a", "text": "Positioning"},
                 {"id": "b", "text": "Push"},
-                {"id": "c", "text": "mix"},
+                {"id": "c", "text": "Mix"},
                 {"id": "d", "text": "Channel"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q73",
-            "text": "A customer's feelings of pleasure or disappointment resulting from comparing a product's perceived performance with the customer's expectations of that performance",
+            "text": "A customer's feelings of pleasure or disappointment resulting from comparing a product's perceived performance with their expectations is called",
             "options": [
                 {"id": "a", "text": "Gratitude"},
                 {"id": "b", "text": "Satisfaction"},
                 {"id": "c", "text": "Need"},
-                {"id": "d", "text": "value"}
+                {"id": "d", "text": "Value"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q74",
-            "text": "The ratio between what a customer gets and what he or she gives in return.",
+            "text": "The ratio between what a customer gets and what they give in return is called",
             "options": [
                 {"id": "a", "text": "Want"},
                 {"id": "b", "text": "Demand"},
                 {"id": "c", "text": "Satisfaction"},
-                {"id": "d", "text": "value"}
+                {"id": "d", "text": "Value"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q75",
-            "text": "A desire that occurs when a need is directed to specific objects that might satisfy that need",
+            "text": "A desire that occurs when a need is directed to specific objects that might satisfy that need is called",
             "options": [
                 {"id": "a", "text": "Want"},
                 {"id": "b", "text": "Demand"},
                 {"id": "c", "text": "Satisfaction"},
-                {"id": "d", "text": "value"}
+                {"id": "d", "text": "Value"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q76",
-            "text": "The managerial process of developing and maintaining a viable fit among a company's objectives, skills, and resources and its changing market opportunities",
+            "text": "The managerial process of developing and maintaining a viable fit among a company's objectives, skills, and resources and its changing market opportunities is called",
             "options": [
-                {"id": "a", "text": "Marketing mix"},
-                {"id": "b", "text": "Marketing network"},
-                {"id": "c", "text": "market oriented strategic planning"},
-                {"id": "d", "text": "marketing concepts"}
+                {"id": "a", "text": "Marketing Mix"},
+                {"id": "b", "text": "Marketing Network"},
+                {"id": "c", "text": "Market-Oriented Strategic Planning"},
+                {"id": "d", "text": "Marketing Concepts"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q77",
-            "text": "The process of planning and executing the conception, pricing, promotion, and distribution of ideas, goods, and services to create exchanges that satisfy individual and organizational goals",
+            "text": "The process of planning and executing the conception, pricing, promotion, and distribution of ideas, goods, and services to create exchanges that satisfy individual and organizational goals is called",
             "options": [
                 {"id": "a", "text": "Advertising"},
                 {"id": "b", "text": "Demand"},
@@ -857,8 +858,8 @@
             "text": "Segmentation based on age is called",
             "options": [
                 {"id": "a", "text": "Geographic Variable"},
-                {"id": "b", "text": "psychographic Variable"},
-                {"id": "c", "text": "Behaviouristic Variable"},
+                {"id": "b", "text": "Psychographic Variable"},
+                {"id": "c", "text": "Behavioristic Variable"},
                 {"id": "d", "text": "Demographic Variable"}
             ],
             "correctAnswer": "d"
@@ -868,26 +869,26 @@
             "text": "Segmentation based on lifestyle is called",
             "options": [
                 {"id": "a", "text": "Geographic Variable"},
-                {"id": "b", "text": "psychographic Variable"},
-                {"id": "c", "text": "Behaviouristic Variable"},
+                {"id": "b", "text": "Psychographic Variable"},
+                {"id": "c", "text": "Behavioristic Variable"},
                 {"id": "d", "text": "Demographic Variable"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q80",
-            "text": "The art and science of choosing target market is called",
+            "text": "The art and science of choosing a target market is called",
             "options": [
-                {"id": "a", "text": "Marketing management"},
+                {"id": "a", "text": "Marketing Management"},
                 {"id": "b", "text": "Marketing"},
                 {"id": "c", "text": "Selling"},
-                {"id": "d", "text": "Marketing mix"}
+                {"id": "d", "text": "Marketing Mix"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q81",
-            "text": "Which of the following is not a marketing mix for products",
+            "text": "Which of the following is not a marketing mix element for products?",
             "options": [
                 {"id": "a", "text": "People"},
                 {"id": "b", "text": "Product"},
@@ -898,7 +899,7 @@
         },
         {
             "id": "q82",
-            "text": "Creation of advertisement is",
+            "text": "Creation of advertisements is associated with which marketing mix element?",
             "options": [
                 {"id": "a", "text": "Price"},
                 {"id": "b", "text": "Place"},
@@ -920,10 +921,10 @@
         },
         {
             "id": "q84",
-            "text": "Which of the following is not a characteristic of 'Market Introduction Stage' in PLC?",
+            "text": "Which of the following is not a characteristic of the 'Market Introduction Stage' in the Product Life Cycle?",
             "options": [
-                {"id": "a", "text": "Investment"},
-                {"id": "b", "text": "Sale start"},
+                {"id": "a", "text": "High investment"},
+                {"id": "b", "text": "Sales start"},
                 {"id": "c", "text": "Maximum profit"},
                 {"id": "d", "text": "None of the above"}
             ],
@@ -931,17 +932,18 @@
         },
         {
             "id": "q85",
-            "text": "Free trials and contests are an example of",
+            "text": "Free trials and contests are examples of",
             "options": [
-                {"id": "a", "text": "Pull marketing"},
-                {"id": "b", "text": "Push marketing"},
-                {"id": "c", "text": "push pull marketing"}
+                {"id": "a", "text": "Pull Marketing"},
+                {"id": "b", "text": "Push Marketing"},
+                {"id": "c", "text": "Push-Pull Marketing"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q86",
-            "text": "Wants for a specific product that is backed by a ability to pay is called",
+            "text": "Wants for a specific product that are backed by an ability to pay are called",
             "options": [
                 {"id": "a", "text": "Need"},
                 {"id": "b", "text": "Want"},
@@ -952,7 +954,7 @@
         },
         {
             "id": "q87",
-            "text": "In BSNL Marketing section started on",
+            "text": "The BSNL marketing section started on",
             "options": [
                 {"id": "a", "text": "September 2000"},
                 {"id": "b", "text": "November 2000"},
@@ -974,9 +976,9 @@
         },
         {
             "id": "q89",
-            "text": "Porters five force model consists of",
+            "text": "Porter's Five Forces Model consists of",
             "options": [
-                {"id": "a", "text": "Competative rivalry"},
+                {"id": "a", "text": "Competitive rivalry"},
                 {"id": "b", "text": "Bargaining power of suppliers and buyers"},
                 {"id": "c", "text": "Threat of new entrants and substitute products"},
                 {"id": "d", "text": "All of these"}
@@ -985,51 +987,51 @@
         },
         {
             "id": "q90",
-            "text": "Intermediary companies between producers and final consumers is called.",
+            "text": "Intermediary companies between producers and final consumers are called",
             "options": [
-                {"id": "a", "text": "Marketing channel"},
-                {"id": "b", "text": "Trade channel"},
-                {"id": "c", "text": "Distribution channels"},
+                {"id": "a", "text": "Marketing Channel"},
+                {"id": "b", "text": "Trade Channel"},
+                {"id": "c", "text": "Distribution Channels"},
                 {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q91",
-            "text": "Correct order of product life cycle?",
+            "text": "The correct order of the product life cycle is",
             "options": [
-                {"id": "a", "text": "abcde"},
-                {"id": "b", "text": "bacde"},
-                {"id": "c", "text": "abdce"},
-                {"id": "d", "text": "badce"}
+                {"id": "a", "text": "Introduction, Growth, Maturity, Decline"},
+                {"id": "b", "text": "Growth, Introduction, Maturity, Decline"},
+                {"id": "c", "text": "Introduction, Maturity, Growth, Decline"},
+                {"id": "d", "text": "Growth, Maturity, Introduction, Decline"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q92",
-            "text": "$S$ in SWOT stands for",
+            "text": "S in SWOT stands for",
             "options": [
                 {"id": "a", "text": "Service"},
                 {"id": "b", "text": "Social"},
-                {"id": "c", "text": "Situation"},
-                {"id": "d", "text": "None"}
+                {"id": "c", "text": "Strength"},
+                {"id": "d", "text": "Situation"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "q93",
-            "text": "Find correctly matched pair",
+            "text": "Find the correctly matched pair (assuming A1: SWOT-Strength, B1: PEST-Political, C2: Product Life Cycle-Maturity, D2: Marketing Mix-Promotion)",
             "options": [
-                {"id": "a", "text": "A1,B1,C2,D2"},
-                {"id": "b", "text": "A1,B1,C2,D1"},
-                {"id": "c", "text": "A1,B2,C2,D2"},
-                {"id": "d", "text": "A1,B1,C1,D1"}
+                {"id": "a", "text": "A1, B1, C2, D2"},
+                {"id": "b", "text": "A1, B1, C2, D1"},
+                {"id": "c", "text": "A1, B2, C2, D2"},
+                {"id": "d", "text": "A1, B1, C1, D1"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q94",
-            "text": "Which one is not a physical distinction of product?",
+            "text": "Which one is not a physical distinction of a product?",
             "options": [
                 {"id": "a", "text": "Features"},
                 {"id": "b", "text": "Installation"},
@@ -1040,34 +1042,34 @@
         },
         {
             "id": "q95",
-            "text": "Characteristics of service include",
+            "text": "Characteristics of services include",
             "options": [
-                {"id": "a", "text": "Intangible"},
-                {"id": "b", "text": "Inseparable"},
-                {"id": "c", "text": "Variable"},
+                {"id": "a", "text": "Intangibility"},
+                {"id": "b", "text": "Inseparability"},
+                {"id": "c", "text": "Variability"},
                 {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q96",
-            "text": "Division of market into persons with similar needs is called.",
+            "text": "The division of a market into persons with similar needs is called",
             "options": [
-                {"id": "a", "text": "Market separation"},
-                {"id": "b", "text": "Market segmentation"},
-                {"id": "c", "text": "Market division"},
-                {"id": "d", "text": "All"}
+                {"id": "a", "text": "Market Separation"},
+                {"id": "b", "text": "Market Segmentation"},
+                {"id": "c", "text": "Market Division"},
+                {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q97",
-            "text": "Match the following",
+            "text": "Match the following (assuming A: SWOT-Strength, B: PEST-Economical, C: Product Life Cycle-Growth, D: Marketing Mix-Place)",
             "options": [
-                {"id": "a", "text": "A1,B2,C3,D4"},
-                {"id": "b", "text": "A4,B1,C2,D3"},
-                {"id": "c", "text": "A1,B3,C2,D4"},
-                {"id": "d", "text": "A4,B2,C3,D1"}
+                {"id": "a", "text": "A1, B2, C3, D4"},
+                {"id": "b", "text": "A1, B2, C3, D4"},
+                {"id": "c", "text": "A1, B3, C2, D4"},
+                {"id": "d", "text": "A4, B2, C3, D1"}
             ],
             "correctAnswer": "b"
         },
@@ -1078,18 +1080,18 @@
                 {"id": "a", "text": "Economical"},
                 {"id": "b", "text": "Educational"},
                 {"id": "c", "text": "Environmental"},
-                {"id": "d", "text": "None"}
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q99",
-            "text": "Y-axis of product life cycle curve represents?",
+            "text": "The Y-axis of the product life cycle curve represents",
             "options": [
-                {"id": "a", "text": "Sales and profit"},
-                {"id": "b", "text": "Losses and investment"},
-                {"id": "c", "text": "Both"},
-                {"id": "d", "text": "None"}
+                {"id": "a", "text": "Sales and Profit"},
+                {"id": "b", "text": "Losses and Investment"},
+                {"id": "c", "text": "Both Sales and Profit, and Losses and Investment"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "c"
         },
@@ -1097,62 +1099,65 @@
             "id": "q100",
             "text": "The scope of a product generally includes supporting elements such as",
             "options": [
-                {"id": "a", "text": "warranties"},
-                {"id": "b", "text": "guarantees"},
-                {"id": "c", "text": "support"},
+                {"id": "a", "text": "Warranties"},
+                {"id": "b", "text": "Guarantees"},
+                {"id": "c", "text": "Support"},
                 {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q101",
-            "text": "is the first requirement of any product.",
+            "text": "______ is the first requirement of any product.",
             "options": [
                 {"id": "a", "text": "Acceptability"},
                 {"id": "b", "text": "Need"},
-                {"id": "c", "text": "None"},
-                {"id": "d", "text": "Both"}
+                {"id": "c", "text": "Demand"},
+                {"id": "d", "text": "Both Acceptability and Need"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "q102",
-            "text": "Within an organization, Internal marketing includes",
+            "text": "Within an organization, internal marketing includes",
             "options": [
-                {"id": "a", "text": "recruitment"},
-                {"id": "b", "text": "training"},
-                {"id": "c", "text": "motivation"},
-                {"id": "d", "text": "productivity"}
+                {"id": "a", "text": "Recruitment"},
+                {"id": "b", "text": "Training"},
+                {"id": "c", "text": "Motivation"},
+                {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q103",
-            "text": "The Potential customers could get chance to see what a service would be like when deciding whether to use a service by providing",
+            "text": "Potential customers could get a chance to see what a service would be like when deciding whether to use a service by providing",
             "options": [
-                {"id": "a", "text": "Physical evidence (such as case studies, testimonials or demonstrations)"}
+                {"id": "a", "text": "Physical evidence (such as case studies, testimonials, or demonstrations)"},
+                {"id": "b", "text": "Advertising campaigns"},
+                {"id": "c", "text": "Direct selling"},
+                {"id": "d", "text": "Free trials"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q104",
-            "text": "pertains to the division of a market of consumers into persons with similar needs and wants.",
+            "text": "______ pertains to the division of a market of consumers into persons with similar needs and wants.",
             "options": [
-                {"id": "a", "text": "Market segmentation"},
-                {"id": "b", "text": "Market strategy"},
-                {"id": "c", "text": "Marketing mix"},
-                {"id": "d", "text": "None"}
+                {"id": "a", "text": "Market Segmentation"},
+                {"id": "b", "text": "Market Strategy"},
+                {"id": "c", "text": "Marketing Mix"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q105",
-            "text": "Demographic Variable criteria for segmentation includes",
+            "text": "Demographic variable criteria for segmentation include",
             "options": [
                 {"id": "a", "text": "Age, Gender"},
                 {"id": "b", "text": "Income, Education"},
-                {"id": "c", "text": "Occupation, Family size"},
-                {"id": "d", "text": "Religion/Social class"}
+                {"id": "c", "text": "Occupation, Family Size"},
+                {"id": "d", "text": "All of the above"}
             ],
             "correctAnswer": "d"
         },
@@ -1160,38 +1165,38 @@
             "id": "q106",
             "text": "Advertising is an example of",
             "options": [
-                {"id": "a", "text": "\"Pull\" marketing"},
-                {"id": "b", "text": "\"Push\" marketing"},
+                {"id": "a", "text": "Pull Marketing"},
+                {"id": "b", "text": "Push Marketing"},
                 {"id": "c", "text": "Both"},
-                {"id": "d", "text": "None"}
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q107",
-            "text": "is the function that links the consumer, customer and public to the marketer through information",
+            "text": "______ is the function that links the consumer, customer, and public to the marketer through information.",
             "options": [
                 {"id": "a", "text": "Marketing Research"},
-                {"id": "b", "text": "Customer care"},
-                {"id": "c", "text": "Consumer protection"},
+                {"id": "b", "text": "Customer Care"},
+                {"id": "c", "text": "Consumer Protection"},
                 {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q108",
-            "text": "Which of the following does not comes under primary marketing research",
+            "text": "Which of the following does not come under primary marketing research?",
             "options": [
-                {"id": "a", "text": "Mail survey"},
-                {"id": "b", "text": "Projective techniques"},
-                {"id": "c", "text": "Mystery shopping"},
-                {"id": "d", "text": "Omnibus surveys"}
+                {"id": "a", "text": "Mail Survey"},
+                {"id": "b", "text": "Projective Techniques"},
+                {"id": "c", "text": "Mystery Shopping"},
+                {"id": "d", "text": "Trade Directories"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q109",
-            "text": "Arrange the following steps in Marketing research in order",
+            "text": "Arrange the following steps in the marketing research process in order: (i) Define the problem, (ii) Statement of research objective, (iii) Plan a research design, (iv) Analyze the data",
             "options": [
                 {"id": "a", "text": "i, ii, iii, iv"},
                 {"id": "b", "text": "i, iii, ii, iv"},
@@ -1202,64 +1207,64 @@
         },
         {
             "id": "q110",
-            "text": "Which customers are willing to give opportunities to earn their loyalty",
+            "text": "Which customers are willing to give opportunities to earn their loyalty?",
             "options": [
-                {"id": "a", "text": "Truly loyal"},
+                {"id": "a", "text": "Truly Loyal"},
                 {"id": "b", "text": "Accessible"},
                 {"id": "c", "text": "Trapped"},
-                {"id": "d", "text": "High risk"}
+                {"id": "d", "text": "High Risk"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q111",
-            "text": "Which customers are forced to do business but will leave if they can",
+            "text": "Which customers are forced to do business but will leave if they can?",
             "options": [
-                {"id": "a", "text": "Truly loyal"},
+                {"id": "a", "text": "Truly Loyal"},
                 {"id": "b", "text": "Accessible"},
                 {"id": "c", "text": "Trapped"},
-                {"id": "d", "text": "High risk"}
+                {"id": "d", "text": "High Risk"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q112",
-            "text": "Which factor affect the process of decision making",
+            "text": "Which factors affect the process of decision-making?",
             "options": [
                 {"id": "a", "text": "Involvement"},
                 {"id": "b", "text": "Differentiation"},
-                {"id": "c", "text": "Time pressure"},
+                {"id": "c", "text": "Time Pressure"},
                 {"id": "d", "text": "All of these"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q113",
-            "text": "is the study of how individuals make decisions to spend their available resources on products",
+            "text": "______ is the study of how individuals make decisions to spend their available resources on products.",
             "options": [
                 {"id": "a", "text": "Marketing Research"},
-                {"id": "b", "text": "Customer care"},
-                {"id": "c", "text": "Customer behaviour"},
+                {"id": "b", "text": "Customer Care"},
+                {"id": "c", "text": "Customer Behavior"},
                 {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q114",
-            "text": "is used to build an affective strategy for early market penetration",
+            "text": "______ is used to build an effective strategy for early market penetration.",
             "options": [
                 {"id": "a", "text": "Marketing Research"},
-                {"id": "b", "text": "Customer care"},
-                {"id": "c", "text": "Customer behaviour"},
-                {"id": "d", "text": "Cap"}
+                {"id": "b", "text": "Customer Care"},
+                {"id": "c", "text": "Customer Behavior"},
+                {"id": "d", "text": "None of these"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "q115",
-            "text": "is an individual's decision to become a regular user of a product",
+            "text": "An individual's decision to become a regular user of a product is called",
             "options": [
-                {"id": "a", "text": "Customer behaviour"},
+                {"id": "a", "text": "Customer Behavior"},
                 {"id": "b", "text": "Adoption"},
                 {"id": "c", "text": "Involvement"},
                 {"id": "d", "text": "None of these"}
@@ -1268,7 +1273,7 @@
         },
         {
             "id": "q116",
-            "text": "of total GDP are from rural India",
+            "text": "What percentage of total GDP comes from rural India?",
             "options": [
                 {"id": "a", "text": ">50%"},
                 {"id": "b", "text": "50%"},
@@ -1279,28 +1284,29 @@
         },
         {
             "id": "q117",
-            "text": "Identity the wrong statement about customer care",
+            "text": "Identify the wrong statement about customer care.",
             "options": [
                 {"id": "a", "text": "A customer is the most important person in any business"},
-                {"id": "b", "text": "customer is an interruption of our work"},
-                {"id": "c", "text": "A customer is not dependent upon us. We are dependent upon him"}
+                {"id": "b", "text": "A customer is an interruption of our work"},
+                {"id": "c", "text": "A customer is not dependent upon us; we are dependent upon them"},
+                {"id": "d", "text": "A customer deserves the most courteous attention"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q118",
-            "text": "Which of the following is not comes under various levels of the customer",
+            "text": "Which of the following does not come under various levels of customers?",
             "options": [
                 {"id": "a", "text": "Dissatisfied Customer"},
                 {"id": "b", "text": "Satisfied Customer"},
                 {"id": "c", "text": "Loyal Customer"},
-                {"id": "d", "text": "Royal customer"}
+                {"id": "d", "text": "Royal Customer"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q119",
-            "text": "customers don't leave even for an attractive offer elsewhere.",
+            "text": "______ customers don't leave even for an attractive offer elsewhere.",
             "options": [
                 {"id": "a", "text": "Dissatisfied"},
                 {"id": "b", "text": "Satisfied"},
@@ -1311,7 +1317,7 @@
         },
         {
             "id": "q120",
-            "text": "of dissatisfied customers never purchase goods or services from the company again.",
+            "text": "What percentage of dissatisfied customers never purchase goods or services from the company again?",
             "options": [
                 {"id": "a", "text": "80%"},
                 {"id": "b", "text": "75%"},
@@ -1322,18 +1328,18 @@
         },
         {
             "id": "q121",
-            "text": "Which of the following is not comes under primary marketing research",
+            "text": "Which of the following does not come under primary marketing research?",
             "options": [
                 {"id": "a", "text": "Interviews"},
-                {"id": "b", "text": "Mystery shopping"},
-                {"id": "c", "text": "Focus groups"},
-                {"id": "d", "text": "None of these"}
+                {"id": "b", "text": "Mystery Shopping"},
+                {"id": "c", "text": "Focus Groups"},
+                {"id": "d", "text": "Trade Reports"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q122",
-            "text": "Which of the following is not the advantage of telephone interviews",
+            "text": "Which of the following is not an advantage of telephone interviews?",
             "options": [
                 {"id": "a", "text": "Can be geographically spread"},
                 {"id": "b", "text": "Random samples can be selected"},
@@ -1344,7 +1350,7 @@
         },
         {
             "id": "q123",
-            "text": "The factors not affecting the process of decision making are",
+            "text": "Which of the following does not affect the process of decision-making?",
             "options": [
                 {"id": "a", "text": "Involvement"},
                 {"id": "b", "text": "Differentiation"},
@@ -1355,22 +1361,22 @@
         },
         {
             "id": "q124",
-            "text": "is an example of Secondary marketing research",
+            "text": "Which of the following is an example of secondary marketing research?",
             "options": [
-                {"id": "a", "text": "Business libraries"},
-                {"id": "b", "text": "Trade directories"},
-                {"id": "c", "text": "Web sites"},
+                {"id": "a", "text": "Business Libraries"},
+                {"id": "b", "text": "Trade Directories"},
+                {"id": "c", "text": "Websites"},
                 {"id": "d", "text": "All the above"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q125",
-            "text": "Inkblot tests is an example of",
+            "text": "Inkblot tests are an example of",
             "options": [
-                {"id": "a", "text": "Projective techniques"},
-                {"id": "b", "text": "Focus groups"},
-                {"id": "c", "text": "Product tests"},
+                {"id": "a", "text": "Projective Techniques"},
+                {"id": "b", "text": "Focus Groups"},
+                {"id": "c", "text": "Product Tests"},
                 {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "a"
@@ -1379,16 +1385,16 @@
             "id": "q126",
             "text": "Secondary marketing research is also called",
             "options": [
-                {"id": "a", "text": "desk research"},
-                {"id": "b", "text": "Projective techniques"},
-                {"id": "c", "text": "Product tests"},
+                {"id": "a", "text": "Desk Research"},
+                {"id": "b", "text": "Projective Techniques"},
+                {"id": "c", "text": "Product Tests"},
                 {"id": "d", "text": "None of these"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q127",
-            "text": "Omnibus Studies comes under research",
+            "text": "Omnibus studies come under which type of research?",
             "options": [
                 {"id": "a", "text": "Primary"},
                 {"id": "b", "text": "Secondary"},
@@ -1399,29 +1405,29 @@
         },
         {
             "id": "q128",
-            "text": "What is the 2nd step in marketing research process?",
+            "text": "What is the second step in the marketing research process?",
             "options": [
                 {"id": "a", "text": "Defining the Problem"},
                 {"id": "b", "text": "Analyzing the Data"},
-                {"id": "c", "text": "Statement of research objective"},
-                {"id": "d", "text": "planning a sample"}
+                {"id": "c", "text": "Statement of Research Objective"},
+                {"id": "d", "text": "Planning a Sample"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q129",
-            "text": "What is the disadvantage of Internet as a Primary mode of marketing research?",
+            "text": "What is a disadvantage of the Internet as a primary mode of marketing research?",
             "options": [
                 {"id": "a", "text": "Biased Responses"},
                 {"id": "b", "text": "Takes a long period of time"},
-                {"id": "c", "text": "Surveys only current not Potential customers"},
+                {"id": "c", "text": "Surveys only current, not potential customers"},
                 {"id": "d", "text": "Expensive"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q130",
-            "text": "The following is NOT a Secondary Marketing research technique",
+            "text": "Which of the following is not a secondary marketing research technique?",
             "options": [
                 {"id": "a", "text": "Trade Associations"},
                 {"id": "b", "text": "Informal Contacts"},
@@ -1432,7 +1438,7 @@
         },
         {
             "id": "q131",
-            "text": "of Population is less than 19 year",
+            "text": "What percentage of the population is less than 19 years old?",
             "options": [
                 {"id": "a", "text": "34%"},
                 {"id": "b", "text": "32%"},
@@ -1443,29 +1449,29 @@
         },
         {
             "id": "q132",
-            "text": "of the villages are connected",
+            "text": "How many villages are connected by BSNL?",
             "options": [
-                {"id": "a", "text": "600000"},
-                {"id": "b", "text": "540000"},
-                {"id": "c", "text": "580000"},
-                {"id": "d", "text": "540000"}
+                {"id": "a", "text": "600,000"},
+                {"id": "b", "text": "540,000"},
+                {"id": "c", "text": "580,000"},
+                {"id": "d", "text": "None of the above"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "q133",
-            "text": "Consumer Adoption Process (CAP) is followed by",
+            "text": "The Consumer Adoption Process (CAP) is followed by",
             "options": [
                 {"id": "a", "text": "Consumer Relation Process"},
                 {"id": "b", "text": "Consumer Maintenance Process"},
                 {"id": "c", "text": "Consumer Loyalty Process"},
-                {"id": "d", "text": "Consumer up-selling Process"}
+                {"id": "d", "text": "Consumer Upselling Process"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q134",
-            "text": "of Loyal Customers are Repeated Users",
+            "text": "What percentage of loyal customers are repeat users?",
             "options": [
                 {"id": "a", "text": "45%"},
                 {"id": "b", "text": "23%"},
@@ -1476,29 +1482,29 @@
         },
         {
             "id": "q135",
-            "text": "Leaders often WIN by",
+            "text": "Leaders often win by",
             "options": [
                 {"id": "a", "text": "Rescuing and coddling problem people"},
-                {"id": "b", "text": "Reluctance to take Risks"},
+                {"id": "b", "text": "Reluctance to take risks"},
                 {"id": "c", "text": "Exhibiting courage"},
-                {"id": "d", "text": "Displaying Emotions Openly"}
+                {"id": "d", "text": "Displaying emotions openly"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q136",
-            "text": "American Marketing Association's official definition of Marketing Research?",
+            "text": "What is the American Marketing Association's official definition of Marketing Research?",
             "options": [
                 {"id": "a", "text": "Marketing Research is the function that links the consumer, customer, and public to the marketer through information"},
                 {"id": "b", "text": "Marketing Research includes 'market' research, research into new products, or modes of distribution via the internet"},
                 {"id": "c", "text": "Marketing Research is about researching the whole of a company's marketing process"},
                 {"id": "d", "text": "Marketing Research is simply research into a specific market"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q137",
-            "text": "Which research is original and collected to solve the problem in hand?",
+            "text": "Which research is original and collected to solve the problem at hand?",
             "options": [
                 {"id": "a", "text": "Primary"},
                 {"id": "b", "text": "Secondary"},
@@ -1509,7 +1515,7 @@
         },
         {
             "id": "q138",
-            "text": "research is also known as desk research.",
+            "text": "______ research is also known as desk research.",
             "options": [
                 {"id": "a", "text": "Primary"},
                 {"id": "b", "text": "Secondary"},
@@ -1520,18 +1526,18 @@
         },
         {
             "id": "q139",
-            "text": "Which statement holds wrong in the case of Marketing Research?",
+            "text": "Which statement is incorrect in the case of Marketing Research?",
             "options": [
-                {"id": "a", "text": "Primary research is expensive, time consuming and more focused"},
-                {"id": "b", "text": "Secondary research data collected for reasons other than for the problem or objective at hand"},
-                {"id": "c", "text": "Projective technique is a secondary research method"},
-                {"id": "d", "text": "Mail surveys for not tend to generate more than a 5-10% response rate"}
+                {"id": "a", "text": "Primary research is expensive, time-consuming, and more focused"},
+                {"id": "b", "text": "Secondary research data is collected for reasons other than the problem or objective at hand"},
+                {"id": "c", "text": "Projective techniques are a secondary research method"},
+                {"id": "d", "text": "Mail surveys typically generate a 5-10% response rate"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q140",
-            "text": "Which is not an advantage of focus groups research technique?",
+            "text": "Which is not an advantage of the focus groups research technique?",
             "options": [
                 {"id": "a", "text": "All participants and the researcher interact"},
                 {"id": "b", "text": "Highly experienced researchers are needed"},
@@ -1542,33 +1548,33 @@
         },
         {
             "id": "q141",
-            "text": "is where an organisation purchases a single or a few questions on a hybrid interview (either face to face or by telephone).",
+            "text": "______ is where an organization purchases a single or a few questions on a hybrid interview (either face-to-face or by telephone).",
             "options": [
-                {"id": "a", "text": "Focus group"},
-                {"id": "b", "text": "Mail survey"},
-                {"id": "c", "text": "Projective technique"},
-                {"id": "d", "text": "Omnibus study"}
+                {"id": "a", "text": "Focus Group"},
+                {"id": "b", "text": "Mail Survey"},
+                {"id": "c", "text": "Projective Technique"},
+                {"id": "d", "text": "Omnibus Study"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q142",
-            "text": "Imagine that you are a product and describe what it is like to be operated, warn or used:",
+            "text": "The instruction 'Imagine that you are a product and describe what it is like to be operated, worn, or used' is an example of",
             "options": [
-                {"id": "a", "text": "Inkblot test"},
+                {"id": "a", "text": "Inkblot Test"},
                 {"id": "b", "text": "Illusion"},
                 {"id": "c", "text": "Psychodrama"},
-                {"id": "d", "text": "Subconscious response"}
+                {"id": "d", "text": "Subconscious Response"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q143",
-            "text": "Which is not a factor affecting process of decision making?",
+            "text": "Which is not a factor affecting the process of decision-making?",
             "options": [
                 {"id": "a", "text": "Involvement"},
                 {"id": "b", "text": "Differentiation"},
-                {"id": "c", "text": "Time pressure"},
+                {"id": "c", "text": "Time Pressure"},
                 {"id": "d", "text": "Promotion"}
             ],
             "correctAnswer": "d"
@@ -1579,48 +1585,48 @@
             "options": [
                 {"id": "a", "text": "Consumer Adoption Process"},
                 {"id": "b", "text": "Customer Addition Process"},
-                {"id": "c", "text": "Customer Analysing Principle"},
+                {"id": "c", "text": "Customer Analyzing Principle"},
                 {"id": "d", "text": "Consumer Adaptation Process"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q145",
-            "text": "Loyal customer: % influenced by reputation, % are repeated users, % are based on recommendations.",
+            "text": "Loyal customers: __% influenced by reputation, __% are repeat users, __% are based on recommendations.",
             "options": [
-                {"id": "a", "text": "50,32,18"},
-                {"id": "b", "text": "45,23,14"},
-                {"id": "c", "text": "60,30,10"},
-                {"id": "d", "text": "40,35,27"}
+                {"id": "a", "text": "50, 32, 18"},
+                {"id": "b", "text": "45, 23, 14"},
+                {"id": "c", "text": "60, 30, 10"},
+                {"id": "d", "text": "40, 35, 27"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q146",
-            "text": "Which of the following come under primary market research",
+            "text": "Which of the following comes under primary market research?",
             "options": [
                 {"id": "a", "text": "Interviews"},
-                {"id": "b", "text": "Mystery shopping"},
-                {"id": "c", "text": "Focus groups"},
-                {"id": "d", "text": "Projective techniques"},
+                {"id": "b", "text": "Mystery Shopping"},
+                {"id": "c", "text": "Focus Groups"},
+                {"id": "d", "text": "Projective Techniques"},
                 {"id": "e", "text": "All the above"}
             ],
             "correctAnswer": "e"
         },
         {
             "id": "q147",
-            "text": "which of the following not come under market research process",
+            "text": "Which of the following does not come under the market research process?",
             "options": [
-                {"id": "a", "text": "Define the problem"},
-                {"id": "b", "text": "Statement of research objective"},
-                {"id": "c", "text": "Decision making"},
-                {"id": "d", "text": "Planing a research design"}
+                {"id": "a", "text": "Define the Problem"},
+                {"id": "b", "text": "Statement of Research Objective"},
+                {"id": "c", "text": "Decision Making"},
+                {"id": "d", "text": "Planning a Research Design"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q148",
-            "text": "CAPS stands for",
+            "text": "CAP stands for",
             "options": [
                 {"id": "a", "text": "Consumer Adoption Process"},
                 {"id": "b", "text": "Consumer Action Process"},
@@ -1631,21 +1637,23 @@
         },
         {
             "id": "q149",
-            "text": "The Main sources of data are",
+            "text": "The main sources of data are",
             "options": [
                 {"id": "a", "text": "Primary"},
                 {"id": "b", "text": "Secondary"},
-                {"id": "c", "text": "primary and secondary"}
+                {"id": "c", "text": "Both Primary and Secondary"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q150",
-            "text": "Which research is conducted from scratch",
+            "text": "Which research is conducted from scratch?",
             "options": [
                 {"id": "a", "text": "Primary"},
                 {"id": "b", "text": "Secondary"},
-                {"id": "c", "text": "Desk research"}
+                {"id": "c", "text": "Desk Research"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "a"
         },
@@ -1653,30 +1661,34 @@
             "id": "q151",
             "text": "Desk research is also known as",
             "options": [
-                {"id": "a", "text": "Primary research"},
-                {"id": "b", "text": "Secondary research"}
+                {"id": "a", "text": "Primary Research"},
+                {"id": "b", "text": "Secondary Research"},
+                {"id": "c", "text": "Field Research"},
+                {"id": "d", "text": "None of the above"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q152",
-            "text": "Arrange the following in correct order",
+            "text": "Arrange the following steps of the marketing research process in the correct order: (1) Define the problem, (2) Statement of research objective, (3) Plan a research design, (4) Analyze the data",
             "options": [
-                {"id": "a", "text": "1,3,4,2"}
+                {"id": "a", "text": "1, 2, 3, 4"},
+                {"id": "b", "text": "1, 3, 2, 4"},
+                {"id": "c", "text": "2, 1, 3, 4"},
+                {"id": "d", "text": "4, 3, 2, 1"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q153",
-            "text": "which the following is not an advantage of telephone interviews",
+            "text": "Which of the following is not an advantage of telephone interviews?",
             "options": [
                 {"id": "a", "text": "Can be geographically spread"},
                 {"id": "b", "text": "Can be set up and conducted relatively cheaply"},
                 {"id": "c", "text": "Random samples can be selected"},
-                {"id": "d", "text": "Cheaper than face-to-face interviews"},
-                {"id": "e", "text": "None of these"}
+                {"id": "d", "text": "Respondents can hang up"}
             ],
-            "correctAnswer": "e"
+            "correctAnswer: "e"
         },
         {
             "id": "q154",
