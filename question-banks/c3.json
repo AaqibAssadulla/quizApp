@@ -1688,21 +1688,21 @@
                 {"id": "c", "text": "Random samples can be selected"},
                 {"id": "d", "text": "Respondents can hang up"}
             ],
-            "correctAnswer: "e"
+            "correctAnswer": "d"
         },
         {
             "id": "q154",
-            "text": "Mail surveys do not tend to generate more than a response rate",
+            "text": "Mail surveys typically generate a response rate of",
             "options": [
-                {"id": "a", "text": "5-10"},
-                {"id": "b", "text": "10-15"},
-                {"id": "c", "text": "30-40"}
+                {"id": "a", "text": "5-10%"},
+                {"id": "b", "text": "10-15%"},
+                {"id": "c", "text": "30-40%"}
             ],
             "correctAnswer": "a"
         },
         {
             "id": "q155",
-            "text": "Which market research is relatively cheap and done quickly",
+            "text": "Which type of market research is relatively cheap and can be done quickly?",
             "options": [
                 {"id": "a", "text": "Primary research"},
                 {"id": "b", "text": "Secondary research"}
@@ -1722,18 +1722,18 @@
         },
         {
             "id": "q157",
-            "text": "Choose the Four Ps of Marketing Strategy",
+            "text": "Choose the Four Ps of the Marketing Mix",
             "options": [
-                {"id": "a", "text": "product, price, plan, and process"},
-                {"id": "b", "text": "product, price, place, and process"},
-                {"id": "c", "text": "product, price, plan, and promotion"},
-                {"id": "d", "text": "product, price, place, and promotion"}
+                {"id": "a", "text": "Product, Price, Plan, and Process"},
+                {"id": "b", "text": "Product, Price, Place, and Process"},
+                {"id": "c", "text": "Product, Price, Plan, and Promotion"},
+                {"id": "d", "text": "Product, Price, Place, and Promotion"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q158",
-            "text": "A document that details the specific types of marketing activities a company conducts and contains timetables for rolling out various marketing initiatives.",
+            "text": "A document that details the specific types of marketing activities a company conducts and contains timetables for rolling out various marketing initiatives is known as",
             "options": [
                 {"id": "a", "text": "Marketing Research"},
                 {"id": "b", "text": "Marketing Plan"},
