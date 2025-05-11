@@ -1,0 +1,247 @@
+{
+    "title": "ERP and SAP Knowledge",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "ERP stands for.",
+            "options": [
+                {"id": "a", "text": "Enterprise Resource Planning"},
+                {"id": "b", "text": "Enterprise Replan Processing"},
+                {"id": "c", "text": "Ethical Resource Planning"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "The primary ERP site is _______ and _________ for DR site.",
+            "options": [
+                {"id": "a", "text": "Hyderabad, Kolkata"},
+                {"id": "b", "text": "Hyderabad, Pune"},
+                {"id": "c", "text": "Kolkata, Hyderabad"},
+                {"id": "d", "text": "Pune, Kolkata"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "Development Centre for ERP was setup at _________.",
+            "options": [
+                {"id": "a", "text": "ALTTC Ghaziabad"},
+                {"id": "b", "text": "Hyderabad"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Pune"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q4",
+            "text": "Leaves cannot be applied in the ESS system:",
+            "options": [
+                {"id": "a", "text": "Casual Leave"},
+                {"id": "b", "text": "Restricted Holiday"},
+                {"id": "c", "text": "Earned Leave"},
+                {"id": "d", "text": "Maternity / Paternity Leave"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q5",
+            "text": "HCM stands for",
+            "options": [
+                {"id": "a", "text": "Human Capital Management"},
+                {"id": "b", "text": "Human Capex Management"},
+                {"id": "c", "text": "Human Consumer Management"},
+                {"id": "d", "text": "Human Capital Module"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q6",
+            "text": "Following is not HCM Structures:",
+            "options": [
+                {"id": "a", "text": "Enterprise Structure"},
+                {"id": "b", "text": "Organizational Structure"},
+                {"id": "c", "text": "Personnel Structure"},
+                {"id": "d", "text": "Public Structure"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q7",
+            "text": "In the SAP Easy Access screen in the Command Task enter T-Code ______",
+            "options": [
+                {"id": "a", "text": "PA30"},
+                {"id": "b", "text": "PA40"},
+                {"id": "c", "text": "PA60"},
+                {"id": "d", "text": "PA_30"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q8",
+            "text": "New Requirement for Materials in Circle Inventory shall be created by_______________ Team under Inventory Data Template.",
+            "options": [
+                {"id": "a", "text": "MDM"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MMBE"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q9",
+            "text": "Stock overview T-Code is",
+            "options": [
+                {"id": "a", "text": "MDM"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MMBE"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q10",
+            "text": "Creation of Purchase Requisitions for Services T-Code",
+            "options": [
+                {"id": "a", "text": "MDM"},
+                {"id": "b", "text": "MIGO"},
+                {"id": "c", "text": "MMBE"},
+                {"id": "d", "text": "ME51N"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q11",
+            "text": "Which of the following user type in SAP system is used for interactive system access from GUI?",
+            "options": [
+                {"id": "a", "text": "A - Dialog"},
+                {"id": "b", "text": "B - Service"},
+                {"id": "c", "text": "C - Communication"},
+                {"id": "d", "text": "D - System"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q12",
+            "text": "Users can access a SAP system in _________ ways.",
+            "options": [
+                {"id": "a", "text": "A. 1"},
+                {"id": "b", "text": "B. 2"},
+                {"id": "c", "text": "C. 3"},
+                {"id": "d", "text": "D. 4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q13",
+            "text": "WHICH OF THE FOLLOWING TRANSACTION CODE USED TO RELEASE A TASK?",
+            "options": [
+                {"id": "a", "text": "A. SE05"},
+                {"id": "b", "text": "B. SE07"},
+                {"id": "c", "text": "C. SE09"},
+                {"id": "d", "text": "D. SE04"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q14",
+            "text": "Navigate to the official BSNL ERP portal link is",
+            "options": [
+                {"id": "a", "text": "http://eportal.erp.bsnl.co.in/irj/portal"},
+                {"id": "b", "text": "http://eportal.erp.bsnl.com/irj/portal"},
+                {"id": "c", "text": "Both of These"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q15",
+            "text": "Transaction Code IN SAP FOR: Create Purchase Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "FB1S"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16",
+            "text": "Transaction Code IN SAP FOR: Change Purchase Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "FB1S"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q17",
+            "text": "Transaction Code IN SAP FOR: Create Sales Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "FB1S"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q18",
+            "text": "Transaction Code IN SAP FOR: Clear G/L Account",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "FB1S"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "Transaction Code IN SAP FOR: Display Purchase Order",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "VA01"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q20",
+            "text": "Transaction Code IN SAP FOR: Enter Invoice",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "MIRO"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "ME22N"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q21",
+            "text": "Transaction Code IN SAP FOR: Stock Overview",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "MIRO"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "MMBE"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q22",
+            "text": "Transaction Code IN SAP FOR: Material Doc. List",
+            "options": [
+                {"id": "a", "text": "ME21N"},
+                {"id": "b", "text": "MB51"},
+                {"id": "c", "text": "ME23N"},
+                {"id": "d", "text": "MMBE"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
