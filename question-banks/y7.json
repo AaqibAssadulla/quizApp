@@ -390,7 +390,6 @@
             "id": "q36",
             "text": "Which standard corresponds to GPON?",
             "options": [
-                {"id": "/
                 {"id": "a", "text": "G-983 Series"},
                 {"id": "b", "text": "G-984 Series"},
                 {"id": "c", "text": "IEEE 802.3ah"},
