@@ -32,7 +32,7 @@
                 {"id": "c", "text": "twenty 30.0 mm or 40.00 mm"},
                 {"id": "d", "text": "twenty-five 30.0 mm or 40.00 mm"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "q4",
