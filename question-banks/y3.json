@@ -21,7 +21,7 @@
                 {"id": "c", "text": "exceed 0.5 ohms"},
                 {"id": "d", "text": "exceed 1.5 ohms"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q3",
@@ -43,7 +43,7 @@
                 {"id": "c", "text": "more than 275 cms & less than 375 cms"},
                 {"id": "d", "text": "None of these"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "q5",
@@ -52,9 +52,9 @@
                 {"id": "a", "text": "2450 cms"},
                 {"id": "b", "text": "2450 mms"},
                 {"id": "c", "text": "two lengths of 1225 cm should be laid at least 250 cm apart and overlapped by at least 152 mm"},
-                {"id": "d", "text": "three lengths of 1225 cm should be laid at least 250 cm apart and overlapped by at least 152 mm"}
+                {"id": "d", "text": " both a and b"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "q6",
@@ -65,7 +65,7 @@
                 {"id": "c", "text": "Can't Say"},
                 {"id": "d", "text": "None of these"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q7",
@@ -76,7 +76,7 @@
                 {"id": "c", "text": "E2 business buildings"},
                 {"id": "d", "text": "E1 business buildings"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q8",
@@ -257,7 +257,7 @@
                 {"id": "c", "text": "12 DC, 100"},
                 {"id": "d", "text": "12 DC, 200"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q17",
@@ -356,7 +356,7 @@
                 {"id": "c", "text": "AC to DC conversion"},
                 {"id": "d", "text": "AC to AC conversion"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q26",
@@ -367,7 +367,7 @@
                 {"id": "c", "text": "mesh"},
                 {"id": "d", "text": "star"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "q27",
