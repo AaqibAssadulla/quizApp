@@ -168,14 +168,14 @@
         },
         {
             "id": "q13",
-            "text": "Diameter of cable over Polythene Jacket Above 46 mm up to 64 mm",
+            "text": "Thickness of Polythene Jacket over cable Above 46 mm up to 64 mm",
             "options": [
                 {"id": "a", "text": "1.8 mm"},
                 {"id": "b", "text": "1.4 mm"},
                 {"id": "c", "text": "2.2 mm"},
                 {"id": "d", "text": "All of These"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q14",
