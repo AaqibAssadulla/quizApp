@@ -1,25 +1,421 @@
 {
-    "title": "History",
+    "title": "Telecom, Technology, and Organizational Issues",
     "questions": [
         {
-            "id": "his1",
-            "text": "In which year did World War II end?",
+            "id": "q1",
+            "text": "Core site location for the North Zone in CDOT MAX-NG Core Network.",
             "options": [
-                {"id": "a", "text": "1943"},
-                {"id": "b", "text": "1945"},
-                {"id": "c", "text": "1950"},
-                {"id": "d", "text": "1939"}
+                {"id": "a", "text": "Kolkata"},
+                {"id": "b", "text": "Gurgaon"},
+                {"id": "c", "text": "Pune"},
+                {"id": "d", "text": "Bangalore"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "his2",
-            "text": "Who was the first President of the United States?",
+            "id": "q2",
+            "text": "Core site location for the South Zone in CDOT MAX-NG Core Network.",
             "options": [
-                {"id": "a", "text": "Thomas Jefferson"},
-                {"id": "b", "text": "George Washington"},
-                {"id": "c", "text": "Abraham Lincoln"},
-                {"id": "d", "text": "John Adams"}
+                {"id": "a", "text": "Gurgaon"},
+                {"id": "b", "text": "Kolkata"},
+                {"id": "c", "text": "Bangalore"},
+                {"id": "d", "text": "Pune"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3",
+            "text": "Core site location for the East Zone in CDOT MAX-NG Core Network.",
+            "options": [
+                {"id": "a", "text": "Pune"},
+                {"id": "b", "text": "Bangalore"},
+                {"id": "c", "text": "Gurgaon"},
+                {"id": "d", "text": "Kolkata"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q4",
+            "text": "Core site location for the West Zone in CDOT MAX-NG Core Network.",
+            "options": [
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Pune"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Gurgaon"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q5",
+            "text": "Disaster Recovery core site location for the North Zone in CDOT MAX-NG Core Network.",
+            "options": [
+                {"id": "a", "text": "Cuttack"},
+                {"id": "b", "text": "Chandigarh"},
+                {"id": "c", "text": "Hyderabad"},
+                {"id": "d", "text": "Bhopal"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6",
+            "text": "Disaster Recovery core site location for the South Zone in CDOT MAX-NG Core Network.",
+            "options": [
+                {"id": "a", "text": "Chandigarh"},
+                {"id": "b", "text": "Bhopal"},
+                {"id": "c", "text": "Hyderabad"},
+                {"id": "d", "text": "Cuttack"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "Disaster Recovery core site location for the East Zone in CDOT MAX-NG Core Network.",
+            "options": [
+                {"id": "a", "text": "Hyderabad"},
+                {"id": "b", "text": "Chandigarh"},
+                {"id": "c", "text": "Cuttack"},
+                {"id": "d", "text": "Bhopal"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q8",
+            "text": "Disaster Recovery core site location for the West Zone in CDOT MAX-NG Core Network.",
+            "options": [
+                {"id": "a", "text": "Cuttack"},
+                {"id": "b", "text": "Hyderabad"},
+                {"id": "c", "text": "Chandigarh"},
+                {"id": "d", "text": "Bhopal"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q9",
+            "text": "Records all account data including all postings happening to subsidiary ledgers.",
+            "options": [
+                {"id": "a", "text": "HCM"},
+                {"id": "b", "text": "FICO"},
+                {"id": "c", "text": "MM"},
+                {"id": "d", "text": "PM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q10",
+            "text": "HR Administration including Organizational Structure.",
+            "options": [
+                {"id": "a", "text": "FICO"},
+                {"id": "b", "text": "PS"},
+                {"id": "c", "text": "HCM"},
+                {"id": "d", "text": "REM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q11",
+            "text": "Inventory Management including e-procurement.",
+            "options": [
+                {"id": "a", "text": "REM"},
+                {"id": "b", "text": "MM"},
+                {"id": "c", "text": "S&D"},
+                {"id": "d", "text": "BASIS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q12",
+            "text": "Planned & Unplanned Maintenance of various technical objects of Consumer Mobility, Broad Band, CFA, IT, Transmission.",
+            "options": [
+                {"id": "a", "text": "PM"},
+                {"id": "b", "text": "ESS"},
+                {"id": "c", "text": "PP&QC"},
+                {"id": "d", "text": "PS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q13",
+            "text": "Execution & Monitoring of Capital Project works of various business lines.",
+            "options": [
+                {"id": "a", "text": "S&D"},
+                {"id": "b", "text": "FICO"},
+                {"id": "c", "text": "PS"},
+                {"id": "d", "text": "HCM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q14",
+            "text": "Lease-in & Lease-out of CMTS Towers & USO Towers.",
+            "options": [
+                {"id": "a", "text": "BASIS"},
+                {"id": "b", "text": "REM"},
+                {"id": "c", "text": "MM"},
+                {"id": "d", "text": "PM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q15",
+            "text": "Enterprise Business lead tracking.",
+            "options": [
+                {"id": "a", "text": "PP&QC"},
+                {"id": "b", "text": "ESS"},
+                {"id": "c", "text": "S&D"},
+                {"id": "d", "text": "FICO"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q16",
+            "text": "Roles and Authorization being done centrally.",
+            "options": [
+                {"id": "a", "text": "HCM"},
+                {"id": "b", "text": "BASIS"},
+                {"id": "c", "text": "PS"},
+                {"id": "d", "text": "REM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "Telecom Factory for Manufacturing Accounts.",
+            "options": [
+                {"id": "a", "text": "MM"},
+                {"id": "b", "text": "PP&QC"},
+                {"id": "c", "text": "S&D"},
+                {"id": "d", "text": "ESS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q18",
+            "text": "Employee's Self Care & Request.",
+            "options": [
+                {"id": "a", "text": "FICO"},
+                {"id": "b", "text": "PM"},
+                {"id": "c", "text": "ESS"},
+                {"id": "d", "text": "HCM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "Satellite frequency band operating at 1830–2700 MHz.",
+            "options": [
+                {"id": "a", "text": "KU BAND"},
+                {"id": "b", "text": "L BAND"},
+                {"id": "c", "text": "K BAND"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q20",
+            "text": "Satellite frequency band operating at 10950–11200 GHz for downlink and 27.5–30 GHz for uplink.",
+            "options": [
+                {"id": "a", "text": "L BAND"},
+                {"id": "b", "text": "K BAND"},
+                {"id": "c", "text": "KU BAND"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q21",
+            "text": "Satellite frequency band operating at 27.5–30 GHz for uplink (noting the provided range may overlap with KU BAND; assuming distinct K BAND characteristics).",
+            "options": [
+                {"id": "a", "text": "None of These"},
+                {"id": "b", "text": "L BAND"},
+                {"id": "c", "text": "KU BAND"},
+                {"id": "d", "text": "K BAND"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q22",
+            "text": "Modem error due to poor connectivity, where the problem can be anywhere between B.RAS - Tier 2 - DSLAM - Modem - PC of the customer.",
+            "options": [
+                {"id": "a", "text": "Error-797"},
+                {"id": "b", "text": "Error-678"},
+                {"id": "c", "text": "Error-769"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q23",
+            "text": "Modem error caused by the LAN not being enabled.",
+            "options": [
+                {"id": "a", "text": "Error-769"},
+                {"id": "b", "text": "Error-678"},
+                {"id": "c", "text": "Error-797"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q24",
+            "text": "Modem error due to a modem or LAN driver problem.",
+            "options": [
+                {"id": "a", "text": "Error-678"},
+                {"id": "b", "text": "Error-769"},
+                {"id": "c", "text": "Error-797"},
+                {"id": "d", "text": "None of These"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q25",
+            "text": "A real-time distributed computation system, now owned by Twitter.",
+            "options": [
+                {"id": "a", "text": "Cloudera"},
+                {"id": "b", "text": "Storm"},
+                {"id": "c", "text": "GridGain"},
+                {"id": "d", "text": "SpaceCurv"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q26",
+            "text": "Offers real-time, interactive analytical queries of the data stored in HBase or HDFS.",
+            "options": [
+                {"id": "a", "text": "SpaceCurv"},
+                {"id": "b", "text": "GridGain"},
+                {"id": "c", "text": "Cloudera"},
+                {"id": "d", "text": "Storm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q27",
+            "text": "An enterprise open source grid computing platform made for Java multidimensional geodata.",
+            "options": [
+                {"id": "a", "text": "Storm"},
+                {"id": "b", "text": "Cloudera"},
+                {"id": "c", "text": "SpaceCurv"},
+                {"id": "d", "text": "GridGain"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q28",
+            "text": "A tool being developed to discover underlying patterns in multidimensional geodata.",
+            "options": [
+                {"id": "a", "text": "GridGain"},
+                {"id": "b", "text": "SpaceCurv"},
+                {"id": "c", "text": "Cloudera"},
+                {"id": "d", "text": "Storm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "A photo sharing site where users store their photos and tag them for future retrieval.",
+            "options": [
+                {"id": "a", "text": "MYSPACE"},
+                {"id": "b", "text": "FLICKR"},
+                {"id": "c", "text": "WIKI SYSTEMS"},
+                {"id": "d", "text": "DEL.ICIO.US"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30",
+            "text": "A site for social networking.",
+            "options": [
+                {"id": "a", "text": "FLICKR"},
+                {"id": "b", "text": "DEL.ICIO.US"},
+                {"id": "c", "text": "MYSPACE"},
+                {"id": "d", "text": "WIKI SYSTEMS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q31",
+            "text": "A form of content management system that enables a repository of information that may be updated easily by its users.",
+            "options": [
+                {"id": "a", "text": "DEL.ICIO.US"},
+                {"id": "b", "text": "FLICKR"},
+                {"id": "c", "text": "MYSPACE"},
+                {"id": "d", "text": "WIKI SYSTEMS"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q32",
+            "text": "A Web application that helps users manage and share their bookmarks.",
+            "options": [
+                {"id": "a", "text": "WIKI SYSTEMS"},
+                {"id": "b", "text": "MYSPACE"},
+                {"id": "c", "text": "DEL.ICIO.US"},
+                {"id": "d", "text": "FLICKR"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q33",
+            "text": "Lack of strong direction from top management. Not enough structure order or guidance leading to activity traps i.e. doing things without knowing where one is heading to.",
+            "options": [
+                {"id": "a", "text": "Anarchy"},
+                {"id": "b", "text": "Amoeba"},
+                {"id": "c", "text": "Buggy Whip"},
+                {"id": "d", "text": "Myopia"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q34",
+            "text": "A Situation upheaval where leadership, responsibilities, functions and resources are in dispute.",
+            "options": [
+                {"id": "a", "text": "Anarchy"},
+                {"id": "b", "text": "Rat-race"},
+                {"id": "c", "text": "Remote Control"},
+                {"id": "d", "text": "Amoeba"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q35",
+            "text": "Clinging to obsolete products, services and practices which no longer have potential for sustaining livelihood.",
+            "options": [
+                {"id": "a", "text": "Myopia"},
+                {"id": "b", "text": "Buggy Whip"},
+                {"id": "c", "text": "Rat-race"},
+                {"id": "d", "text": "Anarchy"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q36",
+            "text": "No future orientation Little thought to strategy, sense of direction and advance planning. Live day to day, week to week.",
+            "options": [
+                {"id": "a", "text": "Remote Control"},
+                {"id": "b", "text": "Amoeba"},
+                {"id": "c", "text": "Myopia"},
+                {"id": "d", "text": "Buggy Whip"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "Toxic climate coming from oppressive, primitive, slave driving policy.",
+            "options": [
+                {"id": "a", "text": "Buggy Whip"},
+                {"id": "b", "text": "Anarchy"},
+                {"id": "c", "text": "Rat-race"},
+                {"id": "d", "text": "Remote Control"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q38",
+            "text": "Too much administrative or, executive control from the parent body Decision making autonomy is seriously impaired.",
+            "options": [
+                {"id": "a", "text": "Amoeba"},
+                {"id": "b", "text": "Remote Control"},
+                {"id": "c", "text": "Myopia"},
+                {"id": "d", "text": "Rat-race"}
             ],
             "correctAnswer": "b"
         }
