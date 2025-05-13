@@ -230,7 +230,7 @@
                 {"id": "c", "text": "28 Meter"},
                 {"id": "d", "text": "14 Meter"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "q22",
@@ -659,7 +659,7 @@
                 {"id": "c", "text": "International leased circuits"},
                 {"id": "d", "text": "None of These"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "d"
         },
         {
             "id": "q61",
@@ -681,7 +681,7 @@
                 {"id": "c", "text": "36,790 km"},
                 {"id": "d", "text": "All of These"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q63",
@@ -692,7 +692,7 @@
                 {"id": "c", "text": "36,790 km"},
                 {"id": "d", "text": "35,786 km"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "q64",
