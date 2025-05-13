@@ -87,7 +87,7 @@
                 {"id": "c", "text": "S-CSCF"},
                 {"id": "d", "text": "SBC"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "tel9",

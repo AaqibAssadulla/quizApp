@@ -131,7 +131,7 @@
                 {"id": "c", "text": "Depend on service"},
                 {"id": "d", "text": "None of these"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "cdr13",
