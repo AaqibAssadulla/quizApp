@@ -802,7 +802,7 @@
                 {"id": "c", "text": "FACCH"},
                 {"id": "d", "text": "PCH"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "mc74",
@@ -813,7 +813,7 @@
                 {"id": "c", "text": "CCF"},
                 {"id": "d", "text": "SRF"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "mc75",
