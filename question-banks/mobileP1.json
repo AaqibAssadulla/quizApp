@@ -1,0 +1,1105 @@
+{
+    "title": "JTO Phase-I Mobile Communication",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "What is the primary function of an antenna in a communication system?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Convert electrical signals to electromagnetic waves and vice versa"},
+                {"id": "c", "text": "Store data"},
+                {"id": "d", "text": "Modulate signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2",
+            "text": "Which components are mutually perpendicular in an electromagnetic wave?",
+            "options": [
+                {"id": "a", "text": "Electric, Magnetic, and Propagation"},
+                {"id": "b", "text": "Electric, Magnetic, and Frequency"},
+                {"id": "c", "text": "Electric, Magnetic, and Wavelength"},
+                {"id": "d", "text": "Electric, Magnetic, and Amplitude"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q3",
+            "text": "What is the relationship between frequency and wavelength in an electromagnetic wave?",
+            "options": [
+                {"id": "a", "text": "Directly proportional"},
+                {"id": "b", "text": "Inversely proportional"},
+                {"id": "c", "text": "No relation"},
+                {"id": "d", "text": "Exponentially proportional"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q4",
+            "text": "What does the term 'VSWR' stand for in antenna systems?",
+            "options": [
+                {"id": "a", "text": "Voltage Standing Wave Ratio"},
+                {"id": "b", "text": "Variable Signal Wave Ratio"},
+                {"id": "c", "text": "Voltage Signal Wave Resistance"},
+                {"id": "d", "text": "Variable Standing Wave Rate"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q5",
+            "text": "What is the maximum permissible VSWR value for communication transmission lines?",
+            "options": [
+                {"id": "a", "text": "1.0"},
+                {"id": "b", "text": "1.3"},
+                {"id": "c", "text": "2.0"},
+                {"id": "d", "text": "1.5"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q6",
+            "text": "Which type of antenna has a horizontal radiation pattern covering 360 degrees?",
+            "options": [
+                {"id": "a", "text": "Directional Antenna"},
+                {"id": "b", "text": "Omni Directional Antenna"},
+                {"id": "c", "text": "Panel Antenna"},
+                {"id": "d", "text": "Yagi Antenna"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q7",
+            "text": "What is the purpose of diversity in mobile communication systems?",
+            "options": [
+                {"id": "a", "text": "Increase signal level from mobile to base station"},
+                {"id": "b", "text": "Reduce antenna size"},
+                {"id": "c", "text": "Increase transmission power"},
+                {"id": "d", "text": "Decrease frequency reuse"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q8",
+            "text": "What is the typical vertical half power beam width of an omni directional antenna?",
+            "options": [
+                {"id": "a", "text": "90 degrees"},
+                {"id": "b", "text": "78 degrees"},
+                {"id": "c", "text": "120 degrees"},
+                {"id": "d", "text": "60 degrees"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q9",
+            "text": "Which type of antenna is commonly used in fixed point-to-point radio links up to 2 GHz?",
+            "options": [
+                {"id": "a", "text": "Cassegrain Antenna"},
+                {"id": "b", "text": "Grid Parabolic Reflector Antenna"},
+                {"id": "c", "text": "Array Antenna"},
+                {"id": "d", "text": "Panel Antenna"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q10",
+            "text": "What is the primary advantage of electrical down tilt over mechanical down tilt?",
+            "options": [
+                {"id": "a", "text": "Cheaper implementation"},
+                {"id": "b", "text": "Maintains cell symmetry"},
+                {"id": "c", "text": "Increases antenna gain"},
+                {"id": "d", "text": "Reduces installation time"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "What is the typical impedance of an antenna in a mobile communication system?",
+            "options": [
+                {"id": "a", "text": "75 ohm"},
+                {"id": "b", "text": "50 ohm"},
+                {"id": "c", "text": "100 ohm"},
+                {"id": "d", "text": "25 ohm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q12",
+            "text": "What is the main function of the RF feeder cable in a mobile network?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Deliver radio frequency power"},
+                {"id": "c", "text": "Filter signals"},
+                {"id": "d", "text": "Modulate signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q13",
+            "text": "Why are jumper cables used at both ends of the RF feeder cable?",
+            "options": [
+                {"id": "a", "text": "To reduce bending loss"},
+                {"id": "b", "text": "To increase signal strength"},
+                {"id": "c", "text": "To reduce installation cost"},
+                {"id": "d", "text": "To improve frequency reuse"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q14",
+            "text": "What is the main purpose of the cellular concept in mobile networks?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Use multiple low-powered transmitters"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Increase signal interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q15",
+            "text": "What is the typical shape used to represent cells in a cellular network?",
+            "options": [
+                {"id": "a", "text": "Circle"},
+                {"id": "b", "text": "Square"},
+                {"id": "c", "text": "Hexagon"},
+                {"id": "d", "text": "Triangle"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q16",
+            "text": "What is the minimum distance between cells using the same frequency to avoid interference?",
+            "options": [
+                {"id": "a", "text": "1.5 times the cell diameter"},
+                {"id": "b", "text": "2.5 to 3 times the cell diameter"},
+                {"id": "c", "text": "5 times the cell diameter"},
+                {"id": "d", "text": "0.5 times the cell diameter"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "What is a cluster in the context of a cellular network?",
+            "options": [
+                {"id": "a", "text": "A group of cells with no frequency reuse"},
+                {"id": "b", "text": "A single cell with multiple antennas"},
+                {"id": "c", "text": "A group of base stations"},
+                {"id": "d", "text": "A single transmitter covering a large area"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q18",
+            "text": "What is the reuse factor 'K' in a cellular network?",
+            "options": [
+                {"id": "a", "text": "Number of antennas per cell"},
+                {"id": "b", "text": "Number of channel sets in a cluster"},
+                {"id": "c", "text": "Number of cells in a cluster"},
+                {"id": "d", "text": "Number of frequencies per cell"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q19",
+            "text": "Which equation represents the valid values of the reuse factor K?",
+            "options": [
+                {"id": "a", "text": "K = i^2 + j^2 + i × j"},
+                {"id": "b", "text": "K = i^2 + j^2"},
+                {"id": "c", "text": "K = i + j"},
+                {"id": "d", "text": "K = i^2 × j^2"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q20",
+            "text": "What happens to co-channel interference when the reuse factor K increases?",
+            "options": [
+                {"id": "a", "text": "Increases"},
+                {"id": "b", "text": "Decreases"},
+                {"id": "c", "text": "Remains the same"},
+                {"id": "d", "text": "Becomes unpredictable"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q21",
+            "text": "What is the relationship between the reuse factor K and the D/R ratio?",
+            "options": [
+                {"id": "a", "text": "D/R = √K"},
+                {"id": "b", "text": "D/R = √(3K)"},
+                {"id": "c", "text": "D/R = K^2"},
+                {"id": "d", "text": "D/R = K/3"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q22",
+            "text": "Which type of cell is used for densely populated areas?",
+            "options": [
+                {"id": "a", "text": "Macro Cell"},
+                {"id": "b", "text": "Micro Cell"},
+                {"id": "c", "text": "Pico Cell"},
+                {"id": "d", "text": "Umbrella Cell"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q23",
+            "text": "What is the primary purpose of an umbrella cell?",
+            "options": [
+                {"id": "a", "text": "Increase frequency reuse"},
+                {"id": "b", "text": "Reduce handovers for fast-moving mobiles"},
+                {"id": "c", "text": "Cover small indoor areas"},
+                {"id": "d", "text": "Reduce antenna size"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q24",
+            "text": "What is the main drawback of cell sectoring?",
+            "options": [
+                {"id": "a", "text": "Increased interference"},
+                {"id": "b", "text": "Increased number of antennas and handovers"},
+                {"id": "c", "text": "Reduced cell capacity"},
+                {"id": "d", "text": "Increased power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q25",
+            "text": "Which technique is used to reduce interference in cellular networks?",
+            "options": [
+                {"id": "a", "text": "Power Control"},
+                {"id": "b", "text": "Frequency Hopping"},
+                {"id": "c", "text": "Time Division Multiplexing"},
+                {"id": "d", "text": "Signal Amplification"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q26",
+            "text": "What does GSM stand for?",
+            "options": [
+                {"id": "a", "text": "Global System for Mobile Communication"},
+                {"id": "b", "text": "General Standard for Mobile"},
+                {"id": "c", "text": "Global Standard for Messaging"},
+                {"id": "d", "text": "General System for Messaging"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q27",
+            "text": "In which year was the GSM standardization group established?",
+            "options": [
+                {"id": "a", "text": "1980"},
+                {"id": "b", "text": "1982"},
+                {"id": "c", "text": "1985"},
+                {"id": "d", "text": "1990"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "What is the bandwidth of the GSM 900 band?",
+            "options": [
+                {"id": "a", "text": "50 MHz"},
+                {"id": "b", "text": "25 MHz"},
+                {"id": "c", "text": "75 MHz"},
+                {"id": "d", "text": "100 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "What is the duplex spacing for the GSM 900 band?",
+            "options": [
+                {"id": "a", "text": "95 MHz"},
+                {"id": "b", "text": "45 MHz"},
+                {"id": "c", "text": "25 MHz"},
+                {"id": "d", "text": "75 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30",
+            "text": "How many carrier frequencies are available in the GSM 900 band?",
+            "options": [
+                {"id": "a", "text": "374"},
+                {"id": "b", "text": "124"},
+                {"id": "c", "text": "200"},
+                {"id": "d", "text": "50"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q31",
+            "text": "What duplexing method does GSM use?",
+            "options": [
+                {"id": "a", "text": "Time Division Duplexing (TDD)"},
+                {"id": "b", "text": "Frequency Division Duplexing (FDD)"},
+                {"id": "c", "text": "Code Division Duplexing"},
+                {"id": "d", "text": "Space Division Duplexing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "What is the carrier separation in GSM systems?",
+            "options": [
+                {"id": "a", "text": "200 kHz"},
+                {"id": "b", "text": "100 kHz"},
+                {"id": "c", "text": "400 kHz"},
+                {"id": "d", "text": "50 kHz"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33",
+            "text": "What is the voice coder bit rate in GSM?",
+            "options": [
+                {"id": "a", "text": "13 kbps"},
+                {"id": "b", "text": "64 kbps"},
+                {"id": "c", "text": "128 kbps"},
+                {"id": "d", "text": "8 kbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q34",
+            "text": "What modulation technique is used in GSM?",
+            "options": [
+                {"id": "a", "text": "QPSK"},
+                {"id": "b", "text": "GMSK"},
+                {"id": "c", "text": "BPSK"},
+                {"id": "d", "text": "FSK"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q35",
+            "text": "What is the air transmission rate in GSM?",
+            "options": [
+                {"id": "a", "text": "270.8333 kbps"},
+                {"id": "b", "text": "200 kbps"},
+                {"id": "c", "text": "300 kbps"},
+                {"id": "d", "text": "150 kbps"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q36",
+            "text": "What is the main advantage of using FDMA and TDMA in GSM?",
+            "options": [
+                {"id": "a", "text": "Reduces antenna size"},
+                {"id": "b", "text": "Increases spectral efficiency"},
+                {"id": "c", "text": "Decreases call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q37",
+            "text": "What does ARFCN stand for in GSM?",
+            "options": [
+                {"id": "a", "text": "Absolute Radio Frequency Channel Number"},
+                {"id": "b", "text": "Automatic Radio Frequency Control Number"},
+                {"id": "c", "text": "Adaptive Radio Frequency Channel Node"},
+                {"id": "d", "text": "Absolute Radio Frequency Control Node"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "What is the frequency range for uplink in GSM 900 band?",
+            "options": [
+                {"id": "a", "text": "935-960 MHz"},
+                {"id": "b", "text": "890-915 MHz"},
+                {"id": "c", "text": "1710-1785 MHz"},
+                {"id": "d", "text": "1805-1880 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "What is the primary purpose of the radio interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Connect mobile stations to the fixed infrastructure"},
+                {"id": "b", "text": "Increase antenna gain"},
+                {"id": "c", "text": "Reduce signal interference"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q40",
+            "text": "How many time slots does each 200 kHz channel in GSM divide into?",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "16"},
+                {"id": "d", "text": "2"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q41",
+            "text": "What is the primary goal of GSM in terms of compatibility?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Ensure compatibility between mobile stations and networks"},
+                {"id": "c", "text": "Reduce antenna size"},
+                {"id": "d", "text": "Increase call capacity"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q42",
+            "text": "What is the main advantage of TDD over FDD in GSM?",
+            "options": [
+                {"id": "a", "1", "text": "Increases signal strength"},
+                {"id": "b", "text": "No duplexer required"},
+                {"id": "c", "text": "Reduces frequency reuse"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q43",
+            "text": "What is the speech coder used in GSM?",
+            "options": [
+                {"id": "a", "text": "AMR"},
+                {"id": "b", "text": "RPE-LTP"},
+                {"id": "c", "text": "EVRC"},
+                {"id": "d", "text": "G.729"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q44",
+            "text": "What is the primary purpose of bit interleaving in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Reduce errors due to bursty noise"},
+                {"id": "c", "text": "Increase frequency reuse"},
+                {"id": "d", "text": "Reduce antenna size"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q45",
+            "text": "What is the frequency range for downlink in GSM 1800 band?",
+            "options": [
+                {"id": "a", "text": "1710-1785 MHz"},
+                {"id": "b", "text": "1805-1880 MHz"},
+                {"id": "c", "text": "890-915 MHz"},
+                {"id": "d", "text": "935-960 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q46",
+            "text": "What is the main purpose of the cellular concept pioneered by Bell Laboratories?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Use low-power transmitters for better coverage"},
+                {"id": "c", "text": "Reduce call capacity"},
+                {"id": "d", "text": "Increase interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q47",
+            "text": "What is the typical size of a pico cell?",
+            "options": [
+                {"id": "a", "text": "Few kilometers"},
+                {"id": "b", "text": "Few dozen meters"},
+                {"id": "c", "text": "Few hundred meters"},
+                {"id": "d", "text": "Few meters"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q48",
+            "text": "What is the main advantage of using directional antennas in cell sectoring?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Reduce interference"},
+                {"id": "c", "text": "Increase power consumption"},
+                {"id": "d", "text": "Reduce call capacity"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q49",
+            "text": "What is the typical number of cells in a cluster in a cellular network?",
+            "options": [
+                {"id": "a", "text": "2, 4, 6"},
+                {"id": "b", "text": "4, 7, 12, 21"},
+                {"id": "c", "text": "3, 5, 9"},
+                {"id": "d", "text": "1, 3, 5"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q50",
+            "text": "What is the primary function of the RF jumper cable in a mobile network?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Connect main feeders to antennas"},
+                {"id": "c", "text": "Reduce signal loss"},
+                {"id": "d", "text": "Increase frequency reuse"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q51",
+            "text": "What is the primary purpose of the Subscriber Identity Module (SIM) in GSM?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Authenticate the subscriber"},
+                {"id": "c", "text": "Increase antenna gain"},
+                {"id": "d", "text": "Reduce interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q52",
+            "text": "What is the main reason GSM uses a digital air interface?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Enhance privacy and security"},
+                {"id": "c", "text": "Reduce call capacity"},
+                {"id": "d", "text": "Increase power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q53",
+            "text": "What is the role of the VLR in GSM security?",
+            "options": [
+                {"id": "a", "text": "Allocate new TMSI numbers"},
+                {"id": "b", "text": "Increase signal strength"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q54",
+            "text": "What is the purpose of frequency hopping in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Optimize network performance"},
+                {"id": "c", "text": "Reduce call capacity"},
+                {"id": "d", "text": "Increase interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q55",
+            "text": "Which algorithm is used for voice privacy encryption in GSM?",
+            "options": [
+                {"id": "a", "text": "A3"},
+                {"id": "b", "text": "A5"},
+                {"id": "c", "text": "A8"},
+                {"id": "d", "text": "A9"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q56",
+            "text": "What is the main advantage of polarization diversity in mobile communication?",
+            "options": [
+                {"id": "a", "text": "Reduces antenna size"},
+                {"id": "b", "text": "Utilizes both horizontal and vertical polarized signals"},
+                {"id": "c", "text": "Increases power consumption"},
+                {"id": "d", "text": "Reduces frequency reuse"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q57",
+            "text": "What is the azimuth of an antenna facing East?",
+            "options": [
+                {"id": "a", "text": "0°"},
+                {"id": "b", "text": "90°"},
+                {"id": "c", "text": "180°"},
+                {"id": "d", "text": "270°"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q58",
+            "text": "What is the main component of the RF feeder cable that introduces the most loss?",
+            "options": [
+                {"id": "a", "text": "Centre conductor"},
+                {"id": "b", "text": "Insulating dielectric"},
+                {"id": "c", "text": "Outer conductor"},
+                {"id": "d", "text": "Outer sheath"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q59",
+            "text": "What is the primary purpose of the cellular system design pioneered by Bell Laboratories?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Enable frequency reuse"},
+                {"id": "c", "text": "Reduce call capacity"},
+                {"id": "d", "text": "Increase interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q60",
+            "text": "What is the typical coverage radius of a macro cell?",
+            "options": [
+                {"id": "a", "text": "Few dozen meters"},
+                {"id": "b", "text": "100 m to 30 km"},
+                {"id": "c", "text": "Few hundred meters"},
+                {"id": "d", "text": "Few kilometers"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q61",
+            "text": "What is the main purpose of the half power beam width in antenna systems?",
+            "options": [
+                {"id": "a", "text": "Measure signal strength"},
+                {"id": "b", "text": "Define the aperture of the antenna"},
+                {"id": "c", "text": "Increase frequency reuse"},
+                {"id": "d", "text": "Reduce interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q62",
+            "text": "What is the primary advantage of using a digital air interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Enhances noise robustness and security"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q63",
+            "text": "What is the main function of the A8 algorithm in GSM?",
+            "options": [
+                {"id": "a", "text": "Voice encryption"},
+                {"id": "b", "text": "Key generation"},
+                {"id": "c", "text": "Signal modulation"},
+                {"id": "d", "text": "Frequency hopping"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q64",
+            "text": "What is the main purpose of the ciphering process in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Protect information from unauthorized access"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q65",
+            "text": "What is the typical size of a micro cell?",
+            "options": [
+                {"id": "a", "text": "Few dozen meters"},
+                {"id": "b", "text": "Few hundred meters"},
+                {"id": "c", "text": "Few kilometers"},
+                {"id": "d", "text": "100 m to 30 km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q66",
+            "text": "What is the main advantage of using a 3-sector configuration in cellular networks?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Reduces interference"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q67",
+            "text": "What is the primary purpose of the Temporary Mobile Subscriber Identity (TMSI) in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Enhance subscriber security"},
+                {"id": "c", "text": "Reduce antenna size"},
+                {"id": "d", "text": "Increase interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q68",
+            "text": "What is the main function of the Home Location Register (HLR) in GSM security?",
+            "options": [
+                {"id": "a", "text": "Allocate new TMSI numbers"},
+                {"id": "b", "text": "Store subscriber authentication data"},
+                {"id": "c", "text": "Amplify signals"},
+                {"id": "d", "text": "Reduce interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q69",
+            "text": "What is the primary purpose of the antenna feeder system in mobile networks?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Connect antennas to RF equipment"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Increase antenna size"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q70",
+            "text": "What is the main advantage of using a grid parabolic reflector antenna?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Suitable for fixed point-to-point links"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q71",
+            "text": "What is the typical bandwidth of the GSM 1800 band?",
+            "options": [
+                {"id": "a", "text": "25 MHz"},
+                {"id": "b", "text": "75 MHz"},
+                {"id": "c", "text": "50 MHz"},
+                {"id": "d", "text": "100 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q72",
+            "text": "What is the main purpose of the A3 algorithm in GSM?",
+            "options": [
+                {"id": "a", "text": "Voice encryption"},
+                {"id": "b", "text": "Subscriber authentication"},
+                {"id": "c", "text": "Signal modulation"},
+                {"id": "d", "text": "Frequency hopping"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q73",
+            "text": "What is the main advantage of using small cells in a cellular network?",
+            "options": [
+                {"id": "a", "text": "Increase interference"},
+                {"id": "b", "text": "Increase channel capacity"},
+                {"id": "c", "text": "Reduce antenna size"},
+                {"id": "d", "text": "Increase power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q74",
+            "text": "What is the main purpose of the cipher key Kc in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Encrypt information"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q75",
+            "text": "What is the primary purpose of selective cells in a cellular network?",
+            "options": [
+                {"id": "a", "text": "Provide full 360-degree coverage"},
+                {"id": "b", "text": "Cover specific areas like tunnel entrances"},
+                {"id": "c", "text": "Increase antenna size"},
+                {"id": "d", "text": "Reduce call capacity"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q76",
+            "text": "What is the main advantage of using a digital air interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Incorporates error correction"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q77",
+            "text": "What is the typical number of carrier frequencies in the GSM 1800 band?",
+            "options": [
+                {"id": "a", "text": "124"},
+                {"id": "b", "text": "374"},
+                {"id": "c", "text": "200"},
+                {"id": "d", "text": "50"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q78",
+            "text": "What is the main purpose of the radiation pattern in antenna systems?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Show radiated power as a function of direction"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q79",
+            "text": "What is the main advantage of using panel antennas in mobile communications?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Achieves gain in both horizontal and vertical planes"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q80",
+            "text": "What is the main purpose of the Personal Identity Number (PIN) on a SIM card?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Prevent unauthorized use"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q81",
+            "text": "What is the typical coverage of a selective cell?",
+            "options": [
+                {"id": "a", "text": "360 degrees"},
+                {"id": "b", "text": "120 degrees"},
+                {"id": "c", "text": "90 degrees"},
+                {"id": "d", "text": "180 degrees"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q82",
+            "text": "What is the main advantage of using space diversity in mobile communication?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Compensates signal minima with maxima"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q83",
+            "text": "What is the main purpose of the outer sheath in an RF feeder cable?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Protect against dirt and moisture"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q84",
+            "text": "What is the main purpose of the cellular concept in mobile networks?",
+            "options": [
+                {"id": "a", "text": "Increase antenna size"},
+                {"id": "b", "text": "Enable frequency reuse"},
+                {"id": "c", "text": "Reduce call capacity"},
+                {"id": "d", "text": "Increase interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q85",
+            "text": "What is the main advantage of using a 7-cell cluster in a cellular network?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Balances interference and capacity"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q86",
+            "text": "What is the primary purpose of the Mobile Assisted Handover (MAHO) in cellular networks?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Reduce interference"},
+                {"id": "c", "text": "Reduce antenna size"},
+                {"id": "d", "text": "Increase power consumption"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q87",
+            "text": "What is the main purpose of the antenna gain in mobile communication systems?",
+            "options": [
+                {"id": "a", "text": "Increase signal interference"},
+                {"id": "b", "text": "Concentrate energy in a defined direction"},
+                {"id": "c", "text": "Reduce call capacity"},
+                {"id": "d", "text": "Increase antenna size"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q88",
+            "text": "What is the main advantage of using a digital air interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Incorporates error correction"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q89",
+            "text": "What is the primary purpose of the burst assembling process in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Prepare data for transmission"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q90",
+            "text": "What is the main advantage of using a 4-cell cluster in a cellular network?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Increases channel capacity per cell"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q91",
+            "text": "What is the main purpose of the channel coding in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Protect data from errors"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q92",
+            "text": "What is the typical coverage radius of a pico cell?",
+            "options": [
+                {"id": "a", "text": "Few kilometers"},
+                {"id": "b", "text": "Few dozen meters"},
+                {"id": "c", "text": "Few hundred meters"},
+                {"id": "d", "text": "100 m to 30 km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q93",
+            "text": "What is the main advantage of using a digital air interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Enhances privacy and security"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q94",
+            "text": "What is the main purpose of the RF feeder cable in a mobile network?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Deliver radio frequency power"},
+                {"id": "c", "text": "Reduce signal loss"},
+                {"id": "d", "text": "Increase antenna size"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q95",
+            "text": "What is the primary purpose of the SIM card in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Store security-related information"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q96",
+            "text": "What is the main advantage of using a digital air interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Incorporates error correction"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q97",
+            "text": "What is the main purpose of the ciphering start procedure in GSM?",
+            "options": [
+                {"id": "a", "text": "Increase signal strength"},
+                {"id": "b", "text": "Initiate encryption of information"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Amplify signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q98",
+            "text": "What is the typical duplex spacing for the GSM 1800 band?",
+            "options": [
+                {"id": "a", "text": "45 MHz"},
+                {"id": "b", "text": "95 MHz"},
+                {"id": "c", "text": "25 MHz"},
+                {"id": "d", "text": "75 MHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q99",
+            "text": "What is the main purpose of the antenna feeder system in mobile networks?",
+            "options": [
+                {"id": "a", "text": "Amplify signals"},
+                {"id": "b", "text": "Connect antennas to RF equipment"},
+                {"id": "c", "text": "Reduce frequency reuse"},
+                {"id": "d", "text": "Increase antenna size"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q100",
+            "text": "What is the main advantage of using a digital air interface in GSM?",
+            "options": [
+                {"id": "a", "text": "Increases antenna size"},
+                {"id": "b", "text": "Enhances privacy and security"},
+                {"id": "c", "text": "Reduces call capacity"},
+                {"id": "d", "text": "Increases interference"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
