@@ -456,7 +456,7 @@
             "id": "q42",
             "text": "What is the main advantage of TDD over FDD in GSM?",
             "options": [
-                {"id": "a", "1", "text": "Increases signal strength"},
+                {"id": "a", "text": "Increases signal strength"},
                 {"id": "b", "text": "No duplexer required"},
                 {"id": "c", "text": "Reduces frequency reuse"},
                 {"id": "d", "text": "Increases interference"}
