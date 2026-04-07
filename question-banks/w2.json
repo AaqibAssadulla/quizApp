@@ -1,0 +1,1105 @@
+{
+    "title": "JTO Phase-II Week 2 Quiz",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "What does 'ISDN' stand for in telecommunications?",
+            "options": [
+                {"id": "a", "text": "Integrated Services Digital Network"},
+                {"id": "b", "text": "Internal Systems Data Network"},
+                {"id": "c", "text": "Interactive Service Digital Node"},
+                {"id": "d", "text": "International Standard Data Network"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q2",
+            "text": "What is the typical call setup time between two ISDN subscribers?",
+            "options": [
+                {"id": "a", "text": "5-10 seconds"},
+                {"id": "b", "text": "1-2 seconds"},
+                {"id": "c", "text": "Less than 1 second"},
+                {"id": "d", "text": "10-20 seconds"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "How many simultaneous independent calls can a Basic Rate ISDN (BRI) subscriber establish on an existing pair of wires?",
+            "options": [
+                {"id": "a", "text": "One"},
+                {"id": "b", "text": "Two"},
+                {"id": "c", "text": "Four"},
+                {"id": "d", "text": "Thirty"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q4",
+            "text": "Which BSNL facility allows landline customers within a defined group to talk free of cost with each other?",
+            "options": [
+                {"id": "a", "text": "ISDN PRI"},
+                {"id": "b", "text": "Centrex"},
+                {"id": "c", "text": "SIP Trunking"},
+                {"id": "d", "text": "VPNoBB"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q5",
+            "text": "In the 'Free EPABX Scheme,' what is the minimum duration of the undertaking a customer must provide to avail of BSNL services?",
+            "options": [
+                {"id": "a", "text": "1 year"},
+                {"id": "b", "text": "3 years"},
+                {"id": "c", "text": "5 years"},
+                {"id": "d", "text": "10 years"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6",
+            "text": "Which BSNL service is described as the 'modern day equivalent of a T1 trunk'?",
+            "options": [
+                {"id": "a", "text": "MLLN"},
+                {"id": "b", "text": "Centrex"},
+                {"id": "c", "text": "SIP Trunk"},
+                {"id": "d", "text": "ISDN BRI"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "In Voice VPN, what character is typically dialed before a short code (pnp) to access numbers within the private network?",
+            "options": [
+                {"id": "a", "text": "*"},
+                {"id": "b", "text": "#"},
+                {"id": "c", "text": "0"},
+                {"id": "d", "text": "9"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8",
+            "text": "What is the maximum number of entries allowed in a 'Hunting List' for Voice VPN incoming calls per pnp?",
+            "options": [
+                {"id": "a", "text": "5"},
+                {"id": "b", "text": "10"},
+                {"id": "c", "text": "15"},
+                {"id": "d", "text": "20"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q9",
+            "text": "Which layer of the BSNL IP backbone consists of 24 powerful Core Routers connected with STM-16 (2.5 Gbps) links?",
+            "options": [
+                {"id": "a", "text": "Layer 1 (Backbone)"},
+                {"id": "b", "text": "Layer 2 (Aggregation)"},
+                {"id": "c", "text": "Layer 3 (Access)"},
+                {"id": "d", "text": "Service Layer"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q10",
+            "text": "In an MPLS VPN 'Overlay Model,' which network element performs Layer 3 functions?",
+            "options": [
+                {"id": "a", "text": "Provider Edge (PE)"},
+                {"id": "b", "text": "Customer Edge (CE)"},
+                {"id": "c", "text": "Provider Core (P)"},
+                {"id": "d", "text": "Label Edge Router (LER)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "In an MPLS VPN 'Peer Model,' what is the size of the unique VPN address or tag added to the IP packet?",
+            "options": [
+                {"id": "a", "text": "4 bits"},
+                {"id": "b", "text": "8 bits"},
+                {"id": "c", "text": "8 bytes"},
+                {"id": "d", "text": "32 bytes"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q12",
+            "text": "What is the maximum allowed output power for fixed GSM terminals typically installed in vehicles?",
+            "options": [
+                {"id": "a", "text": "2 W"},
+                {"id": "b", "text": "8 W"},
+                {"id": "c", "text": "20 W"},
+                {"id": "d", "text": "0.8 W"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q13",
+            "text": "Which GSM database contains information from a subscriber's HLR necessary for providing services to users visiting a new MSC area?",
+            "options": [
+                {"id": "a", "text": "EIR"},
+                {"id": "b", "text": "VLR"},
+                {"id": "c", "text": "AuC"},
+                {"id": "d", "text": "OSS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q14",
+            "text": "In a 3G network, what is the name of the Radio Network Controller element?",
+            "options": [
+                {"id": "a", "text": "BSC"},
+                {"id": "b", "text": "Node-B"},
+                {"id": "c", "text": "RNC"},
+                {"id": "d", "text": "SGSN"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q15",
+            "text": "Which standard development organization is responsible for WCDMA (3G)?",
+            "options": [
+                {"id": "a", "text": "3GPP"},
+                {"id": "b", "text": "3GPP2"},
+                {"id": "c", "text": "IEEE"},
+                {"id": "d", "text": "IETF"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q16",
+            "text": "What is the primary benefit of 'Bulk SMS' services for businesses?",
+            "options": [
+                {"id": "a", "text": "High call quality"},
+                {"id": "b", "text": "98% open rate and wide reach"},
+                {"id": "c", "text": "Requires internet availability"},
+                {"id": "d", "text": "Replaces email entirely"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "In a Domestic Leased Circuit (DLC), which segment connects the customer's premises to the nearest PoP or PoI?",
+            "options": [
+                {"id": "a", "text": "Trunk Segment"},
+                {"id": "b", "text": "Access Segment"},
+                {"id": "c", "text": "Local Lead"},
+                {"id": "d", "text": "Main Path"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q18",
+            "text": "Which symmetric alternative to ADSL offers a higher upload speed and is used for low-bandwidth leased lines?",
+            "options": [
+                {"id": "a", "text": "VDSL"},
+                {"id": "b", "text": "SDSL"},
+                {"id": "c", "text": "GPON"},
+                {"id": "d", "text": "MLLN"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q19",
+            "text": "What does 'EFM' stand for in the context of broadband and leased lines?",
+            "options": [
+                {"id": "a", "text": "Ethernet in the First Mile"},
+                {"id": "b", "text": "Electronic Fast Modem"},
+                {"id": "c", "text": "Extended Fiber Mode"},
+                {"id": "d", "text": "Enhanced Frequency Modulation"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q20",
+            "text": "Under MLLN bandwidth management, is down-gradation of a circuit's bandwidth permitted?",
+            "options": [
+                {"id": "a", "text": "Yes, at any time"},
+                {"id": "b", "text": "Yes, only after 1 year"},
+                {"id": "c", "text": "No, it is not permitted"},
+                {"id": "d", "text": "Only for Platinum customers"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q21",
+            "text": "What is the refundable security deposit required per NTU for MLLN service?",
+            "options": [
+                {"id": "a", "text": "Rs. 1,000"},
+                {"id": "b", "text": "Rs. 5,000"},
+                {"id": "c", "text": "Rs. 10,000"},
+                {"id": "d", "text": "Rs. 20,000"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q22",
+            "text": "Which IP address type is used to send a datagram to a specific set of hosts configured as members of a group?",
+            "options": [
+                {"id": "a", "text": "Unicast"},
+                {"id": "b", "text": "Broadcast"},
+                {"id": "c", "text": "Multicast"},
+                {"id": "d", "text": "Anycast"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q23",
+            "text": "In multicast forwarding notation '(S,G)', what does 'S' represent?",
+            "options": [
+                {"id": "a", "text": "Subnet Mask"},
+                {"id": "b", "text": "Server Group"},
+                {"id": "c", "text": "Source unicast IP address"},
+                {"id": "d", "text": "Slot Number"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q24",
+            "text": "Which PIM mode assumes that almost all possible subnets have at least one interested receiver?",
+            "options": [
+                {"id": "a", "text": "PIM Sparse Mode"},
+                {"id": "b", "text": "PIM Dense Mode"},
+                {"id": "c", "text": "PIM Bidirectional Mode"},
+                {"id": "d", "text": "PIM Anycast Mode"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q25",
+            "text": "What is the recommended multicast PIM mode for WAN deployments?",
+            "options": [
+                {"id": "a", "text": "PIM Dense Mode"},
+                {"id": "b", "text": "PIM Sparse Mode"},
+                {"id": "c", "text": "DVMRP"},
+                {"id": "d", "text": "MOSPF"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q26",
+            "text": "What is the IP protocol number for PIMv2?",
+            "options": [
+                {"id": "a", "text": "6"},
+                {"id": "b", "text": "17"},
+                {"id": "c", "text": "103"},
+                {"id": "d", "text": "88"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q27",
+            "text": "What is the typical 'contention ratio' for an Internet Leased Line (ILL)?",
+            "options": [
+                {"id": "a", "text": "1:32"},
+                {"id": "b", "text": "1:1 (un-contended)"},
+                {"id": "c", "text": "1:4"},
+                {"id": "d", "text": "1:10"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "Compared to broadband, what are the characteristic latency and jitter levels of a leased line?",
+            "options": [
+                {"id": "a", "text": "Higher latency and higher jitter"},
+                {"id": "b", "text": "Lower latency and lower jitter"},
+                {"id": "c", "text": "Identical levels"},
+                {"id": "d", "text": "Varied based on time of day"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q29",
+            "text": "What is the primary difference between Dark Fiber and DWDM as per the training material?",
+            "options": [
+                {"id": "a", "text": "Dark Fiber is always faster"},
+                {"id": "b", "text": "DWDM is managed by the network provider; Dark Fiber is managed by the customer"},
+                {"id": "c", "text": "Dark Fiber requires no equipment"},
+                {"id": "d", "text": "DWDM is only for voice calls"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q30",
+            "text": "What is the uniform price for BharatNet dark fiber on BBNL's OFC (incremental cable)?",
+            "options": [
+                {"id": "a", "text": "Rs 10,000 per Km per annum"},
+                {"id": "b", "text": "Rs 2250 per fiber per Km per annum"},
+                {"id": "c", "text": "Free for first 3 years"},
+                {"id": "d", "text": "Rs 500 per month"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q31",
+            "text": "Which frequency band is 'License Exempt' and used for Bharat Air Fiber links providing speeds < 300 Mbps?",
+            "options": [
+                {"id": "a", "text": "3 GHz"},
+                {"id": "b", "text": "2.4 GHz"},
+                {"id": "c", "text": "70 GHz"},
+                {"id": "d", "text": "60 GHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "In Bharat Air Fiber, what is the impact of 'High interference' (RSSI less than -60 dbm) on performance?",
+            "options": [
+                {"id": "a", "text": "Performance increases"},
+                {"id": "b", "text": "20-40% decrease"},
+                {"id": "c", "text": "30-60% decrease"},
+                {"id": "d", "text": "Zero performance (total cut)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q33",
+            "text": "Which VPN security protocol is often combined with L2TP to establish a highly secure connection through encryption?",
+            "options": [
+                {"id": "a", "text": "HTTP"},
+                {"id": "b", "text": "PPTP"},
+                {"id": "c", "text": "IPSec"},
+                {"id": "d", "text": "ICMP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q34",
+            "text": "What is the current 'highest encryption standard' mentioned for VPNs in the sources?",
+            "options": [
+                {"id": "a", "text": "WPA"},
+                {"id": "b", "text": "DES"},
+                {"id": "c", "text": "AES-256"},
+                {"id": "d", "text": "WEP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q35",
+            "text": "What are the two normal telephone ports on an FTTH HONT (Home Optical Network Termination) used for?",
+            "options": [
+                {"id": "a", "text": "Internet and TV"},
+                {"id": "b", "text": "Voice and Video"},
+                {"id": "c", "text": "Broadband and Data"},
+                {"id": "d", "text": "CCTV only"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q36",
+            "text": "What is the maximum power backup duration for an FTTH HONT under full load?",
+            "options": [
+                {"id": "a", "text": "1 hour"},
+                {"id": "b", "text": "2 hours"},
+                {"id": "c", "text": "4 hours"},
+                {"id": "d", "text": "12 hours"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "Which BSNL service is a 'fully managed Secured Data service' that includes CPE and end-to-end turn-key implementation?",
+            "options": [
+                {"id": "a", "text": "Managed Network Services (MNS)"},
+                {"id": "b", "text": "Standard Leased Line"},
+                {"id": "c", "text": "Centrex"},
+                {"id": "d", "text": "Bulk SMS"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q38",
+            "text": "What is the guaranteed uptime SLA for BSNL's Managed Network Services?",
+            "options": [
+                {"id": "a", "text": "95%"},
+                {"id": "b", "text": "98%"},
+                {"id": "c", "text": "99%"},
+                {"id": "d", "text": "99.999%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q39",
+            "text": "What is the recurring usage charge per participant per minute for BSNL Global Web Conferencing (GWC)?",
+            "options": [
+                {"id": "a", "text": "Rs. 5"},
+                {"id": "b", "text": "Rs. 10"},
+                {"id": "c", "text": "Rs. 15"},
+                {"id": "d", "text": "Rs. 25"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "In a data center, what characterizes Tier 4 according to TIA-942 standards?",
+            "options": [
+                {"id": "a", "text": "Single non-redundant path"},
+                {"id": "b", "text": "99.741% availability"},
+                {"id": "c", "text": "Fault-tolerant site infrastructure"},
+                {"id": "d", "text": "Only active during business hours"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q41",
+            "text": "In a VSAT system, which component converts I.F. to R.F. transmitting frequency?",
+            "options": [
+                {"id": "a", "text": "LNB"},
+                {"id": "b", "text": "BUC (Block Up-converter)"},
+                {"id": "c", "text": "IDU"},
+                {"id": "d", "text": "Antenna"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q42",
+            "text": "What is the maximum download speed for a BSNL Broadband VSAT user terminal?",
+            "options": [
+                {"id": "a", "text": "1 Mbps"},
+                {"id": "b", "text": "2 Mbps"},
+                {"id": "c", "text": "4 Mbps"},
+                {"id": "d", "text": "10 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43",
+            "text": "Where is BSNL's Ku Band HUB (Earth Station) for VSAT located?",
+            "options": [
+                {"id": "a", "text": "New Delhi"},
+                {"id": "b", "text": "Mumbai"},
+                {"id": "c", "text": "Bangalore"},
+                {"id": "d", "text": "Sikanderabad"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q44",
+            "text": "Where is the BSNL DSPT (Digital Satellite Phone Terminal) Hub located?",
+            "options": [
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Chennai"},
+                {"id": "c", "text": "Sikanderabad (U.P.)"},
+                {"id": "d", "text": "Jaipur"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q45",
+            "text": "Which satellite is used for BSNL's GSPS (Global Satellite Phone Service)?",
+            "options": [
+                {"id": "a", "text": "GSAT-11"},
+                {"id": "b", "text": "INSAT-3C"},
+                {"id": "c", "text": "Inmarsat I-4 F2"},
+                {"id": "d", "text": "Syncom 3"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q46",
+            "text": "For GSPS, how frequently does the phone attempt to refresh the GPS fix when the position screen is open?",
+            "options": [
+                {"id": "a", "text": "Every 10 seconds"},
+                {"id": "b", "text": "Every 30 seconds"},
+                {"id": "c", "text": "Every 60 seconds"},
+                {"id": "d", "text": "Only once per call"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q47",
+            "text": "What is the monthly fixed rental for BSNL eTrack service?",
+            "options": [
+                {"id": "a", "text": "Rs. 150"},
+                {"id": "b", "text": "Rs. 49"},
+                {"id": "c", "text": "Rs. 500"},
+                {"id": "d", "text": "Nil"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q48",
+            "text": "In the eSBM Platform, which feature allows citizens to track their complaints?",
+            "options": [
+                {"id": "a", "text": "WAP Surf"},
+                {"id": "b", "text": "Unique Id For Tracking"},
+                {"id": "c", "text": "Centrex Grouping"},
+                {"id": "d", "text": "L2TP Tunnel"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q49",
+            "text": "What is the maximum distance supported by Radio Modems mentioned in the training material?",
+            "options": [
+                {"id": "a", "text": "5 Km"},
+                {"id": "b", "text": "10 Km"},
+                {"id": "c", "text": "20 Km"},
+                {"id": "d", "text": "50 Km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q50",
+            "text": "What is the current maximum speed for BSNL Radio Modems as per the product specification template?",
+            "options": [
+                {"id": "a", "text": "10 Mbps"},
+                {"id": "b", "text": "2 Mbps"},
+                {"id": "c", "text": "4 Mbps"},
+                {"id": "d", "text": "100 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q51",
+            "text": "In Intelligent Networks (IN), which element provides the user interface and updates the SCP with new data?",
+            "options": [
+                {"id": "a", "text": "SSP"},
+                {"id": "b", "text": "STP"},
+                {"id": "c", "text": "SMP (Service Management Point)"},
+                {"id": "d", "text": "IP Router"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q52",
+            "text": "What is the toll-free helpdesk number for MPLS VPN NOC?",
+            "options": [
+                {"id": "a", "text": "1500"},
+                {"id": "b", "text": "1957"},
+                {"id": "c", "text": "198"},
+                {"id": "d", "text": "1800-233-3334"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q53",
+            "text": "What is the maximum jitter to be maintained for MPLS VPN SLA?",
+            "options": [
+                {"id": "a", "text": "10 ms"},
+                {"id": "b", "text": "25 ms"},
+                {"id": "c", "text": "50 ms"},
+                {"id": "d", "text": "150 ms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q54",
+            "text": "In a 3G network, which element is responsible for connecting to the Internet?",
+            "options": [
+                {"id": "a", "text": "SGSN"},
+                {"id": "b", "text": "GGSN"},
+                {"id": "c", "text": "RNC"},
+                {"id": "d", "text": "Node-B"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q55",
+            "text": "Which technology allows BSNL to provide 'Converged Packet Aggregation' over an MPLS-TP backbone?",
+            "options": [
+                {"id": "a", "text": "MLLN"},
+                {"id": "b", "text": "CPAN"},
+                {"id": "c", "text": "SDH"},
+                {"id": "d", "text": "ATM"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q56",
+            "text": "For ISDN, what is the bit rate of a single 'B' channel?",
+            "options": [
+                {"id": "a", "text": "16 kbps"},
+                {"id": "b", "text": "64 kbps"},
+                {"id": "c", "text": "128 kbps"},
+                {"id": "d", "text": "2 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q57",
+            "text": "How many 'B' channels are typically available in a Primary Rate ISDN (PRI) line in India?",
+            "options": [
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "23"},
+                {"id": "c", "text": "30"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q58",
+            "text": "Which Centrex type is intended for Cooperative Group Housing Societies?",
+            "options": [
+                {"id": "a", "text": "Type 1 (Defined boundaries)"},
+                {"id": "b", "text": "Type 2 (Local exchange area)"},
+                {"id": "c", "text": "Type 3 (City wide)"},
+                {"id": "d", "text": "Type 4 (State wide)"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q59",
+            "text": "What is the Undertaking period (period of hire) for a customer availing a free EPABX from BSNL?",
+            "options": [
+                {"id": "a", "text": "1 year"},
+                {"id": "b", "text": "2 years"},
+                {"id": "c", "text": "3 years"},
+                {"id": "d", "text": "5 years"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q60",
+            "text": "In Voice VPN, what does 'PED' stand for?",
+            "options": [
+                {"id": "a", "text": "Primary Entry Device"},
+                {"id": "b", "text": "Preferred External Destination"},
+                {"id": "c", "text": "Private Ethernet Domain"},
+                {"id": "d", "text": "Priority Exchange Data"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q61",
+            "text": "Which technology is NOT technically feasible for pnp (#) dialing in Voice VPN?",
+            "options": [
+                {"id": "a", "text": "OCB-283"},
+                {"id": "b", "text": "EWSD"},
+                {"id": "c", "text": "C-DoT"},
+                {"id": "d", "text": "5ESS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q62",
+            "text": "In the MPLS backbone, what is the capacity of the national DWDM network interface for core routers?",
+            "options": [
+                {"id": "a", "text": "STM-1"},
+                {"id": "b", "text": "STM-4"},
+                {"id": "c", "text": "STM-16 (2.5 Gbps)"},
+                {"id": "d", "text": "STM-64"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q63",
+            "text": "What is the name of the router sitting at the edge of the provider's network in an MPLS architecture?",
+            "options": [
+                {"id": "a", "text": "Customer Edge (CE)"},
+                {"id": "b", "text": "Provider Edge (PE)"},
+                {"id": "c", "text": "Provider Core (P)"},
+                {"id": "d", "text": "Switch"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q64",
+            "text": "What is the maximum allowed output power for handheld GSM terminals?",
+            "options": [
+                {"id": "a", "text": "0.8 W"},
+                {"id": "b", "text": "2 W"},
+                {"id": "c", "text": "8 W"},
+                {"id": "d", "text": "20 W"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q65",
+            "text": "What is the International Mobile Subscriber Identity (IMSI) used for in GSM?",
+            "options": [
+                {"id": "a", "text": "Charging the battery"},
+                {"id": "b", "text": "Identifying the subscriber to the system"},
+                {"id": "c", "text": "Encrypting voice calls"},
+                {"id": "d", "text": "Tracking vehicle location"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q66",
+            "text": "In 3G, what does 'WCDMA' use to increase bandwidth and efficiency?",
+            "options": [
+                {"id": "a", "text": "Time Slots"},
+                {"id": "b", "text": "Frequency Hopping"},
+                {"id": "c", "text": "Multiple access technique (Code Division)"},
+                {"id": "d", "text": "Analog signals"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q67",
+            "text": "What is the maximum packet loss to be maintained in an MPLS VPN SLA?",
+            "options": [
+                {"id": "a", "text": "0.1%"},
+                {"id": "b", "text": "1%"},
+                {"id": "c", "text": "5%"},
+                {"id": "d", "text": "10%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q68",
+            "text": "Which service is described as an 'OPEX Model instead of CAPEX' for managed network infrastructure?",
+            "options": [
+                {"id": "a", "text": "Managed Network Services (MNS)"},
+                {"id": "b", "text": "Leased Circuits"},
+                {"id": "c", "text": "Centrex"},
+                {"id": "d", "text": "Global Web Conferencing"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q69",
+            "text": "In MLLN, what does 'NTU' stand for?",
+            "options": [
+                {"id": "a", "text": "Network Termination Unit"},
+                {"id": "b", "text": "Node Transfer Utility"},
+                {"id": "c", "text": "New Transmission Unit"},
+                {"id": "d", "text": "Nodal Terminal User"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q70",
+            "text": "What is the maximum working distance for a 64 kbps MLLN line?",
+            "options": [
+                {"id": "a", "text": "3.5 Km"},
+                {"id": "b", "text": "5.0 Km"},
+                {"id": "c", "text": "7.0 Km"},
+                {"id": "d", "text": "10.0 Km"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q71",
+            "text": "Which MLLN element performs the cross-connect function and is upgradeable from 64 to 128 ports?",
+            "options": [
+                {"id": "a", "text": "NTU"},
+                {"id": "b", "text": "VMUX"},
+                {"id": "c", "text": "DXC"},
+                {"id": "d", "text": "NMS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q72",
+            "text": "What is the 'wildcard' character used in multicast forwarding state to represent any source?",
+            "options": [
+                {"id": "a", "text": "#"},
+                {"id": "b", "text": "S"},
+                {"id": "c", "text": "*"},
+                {"id": "d", "text": "@"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q73",
+            "text": "In a multicast 'Data MDT,' which PE routers are included in the tree?",
+            "options": [
+                {"id": "a", "text": "All PE routers in the circle"},
+                {"id": "b", "text": "Only PE routers connected to high-bandwidth sources/receivers"},
+                {"id": "c", "text": "Only the core routers"},
+                {"id": "d", "text": "No PE routers are included"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q74",
+            "text": "What is the minimum period for leasing dark fiber on BBNL's OFC?",
+            "options": [
+                {"id": "a", "text": "3 months"},
+                {"id": "b", "text": "6 months"},
+                {"id": "c", "text": "1 year"},
+                {"id": "d", "text": "5 years"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q75",
+            "text": "Which Bharat Air Fiber frequency is recommended for links of up to 1 Gbps?",
+            "options": [
+                {"id": "a", "text": "2.4 GHz"},
+                {"id": "b", "text": "5 GHz"},
+                {"id": "c", "text": "60 GHz"},
+                {"id": "d", "text": "3 GHz"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q76",
+            "text": "Which tunneling protocol is often combined with IPSec for secure VPN connections?",
+            "options": [
+                {"id": "a", "text": "HTTP"},
+                {"id": "b", "text": "L2TP"},
+                {"id": "c", "text": "FTP"},
+                {"id": "d", "text": "SMTP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q77",
+            "text": "What is the maximum upload speed for a BSNL Broadband VSAT?",
+            "options": [
+                {"id": "a", "text": "64 kbps"},
+                {"id": "b", "text": "1 Mbps"},
+                {"id": "c", "text": "2 Mbps"},
+                {"id": "d", "text": "4 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q78",
+            "text": "Which VSAT technology automatically adjusts modulation based on rain environment?",
+            "options": [
+                {"id": "a", "text": "DLA (Dynamic Link Allocation)"},
+                {"id": "b", "text": "GRE Tunneling"},
+                {"id": "c", "text": "SCPC"},
+                {"id": "d", "text": "PWE3"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q79",
+            "text": "What is the size of the satellite antenna at the BSNL Ku Band HUB in Bangalore?",
+            "options": [
+                {"id": "a", "text": "1.2 m"},
+                {"id": "b", "text": "5.0 m"},
+                {"id": "c", "text": "8.1 m"},
+                {"id": "d", "text": "10 m"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q80",
+            "text": "Which service offers high-speed in-flight internet through a wholly-owned satellite network?",
+            "options": [
+                {"id": "a", "text": "eTrack"},
+                {"id": "b", "text": "GX Aviation"},
+                {"id": "c", "text": "MLLN"},
+                {"id": "d", "text": "Centrex"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q81",
+            "text": "In GSPS, what does the 'GPS fix required' icon indicate?",
+            "options": [
+                {"id": "a", "text": "Battery is low"},
+                {"id": "b", "text": "New GPS position is needed to connect to the network"},
+                {"id": "c", "text": "Satellite is unavailable"},
+                {"id": "d", "text": "SIM card is missing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q82",
+            "text": "What is the monthly fixed charge for GSPS Plan C1 for commercial users?",
+            "options": [
+                {"id": "a", "text": "Rs. 1,000"},
+                {"id": "b", "text": "Rs. 5,000"},
+                {"id": "c", "text": "Rs. 10,000"},
+                {"id": "d", "text": "Rs. 500"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q83",
+            "text": "How many free SMS per month are included in the eTrack service?",
+            "options": [
+                {"id": "a", "text": "50"},
+                {"id": "b", "text": "100"},
+                {"id": "c", "text": "180"},
+                {"id": "d", "text": "500"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q84",
+            "text": "Which BSNL application allows ULB staff to send 'start of trip' and 'end of trip' reports?",
+            "options": [
+                {"id": "a", "text": "E-pay"},
+                {"id": "b", "text": "eSBM Platform"},
+                {"id": "c", "text": "MyBSNL"},
+                {"id": "d", "text": "Teevra"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q85",
+            "text": "What frequency bands are typically used for BSNL Radio Modems?",
+            "options": [
+                {"id": "a", "text": "800/900 MHz"},
+                {"id": "b", "text": "2.4 GHz and 5.8 GHz"},
+                {"id": "c", "text": "C-band"},
+                {"id": "d", "text": "Ku-band"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q86",
+            "text": "Which MNS product offers connectivity at 512 kbps over broadband with managed firewall?",
+            "options": [
+                {"id": "a", "text": "BSNL Bizcom"},
+                {"id": "b", "text": "BSNL EasyCom"},
+                {"id": "c", "text": "BSNL EntCom"},
+                {"id": "d", "text": "SIP Trunk"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q87",
+            "text": "In ISDN, what type of signal is sampled at 3.1 kHz and encoded at 64 kbps?",
+            "options": [
+                {"id": "a", "text": "Digital"},
+                {"id": "b", "text": "Analog telephone signal"},
+                {"id": "c", "text": "High definition video"},
+                {"id": "d", "text": "Fiber optic pulse"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q88",
+            "text": "What is the call setup time for an ISDN call?",
+            "options": [
+                {"id": "a", "text": "10-15 seconds"},
+                {"id": "b", "text": "1-2 seconds"},
+                {"id": "c", "text": "30 seconds"},
+                {"id": "d", "text": "Immediate (0 seconds)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q89",
+            "text": "In Centrex, which feature allows a user to answer a call ringing at another extension in the group?",
+            "options": [
+                {"id": "a", "text": "Call Forward"},
+                {"id": "b", "text": "Call Pick Up"},
+                {"id": "c", "text": "Call Transfer"},
+                {"id": "d", "text": "CLIP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q90",
+            "text": "What is the undertook period required for the free EPABX scheme?",
+            "options": [
+                {"id": "a", "text": "1 year"},
+                {"id": "b", "text": "3 years"},
+                {"id": "c", "text": "5 years"},
+                {"id": "d", "text": "10 years"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q91",
+            "text": "Which technology serves as the 'monopolistic equivalent of the traditional T1 trunk'?",
+            "options": [
+                {"id": "a", "text": "SIP Trunking"},
+                {"id": "b", "text": "ISDN PRI"},
+                {"id": "c", "text": "MLLN"},
+                {"id": "d", "text": "ILL"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q92",
+            "text": "In Voice VPN, what does 'pnp' stand for?",
+            "options": [
+                {"id": "a", "text": "Personal node port"},
+                {"id": "b", "text": "Preferred network path"},
+                {"id": "c", "text": "Private numbering plan"},
+                {"id": "d", "text": "Priority network point"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q93",
+            "text": "In the Peer VPN Model, which router adds the VPN header with the designated IP address?",
+            "options": [
+                {"id": "a", "text": "Provider Router (P)"},
+                {"id": "b", "text": "Provider Edge (PE)"},
+                {"id": "c", "text": "Customer Edge (CE)"},
+                {"id": "d", "text": "MDF"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q94",
+            "text": "Which GSM database contains the authentication triplets?",
+            "options": [
+                {"id": "a", "text": "HLR"},
+                {"id": "b", "text": "VLR"},
+                {"id": "c", "text": "AuC (Authentication Center)"},
+                {"id": "d", "text": "EIR"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q95",
+            "text": "In 3G, what does 'RNC' stand for?",
+            "options": [
+                {"id": "a", "text": "Remote Network Center"},
+                {"id": "b", "text": "Radio Network Controller"},
+                {"id": "c", "text": "Routing Node Connection"},
+                {"id": "d", "text": "Register Node Cloud"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q96",
+            "text": "Which network application routes packets of user data independently of one another without established circuits?",
+            "options": [
+                {"id": "a", "text": "Circuit-Switched"},
+                {"id": "b", "text": "Packet-Switched"},
+                {"id": "c", "text": "Point-to-Point"},
+                {"id": "d", "text": "Hot line"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q97",
+            "text": "What is the open rate for SMS as per the training material?",
+            "options": [
+                {"id": "a", "text": "22%"},
+                {"id": "b", "text": "50%"},
+                {"id": "c", "text": "98%"},
+                {"id": "d", "text": "100%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q98",
+            "text": "In MLLN, what is the maximum distance for a 2 Mbps line on a single pair of copper?",
+            "options": [
+                {"id": "a", "text": "2.5 Km"},
+                {"id": "b", "text": "3.5 Km"},
+                {"id": "c", "text": "5.0 Km"},
+                {"id": "d", "text": "7.0 Km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q99",
+            "text": "Which multicast protocol optimizes for routing state size instead of path length using wildcard-source (*,G) routes?",
+            "options": [
+                {"id": "a", "text": "PIM Dense Mode"},
+                {"id": "b", "text": "PIM Sparse Mode"},
+                {"id": "c", "text": "Bidirectional PIM"},
+                {"id": "d", "text": "DVMRP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q100",
+            "text": "What is the typical range of BSNL Bharat Air Fiber service wireless connectivity?",
+            "options": [
+                {"id": "a", "text": "5 KMs"},
+                {"id": "b", "text": "10 KMs"},
+                {"id": "c", "text": "20 KMs"},
+                {"id": "d", "text": "50 KMs"}
+            ],
+            "correctAnswer": "c"
+        }
+    ]
+}

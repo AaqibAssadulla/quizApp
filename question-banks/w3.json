@@ -1,0 +1,1105 @@
+{
+    "title": "JTO Phase-II Week 3 Quiz",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "According to the technical requirements for BSNL SIP Trunk Service over FTTH, what is the formula to calculate the minimum bandwidth required under FUP?",
+            "options": [
+                {"id": "a", "text": "1.5 x number of concurrent channels x 150 kbps"},
+                {"id": "b", "text": "2 x number of concurrent channels x 150 kbps"},
+                {"id": "c", "text": "number of concurrent channels x 300 kbps"},
+                {"id": "d", "text": "2.5 x number of concurrent channels x 100 kbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q2",
+            "text": "In the context of Cloud Computing, which service model provides the runtime environment for applications along with development and deployment tools?",
+            "options": [
+                {"id": "a", "text": "Infrastructure as a Service (IaaS)"},
+                {"id": "b", "text": "Software as a Service (SaaS)"},
+                {"id": "c", "text": "Platform as a Service (PaaS)"},
+                {"id": "d", "text": "Network as a Service (NaaS)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q3",
+            "text": "Which TIA-942 Data Center Tier is characterized by being 'concurrently maintainable' and guaranteeing 99.982% availability?",
+            "options": [
+                {"id": "a", "text": "Tier 1"},
+                {"id": "b", "text": "Tier 2"},
+                {"id": "c", "text": "Tier 3"},
+                {"id": "d", "text": "Tier 4"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q4",
+            "text": "What is the minimum period of hire for BSNL Web Co-location server services?",
+            "options": [
+                {"id": "a", "text": "3 months"},
+                {"id": "b", "text": "6 months"},
+                {"id": "c", "text": "12 months"},
+                {"id": "d", "text": "1 month"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q5",
+            "text": "In the IoT Reference Model, which layer is responsible for control functions like mobility management and authentication (AAA)?",
+            "options": [
+                {"id": "a", "text": "Application Layer"},
+                {"id": "b", "text": "Service Support Layer"},
+                {"id": "c", "text": "Network Layer"},
+                {"id": "d", "text": "Device Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q6",
+            "text": "For BSNL FTTH bill payment, which mobile app is specifically mentioned for Android users?",
+            "options": [
+                {"id": "a", "text": "Sanchar Aadhar"},
+                {"id": "b", "text": "Teevra"},
+                {"id": "c", "text": "E-Pay App"},
+                {"id": "d", "text": "MyBSNL"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "According to the FTTH cluster partner policy, what is the MTTR (Mean Time to Repair) requirement for a plan with FMC greater than or equal to 699 but less than or equal to 1499?",
+            "options": [
+                {"id": "a", "text": "12 hours"},
+                {"id": "b", "text": "8 hours"},
+                {"id": "c", "text": "4 hours"},
+                {"id": "d", "text": "24 hours"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q8",
+            "text": "In SAP, which GL code is used for 'C top up for FTTH bills' as per the accounting instructions for the Pyro platform?",
+            "options": [
+                {"id": "a", "text": "1310946"},
+                {"id": "b", "text": "023413"},
+                {"id": "c", "text": "1311101"},
+                {"id": "d", "text": "500318"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q9",
+            "text": "Which T-code is used for CDR based TRC settlement account in SAP according to the provided sources?",
+            "options": [
+                {"id": "a", "text": "F-02"},
+                {"id": "b", "text": "F-04"},
+                {"id": "c", "text": "ME21N"},
+                {"id": "d", "text": "ML83"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q10",
+            "text": "What is the base revenue share for a Cluster Partner under the FTTH business model CP-IV?",
+            "options": [
+                {"id": "a", "text": "45%"},
+                {"id": "b", "text": "25%"},
+                {"id": "c", "text": "50%"},
+                {"id": "d", "text": "47%"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q11",
+            "text": "Which Wi-Fi standard is referred to as 'Gigabit Wi-Fi' and provides throughput in the range of 500-1000 Mbps?",
+            "options": [
+                {"id": "a", "text": "802.11a"},
+                {"id": "b", "text": "802.11g"},
+                {"id": "c", "text": "802.11n"},
+                {"id": "d", "text": "802.11ac"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q12",
+            "text": "The maximum split ratio supported by a standard Passive Optical Network (PON) splitter in the BSNL network is typically:",
+            "options": [
+                {"id": "a", "text": "1:32"},
+                {"id": "b", "text": "1:64"},
+                {"id": "c", "text": "1:128"},
+                {"id": "d", "text": "1:16"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q13",
+            "text": "In the context of IPTV, which technology is used to ensure that video streams are not delayed or fragmented?",
+            "options": [
+                {"id": "a", "text": "MPLS"},
+                {"id": "b", "text": "Quality of Service (QoS)"},
+                {"id": "c", "text": "VLAN tagging"},
+                {"id": "d", "text": "Multicasting"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q14",
+            "text": "What is the primary function of the 'Optical Line Terminal (OLT)' in an FTTH network?",
+            "options": [
+                {"id": "a", "text": "To act as a customer premises modem"},
+                {"id": "b", "text": "To provide access points in the central office for voice, data, and video"},
+                {"id": "c", "text": "To split the optical signal using passive mirrors"},
+                {"id": "d", "text": "To amplify the signal every 10km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q15",
+            "text": "Which cloud deployment model is a mixture of public and private cloud, where critical activities are kept private?",
+            "options": [
+                {"id": "a", "text": "Community Cloud"},
+                {"id": "b", "text": "Enterprise Cloud"},
+                {"id": "c", "text": "Hybrid Cloud"},
+                {"id": "d", "text": "Converged Cloud"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q16",
+            "text": "What is the 'Green' efficiency metric mentioned for BSNL's data centers (PUE)?",
+            "options": [
+                {"id": "a", "text": "Less than 2.0"},
+                {"id": "b", "text": "Less than 1.7"},
+                {"id": "c", "text": "Exactly 1.5"},
+                {"id": "d", "text": "Greater than 1.0"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q17",
+            "text": "In the M2M conceptual model, which layer is the 'key focus area towards standardization'?",
+            "options": [
+                {"id": "a", "text": "Application Layer"},
+                {"id": "b", "text": "Network Services Layer"},
+                {"id": "c", "text": "Common M2M Services Layer"},
+                {"id": "d", "text": "Physical Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q18",
+            "text": "Which BSNL service uses a vehicle-mounted, microprocessor-controlled device for tracking?",
+            "options": [
+                {"id": "a", "text": "Prabal Plus"},
+                {"id": "b", "text": "eTrack"},
+                {"id": "c", "text": "v-Sanghoshti"},
+                {"id": "d", "text": "Teevra"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q19",
+            "text": "What is the standard wavelength used for downstream data (OLT to ONT) in a GPON system?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1490 nm"},
+                {"id": "d", "text": "850 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q20",
+            "text": "Which BSNL software is used as a 'single window' for integrated fault escalation and service assurance for leased circuits?",
+            "options": [
+                {"id": "a", "text": "EB Portal"},
+                {"id": "b", "text": "CDR Billing"},
+                {"id": "c", "text": "Prabal Plus"},
+                {"id": "d", "text": "Clarity"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q21",
+            "text": "What is the maximum number of concurrent SIP channels that BSNL typically offers for the SIP Trunk service over FTTH?",
+            "options": [
+                {"id": "a", "text": "30"},
+                {"id": "b", "text": "45"},
+                {"id": "c", "text": "10"},
+                {"id": "d", "text": "100"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q22",
+            "text": "In the C-DOT softswitch GUI, which entity is at the highest level of the hierarchy?",
+            "options": [
+                {"id": "a", "text": "Administrator"},
+                {"id": "b", "text": "Operator"},
+                {"id": "c", "text": "Super"},
+                {"id": "d", "text": "Subscriber"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q23",
+            "text": "Which component of the CANI (Chennai-Andaman and Nicobar Islands) project spans 2,312 kilometers?",
+            "options": [
+                {"id": "a", "text": "Terrestrial Fiber"},
+                {"id": "b", "text": "Satellite Link"},
+                {"id": "c", "text": "Submarine Optical Fiber Cable"},
+                {"id": "d", "text": "Microwave Link"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q24",
+            "text": "What is the default IP address used to access the BSNL Huawei FTTH ONT configuration page?",
+            "options": [
+                {"id": "a", "text": "192.168.1.1"},
+                {"id": "b", "text": "192.168.100.1"},
+                {"id": "c", "text": "10.0.0.1"},
+                {"id": "d", "text": "192.168.0.1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q25",
+            "text": "In a Wi-Fi network, what does 'SSID' stand for?",
+            "options": [
+                {"id": "a", "text": "System Service ID"},
+                {"id": "b", "text": "Service Set Identifier"},
+                {"id": "c", "text": "Secure Set ID"},
+                {"id": "d", "text": "Subscriber Service ID"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q26",
+            "text": "According to the sources, what is the 'monopolistic' equivalent of the traditional T1 trunk in the modern world?",
+            "options": [
+                {"id": "a", "text": "ISDN PRI"},
+                {"id": "b", "text": "MPLS Tunnel"},
+                {"id": "c", "text": "SIP Trunk"},
+                {"id": "d", "text": "Broadband FUP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q27",
+            "text": "Which layer of the IoT Reference Model includes 'Gateway Capabilities' like protocol conversion?",
+            "options": [
+                {"id": "a", "text": "Network Layer"},
+                {"id": "b", "text": "Device Layer"},
+                {"id": "c", "text": "Service Support Layer"},
+                {"id": "d", "text": "Application Layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "What is the annual power availability SLA for BSNL's Managed Colocation service in Tier 3 data centers?",
+            "options": [
+                {"id": "a", "text": "99.671%"},
+                {"id": "b", "text": "99.741%"},
+                {"id": "c", "text": "99.982%"},
+                {"id": "d", "text": "99.995%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q29",
+            "text": "In the FTTH business model, what does 'TIP' stand for?",
+            "options": [
+                {"id": "a", "text": "Telecom Infrastructure Provider"},
+                {"id": "b", "text": "Technical IP"},
+                {"id": "c", "text": "Total Integrated Platform"},
+                {"id": "d", "text": "Telephony Integration Partner"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q30",
+            "text": "Which T-code is used for creating a cross-connection in the C-DOT softswitch GUI?",
+            "options": [
+                {"id": "a", "text": "F-04"},
+                {"id": "b", "text": "Not mentioned (GUI driven)"},
+                {"id": "c", "text": "ML83"},
+                {"id": "d", "text": "ME21N"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q31",
+            "text": "What is the primary benefit of 'Infrastructure as a Service (IaaS)' for a customer?",
+            "options": [
+                {"id": "a", "text": "Software updates are automatic"},
+                {"id": "b", "text": "Full control of computing resources through administrative access to VMs"},
+                {"id": "c", "text": "No need for a web browser"},
+                {"id": "d", "text": "Free internet connection"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "Which BSNL service uses the 'Ask Prabal+' intelligent chatbot?",
+            "options": [
+                {"id": "a", "text": "EB Portal"},
+                {"id": "b", "text": "SIP Trunking"},
+                {"id": "c", "text": "Prabal Plus Leased Circuit Monitoring"},
+                {"id": "d", "text": "Cloud Services"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q33",
+            "text": "In the context of the E-Pay App, what is the revenue share credited instantly to the Franchisee's wallet for FTTH payments?",
+            "options": [
+                {"id": "a", "text": "10% or 20%"},
+                {"id": "b", "text": "20% or 50% as per agreement"},
+                {"id": "c", "text": "5% flat"},
+                {"id": "d", "text": "75% excluding GST"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q34",
+            "text": "Which Wi-Fi modulation is limited to a data throughput of 2 Mbps due to hopping overhead?",
+            "options": [
+                {"id": "a", "text": "DSSS"},
+                {"id": "b", "text": "OFDM"},
+                {"id": "c", "text": "FHSS"},
+                {"id": "d", "text": "QAM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q35",
+            "text": "What does 'SaaS' stand for in cloud computing?",
+            "options": [
+                {"id": "a", "text": "System as a Service"},
+                {"id": "b", "text": "Software as a Service"},
+                {"id": "c", "text": "Storage as a Service"},
+                {"id": "d", "text": "Solution as a Service"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q36",
+            "text": "According to the technical requirements, what is the 'toll quality' benchmark bandwidth per SIP channel?",
+            "options": [
+                {"id": "a", "text": "64 kbps"},
+                {"id": "b", "text": "128 kbps"},
+                {"id": "c", "text": "150 kbps"},
+                {"id": "d", "text": "300 kbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "In a Passive Optical Network (PON), which element does NOT require a power supply?",
+            "options": [
+                {"id": "a", "text": "OLT"},
+                {"id": "b", "text": "ONT"},
+                {"id": "c", "text": "Splitter"},
+                {"id": "d", "text": "Switch"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q38",
+            "text": "Which cloud service model is focused on delivering a 'runtime environment' for development?",
+            "options": [
+                {"id": "a", "text": "IaaS"},
+                {"id": "b", "text": "PaaS"},
+                {"id": "c", "text": "SaaS"},
+                {"id": "d", "text": "XaaS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "What is the maximum number of days of downtime allowed per year for a 'three nines' (99.9%) availability target?",
+            "options": [
+                {"id": "a", "text": "3.65 days"},
+                {"id": "b", "text": "1.83 days"},
+                {"id": "c", "text": "8.76 hours"},
+                {"id": "d", "text": "52.56 minutes"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "Which BSNL platform has been launched by XGENPLUS to offer linguistic email IDs in Indian languages?",
+            "options": [
+                {"id": "a", "text": "v-Sanghoshti"},
+                {"id": "b", "text": "Bharat Fiber"},
+                {"id": "c", "text": "Managed Hosted Email Services"},
+                {"id": "d", "text": "Cloudway with Microsoft"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q41",
+            "text": "In the FTTH cluster partner SLA, what is the penalty for a repeat fault within 10% of the slippage?",
+            "options": [
+                {"id": "a", "text": "0.1% of revenue share"},
+                {"id": "b", "text": "0.2% of revenue share"},
+                {"id": "c", "text": "0.5% of revenue share"},
+                {"id": "d", "text": "Rs 50 per day"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q42",
+            "text": "Which city is NOT mentioned as a location for BSNL's Tier 3 data center cluster?",
+            "options": [
+                {"id": "a", "text": "Faridabad"},
+                {"id": "b", "text": "Ahmedabad"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Mumbai"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43",
+            "text": "What is the VLAN ID typically used for FTTH Internet configuration in the Huawei ONT setup?",
+            "options": [
+                {"id": "a", "text": "11"},
+                {"id": "b", "text": "10"},
+                {"id": "c", "text": "6"},
+                {"id": "d", "text": "1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q44",
+            "text": "In the IoT reference model, what are the two main capabilities of the Device Layer?",
+            "options": [
+                {"id": "a", "text": "Networking and Transport"},
+                {"id": "b", "text": "Device and Gateway"},
+                {"id": "c", "text": "Storage and Processing"},
+                {"id": "d", "text": "Control and Management"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q45",
+            "text": "What is the maximum throughput for a single stream of the 802.11ac Wi-Fi standard?",
+            "options": [
+                {"id": "a", "text": "54 Mbps"},
+                {"id": "b", "text": "150 Mbps"},
+                {"id": "c", "text": "450 Mbps"},
+                {"id": "d", "text": "1000 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q46",
+            "text": "Which BSNL service allows landline customers to talk free of cost with each other within a defined group?",
+            "options": [
+                {"id": "a", "text": "ISDN BRI"},
+                {"id": "b", "text": "Centrex"},
+                {"id": "c", "text": "SIP Trunking"},
+                {"id": "d", "text": "UAN Service"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q47",
+            "text": "In a data center, what does 'concurrent maintainability' mean?",
+            "options": [
+                {"id": "a", "text": "All staff work at the same time"},
+                {"id": "b", "text": "Components can be removed for maintenance without equipment shutdown"},
+                {"id": "c", "text": "The data center has zero maintenance costs"},
+                {"id": "d", "text": "Security and cooling run on the same power path"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q48",
+            "text": "What is the transaction fee for Rupay Debit Cards and UPI transactions via BSNL E-Pay?",
+            "options": [
+                {"id": "a", "text": "1.00%"},
+                {"id": "b", "text": "1.20%"},
+                {"id": "c", "text": "Nil"},
+                {"id": "d", "text": "Rs 8 per transaction"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q49",
+            "text": "Which Wi-Fi security type is specifically noted in the sources as being 'insecure'?",
+            "options": [
+                {"id": "a", "text": "WPA2"},
+                {"id": "b", "text": "WPA2 Enterprise"},
+                {"id": "c", "text": "WEP"},
+                {"id": "d", "text": "WPS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q50",
+            "text": "In the FTTH billing process, what is 'OTF'?",
+            "options": [
+                {"id": "a", "text": "On The Flow"},
+                {"id": "b", "text": "Over The Fiber"},
+                {"id": "c", "text": "On The Fly (Revenue Share)"},
+                {"id": "d", "text": "Optical Trunk Function"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q51",
+            "text": "Which protocol is used for 'multicasting' in the BSNL MPLS VPN backbone?",
+            "options": [
+                {"id": "a", "text": "OSPF"},
+                {"id": "b", "text": "BGP"},
+                {"id": "c", "text": "PIM (Protocol Independent Multicast)"},
+                {"id": "d", "text": "STP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q52",
+            "text": "What is the maximum allowed annual penalty for bandwith uptime slippage in BSNL's proposal example?",
+            "options": [
+                {"id": "a", "text": "5% of rental"},
+                {"id": "b", "text": "10% of Bandwidth rental"},
+                {"id": "c", "text": "20% of annual fee"},
+                {"id": "d", "text": "No limit"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q53",
+            "text": "In the context of the eSBM platform, what can staff report using the mobile app?",
+            "options": [
+                {"id": "a", "text": "Sales leads"},
+                {"id": "b", "text": "Breakdowns of vehicles"},
+                {"id": "c", "text": "Fiber cuts"},
+                {"id": "d", "text": "New subscriptions"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q54",
+            "text": "Which CCTV camera type is best suited for extremely low light or pitch dark conditions?",
+            "options": [
+                {"id": "a", "text": "Fixed Lens Camera"},
+                {"id": "b", "text": "Varifocal Camera"},
+                {"id": "c", "text": "IR (Infra Red) Bullet Camera"},
+                {"id": "d", "text": "Analog Camera"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q55",
+            "text": "What is the purpose of 'GRI' (Gigabit Readiness Index) in BSNL?",
+            "options": [
+                {"id": "a", "text": "To measure the speed of the internet"},
+                {"id": "b", "text": "To measure the Umbrella coverage of GPON connectivity"},
+                {"id": "c", "text": "To rank customer satisfaction"},
+                {"id": "d", "text": "To track power usage effectiveness"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q56",
+            "text": "Which BSNL application is used to fetch live details of Broadband/FTTH customers via mobile?",
+            "options": [
+                {"id": "a", "text": "E-Pay"},
+                {"id": "b", "text": "Prabal+"},
+                {"id": "c", "text": "Teevra"},
+                {"id": "d", "text": "VMS Portal"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q57",
+            "text": "In the C-DOT softswitch GUI, what is a 'PickupGroup'?",
+            "options": [
+                {"id": "a", "text": "A list of new leads"},
+                {"id": "b", "text": "A feature for Centrex management"},
+                {"id": "c", "text": "A group for bulk SMS"},
+                {"id": "d", "text": "A billing category"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q58",
+            "text": "What is the penalty for a delay in provisioning a new voice + broadband FTTH connection?",
+            "options": [
+                {"id": "a", "text": "Rs 100 per day"},
+                {"id": "b", "text": "Rs 50 per day (max Rs 200)"},
+                {"id": "c", "text": "0.5% of revenue share"},
+                {"id": "d", "text": "Rs 20 per day"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q59",
+            "text": "Which component of the IoT reference model interacts with the communication network either directly or indirectly?",
+            "options": [
+                {"id": "a", "text": "Application Layer"},
+                {"id": "b", "text": "Network Layer"},
+                {"id": "c", "text": "Device Layer"},
+                {"id": "d", "text": "Service Support Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q60",
+            "text": "In the C-DOT GUI, what does the 'LAG' module stand for?",
+            "options": [
+                {"id": "a", "text": "Local Area Gateway"},
+                {"id": "b", "text": "Line Access Group"},
+                {"id": "c", "text": "Not explicitly defined (but used for subscriber types)"},
+                {"id": "d", "text": "Local Address Group"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q61",
+            "text": "What is the guaranteed availability for a Tier 4 data center according to TIA-942?",
+            "options": [
+                {"id": "a", "text": "99.982%"},
+                {"id": "b", "text": "99.995%"},
+                {"id": "c", "text": "99.671%"},
+                {"id": "d", "text": "100%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q62",
+            "text": "Which BSNL service is described as an 'OPEX Model instead of CAPEX' solution for enterprises?",
+            "options": [
+                {"id": "a", "text": "Managed Network Services"},
+                {"id": "b", "text": "Leased Circuits"},
+                {"id": "c", "text": "Centrex"},
+                {"id": "d", "text": "All of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q63",
+            "text": "What is the maximum number of digits allowed in a VSAT ID for the BSNL DSPT project?",
+            "options": [
+                {"id": "a", "text": "3"},
+                {"id": "b", "text": "5"},
+                {"id": "c", "text": "7"},
+                {"id": "d", "text": "4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q64",
+            "text": "In a GPON system, 'TDM using 1490 nm wavelength' refers to which direction?",
+            "options": [
+                {"id": "a", "text": "Upstream"},
+                {"id": "b", "text": "Downstream"},
+                {"id": "c", "text": "Bi-directional"},
+                {"id": "d", "text": "Broadcast only"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q65",
+            "text": "Which BSNL project aims to connect villages via radio-waves instead of wired-FTTH?",
+            "options": [
+                {"id": "a", "text": "Bharat Fiber"},
+                {"id": "b", "text": "Bharat AirFiber"},
+                {"id": "c", "text": "NOFN"},
+                {"id": "d", "text": "Project Tejas"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q66",
+            "text": "In the FTTH billing portal, what does the system do if the Cluster Partner's wallet balance is lower than the bill amount?",
+            "options": [
+                {"id": "a", "text": "Blocks the payment"},
+                {"id": "b", "text": "Processes it as a regular payment"},
+                {"id": "c", "text": "Gives a discount"},
+                {"id": "d", "text": "Sends a warning to the partner"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q67",
+            "text": "Which layer of the IoT Reference Model contains generic capabilities used by various applications, such as data storage?",
+            "options": [
+                {"id": "a", "text": "Application Layer"},
+                {"id": "b", "text": "Network Layer"},
+                {"id": "c", "text": "Service support and Application support layer"},
+                {"id": "d", "text": "Device Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q68",
+            "text": "For a SIP Trunk with 20 concurrent channels, what would be the minimum bandwidth required under FUP?",
+            "options": [
+                {"id": "a", "text": "3000 kbps"},
+                {"id": "b", "text": "6000 kbps"},
+                {"id": "c", "text": "4000 kbps"},
+                {"id": "d", "text": "5000 kbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q69",
+            "text": "In the C-DOT GUI, which module contains the mapping for emergency numbers?",
+            "options": [
+                {"id": "a", "text": "Local"},
+                {"id": "b", "text": "Zone"},
+                {"id": "c", "text": "SubsCategory"},
+                {"id": "d", "text": "RoutePattern"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q70",
+            "text": "What is the 'v-Sanghoshti' service?",
+            "options": [
+                {"id": "a", "text": "Mobile App for Sales"},
+                {"id": "b", "text": "Video Collaboration Service"},
+                {"id": "c", "text": "Billing Portal"},
+                {"id": "d", "text": "Fault Repair Service"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q71",
+            "text": "What is 'Dark Fiber'?",
+            "options": [
+                {"id": "a", "text": "Faulty fiber"},
+                {"id": "b", "text": "Fiber with no equipment connected and not transmitting data"},
+                {"id": "c", "text": "Fiber used for CCTV only"},
+                {"id": "d", "text": "Undersea fiber"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q72",
+            "text": "Which TIA-942 Tier has only a single non-redundant distribution path?",
+            "options": [
+                {"id": "a", "text": "Tier 1"},
+                {"id": "b", "text": "Tier 2"},
+                {"id": "c", "text": "Tier 3"},
+                {"id": "d", "text": "Tier 4"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q73",
+            "text": "In the context of the FTTH TIP model, what is the role of the 'Bank Integrator'?",
+            "options": [
+                {"id": "a", "text": "Provide bandwidth"},
+                {"id": "b", "text": "Disburse amounts to Individual TIP accounts"},
+                {"id": "c", "text": "Install the ONT"},
+                {"id": "d", "text": "Assign user IDs"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q74",
+            "text": "Which cloud computing benefit refers to the ability to scale resources up or down automatically?",
+            "options": [
+                {"id": "a", "text": "Broad Network Access"},
+                {"id": "b", "text": "Resource Pooling"},
+                {"id": "c", "text": "Rapid Elasticity"},
+                {"id": "d", "text": "Measured Service"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q75",
+            "text": "What is the maximum throughput of the 802.11g Wi-Fi standard?",
+            "options": [
+                {"id": "a", "text": "11 Mbps"},
+                {"id": "b", "text": "54 Mbps"},
+                {"id": "c", "text": "300 Mbps"},
+                {"id": "d", "text": "150 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q76",
+            "text": "In the FTTH billing portal, which short code is used for 'Postpaid FTTH bill reversal'?",
+            "options": [
+                {"id": "a", "text": "REVP"},
+                {"id": "b", "text": "REVF"},
+                {"id": "c", "text": "REVL"},
+                {"id": "d", "text": "REVC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q77",
+            "text": "What is the purpose of 'Forward Error Correction (FEC)' in OTN?",
+            "options": [
+                {"id": "a", "text": "To increase bandwidth"},
+                {"id": "b", "text": "To improve Signal-to-Noise Ratio (SNR)"},
+                {"id": "c", "text": "To reduce power consumption"},
+                {"id": "d", "text": "To switch wavelengths"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q78",
+            "text": "Which BSNL service is specifically described as being 'monitored on a 24x7x365 basis from multiple redundant NOCs'?",
+            "options": [
+                {"id": "a", "text": "Managed Network Services"},
+                {"id": "b", "text": "v-Sanghoshti"},
+                {"id": "c", "text": "Linguistic Email"},
+                {"id": "d", "text": "Bharat AirFiber"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q79",
+            "text": "In the C-DOT GUI, what is 'SSU stands for'?",
+            "options": [
+                {"id": "a", "text": "Secondary Switching Unit"},
+                {"id": "b", "text": "Synchronization Supply Unit"},
+                {"id": "c", "text": "Subscriber System Unit"},
+                {"id": "d", "text": "Secure Server Unit"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q80",
+            "text": "What is the maximum penalty for delay in 'new broadband FTTH on existing voice FTTH' provisioning?",
+            "options": [
+                {"id": "a", "text": "Rs 50"},
+                {"id": "b", "text": "Rs 200"},
+                {"id": "c", "text": "Rs 100"},
+                {"id": "d", "text": "Rs 500"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q81",
+            "text": "Which Wi-Fi connection type is essentially a peer-to-peer model?",
+            "options": [
+                {"id": "a", "text": "Infrastructure Mode"},
+                {"id": "b", "text": "Ad-hoc Mode"},
+                {"id": "c", "text": "BSS Type"},
+                {"id": "d", "text": "ESS Type"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q82",
+            "text": "In the IoT Reference Model, 'mobility management' is a capability of which layer?",
+            "options": [
+                {"id": "a", "text": "Application Layer"},
+                {"id": "b", "text": "Device Layer"},
+                {"id": "c", "text": "Network Layer"},
+                {"id": "d", "text": "Service Support Layer"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q83",
+            "text": "What is the typical distance limit for EVDO from a BTS?",
+            "options": [
+                {"id": "a", "text": "10 Km"},
+                {"id": "b", "text": "7 Km"},
+                {"id": "c", "text": "15 Km"},
+                {"id": "d", "text": "5 Km"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q84",
+            "text": "In the context of data center security, what is 'SIEM'?",
+            "options": [
+                {"id": "a", "text": "Secure Information Entry Manager"},
+                {"id": "b", "text": "Security Information and Event Management"},
+                {"id": "c", "text": "System Integration Electronic Module"},
+                {"id": "d", "text": "Security Integrated Encryption Method"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q85",
+            "text": "Which BSNL service offers 'high-speed in-flight internet' through a partnership with INMARSAT?",
+            "options": [
+                {"id": "a", "text": "GSPS"},
+                {"id": "b", "text": "GX Aviation"},
+                {"id": "c", "text": "v-Sanghoshti"},
+                {"id": "d", "text": "eTrack"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q86",
+            "text": "According to the sources, what is the 'first telecom operator in India' to offer linguistic email IDs?",
+            "options": [
+                {"id": "a", "text": "Jio"},
+                {"id": "b", "text": "Airtel"},
+                {"id": "c", "text": "BSNL"},
+                {"id": "d", "text": "Vodafone Idea"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q87",
+            "text": "What is the 'Network for Spectrum (NFS)' project?",
+            "options": [
+                {"id": "a", "text": "Commercial broadband rollout"},
+                {"id": "b", "text": "Nationwide communication network for Defence Services"},
+                {"id": "c", "text": "International submarine cable link"},
+                {"id": "d", "text": "New mobile spectrum auction"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q88",
+            "text": "In the FTTH business model, which entity takes care of 'Customer Billing'?",
+            "options": [
+                {"id": "a", "text": "Cluster Partner"},
+                {"id": "b", "text": "BSNL"},
+                {"id": "c", "text": "BillDesk"},
+                {"id": "d", "text": "Pyro"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q89",
+            "text": "What is the primary objective of the 'Central Public Procurement Portal (CPPP)'?",
+            "options": [
+                {"id": "a", "text": "Sell mobile phones"},
+                {"id": "b", "text": "Single point access to information on procurements across various Ministries"},
+                {"id": "c", "text": "Billing for enterprise customers"},
+                {"id": "d", "text": "Network fault monitoring"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q90",
+            "text": "In the C-DOT GUI, what does 'PRC' stand for?",
+            "options": [
+                {"id": "a", "text": "Primary Reference Clock"},
+                {"id": "b", "text": "Previous Ready Clock"},
+                {"id": "c", "text": "Primary Ready Command"},
+                {"id": "d", "text": "Port Release Center"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q91",
+            "text": "What is the 'Digital Wrapper' in OTN technology?",
+            "options": [
+                {"id": "a", "text": "Physical fiber protection"},
+                {"id": "b", "text": "Standardized framework for seamless transport of legacy protocols"},
+                {"id": "c", "text": "Type of encryption"},
+                {"id": "d", "text": "Virtual machine container"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q92",
+            "text": "Which BSNL software handles 'Service Provisioning and Service Assurance related questions' through rule-based analysis?",
+            "options": [
+                {"id": "a", "text": "EB Portal"},
+                {"id": "b", "text": "Teevra App"},
+                {"id": "c", "text": "Ask Prabal Chatbot"},
+                {"id": "d", "text": "CDR CRM"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q93",
+            "text": "What is the 'SLA for fault clearance' percentage required for cluster partners in 24 hours?",
+            "options": [
+                {"id": "a", "text": "90%"},
+                {"id": "b", "text": "95%"},
+                {"id": "c", "text": "99%"},
+                {"id": "d", "text": "85%"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q94",
+            "text": "In the Wi-Fi architecture, which layer coordinates access to shared radio channels?",
+            "options": [
+                {"id": "a", "text": "Physical Layer (PHY)"},
+                {"id": "b", "text": "Media Access Control (MAC)"},
+                {"id": "c", "text": "Logical Link Control (LLC)"},
+                {"id": "d", "text": "Application Layer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q95",
+            "text": "What is the 'monopolistic' equivalent of the traditional T1 trunk?",
+            "options": [
+                {"id": "a", "text": "ISDN PRI"},
+                {"id": "b", "text": "MPLS Tunnel"},
+                {"id": "c", "text": "SIP Trunk"},
+                {"id": "d", "text": "Broadband FUP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q96",
+            "text": "Which BSNL service provides 'highly secure, reliable and very high capacity telecommunication links between countries'?",
+            "options": [
+                {"id": "a", "text": "Satellite Communication"},
+                {"id": "b", "text": "Leased Submarine Cables"},
+                {"id": "c", "text": "MPLS VPN"},
+                {"id": "d", "text": "International Private Leased Circuit"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q97",
+            "text": "What is the typical 'contention ratio' for an Internet Leased Line (ILL)?",
+            "options": [
+                {"id": "a", "text": "1:32"},
+                {"id": "b", "text": "1:1 (un-contended)"},
+                {"id": "c", "text": "1:10"},
+                {"id": "d", "text": "1:4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q98",
+            "text": "In the FTTH business model CP-IIIA, what is the base revenue share for the partner?",
+            "options": [
+                {"id": "a", "text": "25%"},
+                {"id": "b", "text": "45%"},
+                {"id": "c", "text": "50%"},
+                {"id": "d", "text": "35%"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q99",
+            "text": "Which BSNL application is used to fetch 'ONT TX-POWER' and 'ONT RX-POWER'?",
+            "options": [
+                {"id": "a", "text": "EB Portal"},
+                {"id": "b", "text": "Prabal+"},
+                {"id": "c", "text": "Teevra"},
+                {"id": "d", "text": "CDR Billing"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q100",
+            "text": "According to the sources, what is 'Cloud Computing' making our business applications?",
+            "options": [
+                {"id": "a", "text": "More expensive"},
+                {"id": "b", "text": "Mobile and collaborative"},
+                {"id": "c", "text": "Fixed and stationary"},
+                {"id": "d", "text": "Hardware dependent"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
