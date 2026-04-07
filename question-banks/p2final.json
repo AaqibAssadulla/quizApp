@@ -1,421 +1,1103 @@
 {
-    "title": "Telecom, Technology, and Organizational Issues",
+    "title": "JTO Phase-II Comprehensive Quiz (Weeks 1-6)",
     "questions": [
         {
             "id": "q1",
-            "text": "Core site location for the North Zone in CDOT MAX-NG Core Network.",
+            "text": "In the BSNL Enterprise Business structure, which category of accounts is primarily served through Channel Partners?",
             "options": [
-                {"id": "a", "text": "Kolkata"},
-                {"id": "b", "text": "Gurgaon"},
-                {"id": "c", "text": "Pune"},
-                {"id": "d", "text": "Bangalore"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "q2",
-            "text": "Core site location for the South Zone in CDOT MAX-NG Core Network.",
-            "options": [
-                {"id": "a", "text": "Gurgaon"},
-                {"id": "b", "text": "Kolkata"},
-                {"id": "c", "text": "Bangalore"},
-                {"id": "d", "text": "Pune"}
+                {"id": "a", "text": "Platinum"},
+                {"id": "b", "text": "Gold"},
+                {"id": "c", "text": "Silver"},
+                {"id": "d", "text": "Diamond"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q3",
-            "text": "Core site location for the East Zone in CDOT MAX-NG Core Network.",
+            "id": "q2",
+            "text": "What is the primary role of a National Account Manager (NAM)?",
             "options": [
-                {"id": "a", "text": "Pune"},
-                {"id": "b", "text": "Bangalore"},
-                {"id": "c", "text": "Gurgaon"},
-                {"id": "d", "text": "Kolkata"}
+                {"id": "a", "text": "Managing retail customers"},
+                {"id": "b", "text": "End-to-end CRM for Platinum customers"},
+                {"id": "c", "text": "Laying optical fiber in rural areas"},
+                {"id": "d", "text": "Managing and training KAMs"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q3",
+            "text": "In the 5-stage Sales Funnel, what activity occurs during Stage 4?",
+            "options": [
+                {"id": "a", "text": "Registering the lead"},
+                {"id": "b", "text": "Price negotiation"},
+                {"id": "c", "text": "Submission of proposal"},
+                {"id": "d", "text": "Orders booked"}
             ],
             "correctAnswer": "d"
         },
         {
             "id": "q4",
-            "text": "Core site location for the West Zone in CDOT MAX-NG Core Network.",
+            "text": "On which day of the week must the completed sales funnel be sent to the Corporate Office for the Director (Enterprise)?",
             "options": [
-                {"id": "a", "text": "Bangalore"},
-                {"id": "b", "text": "Pune"},
-                {"id": "c", "text": "Kolkata"},
-                {"id": "d", "text": "Gurgaon"}
+                {"id": "a", "text": "Monday"},
+                {"id": "b", "text": "Tuesday"},
+                {"id": "c", "text": "Friday"},
+                {"id": "d", "text": "Saturday"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q5",
-            "text": "Disaster Recovery core site location for the North Zone in CDOT MAX-NG Core Network.",
+            "text": "Which internal BSNL software provides a 'single window' approach for leased circuit fault escalation?",
             "options": [
-                {"id": "a", "text": "Cuttack"},
-                {"id": "b", "text": "Chandigarh"},
-                {"id": "c", "text": "Hyderabad"},
-                {"id": "d", "text": "Bhopal"}
+                {"id": "a", "text": "CDR Portal"},
+                {"id": "b", "text": "Prabal Plus"},
+                {"id": "c", "text": "Clarity"},
+                {"id": "d", "text": "Teevra"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q6",
-            "text": "Disaster Recovery core site location for the South Zone in CDOT MAX-NG Core Network.",
+            "text": "What does 'FAB' stand for in the context of BSNL sales planning?",
             "options": [
-                {"id": "a", "text": "Chandigarh"},
-                {"id": "b", "text": "Bhopal"},
-                {"id": "c", "text": "Hyderabad"},
-                {"id": "d", "text": "Cuttack"}
+                {"id": "a", "text": "Fast, Accurate, Beneficial"},
+                {"id": "b", "text": "Feature, Advantage, Benefit"},
+                {"id": "c", "text": "Financial, Administrative, Business"},
+                {"id": "d", "text": "Forward, Accessible, Binding"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q7",
-            "text": "Disaster Recovery core site location for the East Zone in CDOT MAX-NG Core Network.",
+            "text": "In the EB Portal, what happens to a lead when it is initially created?",
             "options": [
-                {"id": "a", "text": "Hyderabad"},
-                {"id": "b", "text": "Chandigarh"},
-                {"id": "c", "text": "Cuttack"},
-                {"id": "d", "text": "Bhopal"}
+                {"id": "a", "text": "It moves to Stage 1"},
+                {"id": "b", "text": "It is placed in Zero-Stage"},
+                {"id": "c", "text": "It is sent to the GM immediately"},
+                {"id": "d", "text": "It is locked for 30 days"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q8",
-            "text": "Disaster Recovery core site location for the West Zone in CDOT MAX-NG Core Network.",
+            "text": "Which term refers to incrementally asking contacts for additional information to build a rich data set?",
             "options": [
-                {"id": "a", "text": "Cuttack"},
-                {"id": "b", "text": "Hyderabad"},
-                {"id": "c", "text": "Chandigarh"},
-                {"id": "d", "text": "Bhopal"}
+                {"id": "a", "text": "Lead Scoring"},
+                {"id": "b", "text": "Progressive Profiling"},
+                {"id": "c", "text": "Nurturing"},
+                {"id": "d", "text": "Gating"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "q9",
-            "text": "Records all account data including all postings happening to subsidiary ledgers.",
+            "text": "What is the typical number of accounts assigned to a National Account Manager (NAM)?",
             "options": [
-                {"id": "a", "text": "HCM"},
-                {"id": "b", "text": "FICO"},
-                {"id": "c", "text": "MM"},
-                {"id": "d", "text": "PM"}
+                {"id": "a", "text": "1 to 3"},
+                {"id": "b", "text": "5 to 7"},
+                {"id": "c", "text": "25 to 75"},
+                {"id": "d", "text": "Over 100"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q10",
-            "text": "HR Administration including Organizational Structure.",
+            "text": "Which module in the EB Portal is used to manage company contact information and telecom spend details?",
             "options": [
-                {"id": "a", "text": "FICO"},
-                {"id": "b", "text": "PS"},
-                {"id": "c", "text": "HCM"},
-                {"id": "d", "text": "REM"}
+                {"id": "a", "text": "Lead Management"},
+                {"id": "b", "text": "Customer Management"},
+                {"id": "c", "text": "Team Management"},
+                {"id": "d", "text": "Quotation Management"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q11",
-            "text": "Inventory Management including e-procurement.",
+            "text": "What is the focus of a 'Sales Retrospective'?",
             "options": [
-                {"id": "a", "text": "REM"},
-                {"id": "b", "text": "MM"},
-                {"id": "c", "text": "S&D"},
-                {"id": "d", "text": "BASIS"}
+                {"id": "a", "text": "Assigning blame for lost deals"},
+                {"id": "b", "text": "Identifying what worked and what didn't to streamline the process"},
+                {"id": "c", "text": "Setting new, unachievable quotas"},
+                {"id": "d", "text": "Calculating employee leave balances"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q12",
-            "text": "Planned & Unplanned Maintenance of various technical objects of Consumer Mobility, Broad Band, CFA, IT, Transmission.",
+            "text": "In the EB structure, which GM vertical is responsible for achievements from Gold and Silver customers?",
             "options": [
-                {"id": "a", "text": "PM"},
-                {"id": "b", "text": "ESS"},
-                {"id": "c", "text": "PP&QC"},
-                {"id": "d", "text": "PS"}
+                {"id": "a", "text": "GM (EB-I)"},
+                {"id": "b", "text": "GM (EB-II)"},
+                {"id": "c", "text": "GM (Business Planning)"},
+                {"id": "d", "text": "GM (IT)"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "q13",
-            "text": "Execution & Monitoring of Capital Project works of various business lines.",
+            "text": "Which tool is an example of an 'Intelligent Chatbot' available to field officers in Prabal Plus?",
             "options": [
-                {"id": "a", "text": "S&D"},
-                {"id": "b", "text": "FICO"},
-                {"id": "c", "text": "PS"},
-                {"id": "d", "text": "HCM"}
+                {"id": "a", "text": "Teevra"},
+                {"id": "b", "text": "Ask Prabal+"},
+                {"id": "c", "text": "Sanchar Aadhar"},
+                {"id": "d", "text": "CRM Voice"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q14",
-            "text": "Lease-in & Lease-out of CMTS Towers & USO Towers.",
+            "text": "What does the 'Stagnation Report' help monitor?",
             "options": [
-                {"id": "a", "text": "BASIS"},
-                {"id": "b", "text": "REM"},
-                {"id": "c", "text": "MM"},
-                {"id": "d", "text": "PM"}
+                {"id": "a", "text": "Internet speed drops"},
+                {"id": "b", "text": "Leads that have not moved stages for a specific period (e.g., over 8 weeks)"},
+                {"id": "c", "text": "Employee attendance"},
+                {"id": "d", "text": "Physical cable damage"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q15",
-            "text": "Enterprise Business lead tracking.",
+            "text": "What is the primary objective of the Central Public Procurement Portal (CPPP)?",
             "options": [
-                {"id": "a", "text": "PP&QC"},
-                {"id": "b", "text": "ESS"},
-                {"id": "c", "text": "S&D"},
-                {"id": "d", "text": "FICO"}
+                {"id": "a", "text": "To sell BSNL SIM cards online"},
+                {"id": "b", "text": "To provide single point access to information on procurements across various Ministries"},
+                {"id": "c", "text": "To handle retail customer complaints"},
+                {"id": "d", "text": "To monitor employee logins"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q16",
-            "text": "Roles and Authorization being done centrally.",
+            "text": "Which role in the EB structure at SSA coordinates both Sales and Customer Relations activities?",
             "options": [
-                {"id": "a", "text": "HCM"},
-                {"id": "b", "text": "BASIS"},
-                {"id": "c", "text": "PS"},
-                {"id": "d", "text": "REM"}
+                {"id": "a", "text": "Key Account Manager"},
+                {"id": "b", "text": "DGM/AGM Enterprise at SSA"},
+                {"id": "c", "text": "Telecom Mechanic"},
+                {"id": "d", "text": "Cashier"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q17",
-            "text": "Telecom Factory for Manufacturing Accounts.",
+            "text": "What is the typical bit rate of a single 'B' channel in an ISDN line?",
             "options": [
-                {"id": "a", "text": "MM"},
-                {"id": "b", "text": "PP&QC"},
-                {"id": "c", "text": "S&D"},
-                {"id": "d", "text": "ESS"}
+                {"id": "a", "text": "16 kbps"},
+                {"id": "b", "text": "64 kbps"},
+                {"id": "c", "text": "128 kbps"},
+                {"id": "d", "text": "2 Mbps"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q18",
-            "text": "Employee's Self Care & Request.",
+            "text": "How many 'B' channels are available in a Primary Rate ISDN (PRI) line in India?",
             "options": [
-                {"id": "a", "text": "FICO"},
-                {"id": "b", "text": "PM"},
-                {"id": "c", "text": "ESS"},
-                {"id": "d", "text": "HCM"}
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "23"},
+                {"id": "c", "text": "30"},
+                {"id": "d", "text": "32"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q19",
-            "text": "Satellite frequency band operating at 1830–2700 MHz.",
+            "text": "Which facility allows landline customers within a group to talk free of cost with each other?",
             "options": [
-                {"id": "a", "text": "KU BAND"},
-                {"id": "b", "text": "L BAND"},
-                {"id": "c", "text": "K BAND"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "ISDN BRI"},
+                {"id": "b", "text": "Centrex"},
+                {"id": "c", "text": "SIP Trunking"},
+                {"id": "d", "text": "MLLN"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q20",
-            "text": "Satellite frequency band operating at 10950–11200 GHz for downlink and 27.5–30 GHz for uplink.",
+            "text": "In Voice VPN, what character is typically dialed before a short code (pnp) to access numbers in the private network?",
             "options": [
-                {"id": "a", "text": "L BAND"},
-                {"id": "b", "text": "K BAND"},
-                {"id": "c", "text": "KU BAND"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "*"},
+                {"id": "b", "text": "#"},
+                {"id": "c", "text": "0"},
+                {"id": "d", "text": "9"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q21",
-            "text": "Satellite frequency band operating at 27.5–30 GHz for uplink (noting the provided range may overlap with KU BAND; assuming distinct K BAND characteristics).",
+            "text": "What is the maximum allowed output power for handheld GSM terminals?",
             "options": [
-                {"id": "a", "text": "None of These"},
-                {"id": "b", "text": "L BAND"},
-                {"id": "c", "text": "KU BAND"},
-                {"id": "d", "text": "K BAND"}
+                {"id": "a", "text": "0.8 W"},
+                {"id": "b", "text": "2 W"},
+                {"id": "c", "text": "8 W"},
+                {"id": "d", "text": "20 W"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "q22",
-            "text": "Modem error due to poor connectivity, where the problem can be anywhere between B.RAS - Tier 2 - DSLAM - Modem - PC of the customer.",
+            "text": "Which GSM database contains information necessary to provide services to users visiting a new MSC area?",
             "options": [
-                {"id": "a", "text": "Error-797"},
-                {"id": "b", "text": "Error-678"},
-                {"id": "c", "text": "Error-769"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "HLR"},
+                {"id": "b", "text": "VLR"},
+                {"id": "c", "text": "EIR"},
+                {"id": "d", "text": "AuC"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q23",
-            "text": "Modem error caused by the LAN not being enabled.",
+            "text": "In a 3G network, what does 'RNC' stand for?",
             "options": [
-                {"id": "a", "text": "Error-769"},
-                {"id": "b", "text": "Error-678"},
-                {"id": "c", "text": "Error-797"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "Remote Network Center"},
+                {"id": "b", "text": "Radio Network Controller"},
+                {"id": "c", "text": "Routing Node Connection"},
+                {"id": "d", "text": "Register Node Cloud"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "q24",
-            "text": "Modem error due to a modem or LAN driver problem.",
+            "text": "Which PIM mode is recommended for WAN deployments, assuming few possible receivers want packets from each source?",
             "options": [
-                {"id": "a", "text": "Error-678"},
-                {"id": "b", "text": "Error-769"},
-                {"id": "c", "text": "Error-797"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "PIM Dense Mode"},
+                {"id": "b", "text": "PIM Sparse Mode"},
+                {"id": "c", "text": "DVMRP"},
+                {"id": "d", "text": "MOSPF"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q25",
-            "text": "A real-time distributed computation system, now owned by Twitter.",
+            "text": "In multicast forwarding, what does the notation (S,G) represent?",
             "options": [
-                {"id": "a", "text": "Cloudera"},
-                {"id": "b", "text": "Storm"},
-                {"id": "c", "text": "GridGain"},
-                {"id": "d", "text": "SpaceCurv"}
+                {"id": "a", "text": "Server and Gateway"},
+                {"id": "b", "text": "Source and Group"},
+                {"id": "c", "text": "Subnet and Global"},
+                {"id": "d", "text": "Switch and Gigabit"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q26",
-            "text": "Offers real-time, interactive analytical queries of the data stored in HBase or HDFS.",
+            "text": "What is the typical 'contention ratio' for a BSNL Internet Leased Line (ILL)?",
             "options": [
-                {"id": "a", "text": "SpaceCurv"},
-                {"id": "b", "text": "GridGain"},
-                {"id": "c", "text": "Cloudera"},
-                {"id": "d", "text": "Storm"}
+                {"id": "a", "text": "1:1 (un-contended)"},
+                {"id": "b", "text": "1:32"},
+                {"id": "c", "text": "1:4"},
+                {"id": "d", "text": "1:10"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q27",
-            "text": "An enterprise open source grid computing platform made for Java multidimensional geodata.",
+            "text": "Which BSNL facility allows Establishing a one-way communication to a group of subscribers?",
             "options": [
-                {"id": "a", "text": "Storm"},
-                {"id": "b", "text": "Cloudera"},
-                {"id": "c", "text": "SpaceCurv"},
-                {"id": "d", "text": "GridGain"}
+                {"id": "a", "text": "Voice Group call"},
+                {"id": "b", "text": "Voice Broadcast services"},
+                {"id": "c", "text": "Location based Addressing"},
+                {"id": "d", "text": "Emergency call"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "b"
         },
         {
             "id": "q28",
-            "text": "A tool being developed to discover underlying patterns in multidimensional geodata.",
+            "text": "Which satellite frequency band is 'License Exempt' and used for short links with speeds < 300 Mbps?",
             "options": [
-                {"id": "a", "text": "GridGain"},
-                {"id": "b", "text": "SpaceCurv"},
-                {"id": "c", "text": "Cloudera"},
-                {"id": "d", "text": "Storm"}
+                {"id": "a", "text": "3 GHz"},
+                {"id": "b", "text": "2.4 GHz"},
+                {"id": "c", "text": "60 GHz"},
+                {"id": "d", "text": "70 GHz"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q29",
-            "text": "A photo sharing site where users store their photos and tag them for future retrieval.",
+            "text": "Which VSAT component converts IF to RF transmitting frequency?",
             "options": [
-                {"id": "a", "text": "MYSPACE"},
-                {"id": "b", "text": "FLICKR"},
-                {"id": "c", "text": "WIKI SYSTEMS"},
-                {"id": "d", "text": "DEL.ICIO.US"}
+                {"id": "a", "text": "LNB"},
+                {"id": "b", "text": "BUC (Block Up-converter)"},
+                {"id": "c", "text": "IDU"},
+                {"id": "d", "text": "Antenna"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q30",
-            "text": "A site for social networking.",
+            "text": "Where is BSNL's Ku Band Earth Station (HUB) for VSAT located?",
             "options": [
-                {"id": "a", "text": "FLICKR"},
-                {"id": "b", "text": "DEL.ICIO.US"},
-                {"id": "c", "text": "MYSPACE"},
-                {"id": "d", "text": "WIKI SYSTEMS"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q31",
-            "text": "A form of content management system that enables a repository of information that may be updated easily by its users.",
-            "options": [
-                {"id": "a", "text": "DEL.ICIO.US"},
-                {"id": "b", "text": "FLICKR"},
-                {"id": "c", "text": "MYSPACE"},
-                {"id": "d", "text": "WIKI SYSTEMS"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "q32",
-            "text": "A Web application that helps users manage and share their bookmarks.",
-            "options": [
-                {"id": "a", "text": "WIKI SYSTEMS"},
-                {"id": "b", "text": "MYSPACE"},
-                {"id": "c", "text": "DEL.ICIO.US"},
-                {"id": "d", "text": "FLICKR"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q33",
-            "text": "Lack of strong direction from top management. Not enough structure order or guidance leading to activity traps i.e. doing things without knowing where one is heading to.",
-            "options": [
-                {"id": "a", "text": "Anarchy"},
-                {"id": "b", "text": "Amoeba"},
-                {"id": "c", "text": "Buggy Whip"},
-                {"id": "d", "text": "Myopia"}
+                {"id": "a", "text": "New Delhi"},
+                {"id": "b", "text": "Bangalore"},
+                {"id": "c", "text": "Mumbai"},
+                {"id": "d", "text": "Chennai"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q34",
-            "text": "A Situation upheaval where leadership, responsibilities, functions and resources are in dispute.",
+            "id": "q31",
+            "text": "Where is the BSNL DSPT (Digital Satellite Phone Terminal) Hub located?",
             "options": [
-                {"id": "a", "text": "Anarchy"},
-                {"id": "b", "text": "Rat-race"},
-                {"id": "c", "text": "Remote Control"},
-                {"id": "d", "text": "Amoeba"}
+                {"id": "a", "text": "Bangalore"},
+                {"id": "b", "text": "Sikanderabad (U.P.)"},
+                {"id": "c", "text": "Kolkata"},
+                {"id": "d", "text": "Pune"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q32",
+            "text": "Which satellite is used for BSNL GSPS (Global Satellite Phone Service)?",
+            "options": [
+                {"id": "a", "text": "GSAT-11"},
+                {"id": "b", "text": "Inmarsat I-4 F2"},
+                {"id": "c", "text": "INSAT-3C"},
+                {"id": "d", "text": "Syncom 3"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q33",
+            "text": "In Intelligent Networks (IN), which element updates the SCP with new programs and data?",
+            "options": [
+                {"id": "a", "text": "SSP"},
+                {"id": "b", "text": "STP"},
+                {"id": "c", "text": "SMP (Service Management Point)"},
+                {"id": "d", "text": "IP Router"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q34",
+            "text": "Which BSNL service is described as the 'modern day equivalent of a T1 trunk'?",
+            "options": [
+                {"id": "a", "text": "MLLN"},
+                {"id": "b", "text": "SIP Trunk"},
+                {"id": "c", "text": "ISDN BRI"},
+                {"id": "d", "text": "Centrex"}
+            ],
+            "correctAnswer": "b"
         },
         {
             "id": "q35",
-            "text": "Clinging to obsolete products, services and practices which no longer have potential for sustaining livelihood.",
+            "text": "Which cloud model allows systems and services to be accessible within an organization?",
             "options": [
-                {"id": "a", "text": "Myopia"},
-                {"id": "b", "text": "Buggy Whip"},
-                {"id": "c", "text": "Rat-race"},
-                {"id": "d", "text": "Anarchy"}
+                {"id": "a", "text": "Public Cloud"},
+                {"id": "b", "text": "Private Cloud"},
+                {"id": "c", "text": "Community Cloud"},
+                {"id": "d", "text": "Hybrid Cloud"}
             ],
             "correctAnswer": "b"
         },
         {
             "id": "q36",
-            "text": "No future orientation Little thought to strategy, sense of direction and advance planning. Live day to day, week to week.",
+            "text": "What does 'XaaS' stand for in cloud terminology?",
             "options": [
-                {"id": "a", "text": "Remote Control"},
-                {"id": "b", "text": "Amoeba"},
-                {"id": "c", "text": "Myopia"},
-                {"id": "d", "text": "Buggy Whip"}
+                {"id": "a", "text": "Extended as a Service"},
+                {"id": "b", "text": "Anything as a Service"},
+                {"id": "c", "text": "Xerox as a Service"},
+                {"id": "d", "text": "External as a Service"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q37",
-            "text": "Toxic climate coming from oppressive, primitive, slave driving policy.",
+            "text": "What is the annual power availability SLA for BSNL's Managed Colocation in Tier 3 data centers?",
             "options": [
-                {"id": "a", "text": "Buggy Whip"},
-                {"id": "b", "text": "Anarchy"},
-                {"id": "c", "text": "Rat-race"},
-                {"id": "d", "text": "Remote Control"}
+                {"id": "a", "text": "99.0%"},
+                {"id": "b", "text": "99.9%"},
+                {"id": "c", "text": "99.982%"},
+                {"id": "d", "text": "99.999%"}
             ],
             "correctAnswer": "c"
         },
         {
             "id": "q38",
-            "text": "Too much administrative or, executive control from the parent body Decision making autonomy is seriously impaired.",
+            "text": "In the SaaS model, who is responsible for providing, maintaining, and updating the programs?",
             "options": [
-                {"id": "a", "text": "Amoeba"},
-                {"id": "b", "text": "Remote Control"},
-                {"id": "c", "text": "Myopia"},
-                {"id": "d", "text": "Rat-race"}
+                {"id": "a", "text": "The end user"},
+                {"id": "b", "text": "The provider"},
+                {"id": "c", "text": "The local IT team"},
+                {"id": "d", "text": "A third-party contractor"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q39",
+            "text": "What is the maximum block-based storage per virtual server in BSNL's Public Compute Service?",
+            "options": [
+                {"id": "a", "text": "500 GB"},
+                {"id": "b", "text": "1 TB"},
+                {"id": "c", "text": "2.5 TB"},
+                {"id": "d", "text": "10 TB"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q40",
+            "text": "What is the availability guarantee percentage for BSNL Cloud services?",
+            "options": [
+                {"id": "a", "text": "99.5%"},
+                {"id": "b", "text": "99.9%"},
+                {"id": "c", "text": "99.99%"},
+                {"id": "d", "text": "99.999%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q41",
+            "text": "Which standard is defined to define a standard telecommunications infrastructure for data centers?",
+            "options": [
+                {"id": "a", "text": "IEEE 802.1Q"},
+                {"id": "b", "text": "TIA-942"},
+                {"id": "c", "text": "ISO 9001"},
+                {"id": "d", "text": "ITU-T G.709"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q42",
+            "text": "What is the purpose of 'Application Acceleration' in a data center?",
+            "options": [
+                {"id": "a", "text": "To increase the physical speed of servers"},
+                {"id": "b", "text": "To improve application performance via SSL acceleration and caching"},
+                {"id": "c", "text": "To provide backup power for apps"},
+                {"id": "d", "text": "To monitor employee logins to apps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q43",
+            "text": "What is the maximum throughput range for the 802.11ac Wi-Fi standard?",
+            "options": [
+                {"id": "a", "text": "54 Mbps"},
+                {"id": "b", "text": "300 Mbps"},
+                {"id": "c", "text": "500-1000 Mbps"},
+                {"id": "d", "text": "2.5 Gbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q44",
+            "text": "Which BSNL service provides a Room Video Collaboration Service accessible nationwide?",
+            "options": [
+                {"id": "a", "text": "SIP Trunking"},
+                {"id": "b", "text": "v-Sanghoshti"},
+                {"id": "c", "text": "MLLN"},
+                {"id": "d", "text": "Centrex"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q45",
+            "text": "In CCTV systems, what is the maximum distance for pure IP wiring over Cat5/6 cable?",
+            "options": [
+                {"id": "a", "text": "100 ft"},
+                {"id": "b", "text": "330 ft"},
+                {"id": "c", "text": "500 ft"},
+                {"id": "d", "text": "1000 ft"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q46",
+            "text": "Which unique feature does BSNL Managed Hosted Email offer first in India?",
+            "options": [
+                {"id": "a", "text": "Unlimited space"},
+                {"id": "b", "text": "Linguistic email IDs on 'भारत' domain in all Indian languages"},
+                {"id": "c", "text": "Free hardware with every account"},
+                {"id": "d", "text": "Built-in fax machine integration"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q47",
+            "text": "What is the recurring usage charge per participant per minute for BSNL Global Web Conferencing?",
+            "options": [
+                {"id": "a", "text": "Rs. 5"},
+                {"id": "b", "text": "Rs. 10"},
+                {"id": "c", "text": "Rs. 15"},
+                {"id": "d", "text": "Rs. 25"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q48",
+            "text": "According to the IoT framework, what are 'physical things' capability?",
+            "options": [
+                {"id": "a", "text": "Sensed, actuated and connected"},
+                {"id": "b", "text": "Stored, processed and accessed"},
+                {"id": "c", "text": "Only virtual images"},
+                {"id": "d", "text": "Software applications"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q49",
+            "text": "In an IPTV architecture, what varying compression and bit rate component is used?",
+            "options": [
+                {"id": "a", "text": "Optical splitters"},
+                {"id": "b", "text": "Satellite dishes"},
+                {"id": "c", "text": "Decoders and Transcoders"},
+                {"id": "d", "text": "xDSL access modules"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q50",
+            "text": "What is the name of BSNL's online billing mobile app for FTTH customers?",
+            "options": [
+                {"id": "a", "text": "Teevra"},
+                {"id": "b", "text": "E-Pay"},
+                {"id": "c", "text": "MyBSNL"},
+                {"id": "d", "text": "Sanchar Aadhar"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q51",
+            "text": "In FTTH technology, what is the standard wavelength for downstream transmission?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1550 nm"},
+                {"id": "c", "text": "1490 nm"},
+                {"id": "d", "text": "850 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q52",
+            "text": "What is the standard wavelength for upstream transmission in an FTTH system?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1580 nm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q53",
+            "text": "What is the downstream data rate supported by BSNL's GPON procurement?",
+            "options": [
+                {"id": "a", "text": "1.244 Gbps"},
+                {"id": "b", "text": "2.488 Gbps"},
+                {"id": "c", "text": "10 Gbps"},
+                {"id": "d", "text": "155 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q54",
+            "text": "What does 'OTN' stand for in transport networks?",
+            "options": [
+                {"id": "a", "text": "Optical Terminal Node"},
+                {"id": "b", "text": "Optical Transport Network"},
+                {"id": "c", "text": "Operational Trunk Node"},
+                {"id": "d", "text": "Oceanic Transport Network"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q55",
+            "text": "A major difference between OTN and SONET/SDH is that OTN is defined with fixed ______?",
+            "options": [
+                {"id": "a", "text": "Frame rates"},
+                {"id": "b", "text": "Frame sizes"},
+                {"id": "c", "text": "Wavelengths"},
+                {"id": "d", "text": "Clock signals"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q56",
+            "text": "Which card in the Teracom AN5116-06A system provides four EPON interfaces?",
+            "options": [
+                {"id": "a", "text": "HSWA"},
+                {"id": "b", "text": "EC4B"},
+                {"id": "c", "text": "PUBA"},
+                {"id": "d", "text": "CE1B"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q57",
+            "text": "What is the default login username for the Teracom AN5116-06A CLI?",
+            "options": [
+                {"id": "a", "text": "admin"},
+                {"id": "b", "text": "GEPON"},
+                {"id": "c", "text": "root"},
+                {"id": "d", "text": "supervisor"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q58",
+            "text": "What is the correct IP address to access a BSNL Huawei FTTH ONT configuration page?",
+            "options": [
+                {"id": "a", "text": "192.168.1.1"},
+                {"id": "b", "text": "192.168.100.1"},
+                {"id": "c", "text": "10.0.0.1"},
+                {"id": "d", "text": "192.168.0.1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q59",
+            "text": "What is the maximum working distance for a 2 Mbps MLLN line using HDSL?",
+            "options": [
+                {"id": "a", "text": "1.0 km"},
+                {"id": "b", "text": "2.5 km"},
+                {"id": "c", "text": "3.5 km"},
+                {"id": "d", "text": "7.0 km"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q60",
+            "text": "In MPLS, what is the group of packets sharing the same transport requirements called?",
+            "options": [
+                {"id": "a", "text": "Label Path"},
+                {"id": "b", "text": "Forwarding Equivalence Class (FEC)"},
+                {"id": "c", "text": "Switching Group"},
+                {"id": "d", "text": "Route Cluster"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q61",
+            "text": "What is the total size of an MPLS header?",
+            "options": [
+                {"id": "a", "text": "20 bits"},
+                {"id": "b", "text": "32 bits (4 bytes)"},
+                {"id": "c", "text": "8 bytes"},
+                {"id": "d", "text": "64 bits"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q62",
+            "text": "In the MPLS header, which bit indicates that the packet is the last in a label stack?",
+            "options": [
+                {"id": "a", "text": "Label"},
+                {"id": "b", "text": "Exp"},
+                {"id": "c", "text": "Stack Bottom (S)"},
+                {"id": "d", "text": "TTL"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q63",
+            "text": "In the Peer VPN Model, what is the size of the unique VPN address or 'tag'?",
+            "options": [
+                {"id": "a", "text": "4 bits"},
+                {"id": "b", "text": "32 bits"},
+                {"id": "c", "text": "8 bytes"},
+                {"id": "d", "text": "1 byte"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q64",
+            "text": "At which OSI layer does a Virtual LAN (VLAN) isolate broadcast domains?",
+            "options": [
+                {"id": "a", "text": "Layer 1"},
+                {"id": "b", "text": "Layer 2 (Data Link)"},
+                {"id": "c", "text": "Layer 3 (Network)"},
+                {"id": "d", "text": "Layer 4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q65",
+            "text": "Which IEEE header standard is commonly used for VLAN tagging?",
+            "options": [
+                {"id": "a", "text": "802.11ac"},
+                {"id": "b", "text": "802.1Q"},
+                {"id": "c", "text": "802.3u"},
+                {"id": "d", "text": "802.15"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q66",
+            "text": "What function in a GPON system programs upstream transmissions into specific time slots?",
+            "options": [
+                {"id": "a", "text": "Mapping"},
+                {"id": "b", "text": "Ranging"},
+                {"id": "c", "text": "Aligning"},
+                {"id": "d", "text": "Multiplexing"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q67",
+            "text": "In GEPON, what does 'N:1 VLAN translation' do?",
+            "options": [
+                {"id": "a", "text": "Translates IP to MAC"},
+                {"id": "b", "text": "Converges several VLANs into one valid VLAN"},
+                {"id": "c", "text": "Splits one VLAN into many"},
+                {"id": "d", "text": "Changes the VLAN ID to a phone number"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q68",
+            "text": "What is the primary goal of MPLS-TP?",
+            "options": [
+                {"id": "a", "text": "Connection-less forwarding"},
+                {"id": "b", "text": "Connection-oriented transport for packet and TDM services"},
+                {"id": "c", "text": "To replace all optical fiber with copper"},
+                {"id": "d", "text": "To eliminate IP addresses"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q69",
+            "text": "Which MPLS function is disabled in MPLS-TP to ensure full path traceability?",
+            "options": [
+                {"id": "a", "text": "LSP"},
+                {"id": "b", "text": "Penultimate Hop Popping (PHP)"},
+                {"id": "c", "text": "Pseudowires"},
+                {"id": "d", "text": "Control Plane Signaling"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q70",
+            "text": "Which UTStarcom CPAN equipment is categorized as 'Type B2'?",
+            "options": [
+                {"id": "a", "text": "TN703B"},
+                {"id": "b", "text": "TN705B"},
+                {"id": "c", "text": "TN725B"},
+                {"id": "d", "text": "TN701B"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q71",
+            "text": "What is the bit rate of the basic SDH unit (STM-1)?",
+            "options": [
+                {"id": "a", "text": "1.544 Mbps"},
+                {"id": "b", "text": "2.048 Mbps"},
+                {"id": "c", "text": "155.52 Mbps"},
+                {"id": "d", "text": "622.08 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q72",
+            "text": "In the SDH frame, which overhead bytes are responsible for Frame Alignment?",
+            "options": [
+                {"id": "a", "text": "B1, B2"},
+                {"id": "b", "text": "A1, A2"},
+                {"id": "c", "text": "D1, D2"},
+                {"id": "d", "text": "K1, K2"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q73",
+            "text": "In NGSDH, which protocol enables 'Bandwidth on Demand'?",
+            "options": [
+                {"id": "a", "text": "GFP"},
+                {"id": "b", "text": "VCAT"},
+                {"id": "c", "text": "LCAS"},
+                {"id": "d", "text": "BGP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q74",
+            "text": "Which transmission band is also called the 'Conventional Band' (1530 to 1565 nm)?",
+            "options": [
+                {"id": "a", "text": "L-Band"},
+                {"id": "b", "text": "C-Band"},
+                {"id": "c", "text": "S-Band"},
+                {"id": "d", "text": "K-Band"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q75",
+            "text": "Which DWDM network element is used as an in-line terminal node for adding/dropping all services?",
+            "options": [
+                {"id": "a", "text": "OLA"},
+                {"id": "b", "text": "OTM"},
+                {"id": "c", "text": "OSC"},
+                {"id": "d", "text": "LAC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q76",
+            "text": "What is the 'Eb/No' reading used for in VSAT configuration?",
+            "options": [
+                {"id": "a", "text": "To measure battery voltage"},
+                {"id": "b", "text": "To verify and peak the signal strength during alignment"},
+                {"id": "c", "text": "To identify the user's name"},
+                {"id": "d", "text": "To calculate the bill"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q77",
+            "text": "What does the Gigabit Readiness Index (GRI) measure at the PAN India level?",
+            "options": [
+                {"id": "a", "text": "Average internet speed"},
+                {"id": "b", "text": "Umbrella coverage of GPON connectivity (last mile fiber reach)"},
+                {"id": "c", "text": "Total number of mobile users"},
+                {"id": "d", "text": "Number of cable cuts"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q78",
+            "text": "Which BSNL application is designed for fetching live Broadband/FTTH details via mobile?",
+            "options": [
+                {"id": "a", "text": "E-Pay"},
+                {"id": "b", "text": "Teevra App"},
+                {"id": "c", "text": "Sanchar Aadhar"},
+                {"id": "d", "text": "Prabal+"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q79",
+            "text": "Which card in the ZTE DWDM system filters optical signals and sends them to different receivers?",
+            "options": [
+                {"id": "a", "text": "OMU"},
+                {"id": "b", "text": "ODU"},
+                {"id": "c", "text": "OTU"},
+                {"id": "d", "text": "NCP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q80",
+            "text": "Which component in a communications satellite carries out the repeater function?",
+            "options": [
+                {"id": "a", "text": "Solar Panels"},
+                {"id": "b", "text": "Transponders"},
+                {"id": "c", "text": "Telemetry subsystem"},
+                {"id": "d", "text": "Battery pack"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q81",
+            "text": "The BSNL project connecting Chennai with Port Blair and seven islands is called?",
+            "options": [
+                {"id": "a", "text": "BharatNet"},
+                {"id": "b", "text": "CANI"},
+                {"id": "c", "text": "NOFN"},
+                {"id": "d", "text": "NFS"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q82",
+            "text": "What is the power consumption of a standard OC-PAN switch (CITRANS 650 U3)?",
+            "options": [
+                {"id": "a", "text": "100 Watt"},
+                {"id": "b", "text": "408 Watt"},
+                {"id": "c", "text": "625 Watt"},
+                {"id": "d", "text": "1000 Watt"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q83",
+            "text": "Which SDH network element switches traffic according to a provisioned route between interfaces?",
+            "options": [
+                {"id": "a", "text": "Regenerator"},
+                {"id": "b", "text": "Digital Cross-Connect (DCS/DXC)"},
+                {"id": "c", "text": "Terminal Multiplexer"},
+                {"id": "d", "text": "LCT"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q84",
+            "text": "Submarine cables carry what percentage of the world's intercontinental communications traffic?",
+            "options": [
+                {"id": "a", "text": "50%"},
+                {"id": "b", "text": "75%"},
+                {"id": "c", "text": "99%"},
+                {"id": "d", "text": "100%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q85",
+            "text": "What determines the total time required for a project in a network diagram?",
+            "options": [
+                {"id": "a", "text": "The shortest path"},
+                {"id": "b", "text": "The parallel path"},
+                {"id": "c", "text": "The critical path"},
+                {"id": "d", "text": "The slack time"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q86",
+            "text": "What is the PERT formula for Expected Time (ET)?",
+            "options": [
+                {"id": "a", "text": "(OT + MT + PT) / 3"},
+                {"id": "b", "text": "(OT + 4MT + PT) / 6"},
+                {"id": "c", "text": "(OT + 6MT + PT) / 8"},
+                {"id": "d", "text": "(OT + 2MT + PT) / 4"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q87",
+            "text": "In a PERT diagram, what does a 'node' signify?",
+            "options": [
+                {"id": "a", "text": "The task itself"},
+                {"id": "b", "text": "The completion milestone"},
+                {"id": "c", "text": "The critical path"},
+                {"id": "d", "text": "A redundant activity"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q88",
+            "text": "What is the benchmark for Packet Loss in BSNL MPLS VPN SLA?",
+            "options": [
+                {"id": "a", "text": "Below 10%"},
+                {"id": "b", "text": "Below 5%"},
+                {"id": "c", "text": "Below 1%"},
+                {"id": "d", "text": "Exactly 0%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q89",
+            "text": "How many minutes of downtime per week is allowed for 99.9% availability?",
+            "options": [
+                {"id": "a", "text": "1.68 hours"},
+                {"id": "b", "text": "50.4 minutes"},
+                {"id": "c", "text": "10.1 minutes"},
+                {"id": "d", "text": "1.01 minutes"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q90",
+            "text": "In protection switching, what is the 'Wait-to-Restore' state?",
+            "options": [
+                {"id": "a", "text": "Waiting for customer payment"},
+                {"id": "b", "text": "Period after failure clears before moving traffic back to the working path"},
+                {"id": "c", "text": "Waiting for a vendor to arrive"},
+                {"id": "d", "text": "A permanent failure state"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q91",
+            "text": "Which BSNL vertical handles empanelment of Application Service Providers (ASPs)?",
+            "options": [
+                {"id": "a", "text": "EB/NB cell Corporate Office"},
+                {"id": "b", "text": "FICO"},
+                {"id": "c", "text": "MM Cell"},
+                {"id": "d", "text": "Legal Cell"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q92",
+            "text": "What part of the ASP revenue share is divided based on proportionate investment planning?",
+            "options": [
+                {"id": "a", "text": "Fixed revenue share"},
+                {"id": "b", "text": "Variable revenue share (X)"},
+                {"id": "c", "text": "TDS only"},
+                {"id": "d", "text": "Service Tax"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q93",
+            "text": "Which project aims to connect 2.5 lakh Gram Panchayats with 100 Mbps broadband?",
+            "options": [
+                {"id": "a", "text": "NFS"},
+                {"id": "b", "text": "BharatNet / NOFN"},
+                {"id": "c", "text": "CANI"},
+                {"id": "d", "text": "Digital India"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q94",
+            "text": "Which project provides a 'Next Generation Network' communication for Defence Forces?",
+            "options": [
+                {"id": "a", "text": "BharatNet"},
+                {"id": "b", "text": "NFS (Network For Spectrum)"},
+                {"id": "c", "text": "CANI"},
+                {"id": "d", "text": "NKN"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q95",
+            "text": "In SD-WAN, private IP addresses are assigned from the range defined in which RFC?",
+            "options": [
+                {"id": "a", "text": "RFC 1918"},
+                {"id": "b", "text": "RFC 2544"},
+                {"id": "c", "text": "RFC 791"},
+                {"id": "d", "text": "RFC 802"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q96",
+            "text": "Which project interconnects knowledge and research institutions in India through a high bandwidth network?",
+            "options": [
+                {"id": "a", "text": "NFS"},
+                {"id": "b", "text": "Digital India"},
+                {"id": "c", "text": "NKN (National Knowledge Network)"},
+                {"id": "d", "text": "BharatNet"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q97",
+            "text": "What was the successful BSNL bid value for the Western Coalfields Limited (WCL) ERP project?",
+            "options": [
+                {"id": "a", "text": "Rs. 100 Million"},
+                {"id": "b", "text": "Rs. 608.01 Million"},
+                {"id": "c", "text": "Rs. 1 Billion"},
+                {"id": "d", "text": "Rs. 275 Crores"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q98",
+            "text": "What is 'Ad-Hoc reporting' as defined in financial and business studies?",
+            "options": [
+                {"id": "a", "text": "Annual financial statements"},
+                {"id": "b", "text": "A one-off report generated for a specific query"},
+                {"id": "c", "text": "A standard weekly update"},
+                {"id": "d", "text": "Publicly shared bar graphs"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q99",
+            "text": "What does 'ARPU' stand for in market forecasting?",
+            "options": [
+                {"id": "a", "text": "Annual Revenue per Unit"},
+                {"id": "b", "text": "Average Revenue Per User"},
+                {"id": "c", "text": "Actual Rate of Provider Usage"},
+                {"id": "d", "text": "Applied Revenue per User"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q100",
+            "text": "Which type of report provides snapshots on a given topic to facilitate transparency (e.g., how numbers are generating now)?",
+            "options": [
+                {"id": "a", "text": "Explanatory Report"},
+                {"id": "b", "text": "Progress Report"},
+                {"id": "c", "text": "Analytical Report"},
+                {"id": "d", "text": "Ad-Hoc Report"}
             ],
             "correctAnswer": "b"
         }

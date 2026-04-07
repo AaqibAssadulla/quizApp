@@ -1,423 +1,1105 @@
 {
-    "title": "Telecom, Technology, and Organizational Issues",
+    "title": "JTO Phase-II Week 5 Quiz",
     "questions": [
         {
-            "id": "q1",
-            "text": "Core site location for the North Zone in CDOT MAX-NG Core Network.",
+            "id": "w5q1",
+            "text": "What is the primary goal of MPLS-TP as mentioned in the transport network overview?",
             "options": [
-                {"id": "a", "text": "Kolkata"},
-                {"id": "b", "text": "Gurgaon"},
-                {"id": "c", "text": "Pune"},
-                {"id": "d", "text": "Bangalore"}
+                {"id": "a", "text": "To provide connection-less data forwarding"},
+                {"id": "b", "text": "To provide connection-oriented transport for packet and TDM services"},
+                {"id": "c", "text": "To replace all optical fiber with copper"},
+                {"id": "d", "text": "To eliminate the need for IP addresses entirely"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q2",
-            "text": "Core site location for the South Zone in CDOT MAX-NG Core Network.",
+            "id": "w5q2",
+            "text": "Which MPLS function is disabled in MPLS-TP to ensure full traceability of paths for OAM packets?",
             "options": [
-                {"id": "a", "text": "Gurgaon"},
-                {"id": "b", "text": "Kolkata"},
-                {"id": "c", "text": "Bangalore"},
-                {"id": "d", "text": "Pune"}
+                {"id": "a", "text": "Label Switched Paths (LSPs)"},
+                {"id": "b", "text": "Penultimate Hop Popping (PHP)"},
+                {"id": "c", "text": "Pseudo-wires"},
+                {"id": "d", "text": "Control Plane Signaling"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q3",
+            "text": "In MPLS-TP, why is 'LSP Merge' disabled?",
+            "options": [
+                {"id": "a", "text": "To increase the number of labels"},
+                {"id": "b", "text": "To simplify circuit management and differentiate traffic from different sources"},
+                {"id": "c", "text": "Because it causes fiber cuts"},
+                {"id": "d", "text": "To allow for IP forwarding"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q4",
+            "text": "Which UTStarcom CPAN equipment is categorized as 'Type B2' and provides 42 card slots?",
+            "options": [
+                {"id": "a", "text": "TN703B"},
+                {"id": "b", "text": "TN705B"},
+                {"id": "c", "text": "TN725B"},
+                {"id": "d", "text": "TN701B"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q3",
-            "text": "Core site location for the East Zone in CDOT MAX-NG Core Network.",
+            "id": "w5q5",
+            "text": "What is the maximum access capability of the TN725B for 10GE optical interfaces?",
             "options": [
-                {"id": "a", "text": "Pune"},
-                {"id": "b", "text": "Bangalore"},
-                {"id": "c", "text": "Gurgaon"},
-                {"id": "d", "text": "Kolkata"}
+                {"id": "a", "text": "2"},
+                {"id": "b", "text": "4"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "10"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q6",
+            "text": "In the CPAN TN705B architecture, what is the function of the OPCK card?",
+            "options": [
+                {"id": "a", "text": "Power Supply"},
+                {"id": "b", "text": "Control, PPC, and clock/time"},
+                {"id": "c", "text": "10GE Uplink"},
+                {"id": "d", "text": "Fan Cooling"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q7",
+            "text": "Lower type CPAN nodes (Type-A) can be directly terminated on which interface of Type-B nodes?",
+            "options": [
+                {"id": "a", "text": "10GE Uplink"},
+                {"id": "b", "text": "1 GE Uplink"},
+                {"id": "c", "text": "E1 interface"},
+                {"id": "d", "text": "STM-1 interface"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q8",
+            "text": "What is the bit rate of the basic SDH unit (STM-1)?",
+            "options": [
+                {"id": "a", "text": "1.544 Mbps"},
+                {"id": "b", "text": "2.048 Mbps"},
+                {"id": "c", "text": "155.52 Mbps"},
+                {"id": "d", "text": "622.08 Mbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q9",
+            "text": "In Alphion GPON systems, what is the downstream data transfer rate?",
+            "options": [
+                {"id": "a", "text": "1.244 Gbps"},
+                {"id": "b", "text": "2.488 Gbps"},
+                {"id": "c", "text": "10 Gbps"},
+                {"id": "d", "text": "100 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q10",
+            "text": "In the Alphion AOLT-4000 chassis, which slots are dedicated to redundant Switch (SWT) cards?",
+            "options": [
+                {"id": "a", "text": "1 & 16"},
+                {"id": "b", "text": "3 & 15"},
+                {"id": "c", "text": "4 to 13"},
+                {"id": "d", "text": "21 & 22"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q11",
+            "text": "What is the purpose of the 'RF Overlay' equipment in GPON?",
+            "options": [
+                {"id": "a", "text": "To increase internet speed"},
+                {"id": "b", "text": "To multiplex a 1550 nm optical video signal into the downstream fiber"},
+                {"id": "c", "text": "To provide backup power"},
+                {"id": "d", "text": "To monitor fiber cuts"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q12",
+            "text": "Which Alphion device serves as a semiconductor optical amplifier for hard-to-reach rural customers?",
+            "options": [
+                {"id": "a", "text": "AONT-100"},
+                {"id": "b", "text": "PON.ext"},
+                {"id": "c", "text": "ASPL Splitter"},
+                {"id": "d", "text": "AOLT-4000"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q13",
+            "text": "In Path Protection using a centralized splitter, a single 2x32 splitter handles how many AONT endpoints per fiber?",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "64"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q14",
+            "text": "What is the maximum split ratio supported by the Huawei MA5680T GPON system?",
+            "options": [
+                {"id": "a", "text": "1:32"},
+                {"id": "b", "text": "1:64"},
+                {"id": "c", "text": "1:128"},
+                {"id": "d", "text": "1:256"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q15",
+            "text": "In the Huawei MA5680T service shelf, which slots house the control boards (SCUN/SCUL)?",
+            "options": [
+                {"id": "a", "text": "1 & 2"},
+                {"id": "b", "text": "9 & 10"},
+                {"id": "c", "text": "19 & 20"},
+                {"id": "d", "text": "21 & 22"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q16",
+            "text": "Which Huawei board provides SATop TDM service processing for 64 channels of E1 signals?",
+            "options": [
+                {"id": "a", "text": "GPBD"},
+                {"id": "b", "text": "CSPA"},
+                {"id": "c", "text": "ETHB"},
+                {"id": "d", "text": "X1CA"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q17",
+            "text": "What is the default IP address to access the configuration page of a Huawei EchoLife HG850a ONT?",
+            "options": [
+                {"id": "a", "text": "192.168.1.1"},
+                {"id": "b", "text": "192.168.100.1"},
+                {"id": "c", "text": "10.0.0.1"},
+                {"id": "d", "text": "192.168.0.1"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q18",
+            "text": "Which technology is used in GPON to maintain clock synchronization between mobile base stations and the core network?",
+            "options": [
+                {"id": "a", "text": "BITS/1588 clock signal"},
+                {"id": "b", "text": "Manual tuning"},
+                {"id": "c", "text": "Wi-Fi syncing"},
+                {"id": "d", "text": "GPS on mobile handset"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "w5q19",
+            "text": "What does the Gigabit Readiness Index (GRI) measure at the PAN India level?",
+            "options": [
+                {"id": "a", "text": "Average internet speed in rural areas"},
+                {"id": "b", "text": "Umbrella coverage of GPON connectivity (last mile fiber reach)"},
+                {"id": "c", "text": "Total number of mobile users"},
+                {"id": "d", "text": "Number of cable cuts per month"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q20",
+            "text": "Which BSNL application is designed for fetching live Broadband/FTTH details like OLT owner and VLAN IDs via mobile?",
+            "options": [
+                {"id": "a", "text": "E-Pay"},
+                {"id": "b", "text": "Teevra App"},
+                {"id": "c", "text": "Sanchar Aadhar"},
+                {"id": "d", "text": "Prabal+"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q21",
+            "text": "In the SDH frame, which overhead bytes are responsible for Frame Alignment?",
+            "options": [
+                {"id": "a", "text": "B1, B2"},
+                {"id": "b", "text": "A1, A2"},
+                {"id": "c", "text": "D1, D2"},
+                {"id": "d", "text": "K1, K2"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q22",
+            "text": "What is the bit rate of STM-64?",
+            "options": [
+                {"id": "a", "text": "155.52 Mbps"},
+                {"id": "b", "text": "622.08 Mbps"},
+                {"id": "c", "text": "2488.32 Mbps"},
+                {"id": "d", "text": "9953.28 Mbps"}
             ],
             "correctAnswer": "d"
         },
         {
-            "id": "q4",
-            "text": "Core site location for the West Zone in CDOT MAX-NG Core Network.",
+            "id": "w5q23",
+            "text": "The prefix 'plesio' in Plesiochronous Digital Hierarchy (PDH) means:",
+            "options": [
+                {"id": "a", "text": "Exactly equal"},
+                {"id": "b", "text": "Almost equal but not exactly"},
+                {"id": "c", "text": "Completely different"},
+                {"id": "d", "text": "High speed"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q24",
+            "text": "Which SDH network element is used to switch containers between interfaces according to a provisioned route?",
+            "options": [
+                {"id": "a", "text": "Regenerator"},
+                {"id": "b", "text": "Digital Cross-Connect (DXC)"},
+                {"id": "c", "text": "Terminal Multiplexer"},
+                {"id": "d", "text": "LCT"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q25",
+            "text": "In NGSDH, what protocol allows for 'Bandwidth on Demand' by dynamically changing the virtually concatenated channel size?",
+            "options": [
+                {"id": "a", "text": "GFP"},
+                {"id": "b", "text": "VCAT"},
+                {"id": "c", "text": "LCAS"},
+                {"id": "d", "text": "BGP"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q26",
+            "text": "What is the formula for Next Generation SDH according to the training material?",
+            "options": [
+                {"id": "a", "text": "Classic SDH + [IP + ATM]"},
+                {"id": "b", "text": "Classic SDH + [GFP + VCAT + LCAS]"},
+                {"id": "c", "text": "DWDM + [MPLS-TP]"},
+                {"id": "d", "text": "OTN + [SONET]"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q27",
+            "text": "Which transmission window band is also called the 'Conventional Band' (1530 to 1565 nm)?",
+            "options": [
+                {"id": "a", "text": "L-Band"},
+                {"id": "b", "text": "C-Band"},
+                {"id": "c", "text": "S-Band"},
+                {"id": "d", "text": "K-Band"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q28",
+            "text": "What is the role of an OTM (Optical Terminal Multiplexer) in a DWDM system?",
+            "options": [
+                {"id": "a", "text": "To amplify the signal at a midpoint"},
+                {"id": "b", "text": "To add/drop all services at the line terminal node"},
+                {"id": "c", "text": "To monitor temperature only"},
+                {"id": "d", "text": "To act as a satellite hub"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q29",
+            "text": "In the ZTE 32-channel DWDM system, what does 'NCP' stand for?",
+            "options": [
+                {"id": "a", "text": "Network Control Processor"},
+                {"id": "b", "text": "Nodal Connection Point"},
+                {"id": "c", "text": "Next Circuit Planner"},
+                {"id": "d", "text": "New Central Platform"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "w5q30",
+            "text": "What is the standard wavelength used for the Optical Supervisory Channel (OSC) in DWDM?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1510 nm"},
+                {"id": "d", "text": "1550 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q31",
+            "text": "Who is often quoted as the inventor of the communications satellite?",
+            "options": [
+                {"id": "a", "text": "Graham Bell"},
+                {"id": "b", "text": "Arthur C. Clarke"},
+                {"id": "c", "text": "Thomas Edison"},
+                {"id": "d", "text": "Marconi"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q32",
+            "text": "Where is the BSNL DSPT Hub (Earth Station) located?",
             "options": [
                 {"id": "a", "text": "Bangalore"},
-                {"id": "b", "text": "Pune"},
-                {"id": "c", "text": "Kolkata"},
-                {"id": "d", "text": "Gurgaon"}
+                {"id": "b", "text": "Sikanderabad (U.P.)"},
+                {"id": "c", "text": "Pune"},
+                {"id": "d", "text": "Kolkata"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q5",
-            "text": "Disaster Recovery core site location for the North Zone in CDOT MAX-NG Core Network.",
+            "id": "w5q33",
+            "text": "What is the approximate propagation delay for a one-hop satellite signal (uplink + downlink)?",
             "options": [
-                {"id": "a", "text": "Cuttack"},
-                {"id": "b", "text": "Chandigarh"},
-                {"id": "c", "text": "Hyderabad"},
-                {"id": "d", "text": "Bhopal"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "q6",
-            "text": "Disaster Recovery core site location for the South Zone in CDOT MAX-NG Core Network.",
-            "options": [
-                {"id": "a", "text": "Chandigarh"},
-                {"id": "b", "text": "Bhopal"},
-                {"id": "c", "text": "Hyderabad"},
-                {"id": "d", "text": "Cuttack"}
+                {"id": "a", "text": "10 msec"},
+                {"id": "b", "text": "100 msec"},
+                {"id": "c", "text": "240 msec"},
+                {"id": "d", "text": "500 msec"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q7",
-            "text": "Disaster Recovery core site location for the East Zone in CDOT MAX-NG Core Network.",
+            "id": "w5q34",
+            "text": "In a satellite link, which orbit shape is insufficient for global communication with just one satellite?",
             "options": [
-                {"id": "a", "text": "Hyderabad"},
-                {"id": "b", "text": "Chandigarh"},
-                {"id": "c", "text": "Cuttack"},
-                {"id": "d", "text": "Bhopal"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q8",
-            "text": "Disaster Recovery core site location for the West Zone in CDOT MAX-NG Core Network.",
-            "options": [
-                {"id": "a", "text": "Cuttack"},
-                {"id": "b", "text": "Hyderabad"},
-                {"id": "c", "text": "Chandigarh"},
-                {"id": "d", "text": "Bhopal"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "q9",
-            "text": "Records all account data including all postings happening to subsidiary ledgers.",
-            "options": [
-                {"id": "a", "text": "HCM"},
-                {"id": "b", "text": "FICO"},
-                {"id": "c", "text": "MM"},
-                {"id": "d", "text": "PM"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "q10",
-            "text": "HR Administration including Organizational Structure.",
-            "options": [
-                {"id": "a", "text": "FICO"},
-                {"id": "b", "text": "PS"},
-                {"id": "c", "text": "HCM"},
-                {"id": "d", "text": "REM"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q11",
-            "text": "Inventory Management including e-procurement.",
-            "options": [
-                {"id": "a", "text": "REM"},
-                {"id": "b", "text": "MM"},
-                {"id": "c", "text": "S&D"},
-                {"id": "d", "text": "BASIS"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "q12",
-            "text": "Planned & Unplanned Maintenance of various technical objects of Consumer Mobility, Broad Band, CFA, IT, Transmission.",
-            "options": [
-                {"id": "a", "text": "PM"},
-                {"id": "b", "text": "ESS"},
-                {"id": "c", "text": "PP&QC"},
-                {"id": "d", "text": "PS"}
+                {"id": "a", "text": "Circular Equatorial"},
+                {"id": "b", "text": "Circular Polar"},
+                {"id": "c", "text": "Geostationary"},
+                {"id": "d", "text": "Inclined"}
             ],
             "correctAnswer": "a"
         },
         {
-            "id": "q13",
-            "text": "Execution & Monitoring of Capital Project works of various business lines.",
+            "id": "w5q35",
+            "text": "What is the frequency range for the satellite 'L' Band?",
             "options": [
-                {"id": "a", "text": "S&D"},
-                {"id": "b", "text": "FICO"},
-                {"id": "c", "text": "PS"},
-                {"id": "d", "text": "HCM"}
+                {"id": "a", "text": "5925-6425 MHz"},
+                {"id": "b", "text": "1830-2700 MHz"},
+                {"id": "c", "text": "14.0-14.5 GHz"},
+                {"id": "d", "text": "40-51 GHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q36",
+            "text": "Which part of a communication satellite carries out the repeater function?",
+            "options": [
+                {"id": "a", "text": "Solar Panels"},
+                {"id": "b", "text": "Transponders"},
+                {"id": "c", "text": "Telemetry subsystem"},
+                {"id": "d", "text": "Battery pack"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q37",
+            "text": "What is the maximum download speed for a BSNL Broadband VSAT User Terminal?",
+            "options": [
+                {"id": "a", "text": "2 Mbps"},
+                {"id": "b", "text": "4 Mbps"},
+                {"id": "c", "text": "10 Mbps"},
+                {"id": "d", "text": "100 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q38",
+            "text": "For DSPT installation, what is the required resistance for the earth pit?",
+            "options": [
+                {"id": "a", "text": "Greater than 50 Ohms"},
+                {"id": "b", "text": "Less than 10 Ohms"},
+                {"id": "c", "text": "Exactly 100 Ohms"},
+                {"id": "d", "text": "0 Ohms"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q39",
+            "text": "Which component of the VSAT system converts electrical signal to optical pulses at the ground station?",
+            "options": [
+                {"id": "a", "text": "LNB"},
+                {"id": "b", "text": "IDU"},
+                {"id": "c", "text": "BUC"},
+                {"id": "d", "text": "Antenna"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q40",
+            "text": "Submarine cables carry what percentage of the world's intercontinental electronic communications traffic?",
+            "options": [
+                {"id": "a", "text": "50%"},
+                {"id": "b", "text": "75%"},
+                {"id": "c", "text": "99%"},
+                {"id": "d", "text": "100%"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q14",
-            "text": "Lease-in & Lease-out of CMTS Towers & USO Towers.",
+            "id": "w5q41",
+            "text": "The BSNL Kochi-Lakshadweep submarine project is funded by which organization?",
             "options": [
-                {"id": "a", "text": "BASIS"},
-                {"id": "b", "text": "REM"},
-                {"id": "c", "text": "MM"},
-                {"id": "d", "text": "PM"}
+                {"id": "a", "text": "World Bank"},
+                {"id": "b", "text": "Universal Service Obligation Fund (USOF)"},
+                {"id": "c", "text": "BSNL Private Equity"},
+                {"id": "d", "text": "State Government of Kerala"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q15",
-            "text": "Enterprise Business lead tracking.",
+            "id": "w5q42",
+            "text": "What is the typical horizontal accuracy for high-precision radio navigation during a submarine route survey?",
             "options": [
-                {"id": "a", "text": "PP&QC"},
-                {"id": "b", "text": "ESS"},
-                {"id": "c", "text": "S&D"},
-                {"id": "d", "text": "FICO"}
+                {"id": "a", "text": "Better than 1 km"},
+                {"id": "b", "text": "Better than 100 m"},
+                {"id": "c", "text": "Better than 5 m"},
+                {"id": "d", "text": "No accuracy possible at sea"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q16",
-            "text": "Roles and Authorization being done centrally.",
+            "id": "w5q43",
+            "text": "In submarine cable structures, which type is suitable for shallow water where burial is required?",
             "options": [
-                {"id": "a", "text": "HCM"},
-                {"id": "b", "text": "BASIS"},
-                {"id": "c", "text": "PS"},
-                {"id": "d", "text": "REM"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "q17",
-            "text": "Telecom Factory for Manufacturing Accounts.",
-            "options": [
-                {"id": "a", "text": "MM"},
-                {"id": "b", "text": "PP&QC"},
-                {"id": "c", "text": "S&D"},
-                {"id": "d", "text": "ESS"}
-            ],
-            "correctAnswer": "b"
-        },
-        {
-            "id": "q18",
-            "text": "Employee's Self Care & Request.",
-            "options": [
-                {"id": "a", "text": "FICO"},
-                {"id": "b", "text": "PM"},
-                {"id": "c", "text": "ESS"},
-                {"id": "d", "text": "HCM"}
+                {"id": "a", "text": "Lightweight (LW)"},
+                {"id": "b", "text": "Lightweight Protected (LWP)"},
+                {"id": "c", "text": "Single Armoured (SA)"},
+                {"id": "d", "text": "No cable is used in shallow water"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q19",
-            "text": "Satellite frequency band operating at 1830–2700 MHz.",
+            "id": "w5q44",
+            "text": "Which SDH overhead byte serves as the 'Clock Quality Indicator'?",
             "options": [
-                {"id": "a", "text": "KU BAND"},
-                {"id": "b", "text": "L BAND"},
-                {"id": "c", "text": "K BAND"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "J0"},
+                {"id": "b", "text": "S1"},
+                {"id": "c", "text": "M1"},
+                {"id": "d", "text": "E1"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q20",
-            "text": "Satellite frequency band operating at 10950–11200 GHz for downlink and 27.5–30 GHz for uplink.",
+            "id": "w5q45",
+            "text": "What is the total number of columns in an STM-1 frame structure?",
             "options": [
-                {"id": "a", "text": "L BAND"},
-                {"id": "b", "text": "K BAND"},
-                {"id": "c", "text": "KU BAND"},
-                {"id": "d", "text": "None of These"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q21",
-            "text": "Satellite frequency band operating at 27.5–30 GHz for uplink (noting the provided range may overlap with KU BAND; assuming distinct K BAND characteristics).",
-            "options": [
-                {"id": "a", "text": "None of These"},
-                {"id": "b", "text": "L BAND"},
-                {"id": "c", "text": "KU BAND"},
-                {"id": "d", "text": "K BAND"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "q22",
-            "text": "Modem error due to poor connectivity, where the problem can be anywhere between B.RAS - Tier 2 - DSLAM - Modem - PC of the customer.",
-            "options": [
-                {"id": "a", "text": "Error-797"},
-                {"id": "b", "text": "Error-678"},
-                {"id": "c", "text": "Error-769"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "9"},
+                {"id": "b", "text": "270"},
+                {"id": "c", "text": "260"},
+                {"id": "d", "text": "125"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q23",
-            "text": "Modem error caused by the LAN not being enabled.",
+            "id": "w5q46",
+            "text": "In the SDH hierarchy, how many TU-12s make up a TUG-2 for a 2.048 Mbit/s signal?",
             "options": [
-                {"id": "a", "text": "Error-769"},
-                {"id": "b", "text": "Error-678"},
-                {"id": "c", "text": "Error-797"},
-                {"id": "d", "text": "None of These"}
+                {"id": "a", "text": "1"},
+                {"id": "b", "text": "3"},
+                {"id": "c", "text": "4"},
+                {"id": "d", "text": "7"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q47",
+            "text": "Which SDH protection mode uses 'Head-end bridging and Tail-end switching'?",
+            "options": [
+                {"id": "a", "text": "1:N Linear protection"},
+                {"id": "b", "text": "Two-fiber unidirectional path protection ring"},
+                {"id": "c", "text": "Four-fiber shared ring"},
+                {"id": "d", "text": "No protection available"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q48",
+            "text": "In a two-fiber bidirectional MS shared protection ring, if there are N AU-4s, which ones are assigned as working channels?",
+            "options": [
+                {"id": "a", "text": "All N channels"},
+                {"id": "b", "text": "Numbered 1 to N/2"},
+                {"id": "c", "text": "Numbered (N/2)+1 to N"},
+                {"id": "d", "text": "Only odd numbered channels"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q49",
+            "text": "What does 'SNC' stand for in SDH networking?",
+            "options": [
+                {"id": "a", "text": "System Network Connection"},
+                {"id": "b", "text": "Sub-Network Connection"},
+                {"id": "c", "text": "Signal Node Center"},
+                {"id": "d", "text": "Synchronous Node Control"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q50",
+            "text": "Which NGSDH protocol encapsulates packet over SONET and other Layer 2 traffic onto SDH?",
+            "options": [
+                {"id": "a", "text": "VCAT"},
+                {"id": "b", "text": "GFP"},
+                {"id": "c", "text": "LCAS"},
+                {"id": "d", "text": "OSPF"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q51",
+            "text": "In GFP, which mode accepts native block mode data signals and uses the SDH frame as a lightweight digital wrapper?",
+            "options": [
+                {"id": "a", "text": "GFP Framed (GFP-F)"},
+                {"id": "b", "text": "GFP Transparent (GFP-T)"},
+                {"id": "c", "text": "GFP Multi (GFP-M)"},
+                {"id": "d", "text": "GFP Static (GFP-S)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q52",
+            "text": "Which SDH concatenation type consists of adjacent containers combined as one, requiring functionality at every node?",
+            "options": [
+                {"id": "a", "text": "Virtual Concatenation"},
+                {"id": "b", "text": "Contiguous Concatenation"},
+                {"id": "c", "text": "Linear Concatenation"},
+                {"id": "d", "text": "Dynamic Concatenation"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q53",
+            "text": "What is the primary advantage of Virtual Concatenation (VCAT)?",
+            "options": [
+                {"id": "a", "text": "It requires new core equipment"},
+                {"id": "b", "text": "It uses the same core NEs and modifies only edge NEs"},
+                {"id": "c", "text": "It is slower but safer"},
+                {"id": "d", "text": "It eliminates the need for fiber"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q54",
+            "text": "In a DWDM system, what component boosts signal pulses on the receive side?",
+            "options": [
+                {"id": "a", "text": "Post-amplifier"},
+                {"id": "b", "text": "Pre-amplifier"},
+                {"id": "c", "text": "In-line amplifier"},
+                {"id": "d", "text": "Transponder"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q55",
+            "text": "Which type of optical amplifier is dependent on material gain defined by doping silica fiber with optical energy?",
+            "options": [
+                {"id": "a", "text": "Semiconductor Optical Amplifier (SOA)"},
+                {"id": "b", "text": "Erbium Doped Fiber Amplifier (EDFA)"},
+                {"id": "c", "text": "Raman Amplifier"},
+                {"id": "d", "text": "Brillouin Amplifier"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q56",
+            "text": "What physical phenomenon is utilized by Raman optical amplifiers to create optical gain?",
+            "options": [
+                {"id": "a", "text": "Electroluminescence"},
+                {"id": "b", "text": "Stimulated Raman Scattering (SRS)"},
+                {"id": "c", "text": "Refraction"},
+                {"id": "d", "text": "Atomic Fission"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q57",
+            "text": "A 'Transparent OXC' is also known as a:",
+            "options": [
+                {"id": "a", "text": "Opaque cross-connect"},
+                {"id": "b", "text": "Photonic cross-connect (PXC)"},
+                {"id": "c", "text": "Translucent cross-connect"},
+                {"id": "d", "text": "Digital cross-connect"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q58",
+            "text": "In the ZTE 32-channel DWDM system, which board is responsible for processing orderwire overhead?",
+            "options": [
+                {"id": "a", "text": "NCP"},
+                {"id": "b", "text": "OHP"},
+                {"id": "c", "text": "OSC"},
+                {"id": "d", "text": "LAC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q59",
+            "text": "What is the function of the LAC (Line Attenuation Compensator) board?",
+            "options": [
+                {"id": "a", "text": "To increase power consumption"},
+                {"id": "b", "text": "To realize power adjustment using EVOA"},
+                {"id": "c", "text": "To switch between satellites"},
+                {"id": "d", "text": "To monitor employee logins"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q60",
+            "text": "What does 'APSD' stand for in optical amplifier safety mechanisms?",
+            "options": [
+                {"id": "a", "text": "Automatic Power ShutDown"},
+                {"id": "b", "text": "Advanced Power Supply Device"},
+                {"id": "c", "text": "All-optical Path Switching Design"},
+                {"id": "d", "text": "Alarm Power Status Display"}
             ],
             "correctAnswer": "a"
         },
         {
-            "id": "q24",
-            "text": "Modem error due to a modem or LAN driver problem.",
+            "id": "w5q61",
+            "text": "Which MPLS-TP OAM function can detect loss of continuity between end points as a proactive measure?",
             "options": [
-                {"id": "a", "text": "Error-678"},
-                {"id": "b", "text": "Error-769"},
-                {"id": "c", "text": "Error-797"},
-                {"id": "d", "text": "None of These"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q25",
-            "text": "A real-time distributed computation system, now owned by Twitter.",
-            "options": [
-                {"id": "a", "text": "Cloudera"},
-                {"id": "b", "text": "Storm"},
-                {"id": "c", "text": "GridGain"},
-                {"id": "d", "text": "SpaceCurv"}
+                {"id": "a", "text": "Alarm Indication Signal (AIS)"},
+                {"id": "b", "text": "Continuity Check (CC)"},
+                {"id": "c", "text": "Diagnostic Test (DT)"},
+                {"id": "d", "text": "Locked Signal (LCK)"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q26",
-            "text": "Offers real-time, interactive analytical queries of the data stored in HBase or HDFS.",
+            "id": "w5q62",
+            "text": "Which protection state refers to the period after a failure is cleared but before traffic is moved back to the working path?",
             "options": [
-                {"id": "a", "text": "SpaceCurv"},
-                {"id": "b", "text": "GridGain"},
-                {"id": "c", "text": "Cloudera"},
-                {"id": "d", "text": "Storm"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q27",
-            "text": "An enterprise open source grid computing platform made for Java multidimensional geodata.",
-            "options": [
-                {"id": "a", "text": "Storm"},
-                {"id": "b", "text": "Cloudera"},
-                {"id": "c", "text": "SpaceCurv"},
-                {"id": "d", "text": "GridGain"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "q28",
-            "text": "A tool being developed to discover underlying patterns in multidimensional geodata.",
-            "options": [
-                {"id": "a", "text": "GridGain"},
-                {"id": "b", "text": "SpaceCurv"},
-                {"id": "c", "text": "Cloudera"},
-                {"id": "d", "text": "Storm"}
+                {"id": "a", "text": "Reverse Request (RR)"},
+                {"id": "b", "text": "Wait-to-Restore (WTR)"},
+                {"id": "c", "text": "Forced Switch (FS)"},
+                {"id": "d", "text": "Lockout (LO)"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q29",
-            "text": "A photo sharing site where users store their photos and tag them for future retrieval.",
+            "id": "w5q63",
+            "text": "In the MNG-PAN system, what is the required recovery time for Ethernet rings at the aggregation layer?",
             "options": [
-                {"id": "a", "text": "MYSPACE"},
-                {"id": "b", "text": "FLICKR"},
-                {"id": "c", "text": "WIKI SYSTEMS"},
-                {"id": "d", "text": "DEL.ICIO.US"}
+                {"id": "a", "text": "Sub 1 second"},
+                {"id": "b", "text": "Sub 50 msec"},
+                {"id": "c", "text": "Exactly 5 minutes"},
+                {"id": "d", "text": "No recovery requirement"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q30",
-            "text": "A site for social networking.",
+            "id": "w5q64",
+            "text": "Which MNG-PAN interface uses 850nm multimode optical fiber?",
             "options": [
-                {"id": "a", "text": "FLICKR"},
-                {"id": "b", "text": "DEL.ICIO.US"},
-                {"id": "c", "text": "MYSPACE"},
-                {"id": "d", "text": "WIKI SYSTEMS"}
+                {"id": "a", "text": "10G interface"},
+                {"id": "b", "text": "1G interface"},
+                {"id": "c", "text": "FE interface"},
+                {"id": "d", "text": "E1 interface"}
             ],
             "correctAnswer": "c"
         },
         {
-            "id": "q31",
-            "text": "A form of content management system that enables a repository of information that may be updated easily by its users.",
+            "id": "w5q65",
+            "text": "What is the power consumption of a standard OC-PAN switch?",
             "options": [
-                {"id": "a", "text": "DEL.ICIO.US"},
-                {"id": "b", "text": "FLICKR"},
-                {"id": "c", "text": "MYSPACE"},
-                {"id": "d", "text": "WIKI SYSTEMS"}
-            ],
-            "correctAnswer": "d"
-        },
-        {
-            "id": "q32",
-            "text": "A Web application that helps users manage and share their bookmarks.",
-            "options": [
-                {"id": "a", "text": "WIKI SYSTEMS"},
-                {"id": "b", "text": "MYSPACE"},
-                {"id": "c", "text": "DEL.ICIO.US"},
-                {"id": "d", "text": "FLICKR"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q33",
-            "text": "Lack of strong direction from top management. Not enough structure order or guidance leading to activity traps i.e. doing things without knowing where one is heading to.",
-            "options": [
-                {"id": "a", "text": "Anarchy"},
-                {"id": "b", "text": "Amoeba"},
-                {"id": "c", "text": "Buggy Whip"},
-                {"id": "d", "text": "Myopia"}
+                {"id": "a", "text": "100 Watt"},
+                {"id": "b", "text": "408 Watt"},
+                {"id": "c", "text": "1000 Watt"},
+                {"id": "d", "text": "50 Watt"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q34",
-            "text": "A Situation upheaval where leadership, responsibilities, functions and resources are in dispute.",
+            "id": "w5q66",
+            "text": "Which first truly geostationary satellite was used to relay the 1964 Tokyo Olympics?",
             "options": [
-                {"id": "a", "text": "Anarchy"},
-                {"id": "b", "text": "Rat-race"},
-                {"id": "c", "text": "Remote Control"},
-                {"id": "d", "text": "Amoeba"}
+                {"id": "a", "text": "INSAT-3C"},
+                {"id": "b", "text": "Syncom 3"},
+                {"id": "c", "text": "Inmarsat-4"},
+                {"id": "d", "text": "Sputnik"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q67",
+            "text": "Which satellite orbit can provide full global coverage by one satellite but requires multiple orbits to do so?",
+            "options": [
+                {"id": "a", "text": "Circular Equatorial"},
+                {"id": "b", "text": "Circular Polar"},
+                {"id": "c", "text": "Geostationary"},
+                {"id": "d", "text": "Elliptical"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q68",
+            "text": "What is the pulse rate for voice usage on the DSPT service?",
+            "options": [
+                {"id": "a", "text": "1 second"},
+                {"id": "b", "text": "30 seconds"},
+                {"id": "c", "text": "60 seconds"},
+                {"id": "d", "text": "None (unlimited)"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q69",
+            "text": "In VSAT installation, the 'Azimuth rod' is used for which purpose?",
+            "options": [
+                {"id": "a", "text": "Fine horizontal adjustment of the antenna"},
+                {"id": "b", "text": "Vertical tilt adjustment"},
+                {"id": "c", "text": "Providing power to the IDU"},
+                {"id": "d", "text": "Measuring solar output"}
             ],
             "correctAnswer": "a"
         },
         {
-            "id": "q35",
-            "text": "Clinging to obsolete products, services and practices which no longer have potential for sustaining livelihood.",
+            "id": "w5q70",
+            "text": "What is the 'Eb/No' reading used for in VSAT configuration?",
             "options": [
-                {"id": "a", "text": "Myopia"},
-                {"id": "b", "text": "Buggy Whip"},
-                {"id": "c", "text": "Rat-race"},
-                {"id": "d", "text": "Anarchy"}
+                {"id": "a", "text": "To measure the battery voltage"},
+                {"id": "b", "text": "To verify and peak the signal strength during alignment"},
+                {"id": "c", "text": "To identify the user's name"},
+                {"id": "d", "text": "To calculate the billing amount"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "q36",
-            "text": "No future orientation Little thought to strategy, sense of direction and advance planning. Live day to day, week to week.",
+            "id": "w5q71",
+            "text": "Which VMS portal level of access is intended for Node In-charges and SSA teams?",
             "options": [
-                {"id": "a", "text": "Remote Control"},
-                {"id": "b", "text": "Amoeba"},
-                {"id": "c", "text": "Myopia"},
-                {"id": "d", "text": "Buggy Whip"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q37",
-            "text": "Toxic climate coming from oppressive, primitive, slave driving policy.",
-            "options": [
-                {"id": "a", "text": "Buggy Whip"},
-                {"id": "b", "text": "Anarchy"},
-                {"id": "c", "text": "Rat-race"},
-                {"id": "d", "text": "Remote Control"}
-            ],
-            "correctAnswer": "c"
-        },
-        {
-            "id": "q38",
-            "text": "Too much administrative or, executive control from the parent body Decision making autonomy is seriously impaired.",
-            "options": [
-                {"id": "a", "text": "Amoeba"},
-                {"id": "b", "text": "Remote Control"},
-                {"id": "c", "text": "Myopia"},
-                {"id": "d", "text": "Rat-race"}
+                {"id": "a", "text": "Global Access"},
+                {"id": "b", "text": "Circle/SSA level authorization"},
+                {"id": "c", "text": "Public Access"},
+                {"id": "d", "text": "Read-only for customers"}
             ],
             "correctAnswer": "b"
+        },
+        {
+            "id": "w5q72",
+            "text": "In the Teevra App, what information is provided under 'ONT RX-POWER'?",
+            "options": [
+                {"id": "a", "text": "Electricity consumption in Watts"},
+                {"id": "b", "text": "Optical power received at the customer end in dBm"},
+                {"id": "c", "text": "Battery status of the phone"},
+                {"id": "d", "text": "Internet upload speed"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q73",
+            "text": "According to the security hardening guidelines, what is the first recommendation for ONT login?",
+            "options": [
+                {"id": "a", "text": "Keep default password"},
+                {"id": "b", "text": "Change login password to a difficult one"},
+                {"id": "c", "text": "Disable the firewall"},
+                {"id": "d", "text": "Always leave remote access on"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q74",
+            "text": "Which SDH POH byte is used for 'Tandem Connection Monitoring'?",
+            "options": [
+                {"id": "a", "text": "J1"},
+                {"id": "b", "text": "N1"},
+                {"id": "c", "text": "G1"},
+                {"id": "d", "text": "C2"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q75",
+            "text": "In SDH, what is 'Aligning'?",
+            "options": [
+                {"id": "a", "text": "Adding justification bits"},
+                {"id": "b", "text": "Including a pointer in a TU or AU to locate the VC payload"},
+                {"id": "c", "text": "Combining multiple fibers into one"},
+                {"id": "d", "text": "Shutting down the system"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q76",
+            "text": "How many 2 Mbps signals can an STM-1 frame carry?",
+            "options": [
+                {"id": "a", "text": "21"},
+                {"id": "b", "text": "42"},
+                {"id": "c", "text": "63"},
+                {"id": "d", "text": "1"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q77",
+            "text": "Which SDH network element is used to derive clock signals from the incoming data stream and restore amplitude?",
+            "options": [
+                {"id": "a", "text": "Add/Drop Multiplexer"},
+                {"id": "b", "text": "Regenerator"},
+                {"id": "c", "text": "Digital Cross-Connect"},
+                {"id": "d", "text": "Terminal Multiplexer"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q78",
+            "text": "In SDH multiplexing, which unit consists of a homogenous assembly of AU-3s or an AU-4?",
+            "options": [
+                {"id": "a", "text": "Container"},
+                {"id": "b", "text": "AU Group (AUG)"},
+                {"id": "c", "text": "Tributary Unit"},
+                {"id": "d", "text": "Section Overhead"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q79",
+            "text": "Which SDH alarm has the highest severity?",
+            "options": [
+                {"id": "a", "text": "Major"},
+                {"id": "b", "text": "Minor"},
+                {"id": "c", "text": "Critical"},
+                {"id": "d", "text": "Deferred"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q80",
+            "text": "What is the typical impedance requirement for 2 Mbps termination in SDH systems?",
+            "options": [
+                {"id": "a", "text": "75 or 120 ohms"},
+                {"id": "b", "text": "500 ohms"},
+                {"id": "c", "text": "1000 ohms"},
+                {"id": "d", "text": "0 ohms"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "w5q81",
+            "text": "Which fiber structure in submarine cables maintains fibers so that their elongation equals that of the cable?",
+            "options": [
+                {"id": "a", "text": "Loose structure"},
+                {"id": "b", "text": "Tight structure"},
+                {"id": "c", "text": "Hybrid structure"},
+                {"id": "d", "text": "Non-armoured"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q82",
+            "text": "In a submarine 'Desk Route Study,' which factor is investigated first?",
+            "options": [
+                {"id": "a", "text": "Seabed temperature"},
+                {"id": "b", "text": "Physical and environmental factors between terminal stations"},
+                {"id": "c", "text": "Cost of copper"},
+                {"id": "d", "text": "Marketing potential"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q83",
+            "text": "What is the purpose of a 'Straight Line Diagram' in submarine planning?",
+            "options": [
+                {"id": "a", "text": "To show the staff hierarchy"},
+                {"id": "b", "text": "To summarize the chosen protection and way points for the cable"},
+                {"id": "c", "text": "To map satellite orbits"},
+                {"id": "d", "text": "To track budget spending"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q84",
+            "text": "Which BSNL vertical handles 'Packet Transport Network Planning' for the aggregate traffic of HTS and DSLAMs?",
+            "options": [
+                {"id": "a", "text": "CFA"},
+                {"id": "b", "text": "EB/CN"},
+                {"id": "c", "text": "Retail"},
+                {"id": "d", "text": "ITPC"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q85",
+            "text": "In the MNG-PAN architecture, the 'OC-PAN' switch typically aggregates traffic from which element?",
+            "options": [
+                {"id": "a", "text": "Satellite Hub"},
+                {"id": "b", "text": "Existing OCLAN and MSAN"},
+                {"id": "c", "text": "International gateway"},
+                {"id": "d", "text": "Mobile handsets directly"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q86",
+            "text": "What is the wavelength used for the downstream CATV signal in GPON systems?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1580 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q87",
+            "text": "Which component in the ZTE DWDM system provides 1+1 optical protection?",
+            "options": [
+                {"id": "a", "text": "NCP"},
+                {"id": "b", "text": "OP"},
+                {"id": "c", "text": "GEMF"},
+                {"id": "d", "text": "PWB"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q88",
+            "text": "In SDH Performance Monitoring, what does 'SES' stand for?",
+            "options": [
+                {"id": "a", "text": "Severely Errored Seconds"},
+                {"id": "b", "text": "System Error Status"},
+                {"id": "c", "text": "Standard Element Signal"},
+                {"id": "d", "text": "Security Encryption State"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "w5q89",
+            "text": "What is the typical gain provided by a Raman optical amplifier in the transmission fiber?",
+            "options": [
+                {"id": "a", "text": "1 dB"},
+                {"id": "b", "text": "10 dB"},
+                {"id": "c", "text": "100 dB"},
+                {"id": "d", "text": "Zero gain"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q90",
+            "text": "Which satellite orbit shape is most commonly used for telecommunications comsats?",
+            "options": [
+                {"id": "a", "text": "Circular Polar"},
+                {"id": "b", "text": "Geostationary"},
+                {"id": "c", "text": "Inclined"},
+                {"id": "d", "text": "Elliptical"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q91",
+            "text": "In the ZTE sub-rack common interface area, which connector is used for 2 MHz clock input?",
+            "options": [
+                {"id": "a", "text": "RJ45"},
+                {"id": "b", "text": "CC4 coaxial socket"},
+                {"id": "c", "text": "DB9"},
+                {"id": "d", "text": "USB"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q92",
+            "text": "Which SDH network topology is increasingly popular due to inherent route diversity for protection switching?",
+            "options": [
+                {"id": "a", "text": "Linear"},
+                {"id": "b", "text": "Ring"},
+                {"id": "c", "text": "Bus"},
+                {"id": "d", "text": "Star"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q93",
+            "text": "In the SDH frame format, each byte in the payload represents which type of channel?",
+            "options": [
+                {"id": "a", "text": "34 Mbps"},
+                {"id": "b", "text": "64 kbit/s"},
+                {"id": "c", "text": "1 Gbps"},
+                {"id": "d", "text": "VoIP only"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q94",
+            "text": "What is the maximum single span distance (attenuation) for ultra-long haul transmission in the FONST 5000?",
+            "options": [
+                {"id": "a", "text": "10 dBm"},
+                {"id": "b", "text": "44 dBm"},
+                {"id": "c", "text": "100 dBm"},
+                {"id": "d", "text": "5 dBm"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q95",
+            "text": "Which MPLS-TP enhancement allows network operators to manually manage all paths from a unified NMS?",
+            "options": [
+                {"id": "a", "text": "Dynamic routing"},
+                {"id": "b", "text": "Static provisioning"},
+                {"id": "c", "text": "IP address forwarding"},
+                {"id": "d", "text": "Equal Cost Multi Path"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q96",
+            "text": "What is the total Port Capacity of the TN725B for STM-1 interfaces?",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "8"},
+                {"id": "c", "text": "16"},
+                {"id": "d", "text": "32"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q97",
+            "text": "In VSAT 'Coarse Adjustment,' what instrument is used to adjust the Azimuth Angle?",
+            "options": [
+                {"id": "a", "text": "Inclinometer"},
+                {"id": "b", "text": "Magnetic Compass"},
+                {"id": "c", "text": "Thermometer"},
+                {"id": "d", "text": "Ammeter"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q98",
+            "text": "Which BSNL vertical is the focus of the JTO Phase-II Week 5 training material?",
+            "options": [
+                {"id": "a", "text": "Consumer Mobility (CM)"},
+                {"id": "b", "text": "Enterprise Business (EB)"},
+                {"id": "c", "text": "HR"},
+                {"id": "d", "text": "Legal"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "w5q99",
+            "text": "How long should a new battery be allowed to charge in a solar charge controller before connecting load equipment?",
+            "options": [
+                {"id": "a", "text": "1 hour"},
+                {"id": "b", "text": "24 hours"},
+                {"id": "c", "text": "3 days"},
+                {"id": "d", "text": "1 week"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "w5q100",
+            "text": "What does the 'LNB' stand for in satellite/VSAT systems?",
+            "options": [
+                {"id": "a", "text": "Low Noise Block-converter"},
+                {"id": "b", "text": "Local Network Board"},
+                {"id": "c", "text": "Linear Node Bridge"},
+                {"id": "d", "text": "Long Network Backbone"}
+            ],
+            "correctAnswer": "a"
         }
     ]
 }
