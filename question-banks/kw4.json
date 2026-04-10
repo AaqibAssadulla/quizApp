@@ -1,25 +1,551 @@
 {
-    "title": "History",
+    "title": "Practice Theory Test (week-4)",
     "questions": [
         {
-            "id": "his1",
-            "text": "In which year did World War II end?",
+            "id": "q1",
+            "text": "Why is the OTN necessary for operator?",
             "options": [
-                {"id": "a", "text": "1943"},
-                {"id": "b", "text": "1945"},
-                {"id": "c", "text": "1950"},
-                {"id": "d", "text": "1939"}
+                {"id": "a", "text": "To reduce CAPEX and OPEX"},
+                {"id": "b", "text": "To carry high bandwidth with better manageability of OAM"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q2",
+            "text": "What is specification by ITU-T for OTN frames and format?",
+            "options": [
+                {"id": "a", "text": "G.706"},
+                {"id": "b", "text": "G.709"},
+                {"id": "c", "text": "G.872"},
+                {"id": "d", "text": "G.796"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "his2",
-            "text": "Who was the first President of the United States?",
+            "id": "q3",
+            "text": "What is the specification for OTN architecture?",
             "options": [
-                {"id": "a", "text": "Thomas Jefferson"},
-                {"id": "b", "text": "George Washington"},
-                {"id": "c", "text": "Abraham Lincoln"},
-                {"id": "d", "text": "John Adams"}
+                {"id": "a", "text": "G.706"},
+                {"id": "b", "text": "G.709"},
+                {"id": "c", "text": "G.872"},
+                {"id": "d", "text": "G.796"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q4",
+            "text": "What is commonly used term used for OTN?",
+            "options": [
+                {"id": "a", "text": "Digital Wrapper"},
+                {"id": "b", "text": "IP wrapper"},
+                {"id": "c", "text": "FRAME wrapper"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q5",
+            "text": "What is the advantage of using FEC in OTN?",
+            "options": [
+                {"id": "a", "text": "Improves SNR by 5.2 DB"},
+                {"id": "b", "text": "Improves SNR by 2.6 DB"},
+                {"id": "c", "text": "Improves SNR by 2.8 DB"},
+                {"id": "d", "text": "Improves SNR by 6.2 DB"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q6",
+            "text": "What is the type of mapping used in OTN?",
+            "options": [
+                {"id": "a", "text": "Synchronous"},
+                {"id": "b", "text": "Asynchronous"},
+                {"id": "c", "text": "Both depending on client payload type"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q7",
+            "text": "What is true for OTN & SDH frame?",
+            "options": [
+                {"id": "a", "text": "In OTN frame rate is fixed but in SDH frame size is fixed."},
+                {"id": "b", "text": "In both case frame size is fixed."},
+                {"id": "c", "text": "In both case frame rate is fixed."},
+                {"id": "d", "text": "In OTN frame size is fixed but in SDH frame rate is fixed"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q8",
+            "text": "What is IrDI?",
+            "options": [
+                {"id": "a", "text": "Inter Domain Interface , used for connecting Single-vendor &single operator network."},
+                {"id": "b", "text": "Intra Domain Interface , used for connecting Single-vendor &single operator network."},
+                {"id": "c", "text": "Inter Domain Interface , used for connecting multi-vendor & multi operator network."},
+                {"id": "d", "text": "Intra Domain Interface , used for connecting multi-vendor & multi operator network."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q9",
+            "text": "What is the frame size of OTN?",
+            "options": [
+                {"id": "a", "text": "4 rows x 4080 bytes"},
+                {"id": "b", "text": "4 rows x 270 bytes3"},
+                {"id": "c", "text": "9rows x 4080 bytes"},
+                {"id": "d", "text": "9 rows x 270 bytes"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q10",
+            "text": "What is the rate of OTU 2?",
+            "options": [
+                {"id": "a", "text": "2.5G"},
+                {"id": "b", "text": "10G"},
+                {"id": "c", "text": "40G"},
+                {"id": "d", "text": "100G"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q11",
+            "text": "What is the rate of OTU 4?",
+            "options": [
+                {"id": "a", "text": "2.5G"},
+                {"id": "b", "text": "10G"},
+                {"id": "c", "text": "40G"},
+                {"id": "d", "text": "100G"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q12",
+            "text": "What is in the digital domain w.r.t. OTN Layer?",
+            "options": [
+                {"id": "a", "text": "Optical Multiplexed Section"},
+                {"id": "b", "text": "Optical Channel"},
+                {"id": "c", "text": "Optical Data Unit"},
+                {"id": "d", "text": "Optical Transmission Section"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q13",
+            "text": "What is true for OTN & SDH w.r.t multiplexing?",
+            "options": [
+                {"id": "a", "text": "In OTN single stage multiplexing is used. In SDH multiple stage multiplexing is used."},
+                {"id": "b", "text": "In OTN multiple stage multiplexing is used. In SDH single stage multiplexing is used."},
+                {"id": "c", "text": "In OTN multiple stage multiplexing is used. In SDH multiple stage multiplexing is used."},
+                {"id": "d", "text": "In OTN single stage multiplexing is used. In SDH single stage multiplexing is used."}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q14",
+            "text": "In FONST5000, a card name is 1LN4, What is the capacity & type of card?",
+            "options": [
+                {"id": "a", "text": "Multi service Tributary 100G card"},
+                {"id": "b", "text": "Multi service Line 40G Card"},
+                {"id": "c", "text": "Multi serviceTributary 40G Card"},
+                {"id": "d", "text": "Multi service Line 100G Card"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q15",
+            "text": "What is responsible for optical amplification in FONST5000?",
+            "options": [
+                {"id": "a", "text": "EVOA module"},
+                {"id": "b", "text": "EDFA module"},
+                {"id": "c", "text": "BMU module"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q16",
+            "text": "The connector connecting ethernet port of ADSL Modem is … .",
+            "options": [
+                {"id": "a", "text": "RJ11"},
+                {"id": "b", "text": "USB"},
+                {"id": "c", "text": "RJ45"},
+                {"id": "d", "text": "HDMI"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q17",
+            "text": "The connector connecting phone line to the ADSL Modem is … .",
+            "options": [
+                {"id": "a", "text": "RJ11"},
+                {"id": "b", "text": "USB"},
+                {"id": "c", "text": "RJ45"},
+                {"id": "d", "text": "RJ45e"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q18",
+            "text": "The ports available in ADSL Modem are …",
+            "options": [
+                {"id": "a", "text": "Ethernet"},
+                {"id": "b", "text": "USB"},
+                {"id": "c", "text": "Phone"},
+                {"id": "d", "text": "All of these"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q19",
+            "text": "To configure the ADSL Modem, the subnet mask given is … .",
+            "options": [
+                {"id": "a", "text": "255.255.255.0"},
+                {"id": "b", "text": "255.255.0.0"},
+                {"id": "c", "text": "255.0.0.0"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q20",
+            "text": "The default user id and password is … .",
+            "options": [
+                {"id": "a", "text": "Admin, Admin"},
+                {"id": "b", "text": "admin, admin"},
+                {"id": "c", "text": "user, admin"},
+                {"id": "d", "text": "admin, password."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q21",
+            "text": "The ADSL Modem IP address is normally …",
+            "options": [
+                {"id": "a", "text": "192.168.1.1"},
+                {"id": "b", "text": "10.168.1.1"},
+                {"id": "c", "text": "255.255.0.0"},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q22",
+            "text": "For service configuration of ADSL Broad Band the VPI/ VCI value is …",
+            "options": [
+                {"id": "a", "text": "0/32"},
+                {"id": "b", "text": "8/35"},
+                {"id": "c", "text": "0/35"},
+                {"id": "d", "text": "0/100"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q23",
+            "text": "If access from some computers required from an ADSL broadband connection then the modem is required to be configured in … mode.",
+            "options": [
+                {"id": "a", "text": "Bridge"},
+                {"id": "b", "text": "IPoA"},
+                {"id": "c", "text": "PPPoE"},
+                {"id": "d", "text": "MER"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q24",
+            "text": "The following statement is not true for splitter.",
+            "options": [
+                {"id": "a", "text": "It split voice and data signal."},
+                {"id": "b", "text": "It merge voice and data signal."},
+                {"id": "c", "text": "Splitter at customer premise splits voice and data signal toward exchange."},
+                {"id": "d", "text": "None of these"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q25",
+            "text": "Wifi facility is available in all types of adsl modem",
+            "options": [
+                {"id": "a", "text": "TRUE"},
+                {"id": "b", "text": "FALSE"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q26",
+            "text": "FTTH stands for:",
+            "options": [
+                {"id": "a", "text": "Fiber to the Home"},
+                {"id": "b", "text": "Fiber to Business"},
+                {"id": "c", "text": "Fiber to all"},
+                {"id": "d", "text": "None of the above"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q27",
+            "text": "OLT generally installed in",
+            "options": [
+                {"id": "a", "text": "Customer premises"},
+                {"id": "b", "text": "At central office"},
+                {"id": "c", "text": "In the Between"},
+                {"id": "d", "text": "All of the above."}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q28",
+            "text": "_________ is used to terminate the signal in customer premises.",
+            "options": [
+                {"id": "a", "text": "OLT"},
+                {"id": "b", "text": "NMS"},
+                {"id": "c", "text": "ONT"},
+                {"id": "d", "text": "Splitter"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q29",
+            "text": "Maximum distance between OLT and ONT considering 1:32 splitter is _________",
+            "options": [
+                {"id": "a", "text": "20km"},
+                {"id": "b", "text": "15km"},
+                {"id": "c", "text": "25km"},
+                {"id": "d", "text": "45km"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q30",
+            "text": "FTTH offers",
+            "options": [
+                {"id": "a", "text": "High bandwith"},
+                {"id": "b", "text": "Low cost"},
+                {"id": "c", "text": "Flexibility"},
+                {"id": "d", "text": "All of the above."}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q31",
+            "text": "What type of technology is used for uplink information in PON:",
+            "options": [
+                {"id": "a", "text": "TDMA"},
+                {"id": "b", "text": "TDM"},
+                {"id": "c", "text": "CDMA"},
+                {"id": "d", "text": "QPSK"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q32",
+            "text": "Home Run Fiber is a",
+            "options": [
+                {"id": "a", "text": "AON P2P technology"},
+                {"id": "b", "text": "AON P2MP technology"},
+                {"id": "c", "text": "PON P2P technology"},
+                {"id": "d", "text": "PON P2MP technology."}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q33",
+            "text": "Line coding of GPON is",
+            "options": [
+                {"id": "a", "text": "NRZ"},
+                {"id": "b", "text": "RZ"},
+                {"id": "c", "text": "8B/10B"},
+                {"id": "d", "text": "AES"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q34",
+            "text": "Which technology gives the highest bandwidth:",
+            "options": [
+                {"id": "a", "text": "APON"},
+                {"id": "b", "text": "BPON"},
+                {"id": "c", "text": "GPON"},
+                {"id": "d", "text": "EPON"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q35",
+            "text": "ATM protocol is used in:",
+            "options": [
+                {"id": "a", "text": "EPON"},
+                {"id": "b", "text": "GPON"},
+                {"id": "c", "text": "APON"},
+                {"id": "d", "text": "Both b & c"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q36",
+            "text": "ITU-T G.984 standard is given to:",
+            "options": [
+                {"id": "a", "text": "APON"},
+                {"id": "b", "text": "BPON"},
+                {"id": "c", "text": "GPON"},
+                {"id": "d", "text": "EPON"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q37",
+            "text": "FTTB is:",
+            "options": [
+                {"id": "a", "text": "Fiber to the Business"},
+                {"id": "b", "text": "Fiber to the Bank"},
+                {"id": "c", "text": "Fiber to the Building"},
+                {"id": "d", "text": "Fiber to the BSNL"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q38",
+            "text": "FTTH provides",
+            "options": [
+                {"id": "a", "text": "Best in class Service"},
+                {"id": "b", "text": "Cutting edge technology"},
+                {"id": "c", "text": "Multi-play Services"},
+                {"id": "d", "text": "All of the above."}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q39",
+            "text": "Full form of OLT is:",
+            "options": [
+                {"id": "a", "text": "Optical line terminal"},
+                {"id": "b", "text": "Optical line test"},
+                {"id": "c", "text": "Optical linear terminal"},
+                {"id": "d", "text": "Optical line terminology"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q40",
+            "text": "Downstream Security for GPON is:",
+            "options": [
+                {"id": "a", "text": "AES(Counter mode)"},
+                {"id": "b", "text": "AES(128 bit key)"},
+                {"id": "c", "text": "Not defined"},
+                {"id": "d", "text": "Both (a) & (b)"}
+            ],
+            "correctAnswer": "d"
+        },
+        {
+            "id": "q41",
+            "text": "Uplink wavelength used in APON is:",
+            "options": [
+                {"id": "a", "text": "1310nm"},
+                {"id": "b", "text": "1410nm"},
+                {"id": "c", "text": "1490nm"},
+                {"id": "d", "text": "1550nm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q42",
+            "text": "Full Form of DXC:",
+            "options": [
+                {"id": "a", "text": "Digital Clock Connect"},
+                {"id": "b", "text": "Dual Cross Connect"},
+                {"id": "c", "text": "Digital Cross Connect"},
+                {"id": "d", "text": "Double Cross Connect"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q43",
+            "text": "Full form of NMS is:",
+            "options": [
+                {"id": "a", "text": "Network Management System"},
+                {"id": "b", "text": "New Management System"},
+                {"id": "c", "text": "Network Manager System"},
+                {"id": "d", "text": "Network Management Server"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q44",
+            "text": "DXC available with",
+            "options": [
+                {"id": "a", "text": "96 port"},
+                {"id": "b", "text": "94 port"},
+                {"id": "c", "text": "90 port"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q45",
+            "text": "Driving Distance for HDSL in MLLN",
+            "options": [
+                {"id": "a", "text": "4.2 km at 2Mbps"},
+                {"id": "b", "text": "3.5km at 2Mbps"},
+                {"id": "c", "text": "7km at 2Mbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "q46",
+            "text": "_______ is built in Master-slave architecture",
+            "options": [
+                {"id": "a", "text": "Basic Node"},
+                {"id": "b", "text": "Midi Node"},
+                {"id": "c", "text": "Cluster Node"},
+                {"id": "d", "text": "Micro Node"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q47",
+            "text": "Maximum Cross Connect capacity of Basic Node is",
+            "options": [
+                {"id": "a", "text": "64 *8 Mbps"},
+                {"id": "b", "text": "64Kbps"},
+                {"id": "c", "text": "64Mbps"},
+                {"id": "d", "text": "None"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "q48",
+            "text": "Single rack Basic Node has",
+            "options": [
+                {"id": "a", "text": "16 slot"},
+                {"id": "b", "text": "32 slot"},
+                {"id": "c", "text": "8 slot"},
+                {"id": "d", "text": "12 slot"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q49",
+            "text": "VMUX type II has ____ nos of 64Kbps ports:",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "32"},
+                {"id": "c", "text": "8"},
+                {"id": "d", "text": "24"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "q50",
+            "text": "The Highest Capacity Node is:",
+            "options": [
+                {"id": "a", "text": "Basic Node"},
+                {"id": "b", "text": "Cluster node"},
+                {"id": "c", "text": "Midi node"},
+                {"id": "d", "text": "Mini node"}
             ],
             "correctAnswer": "b"
         }
