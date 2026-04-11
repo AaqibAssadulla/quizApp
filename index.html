@@ -112,20 +112,6 @@
         let currentBank = null;
         let quizData = null;
 
-        // Available question banks
-        /*const questionBanks = {
-            'general-knowledge': 'question-banks/general-knowledge.json',
-            'science': 'question-banks/science.json',
-            'history': 'question-banks/history.json',
-			'b1':'question-banks/b1.json',
-			'b2':'question-banks/b2.json',
-			'b3':'question-banks/b3.json',
-			'b4':'question-banks/b4.json',
-			'b5':'question-banks/b5.json',
-			'dcit':'question-banks/dcit.json'
-			
-			
-        };*/
 
         // Load selected question bank
         async function loadBank(bankName) {
@@ -179,7 +165,7 @@
 				
 				 // Add explain button
 				const explainBtn = document.createElement('button');
-				explainBtn.className = 'copy-btn';
+				explainBtn.className = 'explain-btn';
 				explainBtn.textContent = 'Explain';
 				explainBtn.onclick = () => explainQuestion(question.id);
 				
