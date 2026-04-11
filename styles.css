@@ -157,6 +157,9 @@ h1 {
 .copy-btn:hover {
     background-color: #5a6268;
 }
+.explain-btn:hover {
+    background-color: #5a6268;
+}
 
 .loading, .error {
     text-align: center;
