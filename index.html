@@ -176,7 +176,13 @@
                 copyBtn.className = 'copy-btn';
                 copyBtn.textContent = 'Copy';
                 copyBtn.onclick = () => copyQuestion(question.id);
-                
+				
+				 // Add explain button
+				const explainBtn = document.createElement('button');
+				explainBtn.className = 'copy-btn';
+				explainBtn.textContent = 'Explain';
+				explainBtn.onclick = () => explainQuestion(question.id);
+				
                 // Add question text
                 const questionText = document.createElement('div');
                 questionText.className = 'question-text';
@@ -197,6 +203,7 @@
                 
                 // Assemble the question
                 questionDiv.appendChild(copyBtn);
+				questionDiv.appendChild(explainBtn);
                 questionDiv.appendChild(questionText);
                 questionDiv.appendChild(optionsDiv);
                 
@@ -302,6 +309,37 @@
 			
 			document.body.removeChild(textArea);
 		}    
+		
+		// Function to send a quiz question to ChatGPT for conceptual explanation
+		function explainQuestion(questionId) {
+
+			// Find the question object in quizData using the questionId
+			const question = quizData.questions.find(q => q.id === questionId);
+
+			// If the question is not found, stop the function
+			if (!question) return;
+
+			// Create the prompt that will be sent to ChatGPT
+			// The instruction clearly asks for concept explanation without revealing the answer
+			let prompt =
+				`I'm studying and need help understanding the concept behind this MCQ question. ` +
+				`Please explain the underlying concept clearly so I can work out the answer myself — ` +
+				`do NOT reveal or hint at the correct answer.\n\n` +
+				`Question: ${question.text}\n\n` +
+				`Options:\n`;
+
+			// Add each option (A, B, C, D...) to the prompt
+			question.options.forEach(option => {
+				prompt += `${option.id.toUpperCase()}. ${option.text}\n`;
+			});
+
+			// Encode the prompt so it can safely be passed inside a URL
+			const encodedPrompt = encodeURIComponent(prompt);
+
+			// Open ChatGPT in a new tab with the encoded prompt
+			// This allows the user to directly ask ChatGPT about the question
+			window.open(`https://chat.openai.com/?q=${encodedPrompt}`, '_blank');
+		}
 			
 	</script>
 </body>
