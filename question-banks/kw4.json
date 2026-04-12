@@ -142,7 +142,7 @@
                 {"id": "c", "text": "In OTN multiple stage multiplexing is used. In SDH multiple stage multiplexing is used."},
                 {"id": "d", "text": "In OTN single stage multiplexing is used. In SDH single stage multiplexing is used."}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "q14",
