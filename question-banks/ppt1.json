@@ -212,7 +212,7 @@
         },
         {
             "id": "q20",
-            "text": "Which protocol is used by the Teevra app to allow franchisees to perform port resets for their mapped numbers?",
+            "text": "Which platform is used franchisees to perform port resets for their mapped numbers?",
             "options": [
                 {"id": "a", "text": "RADIUS"},
                 {"id": "b", "text": "FMS (Franchisee Management System)"},
