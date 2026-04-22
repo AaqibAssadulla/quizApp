@@ -665,12 +665,12 @@
             "id": "q61",
             "text": "Which technology is NOT technically feasible for pnp (#) dialing in Voice VPN?",
             "options": [
-                {"id": "a", "text": "OCB-283"},
-                {"id": "b", "text": "EWSD"},
-                {"id": "c", "text": "C-DoT"},
-                {"id": "d", "text": "5ESS"}
+                {"id": "a", "text": "E10B"},
+                {"id": "b", "text": "C-DoT"},
+                {"id": "c", "text": "Both"},
+                {"id": "d", "text": "None"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q62",
