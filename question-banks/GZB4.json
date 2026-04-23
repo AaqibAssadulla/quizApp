@@ -315,7 +315,7 @@
       "options": [
         { "id": "a", "text": "Video Messaging Service" },
         { "id": "b", "text": "Virtual Machine System" },
-        { "id": "c", "text": "Vendor Management System" },
+        { "id": "c", "text": "Visitor Management System" },
         { "id": "d", "text": "Value Managed Service" }
       ],
       "correctAnswer": "c"
