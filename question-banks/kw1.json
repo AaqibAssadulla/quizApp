@@ -219,7 +219,7 @@
                 {"id": "c", "text": "40 lakhs"},
                 {"id": "d", "text": "10 lakhs"}
             ],
-            "correctAnswer": "d"
+            "correctAnswer": "c"
         },
         {
             "id": "q21",
