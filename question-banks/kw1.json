@@ -194,8 +194,8 @@
             "options": [
                 {"id": "a", "text": "proposing"},
                 {"id": "b", "text": "eliminating doubts"},
-                {"id": "c", "text": "decides to buy"},
-                {"id": "d", "text": "post sale follow up"}
+                {"id": "c", "text": "Order"},
+                {"id": "d", "text": "Developing the Sale"}
             ],
             "correctAnswer": "c"
         },
