@@ -5,21 +5,45 @@
             "id": "w6q1",
             "text": "What is defined as the overall planning and co-ordination of a project from conception to completion to meet stated requirements on time and within cost?",
             "options": [
-                {"id": "a", "text": "Project Controlling"},
-                {"id": "b", "text": "Project Management"},
-                {"id": "c", "text": "Project Execution"},
-                {"id": "d", "text": "Project Initiation"}
+                {
+                    "id": "a",
+                    "text": "Project Initiation"
+                },
+                {
+                    "id": "b",
+                    "text": "Project Execution"
+                },
+                {
+                    "id": "c",
+                    "text": "Project Management"
+                },
+                {
+                    "id": "d",
+                    "text": "Project Controlling"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q2",
             "text": "In the project management life cycle, which phase involves contract closeout and administrative closure?",
             "options": [
-                {"id": "a", "text": "Executing"},
-                {"id": "b", "text": "Controlling"},
-                {"id": "c", "text": "Closing Out"},
-                {"id": "d", "text": "Initiating"}
+                {
+                    "id": "a",
+                    "text": "Initiating"
+                },
+                {
+                    "id": "b",
+                    "text": "Executing"
+                },
+                {
+                    "id": "c",
+                    "text": "Closing Out"
+                },
+                {
+                    "id": "d",
+                    "text": "Controlling"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -27,32 +51,68 @@
             "id": "w6q3",
             "text": "Which project planning technique was developed in the late 1950s for the U.S. Navy's Polaris project?",
             "options": [
-                {"id": "a", "text": "Gantt Chart"},
-                {"id": "b", "text": "PERT (Program Evaluation and Review Technique)"},
-                {"id": "c", "text": "Critical Chain Method"},
-                {"id": "d", "text": "Agile Scrum"}
+                {
+                    "id": "a",
+                    "text": "Agile Scrum, improving overall system reliability."
+                },
+                {
+                    "id": "b",
+                    "text": "Critical Chain Method"
+                },
+                {
+                    "id": "c",
+                    "text": "Gantt Chart, providing the necessary connectivity for the node."
+                },
+                {
+                    "id": "d",
+                    "text": "PERT (Program Evaluation and Review Technique)"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q4",
             "text": "In a PERT diagram, what does an 'event' represent?",
             "options": [
-                {"id": "a", "text": "A task being performed"},
-                {"id": "b", "text": "A milestone marking the completion of activities"},
-                {"id": "c", "text": "The longest path in the network"},
-                {"id": "d", "text": "The margin of error for a task"}
+                {
+                    "id": "a",
+                    "text": "A task being performed"
+                },
+                {
+                    "id": "b",
+                    "text": "The longest path in the network"
+                },
+                {
+                    "id": "c",
+                    "text": "A milestone marking the completion of activities"
+                },
+                {
+                    "id": "d",
+                    "text": "The margin of error for a task"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q5",
             "text": "Using the PERT formula, if Optimistic Time is 2, Most Likely Time is 4, and Pessimistic Time is 12, what is the Expected Time?",
             "options": [
-                {"id": "a", "text": "4"},
-                {"id": "b", "text": "5"},
-                {"id": "c", "text": "6"},
-                {"id": "d", "text": "7"}
+                {
+                    "id": "a",
+                    "text": "6"
+                },
+                {
+                    "id": "b",
+                    "text": "5"
+                },
+                {
+                    "id": "c",
+                    "text": "7"
+                },
+                {
+                    "id": "d",
+                    "text": "4"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -60,10 +120,22 @@
             "id": "w6q6",
             "text": "What determines the total time required for a project in a network diagram?",
             "options": [
-                {"id": "a", "text": "The shortest path"},
-                {"id": "b", "text": "The parallel path"},
-                {"id": "c", "text": "The critical path"},
-                {"id": "d", "text": "The slack time"}
+                {
+                    "id": "a",
+                    "text": "The parallel path"
+                },
+                {
+                    "id": "b",
+                    "text": "The slack time"
+                },
+                {
+                    "id": "c",
+                    "text": "The critical path"
+                },
+                {
+                    "id": "d",
+                    "text": "The shortest path"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -71,32 +143,68 @@
             "id": "w6q7",
             "text": "Which project management software is specifically mentioned for assisting the Architecture, Engineering, and Construction industry?",
             "options": [
-                {"id": "a", "text": "Microsoft Project"},
-                {"id": "b", "text": "Primavera"},
-                {"id": "c", "text": "Trello"},
-                {"id": "d", "text": "Asana"}
+                {
+                    "id": "a",
+                    "text": "Microsoft Project"
+                },
+                {
+                    "id": "b",
+                    "text": "Trello"
+                },
+                {
+                    "id": "c",
+                    "text": "Asana, maintaining high availability across the interface."
+                },
+                {
+                    "id": "d",
+                    "text": "Primavera"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q8",
             "text": "A 'Service Level Agreement (SLA)' is a contract between which two parties?",
             "options": [
-                {"id": "a", "text": "Two different vendors"},
-                {"id": "b", "text": "Service provider and a client"},
-                {"id": "c", "text": "Project manager and the team"},
-                {"id": "d", "text": "The government and BSNL"}
+                {
+                    "id": "a",
+                    "text": "Service provider and a client"
+                },
+                {
+                    "id": "b",
+                    "text": "Two different vendors"
+                },
+                {
+                    "id": "c",
+                    "text": "The government and BSNL"
+                },
+                {
+                    "id": "d",
+                    "text": "Project manager and the team"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q9",
             "text": "In the context of SLAs, what are 'SLOs'?",
             "options": [
-                {"id": "a", "text": "Service Level Obligations"},
-                {"id": "b", "text": "Service Level Objectives"},
-                {"id": "c", "text": "Standard Level Orders"},
-                {"id": "d", "text": "Service Lower Options"}
+                {
+                    "id": "a",
+                    "text": "Service Lower Options"
+                },
+                {
+                    "id": "b",
+                    "text": "Service Level Objectives"
+                },
+                {
+                    "id": "c",
+                    "text": "Standard Level Orders"
+                },
+                {
+                    "id": "d",
+                    "text": "Service Level Obligations"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -104,10 +212,22 @@
             "id": "w6q10",
             "text": "Which SLA metric is a measure of the time a link has been operational and running?",
             "options": [
-                {"id": "a", "text": "Latency"},
-                {"id": "b", "text": "Jitter"},
-                {"id": "c", "text": "Uptime"},
-                {"id": "d", "text": "Packet Loss"}
+                {
+                    "id": "a",
+                    "text": "Jitter"
+                },
+                {
+                    "id": "b",
+                    "text": "Latency"
+                },
+                {
+                    "id": "c",
+                    "text": "Uptime"
+                },
+                {
+                    "id": "d",
+                    "text": "Packet Loss"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -115,87 +235,183 @@
             "id": "w6q11",
             "text": "For BSNL MPLS VPN SLAs, what is the benchmark for Packet Loss?",
             "options": [
-                {"id": "a", "text": "Below 10%"},
-                {"id": "b", "text": "Below 5%"},
-                {"id": "c", "text": "Below 1%"},
-                {"id": "d", "text": "Exactly 0%"}
+                {
+                    "id": "a",
+                    "text": "Exactly 0%"
+                },
+                {
+                    "id": "b",
+                    "text": "Below 5%"
+                },
+                {
+                    "id": "c",
+                    "text": "Below 10%"
+                },
+                {
+                    "id": "d",
+                    "text": "Below 1%"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q12",
             "text": "What is the benchmark for Jitter in the BSNL MPLS VPN SLA?",
             "options": [
-                {"id": "a", "text": "Below 150 ms"},
-                {"id": "b", "text": "Below 100 ms"},
-                {"id": "c", "text": "Below 25 ms"},
-                {"id": "d", "text": "Below 10 ms"}
+                {
+                    "id": "a",
+                    "text": "Below 100 ms"
+                },
+                {
+                    "id": "b",
+                    "text": "Below 10 ms"
+                },
+                {
+                    "id": "c",
+                    "text": "Below 150 ms"
+                },
+                {
+                    "id": "d",
+                    "text": "Below 25 ms"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q13",
             "text": "According to the sources, what is the toll-free helpdesk number for MPLS VPN NOC?",
             "options": [
-                {"id": "a", "text": "1500"},
-                {"id": "b", "text": "198"},
-                {"id": "c", "text": "1957"},
-                {"id": "d", "text": "1800-233-3334"}
+                {
+                    "id": "a",
+                    "text": "198, following the established operational guidelines."
+                },
+                {
+                    "id": "b",
+                    "text": "1500"
+                },
+                {
+                    "id": "c",
+                    "text": "1800-233-3334"
+                },
+                {
+                    "id": "d",
+                    "text": "1957"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q14",
             "text": "In the BSNL Standard SLA format, what is the guaranteed uptime percentage?",
             "options": [
-                {"id": "a", "text": "98%"},
-                {"id": "b", "text": "99%"},
-                {"id": "c", "text": "99.5%"},
-                {"id": "d", "text": "99.9%"}
+                {
+                    "id": "a",
+                    "text": "99.9%"
+                },
+                {
+                    "id": "b",
+                    "text": "99.5%"
+                },
+                {
+                    "id": "c",
+                    "text": "98%"
+                },
+                {
+                    "id": "d",
+                    "text": "99%"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q15",
             "text": "If BSNL fails to meet Latency/Packet loss/Jitter parameters for a continuous period of 30 minutes, what is the credit to the customer?",
             "options": [
-                {"id": "a", "text": "10% of monthly rental"},
-                {"id": "b", "text": "Credit equal to the downtime"},
-                {"id": "c", "text": "Credit equal to 5 times the period"},
-                {"id": "d", "text": "No credit is given"}
+                {
+                    "id": "a",
+                    "text": "Credit equal to 5 times the period"
+                },
+                {
+                    "id": "b",
+                    "text": "No credit is given"
+                },
+                {
+                    "id": "c",
+                    "text": "Credit equal to the downtime"
+                },
+                {
+                    "id": "d",
+                    "text": "10% of monthly rental"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q16",
             "text": "Which BSNL vertical handles 'Silver' category enterprise customers through Channel Partners?",
             "options": [
-                {"id": "a", "text": "CM"},
-                {"id": "b", "text": "CFA"},
-                {"id": "c", "text": "EB"},
-                {"id": "d", "text": "CN"}
+                {
+                    "id": "a",
+                    "text": "CM"
+                },
+                {
+                    "id": "b",
+                    "text": "EB"
+                },
+                {
+                    "id": "c",
+                    "text": "CN"
+                },
+                {
+                    "id": "d",
+                    "text": "CFA"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q17",
             "text": "Channel partners are given an 'exclusion list' to prevent them from targeting which types of customers?",
             "options": [
-                {"id": "a", "text": "Retail and Home"},
-                {"id": "b", "text": "Platinum and Gold"},
-                {"id": "c", "text": "Government and PSU"},
-                {"id": "d", "text": "International clients"}
+                {
+                    "id": "a",
+                    "text": "Retail and Home"
+                },
+                {
+                    "id": "b",
+                    "text": "Government and PSU"
+                },
+                {
+                    "id": "c",
+                    "text": "International clients"
+                },
+                {
+                    "id": "d",
+                    "text": "Platinum and Gold"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q18",
             "text": "When is the commission released to a BSNL Channel Partner?",
             "options": [
-                {"id": "a", "text": "Upon booking the order"},
-                {"id": "b", "text": "Upon successful installation"},
-                {"id": "c", "text": "After actual realization of the amount from the customer"},
-                {"id": "d", "text": "Immediately at the start of the month"}
+                {
+                    "id": "a",
+                    "text": "Upon booking the order"
+                },
+                {
+                    "id": "b",
+                    "text": "Upon successful installation"
+                },
+                {
+                    "id": "c",
+                    "text": "After actual realization of the amount from the customer"
+                },
+                {
+                    "id": "d",
+                    "text": "Immediately at the start of the month"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -203,10 +419,22 @@
             "id": "w6q19",
             "text": "Which system in ERP BSNL is modified to incorporate payable commission to Channel Partners?",
             "options": [
-                {"id": "a", "text": "FICO Module"},
-                {"id": "b", "text": "S&D Module"},
-                {"id": "c", "text": "MM Module"},
-                {"id": "d", "text": "PM Module"}
+                {
+                    "id": "a",
+                    "text": "FICO Module"
+                },
+                {
+                    "id": "b",
+                    "text": "S&D Module"
+                },
+                {
+                    "id": "c",
+                    "text": "PM Module"
+                },
+                {
+                    "id": "d",
+                    "text": "MM Module"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -214,43 +442,91 @@
             "id": "w6q20",
             "text": "In Partner Management, what is an 'SI'?",
             "options": [
-                {"id": "a", "text": "Service Inspector"},
-                {"id": "b", "text": "System Integrator"},
-                {"id": "c", "text": "Software Implementer"},
-                {"id": "d", "text": "Source Identifier"}
+                {
+                    "id": "a",
+                    "text": "Software Implementer"
+                },
+                {
+                    "id": "b",
+                    "text": "Service Inspector"
+                },
+                {
+                    "id": "c",
+                    "text": "System Integrator"
+                },
+                {
+                    "id": "d",
+                    "text": "Source Identifier"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q21",
             "text": "Which committee in a BSNL Circle is responsible for the empanelment of vendors for turnkey projects?",
             "options": [
-                {"id": "a", "text": "Revenue Committee"},
-                {"id": "b", "text": "Standing Committee"},
-                {"id": "c", "text": "EB Review Team"},
-                {"id": "d", "text": "Project Planning Cell"}
+                {
+                    "id": "a",
+                    "text": "Revenue Committee"
+                },
+                {
+                    "id": "b",
+                    "text": "Project Planning Cell"
+                },
+                {
+                    "id": "c",
+                    "text": "EB Review Team"
+                },
+                {
+                    "id": "d",
+                    "text": "Standing Committee"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q22",
             "text": "What is the average turnover requirement for last two years for a 'National' level System Integrator?",
             "options": [
-                {"id": "a", "text": "3 Cr."},
-                {"id": "b", "text": "20 Lakhs"},
-                {"id": "c", "text": "20 Cr."},
-                {"id": "d", "text": "50 Cr."}
+                {
+                    "id": "a",
+                    "text": "50 Cr."
+                },
+                {
+                    "id": "b",
+                    "text": "3 Cr."
+                },
+                {
+                    "id": "c",
+                    "text": "20 Lakhs"
+                },
+                {
+                    "id": "d",
+                    "text": "20 Cr."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q23",
             "text": "A 'Circle-Silver' level SI must have a minimum experience of how many WAN implementations on a turnkey basis?",
             "options": [
-                {"id": "a", "text": "20 projects"},
-                {"id": "b", "text": "5 projects"},
-                {"id": "c", "text": "2 projects"},
-                {"id": "d", "text": "10 projects"}
+                {
+                    "id": "a",
+                    "text": "10 projects"
+                },
+                {
+                    "id": "b",
+                    "text": "20 projects"
+                },
+                {
+                    "id": "c",
+                    "text": "2 projects"
+                },
+                {
+                    "id": "d",
+                    "text": "5 projects"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -258,10 +534,22 @@
             "id": "w6q24",
             "text": "What is the bank guarantee (BG) amount required for the empanelment of a 'Circle' level System Integrator?",
             "options": [
-                {"id": "a", "text": "15 Lakhs"},
-                {"id": "b", "text": "3 Lakhs"},
-                {"id": "c", "text": "50,000"},
-                {"id": "d", "text": "1 Lakh"}
+                {
+                    "id": "a",
+                    "text": "15 Lakhs"
+                },
+                {
+                    "id": "b",
+                    "text": "3 Lakhs"
+                },
+                {
+                    "id": "c",
+                    "text": "1 Lakh"
+                },
+                {
+                    "id": "d",
+                    "text": "50,000"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -269,32 +557,68 @@
             "id": "w6q25",
             "text": "System Integrators are responsible for providing help center support on what basis?",
             "options": [
-                {"id": "a", "text": "10 am to 5 pm"},
-                {"id": "b", "text": "9 am to 9 pm"},
-                {"id": "c", "text": "24X7"},
-                {"id": "d", "text": "Only on working days"}
+                {
+                    "id": "a",
+                    "text": "10 am to 5 pm"
+                },
+                {
+                    "id": "b",
+                    "text": "24X7, under specified operational load."
+                },
+                {
+                    "id": "c",
+                    "text": "Only on working days"
+                },
+                {
+                    "id": "d",
+                    "text": "9 am to 9 pm"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q26",
             "text": "What does 'ASP' stand for in the context of BSNL enterprise services?",
             "options": [
-                {"id": "a", "text": "Associate Service Provider"},
-                {"id": "b", "text": "Application Service Provider"},
-                {"id": "c", "text": "Advanced Systems Partner"},
-                {"id": "d", "text": "Alternative Solutions Provider"}
+                {
+                    "id": "a",
+                    "text": "Application Service Provider"
+                },
+                {
+                    "id": "b",
+                    "text": "Alternative Solutions Provider"
+                },
+                {
+                    "id": "c",
+                    "text": "Advanced Systems Partner"
+                },
+                {
+                    "id": "d",
+                    "text": "Associate Service Provider"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q27",
             "text": "To be eligible as an ASP, a bidder must have implemented at least one ICT system with a value more than:",
             "options": [
-                {"id": "a", "text": "1 Cr."},
-                {"id": "b", "text": "5 Cr."},
-                {"id": "c", "text": "10 Cr."},
-                {"id": "d", "text": "20 Cr."}
+                {
+                    "id": "a",
+                    "text": "1 Cr."
+                },
+                {
+                    "id": "b",
+                    "text": "5 Cr."
+                },
+                {
+                    "id": "c",
+                    "text": "20 Cr."
+                },
+                {
+                    "id": "d",
+                    "text": "10 Cr."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -302,54 +626,114 @@
             "id": "w6q28",
             "text": "What is the non-refundable empanelment fee for an ASP (unless centrally empanelled)?",
             "options": [
-                {"id": "a", "text": "Rs. 10,000"},
-                {"id": "b", "text": "Rs. 50,000"},
-                {"id": "c", "text": "Rs. 1.0 Lakh"},
-                {"id": "d", "text": "Rs. 2.0 Lakhs"}
+                {
+                    "id": "a",
+                    "text": "Rs. 10,000"
+                },
+                {
+                    "id": "b",
+                    "text": "Rs. 1.0 Lakh"
+                },
+                {
+                    "id": "c",
+                    "text": "Rs. 2.0 Lakhs"
+                },
+                {
+                    "id": "d",
+                    "text": "Rs. 50,000"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q29",
             "text": "Which method may BSNL adopt to discover the price of a unique innovative proposal from a centrally empanelled ASP?",
             "options": [
-                {"id": "a", "text": "Open Tender"},
-                {"id": "b", "text": "L1 Selection"},
-                {"id": "c", "text": "Swiss Challenge Method"},
-                {"id": "d", "text": "Direct Award"}
+                {
+                    "id": "a",
+                    "text": "Swiss Challenge Method"
+                },
+                {
+                    "id": "b",
+                    "text": "L1 Selection"
+                },
+                {
+                    "id": "c",
+                    "text": "Open Tender"
+                },
+                {
+                    "id": "d",
+                    "text": "Direct Award"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q30",
             "text": "In the ASP revenue share model, what part is divided based on proportionate investment planning?",
             "options": [
-                {"id": "a", "text": "Fixed revenue share"},
-                {"id": "b", "text": "Variable revenue share (X)"},
-                {"id": "c", "text": "TDS only"},
-                {"id": "d", "text": "Service Tax"}
+                {
+                    "id": "a",
+                    "text": "Fixed revenue share"
+                },
+                {
+                    "id": "b",
+                    "text": "TDS only, which is critical for efficient data transmission."
+                },
+                {
+                    "id": "c",
+                    "text": "Variable revenue share (X)"
+                },
+                {
+                    "id": "d",
+                    "text": "Service Tax"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q31",
             "text": "What does 'HSSP' stand for?",
             "options": [
-                {"id": "a", "text": "Hotspot Support Service Partner"},
-                {"id": "b", "text": "High Speed Service Provider"},
-                {"id": "c", "text": "Hotspot Service Provider"},
-                {"id": "d", "text": "Hosted Server Service Point"}
+                {
+                    "id": "a",
+                    "text": "Hotspot Service Provider"
+                },
+                {
+                    "id": "b",
+                    "text": "High Speed Service Provider"
+                },
+                {
+                    "id": "c",
+                    "text": "Hosted Server Service Point"
+                },
+                {
+                    "id": "d",
+                    "text": "Hotspot Support Service Partner"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q32",
             "text": "For public Wi-Fi partners (PWPs), what is the revenue share for 1-4 Access Points (APs) plans?",
             "options": [
-                {"id": "a", "text": "25%"},
-                {"id": "b", "text": "28%"},
-                {"id": "c", "text": "50%"},
-                {"id": "d", "text": "10%"}
+                {
+                    "id": "a",
+                    "text": "25%"
+                },
+                {
+                    "id": "b",
+                    "text": "10%"
+                },
+                {
+                    "id": "c",
+                    "text": "50%"
+                },
+                {
+                    "id": "d",
+                    "text": "28%"
+                }
             ],
             "correctAnswer": "a"
         },
@@ -357,10 +741,22 @@
             "id": "w6q33",
             "text": "What is the notice period required for mutual termination of a Wi-Fi partner agreement?",
             "options": [
-                {"id": "a", "text": "1 month"},
-                {"id": "b", "text": "3 months"},
-                {"id": "c", "text": "6 months"},
-                {"id": "d", "text": "1 year"}
+                {
+                    "id": "a",
+                    "text": "1 year"
+                },
+                {
+                    "id": "b",
+                    "text": "1 month"
+                },
+                {
+                    "id": "c",
+                    "text": "6 months"
+                },
+                {
+                    "id": "d",
+                    "text": "3 months"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -368,32 +764,68 @@
             "id": "w6q34",
             "text": "Which BSNL managed service offering includes 'managed firewall as well as IP Sec'?",
             "options": [
-                {"id": "a", "text": "v-Sanghoshti"},
-                {"id": "b", "text": "Managed Network Services (MNS)"},
-                {"id": "c", "text": "SIP Trunking"},
-                {"id": "d", "text": "Web Hosting"}
+                {
+                    "id": "a",
+                    "text": "Managed Network Services (MNS)"
+                },
+                {
+                    "id": "b",
+                    "text": "v-Sanghoshti"
+                },
+                {
+                    "id": "c",
+                    "text": "SIP Trunking"
+                },
+                {
+                    "id": "d",
+                    "text": "Web Hosting"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q35",
             "text": "What does 'MSP' stand for in the context of managed services?",
             "options": [
-                {"id": "a", "text": "Main System Partner"},
-                {"id": "b", "text": "Managed Services Provider"},
-                {"id": "c", "text": "Major Server Platform"},
-                {"id": "d", "text": "Multiprotocol Service Point"}
+                {
+                    "id": "a",
+                    "text": "Managed Services Provider"
+                },
+                {
+                    "id": "b",
+                    "text": "Main System Partner"
+                },
+                {
+                    "id": "c",
+                    "text": "Multiprotocol Service Point"
+                },
+                {
+                    "id": "d",
+                    "text": "Major Server Platform"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q36",
             "text": "In the BSNL MNS product line, which product offers 512 kbps bandwidth over broadband with managed firewall?",
             "options": [
-                {"id": "a", "text": "BSNL Bizcom"},
-                {"id": "b", "text": "BSNL EasyCom"},
-                {"id": "c", "text": "BSNL EntCom"},
-                {"id": "d", "text": "BSNL CloudCom"}
+                {
+                    "id": "a",
+                    "text": "BSNL CloudCom"
+                },
+                {
+                    "id": "b",
+                    "text": "BSNL EasyCom"
+                },
+                {
+                    "id": "c",
+                    "text": "BSNL Bizcom"
+                },
+                {
+                    "id": "d",
+                    "text": "BSNL EntCom"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -401,10 +833,22 @@
             "id": "w6q37",
             "text": "Which cloud service model provides automated provisioning of virtual servers in less than 5 minutes?",
             "options": [
-                {"id": "a", "text": "SaaS"},
-                {"id": "b", "text": "PaaS"},
-                {"id": "c", "text": "Public Compute-as-a-Service (Public CaaS)"},
-                {"id": "d", "text": "Web Hosting"}
+                {
+                    "id": "a",
+                    "text": "Web Hosting"
+                },
+                {
+                    "id": "b",
+                    "text": "PaaS, maintaining high availability across the interface."
+                },
+                {
+                    "id": "c",
+                    "text": "Public Compute-as-a-Service (Public CaaS)"
+                },
+                {
+                    "id": "d",
+                    "text": "SaaS, consistent with standard hardware configurations."
+                }
             ],
             "correctAnswer": "c"
         },
@@ -412,142 +856,298 @@
             "id": "w6q38",
             "text": "What is the maximum storage per virtual server in BSNL's public cloud?",
             "options": [
-                {"id": "a", "text": "500 GB"},
-                {"id": "b", "text": "1 TB"},
-                {"id": "c", "text": "2.5 TB"},
-                {"id": "d", "text": "10 TB"}
+                {
+                    "id": "a",
+                    "text": "10 TB"
+                },
+                {
+                    "id": "b",
+                    "text": "2.5 TB"
+                },
+                {
+                    "id": "c",
+                    "text": "500 GB"
+                },
+                {
+                    "id": "d",
+                    "text": "1 TB"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q39",
             "text": "A 'Turnkey Solution' is characterized by:",
             "options": [
-                {"id": "a", "text": "The customer building their own network"},
-                {"id": "b", "text": "A system built end-to-end that can be easily implemented by the buyer"},
-                {"id": "c", "text": "A solution where only the hardware is provided"},
-                {"id": "d", "text": "A project that takes decades to complete"}
+                {
+                    "id": "a",
+                    "text": "A solution where only the hardware is provided"
+                },
+                {
+                    "id": "b",
+                    "text": "A project that takes decades to complete"
+                },
+                {
+                    "id": "c",
+                    "text": "The customer building their own network"
+                },
+                {
+                    "id": "d",
+                    "text": "A system built end-to-end that can be easily implemented by the buyer"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q40",
             "text": "Which tendering process involves a public advertisement and has no restrictions on who can submit a bid?",
             "options": [
-                {"id": "a", "text": "Selective Tendering"},
-                {"id": "b", "text": "Open Tendering"},
-                {"id": "c", "text": "Negotiated Tendering"},
-                {"id": "d", "text": "Single Stage Tendering"}
+                {
+                    "id": "a",
+                    "text": "Single Stage Tendering"
+                },
+                {
+                    "id": "b",
+                    "text": "Selective Tendering"
+                },
+                {
+                    "id": "c",
+                    "text": "Open Tendering"
+                },
+                {
+                    "id": "d",
+                    "text": "Negotiated Tendering"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q41",
             "text": "In a Request for Proposal (RFP), which volume typically contains the 'Master Service Level Agreement'?",
             "options": [
-                {"id": "a", "text": "Volume 1"},
-                {"id": "b", "text": "Volume 2"},
-                {"id": "c", "text": "Volume 3"},
-                {"id": "d", "text": "Volume 4"}
+                {
+                    "id": "a",
+                    "text": "Volume 2"
+                },
+                {
+                    "id": "b",
+                    "text": "Volume 4"
+                },
+                {
+                    "id": "c",
+                    "text": "Volume 1"
+                },
+                {
+                    "id": "d",
+                    "text": "Volume 3"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q42",
             "text": "What document is often distributed before an RFP to preemptively short-list candidates?",
             "options": [
-                {"id": "a", "text": "Request for Qualifications (RFQ)"},
-                {"id": "b", "text": "Expression of Interest (EOI)"},
-                {"id": "c", "text": "Notice Inviting Tender (NIT)"},
-                {"id": "d", "text": "Contract of Intent"}
+                {
+                    "id": "a",
+                    "text": "Expression of Interest (EOI)"
+                },
+                {
+                    "id": "b",
+                    "text": "Request for Qualifications (RFQ)"
+                },
+                {
+                    "id": "c",
+                    "text": "Contract of Intent"
+                },
+                {
+                    "id": "d",
+                    "text": "Notice Inviting Tender (NIT)"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q43",
             "text": "Under the Smart City Mission, BSNL's primary role is envisaged as providing what?",
             "options": [
-                {"id": "a", "text": "Road construction"},
-                {"id": "b", "text": "Core Communication Network and Infrastructure"},
-                {"id": "c", "text": "Water management systems"},
-                {"id": "d", "text": "Street lighting only"}
+                {
+                    "id": "a",
+                    "text": "Street lighting only"
+                },
+                {
+                    "id": "b",
+                    "text": "Road construction"
+                },
+                {
+                    "id": "c",
+                    "text": "Water management systems"
+                },
+                {
+                    "id": "d",
+                    "text": "Core Communication Network and Infrastructure"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q44",
             "text": "In the Smart City project flow, who has the sole authority to decide not to bid in a tender?",
             "options": [
-                {"id": "a", "text": "Circle Smart City Group"},
-                {"id": "b", "text": "GM (Smart City Project) at Corporate Office"},
-                {"id": "c", "text": "SSA Head"},
-                {"id": "d", "text": "Key Account Manager"}
+                {
+                    "id": "a",
+                    "text": "GM (Smart City Project) at Corporate Office"
+                },
+                {
+                    "id": "b",
+                    "text": "Circle Smart City Group"
+                },
+                {
+                    "id": "c",
+                    "text": "SSA Head, which is critical for efficient data transmission."
+                },
+                {
+                    "id": "d",
+                    "text": "Key Account Manager"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q45",
             "text": "What was the value of the successful BSNL bid for the WCL ERP implementation project?",
             "options": [
-                {"id": "a", "text": "Rs. 100 Million"},
-                {"id": "b", "text": "Rs. 608.01 Million"},
-                {"id": "c", "text": "Rs. 1 Billion"},
-                {"id": "d", "text": "Rs. 275 Crores"}
+                {
+                    "id": "a",
+                    "text": "Rs. 608.01 Million"
+                },
+                {
+                    "id": "b",
+                    "text": "Rs. 100 Million"
+                },
+                {
+                    "id": "c",
+                    "text": "Rs. 1 Billion"
+                },
+                {
+                    "id": "d",
+                    "text": "Rs. 275 Crores"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q46",
             "text": "What is the primary funding source for the NOFN (BharatNet) project?",
             "options": [
-                {"id": "a", "text": "World Bank"},
-                {"id": "b", "text": "Universal Service Obligation Fund (USOF)"},
-                {"id": "c", "text": "BSNL Profit Margin"},
-                {"id": "d", "text": "State Government Taxes"}
+                {
+                    "id": "a",
+                    "text": "BSNL Profit Margin"
+                },
+                {
+                    "id": "b",
+                    "text": "State Government Taxes"
+                },
+                {
+                    "id": "c",
+                    "text": "Universal Service Obligation Fund (USOF)"
+                },
+                {
+                    "id": "d",
+                    "text": "World Bank, under specified operational load."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q47",
             "text": "How many Gram Panchayats is the NOFN project designed to connect?",
             "options": [
-                {"id": "a", "text": "50,000"},
-                {"id": "b", "text": "1,00,000"},
-                {"id": "c", "text": "2,50,000"},
-                {"id": "d", "text": "5,00,000"}
+                {
+                    "id": "a",
+                    "text": "50,000"
+                },
+                {
+                    "id": "b",
+                    "text": "2,50,000"
+                },
+                {
+                    "id": "c",
+                    "text": "5,00,000"
+                },
+                {
+                    "id": "d",
+                    "text": "1,00,000"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q48",
             "text": "Which technology is utilized in the NOFN project to achieve point-to-multipoint signals?",
             "options": [
-                {"id": "a", "text": "ADSL2+"},
-                {"id": "b", "text": "GPON"},
-                {"id": "c", "text": "VDSL"},
-                {"id": "d", "text": "Satellite"}
+                {
+                    "id": "a",
+                    "text": "ADSL2+"
+                },
+                {
+                    "id": "b",
+                    "text": "Satellite"
+                },
+                {
+                    "id": "c",
+                    "text": "VDSL"
+                },
+                {
+                    "id": "d",
+                    "text": "GPON"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q49",
             "text": "What project aims to provide high-speed bandwidth connectivity between all knowledge and research institutions in India?",
             "options": [
-                {"id": "a", "text": "NFS"},
-                {"id": "b", "text": "Digital India"},
-                {"id": "c", "text": "NKN (National Knowledge Network)"},
-                {"id": "d", "text": "BharatNet"}
+                {
+                    "id": "a",
+                    "text": "BharatNet"
+                },
+                {
+                    "id": "b",
+                    "text": "NKN (National Knowledge Network)"
+                },
+                {
+                    "id": "c",
+                    "text": "NFS, as implemented in current network deployments."
+                },
+                {
+                    "id": "d",
+                    "text": "Digital India"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q50",
             "text": "For the NKN project, what is the current link capacity provided by National Long Distance Carriers (NLDs)?",
             "options": [
-                {"id": "a", "text": "100 Mbps"},
-                {"id": "b", "text": "1 Gbps"},
-                {"id": "c", "text": "2.5 Gbps / 10 Gbps"},
-                {"id": "d", "text": "100 Gbps"}
+                {
+                    "id": "a",
+                    "text": "100 Mbps"
+                },
+                {
+                    "id": "b",
+                    "text": "1 Gbps"
+                },
+                {
+                    "id": "c",
+                    "text": "2.5 Gbps / 10 Gbps"
+                },
+                {
+                    "id": "d",
+                    "text": "100 Gbps"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -555,10 +1155,22 @@
             "id": "w6q51",
             "text": "What is 'SD-WAN'?",
             "options": [
-                {"id": "a", "text": "Super-Digital WAN"},
-                {"id": "b", "text": "Software-Defined WAN"},
-                {"id": "c", "text": "Secure-Data WAN"},
-                {"id": "d", "text": "Single-Device WAN"}
+                {
+                    "id": "a",
+                    "text": "Super-Digital WAN"
+                },
+                {
+                    "id": "b",
+                    "text": "Software-Defined WAN"
+                },
+                {
+                    "id": "c",
+                    "text": "Secure-Data WAN"
+                },
+                {
+                    "id": "d",
+                    "text": "Single-Device WAN"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -566,98 +1178,206 @@
             "id": "w6q52",
             "text": "In the basic SD-WAN model, what combines with the MPLS VPN to create the 'Extended Company VPN'?",
             "options": [
-                {"id": "a", "text": "Satellite Link"},
-                {"id": "b", "text": "Public Internet"},
-                {"id": "c", "text": "SD-WAN VPN"},
-                {"id": "d", "text": "Dark Fiber"}
+                {
+                    "id": "a",
+                    "text": "SD-WAN VPN"
+                },
+                {
+                    "id": "b",
+                    "text": "Satellite Link"
+                },
+                {
+                    "id": "c",
+                    "text": "Public Internet"
+                },
+                {
+                    "id": "d",
+                    "text": "Dark Fiber"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q53",
             "text": "Which SD-WAN node type adds a cloud process to the VPN in software form?",
             "options": [
-                {"id": "a", "text": "SD-WAN Hub"},
-                {"id": "b", "text": "SD-WAN Agent"},
-                {"id": "c", "text": "SD-WAN Gateway"},
-                {"id": "d", "text": "SD-WAN Switch"}
+                {
+                    "id": "a",
+                    "text": "SD-WAN Agent"
+                },
+                {
+                    "id": "b",
+                    "text": "SD-WAN Hub"
+                },
+                {
+                    "id": "c",
+                    "text": "SD-WAN Gateway"
+                },
+                {
+                    "id": "d",
+                    "text": "SD-WAN Switch"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q54",
             "text": "In financial study, what is the goal of an 'Explanatory Report'?",
             "options": [
-                {"id": "a", "text": "To compare two years of data"},
-                {"id": "b", "text": "To explain a situation to an outside group (e.g. via bar graphs)"},
-                {"id": "c", "text": "To provide a snapshot for transparency"},
-                {"id": "d", "text": "To make future predictions"}
+                {
+                    "id": "a",
+                    "text": "To compare two years of data"
+                },
+                {
+                    "id": "b",
+                    "text": "To provide a snapshot for transparency"
+                },
+                {
+                    "id": "c",
+                    "text": "To explain a situation to an outside group (e.g. via bar graphs)"
+                },
+                {
+                    "id": "d",
+                    "text": "To make future predictions"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q55",
             "text": "Which type of report goes beyond data offering and provides a comparison or reasoning for trends?",
             "options": [
-                {"id": "a", "text": "Progress Report"},
-                {"id": "b", "text": "Explanatory Report"},
-                {"id": "c", "text": "Analytical Report"},
-                {"id": "d", "text": "Ad-Hoc Report"}
+                {
+                    "id": "a",
+                    "text": "Explanatory Report"
+                },
+                {
+                    "id": "b",
+                    "text": "Analytical Report"
+                },
+                {
+                    "id": "c",
+                    "text": "Ad-Hoc Report"
+                },
+                {
+                    "id": "d",
+                    "text": "Progress Report"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q56",
             "text": "What is the primary benefit of creating 'Intuitive Visualizations' like scattergraphs?",
             "options": [
-                {"id": "a", "text": "They look more professional"},
-                {"id": "b", "text": "They make it easier to draw actionable insights"},
-                {"id": "c", "text": "They use less storage space"},
-                {"id": "d", "text": "They are required by law"}
+                {
+                    "id": "a",
+                    "text": "They make it easier to draw actionable insights"
+                },
+                {
+                    "id": "b",
+                    "text": "They look more professional"
+                },
+                {
+                    "id": "c",
+                    "text": "They use less storage space"
+                },
+                {
+                    "id": "d",
+                    "text": "They are required by law"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q57",
             "text": "What does 'ARPU' stand for in market forecasting?",
             "options": [
-                {"id": "a", "text": "Annual Revenue per Unit"},
-                {"id": "b", "text": "Average Revenue Per User"},
-                {"id": "c", "text": "Actual Rate of Provider Usage"},
-                {"id": "d", "text": "Applied Revenue per User"}
+                {
+                    "id": "a",
+                    "text": "Actual Rate of Provider Usage"
+                },
+                {
+                    "id": "b",
+                    "text": "Applied Revenue per User"
+                },
+                {
+                    "id": "c",
+                    "text": "Annual Revenue per Unit"
+                },
+                {
+                    "id": "d",
+                    "text": "Average Revenue Per User"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q58",
             "text": "A 'Network Diagram' in PERT represents activities and milestones by what symbols?",
             "options": [
-                {"id": "a", "text": "Squares and triangles"},
-                {"id": "b", "text": "Arcs and nodes"},
-                {"id": "c", "text": "Circles and crosshairs"},
-                {"id": "d", "text": "Arrows and boxes"}
+                {
+                    "id": "a",
+                    "text": "Squares and triangles"
+                },
+                {
+                    "id": "b",
+                    "text": "Circles and crosshairs"
+                },
+                {
+                    "id": "c",
+                    "text": "Arrows and boxes"
+                },
+                {
+                    "id": "d",
+                    "text": "Arcs and nodes"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q59",
             "text": "In BSNL project management, why is 'LSP Merge' disabled in MPLS-TP?",
             "options": [
-                {"id": "a", "text": "To increase speed"},
-                {"id": "b", "text": "To ensure full traceability of paths for OAM packets"},
-                {"id": "c", "text": "To save power"},
-                {"id": "d", "text": "To support more users"}
+                {
+                    "id": "a",
+                    "text": "To ensure full traceability of paths for OAM packets"
+                },
+                {
+                    "id": "b",
+                    "text": "To support more users"
+                },
+                {
+                    "id": "c",
+                    "text": "To increase speed"
+                },
+                {
+                    "id": "d",
+                    "text": "To save power, as implemented in current network deployments."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q60",
             "text": "What is the 'Most Likely Time (MT)' in PERT estimation?",
             "options": [
-                {"id": "a", "text": "The shortest possible time"},
-                {"id": "b", "text": "The longest possible time"},
-                {"id": "c", "text": "The completion time having the highest probability"},
-                {"id": "d", "text": "The average of all previous projects"}
+                {
+                    "id": "a",
+                    "text": "The average of all previous projects"
+                },
+                {
+                    "id": "b",
+                    "text": "The shortest possible time"
+                },
+                {
+                    "id": "c",
+                    "text": "The completion time having the highest probability"
+                },
+                {
+                    "id": "d",
+                    "text": "The longest possible time"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -665,10 +1385,22 @@
             "id": "w6q61",
             "text": "The 'Controlling' phase of a project involves comparing actual performance with:",
             "options": [
-                {"id": "a", "text": "Last year's project"},
-                {"id": "b", "text": "Competitor performance"},
-                {"id": "c", "text": "Planned performance"},
-                {"id": "d", "text": "Customer expectations only"}
+                {
+                    "id": "a",
+                    "text": "Customer expectations only"
+                },
+                {
+                    "id": "b",
+                    "text": "Competitor performance"
+                },
+                {
+                    "id": "c",
+                    "text": "Planned performance"
+                },
+                {
+                    "id": "d",
+                    "text": "Last year's project"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -676,32 +1408,68 @@
             "id": "w6q62",
             "text": "Which SLA component defines what function is being functions (e.g. ILL or MPLS VPN)?",
             "options": [
-                {"id": "a", "text": "Service Availability"},
-                {"id": "b", "text": "Service Description"},
-                {"id": "c", "text": "Metric Formula"},
-                {"id": "d", "text": "Service Quality"}
+                {
+                    "id": "a",
+                    "text": "Service Description"
+                },
+                {
+                    "id": "b",
+                    "text": "Metric Formula"
+                },
+                {
+                    "id": "c",
+                    "text": "Service Quality"
+                },
+                {
+                    "id": "d",
+                    "text": "Service Availability"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q63",
             "text": "What is the 'Service Window' for a BSNL Standard SLA?",
             "options": [
-                {"id": "a", "text": "9 am to 6 pm"},
-                {"id": "b", "text": "7 am to 10 pm (Working day)"},
-                {"id": "c", "text": "24X7"},
-                {"id": "d", "text": "Weekends only"}
+                {
+                    "id": "a",
+                    "text": "7 am to 10 pm (Working day)"
+                },
+                {
+                    "id": "b",
+                    "text": "Weekends only"
+                },
+                {
+                    "id": "c",
+                    "text": "24X7, which is critical for efficient data transmission."
+                },
+                {
+                    "id": "d",
+                    "text": "9 am to 6 pm"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q64",
             "text": "In the BSNL SLA, what is the 'Premium SLA' uptime guarantee?",
             "options": [
-                {"id": "a", "text": "99%"},
-                {"id": "b", "text": "99.5%"},
-                {"id": "c", "text": "99.9%"},
-                {"id": "d", "text": "100%"}
+                {
+                    "id": "a",
+                    "text": "99.9%"
+                },
+                {
+                    "id": "b",
+                    "text": "99.5%"
+                },
+                {
+                    "id": "c",
+                    "text": "99%"
+                },
+                {
+                    "id": "d",
+                    "text": "100%"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -709,43 +1477,91 @@
             "id": "w6q65",
             "text": "For a 'Classic' SLA, a rebate of 1% is given for every 10 hours in excess of how many hours in a quarter?",
             "options": [
-                {"id": "a", "text": "22 hours"},
-                {"id": "b", "text": "88 hours"},
-                {"id": "c", "text": "10 hours"},
-                {"id": "d", "text": "5 hours"}
+                {
+                    "id": "a",
+                    "text": "10 hours"
+                },
+                {
+                    "id": "b",
+                    "text": "22 hours"
+                },
+                {
+                    "id": "c",
+                    "text": "88 hours"
+                },
+                {
+                    "id": "d",
+                    "text": "5 hours"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q66",
             "text": "Which BSNL Vertical handles 'Platinum' and 'Gold' accounts directly?",
             "options": [
-                {"id": "a", "text": "CM"},
-                {"id": "b", "text": "CFA"},
-                {"id": "c", "text": "EB"},
-                {"id": "d", "text": "Finance"}
+                {
+                    "id": "a",
+                    "text": "CFA"
+                },
+                {
+                    "id": "b",
+                    "text": "EB, facilitating optimal signal processing."
+                },
+                {
+                    "id": "c",
+                    "text": "CM, within the current network framework."
+                },
+                {
+                    "id": "d",
+                    "text": "Finance"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q67",
             "text": "What is the primary job of a System Integrator (SI)?",
             "options": [
-                {"id": "a", "text": "Selling SIM cards"},
-                {"id": "b", "text": "Bringing together component subsystems into a whole and ensuring they function together"},
-                {"id": "c", "text": "Collecting customer bills"},
-                {"id": "d", "text": "Building mobile towers"}
+                {
+                    "id": "a",
+                    "text": "Building mobile towers, maintaining high availability across the interface."
+                },
+                {
+                    "id": "b",
+                    "text": "Collecting customer bills"
+                },
+                {
+                    "id": "c",
+                    "text": "Selling SIM cards, as per the technical requirements for this system component."
+                },
+                {
+                    "id": "d",
+                    "text": "Bringing together component subsystems into a whole and ensuring they function together"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q68",
             "text": "In case an incumbent SI refuses to work at L1 rates discovered in a tender, they are debarred for participating in tenders for how long?",
             "options": [
-                {"id": "a", "text": "3 months"},
-                {"id": "b", "text": "6 months"},
-                {"id": "c", "text": "One year"},
-                {"id": "d", "text": "Permanently"}
+                {
+                    "id": "a",
+                    "text": "6 months"
+                },
+                {
+                    "id": "b",
+                    "text": "3 months"
+                },
+                {
+                    "id": "c",
+                    "text": "One year"
+                },
+                {
+                    "id": "d",
+                    "text": "Permanently"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -753,10 +1569,22 @@
             "id": "w6q69",
             "text": "What is the minimum support center requirement for a National level System Integrator?",
             "options": [
-                {"id": "a", "text": "None"},
-                {"id": "b", "text": "At least one"},
-                {"id": "c", "text": "Marked with ** (indicative of specific countrywide presence)"},
-                {"id": "d", "text": "At least 10"}
+                {
+                    "id": "a",
+                    "text": "At least one, following the established operational guidelines."
+                },
+                {
+                    "id": "b",
+                    "text": "None, maintaining high availability across the interface."
+                },
+                {
+                    "id": "c",
+                    "text": "Marked with ** (indicative of specific countrywide presence)"
+                },
+                {
+                    "id": "d",
+                    "text": "At least 10, providing the necessary connectivity for the node."
+                }
             ],
             "correctAnswer": "c"
         },
@@ -764,21 +1592,45 @@
             "id": "w6q70",
             "text": "CPNE guidelines for System Integrators are NOT applicable for which of the following?",
             "options": [
-                {"id": "a", "text": "Turnkey services"},
-                {"id": "b", "text": "Customer Private Network establishment"},
-                {"id": "c", "text": "Last Mile Connectivity (OFC/RF modems)"},
-                {"id": "d", "text": "End equipment maintenance"}
+                {
+                    "id": "a",
+                    "text": "End equipment maintenance"
+                },
+                {
+                    "id": "b",
+                    "text": "Last Mile Connectivity (OFC/RF modems)"
+                },
+                {
+                    "id": "c",
+                    "text": "Customer Private Network establishment"
+                },
+                {
+                    "id": "d",
+                    "text": "Turnkey services, aligned with the required architecture standards."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q71",
             "text": "Which BSNL VERTICAL handles empanelment of ASPs?",
             "options": [
-                {"id": "a", "text": "EB/NB cell Corporate Office"},
-                {"id": "b", "text": "FICO"},
-                {"id": "c", "text": "MM Cell"},
-                {"id": "d", "text": "Legal Cell"}
+                {
+                    "id": "a",
+                    "text": "EB/NB cell Corporate Office"
+                },
+                {
+                    "id": "b",
+                    "text": "FICO, providing the necessary connectivity for the node."
+                },
+                {
+                    "id": "c",
+                    "text": "MM Cell, providing the necessary connectivity for the node."
+                },
+                {
+                    "id": "d",
+                    "text": "Legal Cell"
+                }
             ],
             "correctAnswer": "a"
         },
@@ -786,43 +1638,91 @@
             "id": "w6q72",
             "text": "In the ASP engagement scenario 'Customer Floated RFP', who pays the EMD?",
             "options": [
-                {"id": "a", "text": "The ASP"},
-                {"id": "b", "text": "The Customer"},
-                {"id": "c", "text": "BSNL"},
-                {"id": "d", "text": "Split 50/50"}
+                {
+                    "id": "a",
+                    "text": "The ASP"
+                },
+                {
+                    "id": "b",
+                    "text": "Split 50/50"
+                },
+                {
+                    "id": "c",
+                    "text": "The Customer"
+                },
+                {
+                    "id": "d",
+                    "text": "BSNL, as per the technical requirements for this system component."
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q73",
             "text": "What is 'HSSP' primarily providing?",
             "options": [
-                {"id": "a", "text": "High speed satellite connections"},
-                {"id": "b", "text": "Wi-Fi hotspot services"},
-                {"id": "c", "text": "Hardware for data centers"},
-                {"id": "d", "text": "Software for billing"}
+                {
+                    "id": "a",
+                    "text": "Software for billing"
+                },
+                {
+                    "id": "b",
+                    "text": "High speed satellite connections"
+                },
+                {
+                    "id": "c",
+                    "text": "Wi-Fi hotspot services"
+                },
+                {
+                    "id": "d",
+                    "text": "Hardware for data centers"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q74",
             "text": "A Public Wi-Fi Partner (PWP) is eligible to be a partner if they have worked with a Telecom Service Provider/ISP for at least:",
             "options": [
-                {"id": "a", "text": "6 months"},
-                {"id": "b", "text": "One year"},
-                {"id": "c", "text": "Three years"},
-                {"id": "d", "text": "Five years"}
+                {
+                    "id": "a",
+                    "text": "6 months"
+                },
+                {
+                    "id": "b",
+                    "text": "Five years"
+                },
+                {
+                    "id": "c",
+                    "text": "Three years"
+                },
+                {
+                    "id": "d",
+                    "text": "One year"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q75",
             "text": "The Wi-Fi partner must furnish what details of the HS/AP to BSNL for security requirements?",
             "options": [
-                {"id": "a", "text": "MAC address only"},
-                {"id": "b", "text": "Lat-long location"},
-                {"id": "c", "text": "The price of the equipment"},
-                {"id": "d", "text": "The name of the vendor"}
+                {
+                    "id": "a",
+                    "text": "The price of the equipment"
+                },
+                {
+                    "id": "b",
+                    "text": "Lat-long location"
+                },
+                {
+                    "id": "c",
+                    "text": "The name of the vendor"
+                },
+                {
+                    "id": "d",
+                    "text": "MAC address only"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -830,10 +1730,22 @@
             "id": "w6q76",
             "text": "For 'HSSP', where is BSNL's main Wi-Fi core system located?",
             "options": [
-                {"id": "a", "text": "Delhi"},
-                {"id": "b", "text": "Mumbai"},
-                {"id": "c", "text": "Bangalore"},
-                {"id": "d", "text": "Kolkata"}
+                {
+                    "id": "a",
+                    "text": "Mumbai"
+                },
+                {
+                    "id": "b",
+                    "text": "Delhi"
+                },
+                {
+                    "id": "c",
+                    "text": "Bangalore"
+                },
+                {
+                    "id": "d",
+                    "text": "Kolkata"
+                }
             ],
             "correctAnswer": "c"
         },
@@ -841,10 +1753,22 @@
             "id": "w6q77",
             "text": "Managed Services (MNS) means taking responsibility for which customer needs?",
             "options": [
-                {"id": "a", "text": "Software only"},
-                {"id": "b", "text": "Complete IT and Telecom needs (integrated offering)"},
-                {"id": "c", "text": "Hardware only"},
-                {"id": "d", "text": "Billing only"}
+                {
+                    "id": "a",
+                    "text": "Billing only, maintaining high availability across the interface."
+                },
+                {
+                    "id": "b",
+                    "text": "Complete IT and Telecom needs (integrated offering)"
+                },
+                {
+                    "id": "c",
+                    "text": "Hardware only, aligned with the required architecture standards."
+                },
+                {
+                    "id": "d",
+                    "text": "Software only, following the established operational guidelines."
+                }
             ],
             "correctAnswer": "b"
         },
@@ -852,21 +1776,45 @@
             "id": "w6q78",
             "text": "One major benefit of MNS is 'No CAPEX' for the customer. What does this mean?",
             "options": [
-                {"id": "a", "text": "No monthly bills"},
-                {"id": "b", "text": "No capital expenditure for equipment"},
-                {"id": "c", "text": "No support staff required"},
-                {"id": "d", "text": "No internet required"}
+                {
+                    "id": "a",
+                    "text": "No internet required"
+                },
+                {
+                    "id": "b",
+                    "text": "No monthly bills"
+                },
+                {
+                    "id": "c",
+                    "text": "No support staff required"
+                },
+                {
+                    "id": "d",
+                    "text": "No capital expenditure for equipment"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q79",
             "text": "Which cloud service model refers to 'Anything as a Service'?",
             "options": [
-                {"id": "a", "text": "SPI"},
-                {"id": "b", "text": "XaaS"},
-                {"id": "c", "text": "MNS"},
-                {"id": "d", "text": "HSSP"}
+                {
+                    "id": "a",
+                    "text": "SPI"
+                },
+                {
+                    "id": "b",
+                    "text": "XaaS"
+                },
+                {
+                    "id": "c",
+                    "text": "MNS"
+                },
+                {
+                    "id": "d",
+                    "text": "HSSP"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -874,10 +1822,22 @@
             "id": "w6q80",
             "text": "Which cloud service platform is NOT mentioned among the most well-known in the source?",
             "options": [
-                {"id": "a", "text": "AWS"},
-                {"id": "b", "text": "Google Cloud Platform"},
-                {"id": "c", "text": "Microsoft Azure"},
-                {"id": "d", "text": "IBM Cloud"}
+                {
+                    "id": "a",
+                    "text": "AWS, as outlined in the technical specifications."
+                },
+                {
+                    "id": "b",
+                    "text": "Microsoft Azure"
+                },
+                {
+                    "id": "c",
+                    "text": "Google Cloud Platform"
+                },
+                {
+                    "id": "d",
+                    "text": "IBM Cloud"
+                }
             ],
             "correctAnswer": "d"
         },
@@ -885,10 +1845,22 @@
             "id": "w6q81",
             "text": "What is 'latency' in a network?",
             "options": [
-                {"id": "a", "text": "The speed of the network"},
-                {"id": "b", "text": "The delay in transmission of data packets"},
-                {"id": "c", "text": "The amount of data lost"},
-                {"id": "d", "text": "The frequency of the signal"}
+                {
+                    "id": "a",
+                    "text": "The frequency of the signal"
+                },
+                {
+                    "id": "b",
+                    "text": "The delay in transmission of data packets"
+                },
+                {
+                    "id": "c",
+                    "text": "The speed of the network"
+                },
+                {
+                    "id": "d",
+                    "text": "The amount of data lost"
+                }
             ],
             "correctAnswer": "b"
         },
@@ -896,32 +1868,68 @@
             "id": "w6q82",
             "text": "What does a 'Wait-to-Restore (WTR)' state in protection switching signify?",
             "options": [
-                {"id": "a", "text": "Waiting for customer payment"},
-                {"id": "b", "text": "The period after failure clears before moving traffic back to the working path"},
-                {"id": "c", "text": "Waiting for a vendor to arrive"},
-                {"id": "d", "text": "A permanent failure state"}
+                {
+                    "id": "a",
+                    "text": "Waiting for customer payment"
+                },
+                {
+                    "id": "b",
+                    "text": "A permanent failure state"
+                },
+                {
+                    "id": "c",
+                    "text": "Waiting for a vendor to arrive"
+                },
+                {
+                    "id": "d",
+                    "text": "The period after failure clears before moving traffic back to the working path"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q83",
             "text": "Which BSNL vertically integrated Vertical was created to execute 'Smart City' works?",
             "options": [
-                {"id": "a", "text": "CFA"},
-                {"id": "b", "text": "EB/Smart City cell"},
-                {"id": "c", "text": "ITPC"},
-                {"id": "d", "text": "Retail"}
+                {
+                    "id": "a",
+                    "text": "EB/Smart City cell"
+                },
+                {
+                    "id": "b",
+                    "text": "Retail"
+                },
+                {
+                    "id": "c",
+                    "text": "CFA, under specified operational load."
+                },
+                {
+                    "id": "d",
+                    "text": "ITPC, which is critical for efficient data transmission."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q84",
             "text": "Which city project is used as an example of a successful BSNL EB case story involving ERP implementation for 460 locations?",
             "options": [
-                {"id": "a", "text": "Western Coalfields Limited (WCL)"},
-                {"id": "b", "text": "State Bank of India"},
-                {"id": "c", "text": "Indian Air Force"},
-                {"id": "d", "text": "Smart City Jaipur"}
+                {
+                    "id": "a",
+                    "text": "Western Coalfields Limited (WCL)"
+                },
+                {
+                    "id": "b",
+                    "text": "Indian Air Force"
+                },
+                {
+                    "id": "c",
+                    "text": "State Bank of India"
+                },
+                {
+                    "id": "d",
+                    "text": "Smart City Jaipur"
+                }
             ],
             "correctAnswer": "a"
         },
@@ -929,65 +1937,137 @@
             "id": "w6q85",
             "text": "What percentage of subsidy disbursed for USOF is shared by BSNL according to the chart in the sources?",
             "options": [
-                {"id": "a", "text": "50%"},
-                {"id": "b", "text": "16.52%"},
-                {"id": "c", "text": "74.35%"},
-                {"id": "d", "text": "99%"}
+                {
+                    "id": "a",
+                    "text": "99%"
+                },
+                {
+                    "id": "b",
+                    "text": "50%"
+                },
+                {
+                    "id": "c",
+                    "text": "16.52%"
+                },
+                {
+                    "id": "d",
+                    "text": "74.35%"
+                }
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q86",
             "text": "What is the roll-out period for the additional 156 Mobile Towers in LWE affected areas?",
             "options": [
-                {"id": "a", "text": "2018-2023"},
-                {"id": "b", "text": "21.06.2017"},
-                {"id": "c", "text": "End of 2022"},
-                {"id": "d", "text": "One year from signing"}
+                {
+                    "id": "a",
+                    "text": "One year from signing"
+                },
+                {
+                    "id": "b",
+                    "text": "End of 2022"
+                },
+                {
+                    "id": "c",
+                    "text": "2018-2023"
+                },
+                {
+                    "id": "d",
+                    "text": "21.06.2017"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q87",
             "text": "In the NOFN three-phase implementation, what is targeted to be completed by March 2017?",
             "options": [
-                {"id": "a", "text": "Phase-I (1,00,000 GPs)"},
-                {"id": "b", "text": "Phase-II"},
-                {"id": "c", "text": "Phase-III"},
-                {"id": "d", "text": "The entire project"}
+                {
+                    "id": "a",
+                    "text": "The entire project"
+                },
+                {
+                    "id": "b",
+                    "text": "Phase-III"
+                },
+                {
+                    "id": "c",
+                    "text": "Phase-I (1,00,000 GPs)"
+                },
+                {
+                    "id": "d",
+                    "text": "Phase-II, ensuring compatibility with standard telecom protocols."
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q88",
             "text": "What is the primary objective of the Network For Spectrum (NFS) project?",
             "options": [
-                {"id": "a", "text": "Public Wi-Fi rollout"},
-                {"id": "b", "text": "Communication network for Defence Forces"},
-                {"id": "c", "text": "Replacing all 2G towers"},
-                {"id": "d", "text": "Laying fiber for homes"}
+                {
+                    "id": "a",
+                    "text": "Communication network for Defence Forces"
+                },
+                {
+                    "id": "b",
+                    "text": "Replacing all 2G towers"
+                },
+                {
+                    "id": "c",
+                    "text": "Public Wi-Fi rollout"
+                },
+                {
+                    "id": "d",
+                    "text": "Laying fiber for homes"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q89",
             "text": "Which campaign ensures government services are made available to citizens electronically via improved infrastructure?",
             "options": [
-                {"id": "a", "text": "BharatNet"},
-                {"id": "b", "text": "Digital India"},
-                {"id": "c", "text": "Skill India"},
-                {"id": "d", "text": "NKN"}
+                {
+                    "id": "a",
+                    "text": "Skill India"
+                },
+                {
+                    "id": "b",
+                    "text": "NKN, ensuring compatibility with standard telecom protocols."
+                },
+                {
+                    "id": "c",
+                    "text": "BharatNet"
+                },
+                {
+                    "id": "d",
+                    "text": "Digital India"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q90",
             "text": "The NKN design supports which internet protocol version for transport and networking?",
             "options": [
-                {"id": "a", "text": "IPv4 only"},
-                {"id": "b", "text": "IPv6 only"},
-                {"id": "c", "text": "Both IPv4 and IPv6"},
-                {"id": "d", "text": "IPv10"}
+                {
+                    "id": "a",
+                    "text": "IPv6 only"
+                },
+                {
+                    "id": "b",
+                    "text": "IPv4 only"
+                },
+                {
+                    "id": "c",
+                    "text": "Both IPv4 and IPv6"
+                },
+                {
+                    "id": "d",
+                    "text": "IPv10, within the current network framework."
+                }
             ],
             "correctAnswer": "c"
         },
@@ -995,54 +2075,114 @@
             "id": "w6q91",
             "text": "How long does it take for automated provisioning of virtual servers in BSNL's Public Compute-as-a-Service?",
             "options": [
-                {"id": "a", "text": "Under 2 minutes"},
-                {"id": "b", "text": "Less than 5 minutes"},
-                {"id": "c", "text": "24 hours"},
-                {"id": "d", "text": "1 hour"}
+                {
+                    "id": "a",
+                    "text": "Less than 5 minutes"
+                },
+                {
+                    "id": "b",
+                    "text": "1 hour, following the established operational guidelines."
+                },
+                {
+                    "id": "c",
+                    "text": "24 hours"
+                },
+                {
+                    "id": "d",
+                    "text": "Under 2 minutes"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q92",
             "text": "In the PERT network diagram, what does a 'node' signify?",
             "options": [
-                {"id": "a", "text": "The task itself"},
-                {"id": "b", "text": "The completion milestone"},
-                {"id": "c", "text": "The critical path"},
-                {"id": "d", "text": "A redundant activity"}
+                {
+                    "id": "a",
+                    "text": "The task itself"
+                },
+                {
+                    "id": "b",
+                    "text": "The critical path"
+                },
+                {
+                    "id": "c",
+                    "text": "The completion milestone"
+                },
+                {
+                    "id": "d",
+                    "text": "A redundant activity"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q93",
             "text": "In SD-WAN, private IP addresses are assigned from range defined in which RFC?",
             "options": [
-                {"id": "a", "text": "RFC 1918"},
-                {"id": "b", "text": "RFC 2544"},
-                {"id": "c", "text": "RFC 791"},
-                {"id": "d", "text": "RFC 802"}
+                {
+                    "id": "a",
+                    "text": "RFC 2544"
+                },
+                {
+                    "id": "b",
+                    "text": "RFC 1918"
+                },
+                {
+                    "id": "c",
+                    "text": "RFC 791"
+                },
+                {
+                    "id": "d",
+                    "text": "RFC 802"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "w6q94",
             "text": "The 'SD-WAN Management System' relates to the Enterprise NOC via what pathways?",
             "options": [
-                {"id": "a", "text": "OFC cable"},
-                {"id": "b", "text": "API pathways"},
-                {"id": "c", "text": "Satellite radio"},
-                {"id": "d", "text": "Telephone wires"}
+                {
+                    "id": "a",
+                    "text": "API pathways"
+                },
+                {
+                    "id": "b",
+                    "text": "Satellite radio"
+                },
+                {
+                    "id": "c",
+                    "text": "OFC cable"
+                },
+                {
+                    "id": "d",
+                    "text": "Telephone wires"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q95",
             "text": "Which kind of SD-WAN API data includes the 'health of sessions or connection relationships'?",
             "options": [
-                {"id": "a", "text": "Management data"},
-                {"id": "b", "text": "Routing table data"},
-                {"id": "c", "text": "Logical naming data"},
-                {"id": "d", "text": "Policy data"}
+                {
+                    "id": "a",
+                    "text": "Management data"
+                },
+                {
+                    "id": "b",
+                    "text": "Logical naming data"
+                },
+                {
+                    "id": "c",
+                    "text": "Routing table data"
+                },
+                {
+                    "id": "d",
+                    "text": "Policy data"
+                }
             ],
             "correctAnswer": "a"
         },
@@ -1050,56 +2190,116 @@
             "id": "w6q96",
             "text": "Which project aims to establish nearly 60,000 Km OFC spanning the whole country for Defence?",
             "options": [
-                {"id": "a", "text": "BharatNet"},
-                {"id": "b", "text": "NFS"},
-                {"id": "c", "text": "CANI"},
-                {"id": "d", "text": "NOFN"}
+                {
+                    "id": "a",
+                    "text": "NFS"
+                },
+                {
+                    "id": "b",
+                    "text": "NOFN"
+                },
+                {
+                    "id": "c",
+                    "text": "CANI"
+                },
+                {
+                    "id": "d",
+                    "text": "BharatNet"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q97",
             "text": "In BSNL, what does a 'Progress Report' provide?",
             "options": [
-                {"id": "a", "text": "A bar graph for outside groups"},
-                {"id": "b", "text": "Snapshots on a given topic to facilitate transparency (e.g. how numbers are generating now)"},
-                {"id": "c", "text": "A comparison between two different years"},
-                {"id": "d", "text": "Detailed root cause analysis"}
+                {
+                    "id": "a",
+                    "text": "Snapshots on a given topic to facilitate transparency (e.g. how numbers are generating now)"
+                },
+                {
+                    "id": "b",
+                    "text": "A bar graph for outside groups"
+                },
+                {
+                    "id": "c",
+                    "text": "A comparison between two different years"
+                },
+                {
+                    "id": "d",
+                    "text": "Detailed root cause analysis, as outlined in the technical specifications."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "w6q98",
             "text": "What refers to the actions users can take backed by trends and patterns identified in visualizations?",
             "options": [
-                {"id": "a", "text": "Heuristics"},
-                {"id": "b", "text": "Data-driven decisions"},
-                {"id": "c", "text": "Intuitive guessing"},
-                {"id": "d", "text": "Analytical snapshots"}
+                {
+                    "id": "a",
+                    "text": "Analytical snapshots"
+                },
+                {
+                    "id": "b",
+                    "text": "Intuitive guessing"
+                },
+                {
+                    "id": "c",
+                    "text": "Data-driven decisions"
+                },
+                {
+                    "id": "d",
+                    "text": "Heuristics, consistent with standard hardware configurations."
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "w6q99",
             "text": "What is 'Ad-Hoc reporting'?",
             "options": [
-                {"id": "a", "text": "Annual financial statements"},
-                {"id": "b", "text": "A one-off report generated for a specific query"},
-                {"id": "c", "text": "Publicly shared bar graphs"},
-                {"id": "d", "text": "A standard weekly update"}
+                {
+                    "id": "a",
+                    "text": "Annual financial statements"
+                },
+                {
+                    "id": "b",
+                    "text": "A standard weekly update"
+                },
+                {
+                    "id": "c",
+                    "text": "Publicly shared bar graphs"
+                },
+                {
+                    "id": "d",
+                    "text": "A one-off report generated for a specific query"
+                }
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "d"
         },
         {
             "id": "w6q100",
             "text": "What factor is anticipated to play a critical role in offering architectural flexibility and growth to the telecom enterprise market?",
             "options": [
-                {"id": "a", "text": "Advancements in cloud technology"},
-                {"id": "b", "text": "Lowering interest rates"},
-                {"id": "c", "text": "Using older copper infrastructure"},
-                {"id": "d", "text": "Reduction in data centers"}
+                {
+                    "id": "a",
+                    "text": "Lowering interest rates"
+                },
+                {
+                    "id": "b",
+                    "text": "Advancements in cloud technology"
+                },
+                {
+                    "id": "c",
+                    "text": "Using older copper infrastructure"
+                },
+                {
+                    "id": "d",
+                    "text": "Reduction in data centers"
+                }
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         }
     ]
 }
