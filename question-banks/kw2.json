@@ -292,7 +292,7 @@
                 {"id": "c", "text": "Same"},
                 {"id": "d", "text": "Moderate"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "b"
         },
         {
             "id": "q2_44",
