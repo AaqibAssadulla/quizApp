@@ -1,27 +1,555 @@
 {
-    "title": "History",
+    "title": "Telecommunications Standards and Architecture",
     "questions": [
         {
-            "id": "his1",
-            "text": "In which year did World War II end?",
+            "id": "std1",
+            "text": "Which ITU-T recommendation is commonly referred to as the 'Digital Wrapper' in optical networking?",
             "options": [
-                {"id": "a", "text": "1943"},
-                {"id": "b", "text": "1945"},
-                {"id": "c", "text": "1950"},
-                {"id": "d", "text": "1939"}
+                {"id": "a", "text": "G.707"},
+                {"id": "b", "text": "G.709"},
+                {"id": "c", "text": "G.984"},
+                {"id": "d", "text": "G.872"}
             ],
             "correctAnswer": "b"
         },
         {
-            "id": "his2",
-            "text": "Who was the first President of the United States?",
+            "id": "std2",
+            "text": "What is the standardized bit rate for an OTU2 signal as defined in G.709?",
             "options": [
-                {"id": "a", "text": "Thomas Jefferson"},
-                {"id": "b", "text": "George Washington"},
-                {"id": "c", "text": "Abraham Lincoln"},
-                {"id": "d", "text": "John Adams"}
+                {"id": "a", "text": "2.666 Gbps"},
+                {"id": "b", "text": "43.018 Gbps"},
+                {"id": "c", "text": "10.709 Gbps"},
+                {"id": "d", "text": "111.809 Gbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std3",
+            "text": "Which bit rate corresponds to the OTU4 line signal in the OTN hierarchy?",
+            "options": [
+                {"id": "a", "text": "10.7 Gbps"},
+                {"id": "b", "text": "40.0 Gbps"},
+                {"id": "c", "text": "111.8 Gbps"},
+                {"id": "d": "100.0 Gbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std4",
+            "text": "The use of Forward Error Correction (FEC) in OTN systems can theoretically improve the Signal-to-Noise Ratio (SNR) by how much?",
+            "options": [
+                {"id": "a", "text": "2.8 dB"},
+                {"id": "b", "text": "5.2 dB"},
+                {"id": "c", "text": "6.2 dB"},
+                {"id": "d", "text": "4.6 dB"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std5",
+            "text": "How many rows are contained within a standard G.709 OTN frame structure?",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "9"},
+                {"id": "c", "text": "16"},
+                {"id": "d", "text": "8"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "std6",
+            "text": "What is the total number of columns in a standard OTN frame?",
+            "options": [
+                {"id": "a", "text": "270"},
+                {"id": "b", "text": "3824"},
+                {"id": "c", "text": "4080"},
+                {"id": "d", "text": "2332"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std7",
+            "text": "According to the ITU-T G.984 GPON standard, what is the nominal downstream data rate?",
+            "options": [
+                {"id": "a", "text": "1.244 Gbps"},
+                {"id": "b", "text": "1.250 Gbps"},
+                {"id": "c", "text": "2.488 Gbps"},
+                {"id": "d", "text": "10.000 Gbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std8",
+            "text": "What is the standardized upstream data rate for GPON systems used by BSNL?",
+            "options": [
+                {"id": "a", "text": "155 Mbps"},
+                {"id": "b", "text": "622 Mbps"},
+                {"id": "c", "text": "1.244 Gbps"},
+                {"id": "d", "text": "2.488 Gbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std9",
+            "text": "Which wavelength is used for downstream data and VoIP transmission in a GPON network?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1610 nm"}
             ],
             "correctAnswer": "b"
+        },
+        {
+            "id": "std10",
+            "text": "In a GPON architecture, which wavelength is dedicated for upstream traffic from the subscriber to the Central Office?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1270 nm"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "std11",
+            "text": "Which wavelength is utilized for providing CATV or Video overlay services in a GPON system?",
+            "options": [
+                {"id": "a", "text": "1310 nm"},
+                {"id": "b", "text": "1490 nm"},
+                {"id": "c", "text": "1550 nm"},
+                {"id": "d", "text": "1510 nm"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std12",
+            "text": "Which IEEE 802.11 standard was the first to reach the marketplace, operating at 2.4 GHz with an 11 Mbps speed?",
+            "options": [
+                {"id": "a", "text": "802.11a"},
+                {"id": "b", "text": "802.11b"},
+                {"id": "c", "text": "802.11g"},
+                {"id": "d", "text": "802.11n"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std13",
+            "text": "What is the maximum data rate supported by the IEEE 802.11a standard?",
+            "options": [
+                {"id": "a", "text": "11 Mbps"},
+                {"id": "b", "text": "54 Mbps"},
+                {"id": "c", "text": "200 Mbps"},
+                {"id": "d", "text": "450 Mbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std14",
+            "text": "The IEEE 802.11g standard combines the speed of 802.11a with the cost advantage of 802.11b by operating on which frequency?",
+            "options": [
+                {"id": "a", "text": "5 GHz"},
+                {"id": "b", "text": "2.4 GHz"},
+                {"id": "c", "text": "900 MHz"},
+                {"id": "d", "text": "60 GHz"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std15",
+            "text": "Which Wi-Fi standard relies heavily on Multiple-Input Multiple-Output (MIMO) technology to increase range and throughput?",
+            "options": [
+                {"id": "a", "text": "802.11b"},
+                {"id": "b", "text": "802.11g"},
+                {"id": "c", "text": "802.11n"},
+                {"id": "d", "text": "802.11a"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std16",
+            "text": "Which IEEE standard is often referred to as 'Gigabit Wi-Fi' or '5G Wi-Fi' due to its potential to exceed 1 Gbps across multiple streams?",
+            "options": [
+                {"id": "a", "text": "802.11n"},
+                {"id": "b", "text": "802.11ac"},
+                {"id": "c", "text": "802.11g"},
+                {"id": "d", "text": "802.11ax"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std17",
+            "text": "All Wi-Fi networks coordinate access to shared radio channels using which specific algorithm?",
+            "options": [
+                {"id": "a", "text": "CSMA/CD"},
+                {"id": "b", "text": "CSMA/CA"},
+                {"id": "c", "text": "TDMA"},
+                {"id": "d", "text": "FDMA"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std18",
+            "text": "What is the primary duplex mode for all IEEE 802.11 standard wireless networks?",
+            "options": [
+                {"id": "a", "text": "Full Duplex"},
+                {"id": "b", "text": "Half Duplex"},
+                {"id": "c", "text": "Simplex"},
+                {"id": "d", "text": "TDM Duplex"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std19",
+            "text": "A Tier 3 data center cluster, such as BSNL's, guarantees what percentage of annual power availability?",
+            "options": [
+                {"id": "a", "text": "99.671%"},
+                {"id": "b", "text": "99.741%"},
+                {"id": "c", "text": "99.982%"},
+                {"id": "d", "text": "99.995%"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std20",
+            "text": "According to TIA-942, a Tier 4 data center is characterized as being:",
+            "options": [
+                {"id": "a", "text": "Concurrently maintainable"},
+                {"id": "b", "text": "Fault-tolerant"},
+                {"id": "c", "text": "Redundant-component based"},
+                {"id": "d", "text": "Basic site infrastructure"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std21",
+            "text": "The ISO 27001 certification specifically validates which management system within an organization?",
+            "options": [
+                {"id": "a", "text": "Quality Management (QMS)"},
+                {"id": "b", "text": "Information Security (ISMS)"},
+                {"id": "c", "text": "IT Service Management (ITSM)"},
+                {"id": "d", "text": "Environmental Management (EMS)"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std22",
+            "text": "Which ISO standard is the global benchmark for Quality Management Systems (QMS)?",
+            "options": [
+                {"id": "a", "text": "ISO 27001"},
+                {"id": "b", "text": "ISO 14001"},
+                {"id": "c", "text": "ISO 9001"},
+                {"id": "d", "text": "ISO 20000"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std23",
+            "text": "ISO/IEC 20000-1 is used to certify which aspect of a telecommunications provider's operations?",
+            "options": [
+                {"id": "a", "text": "Infrastructure security"},
+                {"id": "b", "text": "Billing accuracy"},
+                {"id": "c", "text": "IT Service Management"},
+                {"id": "d", "text": "Hardware fabrication"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std24",
+            "text": "Under the IEEE 802.1Q standard, how many usable VLANs can be defined on an Ethernet network?",
+            "options": [
+                {"id": "a", "text": "1024"},
+                {"id": "b", "text": "2048"},
+                {"id": "c", "text": "4094"},
+                {"id": "d", "text": "8192"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std25",
+            "text": "The mechanism of 'VLAN Stacking' or encapsulating a private VLAN tag within a public one is defined in which IEEE standard?",
+            "options": [
+                {"id": "a", "text": "802.1Q"},
+                {"id": "b", "text": "802.3ah"},
+                {"id": "c", "text": "802.1ad"},
+                {"id": "d", "text": "802.1ag"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std26",
+            "text": "In the SDH hierarchy, what is the base bit rate for a Synchronous Transport Module level-1 (STM-1)?",
+            "options": [
+                {"id": "a", "text": "34.368 Mbps"},
+                {"id": "b", "text": "155.52 Mbps"},
+                {"id": "c", "text": "622.08 Mbps"},
+                {"id": "d", "text": "2.488 Gbps"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std27",
+            "text": "An STM-16 signal in the SDH hierarchy corresponds to a bit rate of approximately:",
+            "options": [
+                {"id": "a", "text": "155 Mbps"},
+                {"id": "b", "text": "622 Mbps"},
+                {"id": "c", "text": "2.5 Gbps"},
+                {"id": "d", "text": "10 Gbps"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std28",
+            "text": "What is the duration of a single SDH frame (STM-N)?",
+            "options": [
+                {"id": "a", "text": "48.97 microseconds"},
+                {"id": "b", "text": "125 microseconds"},
+                {"id": "c", "text": "250 microseconds"},
+                {"id": "d", "text": "1 millisecond"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std29",
+            "text": "The STM-1 frame structure is represented by a matrix of how many rows?",
+            "options": [
+                {"id": "a", "text": "4"},
+                {"id": "b", "text": "9"},
+                {"id": "c", "text": "270"},
+                {"id": "d", "text": "16"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std30",
+            "text": "How many columns of bytes comprise an STM-1 frame?",
+            "options": [
+                {"id": "a", "text": "270"},
+                {"id": "b": "4080"},
+                {"id": "c", "text": "9"},
+                {"id": "d", "text": "155"}
+            ],
+            "correctAnswer": "a"
+        },
+        {
+            "id": "std31",
+            "text": "Which ITU-T standard defines the Generic Framing Procedure (GFP) for encapsulating traffic onto SONET/SDH networks?",
+            "options": [
+                {"id": "a", "text": "G.7042"},
+                {"id": "b", "text": "G.709"},
+                {"id": "c", "text": "G.7041"},
+                {"id": "d", "text": "G.707"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std32",
+            "text": "The Link Capacity Adjustment Scheme (LCAS), which enables 'bandwidth on demand,' is defined in which standard?",
+            "options": [
+                {"id": "a", "text": "ITU-T G.7041"},
+                {"id": "b", "text": "ITU-T G.7042"},
+                {"id": "c", "text": "ITU-T G.984"},
+                {"id": "d", "text": "IEEE 802.3ah"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std33",
+            "text": "Which technology allows for the grouping of individual virtual containers into a larger link with flexible bandwidth granularity?",
+            "options": [
+                {"id": "a", "text": "GFP"},
+                {"id": "b", "text": "LCAS"},
+                {"id": "c", "text": "VCAT"},
+                {"id": "d", "text": "MIMO"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std34",
+            "text": "The development of MPLS Transport Profile (MPLS-TP) is a joint effort between the ITU-T and which other organization?",
+            "options": [
+                {"id": "a", "text": "IEEE"},
+                {"id": "b", "text": "ISO"},
+                {"id": "c", "text": "IETF"},
+                {"id": "d", "text": "MEF"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std35",
+            "text": "Which IEEE standard is associated with 'Ethernet in the First Mile' (EFM)?",
+            "options": [
+                {"id": "a", "text": "802.1Q"},
+                {"id": "b", "text": "802.3ah"},
+                {"id": "c", "text": "802.1ad"},
+                {"id": "d", "text": "802.11ac"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std36",
+            "text": "Which OTN interface connects networks of two different operators or multiple vendors in the same operator domain?",
+            "options": [
+                {"id": "a", "text": "IaDI"},
+                {"id": "b", "text": "IrDI"},
+                {"id": "c", "text": "UNI"},
+                {"id": "d", "text": "NNI"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std37",
+            "text": "In the OTN architecture, which interface is used strictly within one operator and vendor domain?",
+            "options": [
+                {"id": "a", "text": "IrDI"},
+                {"id": "b", "text": "IaDI"},
+                {"id": "c", "text": "XFP"},
+                {"id": "d", "text": "SFP"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std38",
+            "text": "Which GFP mechanism is optimized for data packet protocols like Ethernet and MPLS by using variable sized frames?",
+            "options": [
+                {"id": "a", "text": "GFP-T"},
+                {"id": "b", "text": "GFP-F"},
+                {"id": "c", "text": "GFP-S"},
+                {"id": "d", "text": "GFP-V"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std39",
+            "text": "Which block-code-oriented GFP mechanism is better suited for delay-sensitive services like VoIP and Storage Area Networks?",
+            "options": [
+                {"id": "a", "text": "GFP-F"},
+                {"id": "b", "text": "GFP-T"},
+                {"id": "c", "text": "GFP-C"},
+                {"id": "d", "text": "GFP-A"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std40",
+            "text": "The mission to accelerate worldwide adoption of Carrier-class Ethernet networks and services belongs to which forum?",
+            "options": [
+                {"id": "a", "text": "Broadband Forum"},
+                {"id": "b", "text": "MEF"},
+                {"id": "c", "text": "IEEE"},
+                {"id": "d", "text": "ETSI"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std41",
+            "text": "The VLAN identifier (VID) field in an IEEE 802.1Q header consists of how many bits?",
+            "options": [
+                {"id": "a", "text": "8 bits"},
+                {"id": "b", "text": "10 bits"},
+                {"id": "c", "text": "12 bits"},
+                {"id": "d", "text": "16 bits"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std42",
+            "text": "To simplify the network for transport applications, which MPLS feature is typically disabled in MPLS-TP?",
+            "options": [
+                {"id": "a", "text": "LSP Creation"},
+                {"id": "b", "text": "Penultimate Hop Popping (PHP)"},
+                {"id": "c", "text": "OAM functions"},
+                {"id": "d", "text": "Label distribution"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std43",
+            "text": "In MPLS-TP, which feature is disabled because it is in conflict with the concept of a deterministic circuit path?",
+            "options": [
+                {"id": "a", "text": "Bi-directional LSPs"},
+                {"id": "b", "text": "Equal Cost Multi Path (ECMP)"},
+                {"id": "c", "text": "Static provisioning"},
+                {"id": "d", "text": "QoS differentiation"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std44",
+            "text": "Which BSNL application is used to fetch live details of FTTH and Broadband customers using a mobile device?",
+            "options": [
+                {"id": "a", "text": "PRABAL PLUS"},
+                {"id": "b", "text": "TEEVRA"},
+                {"id": "c", "text": "VMS Portal"},
+                {"id": "d", "text": "CDR Portal"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std45",
+            "text": "The measure of BSNL's last mile fiber reach based on migrant BB connections and FTTH targets is known as:",
+            "options": [
+                {"id": "a", "text": "BER"},
+                {"id": "b", "text": "SNR"},
+                {"id": "c", "text": "GRI"},
+                {"id": "d", "text": "KPI"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std46",
+            "text": "In the OTN frame structure, how many columns are dedicated to the Payload area?",
+            "options": [
+                {"id": "a", "text": "16"},
+                {"id": "b", "text": "3808"},
+                {"id": "c", "text": "4080"},
+                {"id": "d", "text": "256"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std47",
+            "text": "Which OTN overhead component is responsible for Section Monitoring (SM)?",
+            "options": [
+                {"id": "a", "text": "OPU"},
+                {"id": "b", "text": "ODU"},
+                {"id": "c", "text": "OTU"},
+                {"id": "d", "text": "FAS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std48",
+            "text": "Which OTN digital layer provides Path Monitoring (PM) and six levels of Tandem Connection Monitoring (TCM)?",
+            "options": [
+                {"id": "a", "text": "OTU"},
+                {"id": "b", "text": "OPU"},
+                {"id": "c", "text": "ODU"},
+                {"id": "d", "text": "OMS"}
+            ],
+            "correctAnswer": "c"
+        },
+        {
+            "id": "std49",
+            "text": "Under TIA-942, a Tier 2 data center guarantees what percentage of annual site infrastructure availability?",
+            "options": [
+                {"id": "a", "text": "99.671%"},
+                {"id": "b", "text": "99.741%"},
+                {"id": "c", "text": "99.982%"},
+                {"id": "d", "text": "99.995%"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "std50",
+            "text": "The primary purpose of the Automatically Switched Optical Network (ASON) is to facilitate:",
+            "options": [
+                {"id": "a", "text": "Physical fiber repair"},
+                {"id": "b", "text": "Manual route planning"},
+                {"id": "c", "text": "Dynamic policy-driven control"},
+                {"id": "d", "text": "TDM-only aggregation"}
+            ],
+            "correctAnswer": "c"
         }
     ]
 }
