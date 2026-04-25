@@ -659,7 +659,7 @@
                 {"id": "c", "text": "Private Ethernet Domain"},
                 {"id": "d", "text": "Priority Exchange Data"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "q61",
