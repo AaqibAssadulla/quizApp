@@ -1,0 +1,27 @@
+{
+    "title": "History",
+    "questions": [
+        {
+            "id": "his1",
+            "text": "In which year did World War II end?",
+            "options": [
+                {"id": "a", "text": "1943"},
+                {"id": "b", "text": "1945"},
+                {"id": "c", "text": "1950"},
+                {"id": "d", "text": "1939"}
+            ],
+            "correctAnswer": "b"
+        },
+        {
+            "id": "his2",
+            "text": "Who was the first President of the United States?",
+            "options": [
+                {"id": "a", "text": "Thomas Jefferson"},
+                {"id": "b", "text": "George Washington"},
+                {"id": "c", "text": "Abraham Lincoln"},
+                {"id": "d", "text": "John Adams"}
+            ],
+            "correctAnswer": "b"
+        }
+    ]
+}
