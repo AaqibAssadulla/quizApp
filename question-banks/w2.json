@@ -670,7 +670,7 @@
                 {"id": "c", "text": "Both"},
                 {"id": "d", "text": "None"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "c"
         },
         {
             "id": "q62",
