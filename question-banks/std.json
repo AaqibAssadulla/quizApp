@@ -29,8 +29,8 @@
             "options": [
                 {"id": "a", "text": "10.7 Gbps"},
                 {"id": "b", "text": "40.0 Gbps"},
-                {"id": "c", "text": "111.8 Gbps"},
-                {"id": "d", "text":  "100.0 Gbps"}
+                {"id": "c", "text": "111.8 Gbps"},                
+                {"id": "d", "text": "100.0 Gbps"}
             ],
             "correctAnswer": "c"
         },
