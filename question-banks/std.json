@@ -325,7 +325,7 @@
             "text": "How many columns of bytes comprise an STM-1 frame?",
             "options": [
                 {"id": "a", "text": "270"},
-                {"id": "b": "4080"},
+                {"id": "b",  "text": "4080"},
                 {"id": "c", "text": "9"},
                 {"id": "d", "text": "155"}
             ],
