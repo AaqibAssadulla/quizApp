@@ -71,10 +71,10 @@
             "id": "q2_18",
             "text": "Full form of EFM is:",
             "options": [
-                {"id": "a", "text": "Ethernet in the last make"},
-                {"id": "b", "text": "Ethernet in the last mile"},
-                {"id": "c", "text": "Ethernet in the latest mile"},
-                {"id": "d", "text": "Internet in the last mile"}
+                {"id": "a", "text": "Ethernet in the first make"},
+                {"id": "b", "text": "Ethernet in the first mile"},
+                {"id": "c", "text": "Ethernet in the fastest mile"},
+                {"id": "d", "text": "Internet in the first mile"}
             ],
             "correctAnswer": "b"
         },
@@ -292,7 +292,7 @@
                 {"id": "c", "text": "Same"},
                 {"id": "d", "text": "Moderate"}
             ],
-            "correctAnswer": "b"
+            "correctAnswer": "a"
         },
         {
             "id": "q2_44",
