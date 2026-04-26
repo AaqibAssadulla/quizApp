@@ -311,14 +311,14 @@
         },
         {
             "id": "q29",
-            "text": "In the IoT business model, which player typically operates the network and platform while allowing others to operate the device?",
+            "text": "In which IoT business model, One player operates the network and platform while allowing another to operate the device?",
             "options": [
-                {"id": "a", "text": "Player A (Telecom Operator)"},
-                {"id": "b", "text": "Player B (Service Provider)"},
-                {"id": "c", "text": "Player C (Enterprise Customer)"},
-                {"id": "d", "text": "Platform Provider exclusively"}
+                {"id": "a", "text": "Model 1"},
+                {"id": "b", "text": "Model 2"},
+                {"id": "c", "text": "Model 3"},
+                {"id": "d", "text": "Model 4"}
             ],
-            "correctAnswer": "a"
+            "correctAnswer": "c"
         },
         {
             "id": "q30",
