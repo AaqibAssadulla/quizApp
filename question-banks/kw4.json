@@ -65,7 +65,7 @@
                 {"id": "c", "text": "Both depending on client payload type"},
                 {"id": "d", "text": "None"}
             ],
-            "correctAnswer": "c"
+            "correctAnswer": "b"
         },
         {
             "id": "q7",
