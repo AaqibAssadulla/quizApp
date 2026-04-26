@@ -656,7 +656,7 @@
             "options": [
                 {"id": "a", "text": "Local Area Gateway"},
                 {"id": "b", "text": "Line Access Group"},
-                {"id": "c", "text": "Not explicitly defined (but used for subscriber types)"},
+                {"id": "c", "text": "Line Access Gateway"},
                 {"id": "d", "text": "Local Address Group"}
             ],
             "correctAnswer": "c"
