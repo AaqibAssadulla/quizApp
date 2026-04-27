@@ -159,8 +159,8 @@
             "id": "q15",
             "text": "BSNL is willing to offer an SLA of ______uptime.",
             "options": [
-                {"id": "a", "text": "99.5%"},
-                {"id": "b", "text": "99%"},
+                {"id": "a", "text": "99%"},
+                {"id": "b", "text": "99.5%"},
                 {"id": "c", "text": "96.23%"},
                 {"id": "d", "text": "none"}
             ],
