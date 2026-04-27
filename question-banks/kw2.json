@@ -3,7 +3,7 @@
     "questions": [
         {
             "id": "q2_1",
-            "text": "How many B channels (Speech Channels) are there in PRA?",
+            "text": "How many B channels (Speech Channels) are there in PRI?",
             "options": [
                 {"id": "a", "text": "30"},
                 {"id": "b", "text": "16"},
